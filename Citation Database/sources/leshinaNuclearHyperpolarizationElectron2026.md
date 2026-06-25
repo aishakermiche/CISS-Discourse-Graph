@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "leshinaNuclearHyperpolarizationElectron2026"
+title: "Nuclear hyperpolarization in electron transfer in chiral systems"
+volume: "28"
+issn: "1463-9076, 1463-9084"
+url: "https://xlink.rsc.org/?DOI=D5CP04974A"
+doi: "10.1039/D5CP04974A"
+abstract: "Recent research raises a question: is nuclear spin selectivity a consequence of spin selectivity of electron spin? , Electron transfer ({ET}) is an elementary chemical process that has been widely studied due to its involvement in many chemical, biological and physical processes. Currently, special attention is paid to {ET} due to the use of electron spins as qubits in spintronics and quantum information science. The phenomenon of chiral-induced electron spin selectivity ({CISS}) in the {ET} process opens a new way to control the dynamics of electron spins. However, the physical mechanisms of the influence of chiral centers on the process of electron movement through them have not yet been established. Photoinduced {ET} ({PET}) in chiral donor–acceptor dyads is recommended as a model for studying this mechanism. At the same time, a difference in the effects of chemically induced dynamic nuclear polarization was discovered in {PET} in chiral dyads with different optical orientations in solutions. This phenomenon is called nuclear spin selectivity ({NSS}). This article is a review of our work on {NSS}, in which we show that the spin selectivity of nuclear hyperpolarization is not fully described by the theory of radical pairs. A hypothesis is also put forward about a possible connection between the spin selectivity of electrons and nuclei."
+pages: "5043--5054"
+number: "8"
+journaltitle: "Physical Chemistry Chemical Physics"
+shortjournal: "Phys. Chem. Chem. Phys."
+author: "Leshina, Tatyana V. and Polyakov, Nikolay E. and Magin, Ilya M. and Salikhov, Kev M."
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

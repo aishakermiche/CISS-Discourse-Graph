@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "kurzbachAssessingSolutionShape2011"
+title: "Assessing the Solution Shape and Size of Charged Dendronized Polymers Using Double Electron−Electron Resonance"
+volume: "2"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/jz200653k"
+doi: "10.1021/jz200653k"
+pages: "1583--1587"
+number: "13"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Kurzbach, Dennis and Kattnig, Daniel R. and Zhang, Baozhong and Schlüter, A. Dieter and Hinderberger, Dariush"
+urldate: "2026-06-24"
+date: "2011-07-07"
+langid: "english"
+---

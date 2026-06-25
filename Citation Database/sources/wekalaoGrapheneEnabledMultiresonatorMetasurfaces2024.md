@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wekalaoGrapheneEnabledMultiresonatorMetasurfaces2024"
+title: "Graphene-Enabled Multiresonator Metasurfaces for Ultrasensitive Surface Plasmon Resonance Detection of Waterborne Bacteria Across Multiple Frequencies with Machine Learning Optimization"
+volume: "20"
+issn: "1557-1963"
+url: "https://link.springer.com/10.1007/s11468-024-02645-2"
+doi: "10.1007/s11468-024-02645-2"
+pages: "4679--4700"
+number: "7"
+journaltitle: "Plasmonics"
+shortjournal: "Plasmonics"
+author: "Wekalao, Jacob and Patel, Shobhit K. and Balamurugan, A. M. and Al-Zahrani, Fahad Ahmed"
+urldate: "2026-06-24"
+date: "2024-11-21"
+langid: "english"
+---

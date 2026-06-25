@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "yeSpinMagnetismNew2026"
+title: "Spin and magnetism: A new dimension in surface electrocatalysis"
+volume: "58"
+issn: "24519103"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2451910326000797"
+doi: "10.1016/j.coelec.2026.101888"
+shorttitle: "Spin and magnetism"
+pages: "101888"
+journaltitle: "Current Opinion in Electrochemistry"
+shortjournal: "Current Opinion in Electrochemistry"
+author: "Ye, Yike and Xu, Zhichuan J."
+urldate: "2026-06-24"
+date: "2026-08"
+langid: "english"
+---

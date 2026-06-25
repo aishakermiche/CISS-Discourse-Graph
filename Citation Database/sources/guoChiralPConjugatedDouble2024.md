@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "guoChiralPConjugatedDouble2024"
+title: "Chiral π-Conjugated Double Helical Aminyl Diradical with the Triplet Ground State"
+volume: "146"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.4c02057"
+doi: "10.1021/jacs.4c02057"
+pages: "9422--9433"
+number: "13"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Guo, Haoxin and Lovell, Joshua B. and Shu, Chan and Pink, Maren and Morton, Martha and Rajca, Suchada and Rajca, Andrzej"
+urldate: "2026-06-24"
+date: "2024-04-03"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "hanMixedQuantumclassicalApproaches2025"
+title: "Mixed quantum-classical approaches to electron transmission through chiral molecules"
+volume: "38"
+issn: "1674-0068, 2327-2244"
+url: "https://pubs.aip.org/cjcp/article/38/6/833/3377720/Mixed-quantum-classical-approaches-to-electron"
+doi: "10.1063/1674-0068/cjcp2509149"
+abstract: "The chiral-induced spin selectivity ({CISS}) effect has attracted widespread interest due to its potential applications in spintronics. However, the influence of electron–vibration coupling on spin polarization has no unified theoretical description. In this work, we revisit the widely used model proposed by Jonas Fransson [Phys. Rev. B 102, 235416 (2020)] with two mixed quantum–classical approaches, namely mean-field ({MF}) dynamics and surface hopping ({SH}). Our results show that, in the absence of electron–vibration coupling, the transient spin polarization vanishes for short molecular chains or without spin–orbit coupling ({SOC}). For longer chains and stronger {SOC}, the polarization exhibits coherent oscillations reaching up to ±100\%. When electron–vibration coupling is included, pronounced spin polarization emerges only at early femtosecond timescales, whose magnitude increases with {SOC} strength and chain length but decreases as the electron–vibration coupling grows. On picosecond timescales, the polarization decays and fluctuates narrowly around zero, yielding a negligible long-time average. These findings indicate that electron–vibration coupling generally suppresses spin polarization, in contrast to predictions in previous studies. We suggest that alternative or extended theoretical frameworks are required to elucidate the key role of electron–vibration coupling in the {CISS} effect."
+pages: "833--844"
+number: "6"
+journaltitle: "Chinese Journal of Chemical Physics"
+author: "Han, Jiayue and Wang, Yu and Dou, Wenjie"
+urldate: "2026-06-24"
+date: "2025-12-01"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ucedaDosDontsWhen2026"
+title: "Do's and Don'ts When Visiting Circularly Polarized Luminescence"
+volume: "14"
+issn: "2195-1071, 2195-1071"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202503285"
+doi: "10.1002/adom.202503285"
+abstract: "{ABSTRACT} This perspective offers our overview on the principles, challenges, and opportunities of circularly polarized luminescence ({CPL}), drawn from our complementary experience over the past decade. Rather than a comprehensive review, we aim to share insights on the often demanding yet rewarding path of {CPL} research. We first highlight key questions for newcomers, then organize selected sections by molecular structure, with emphasis on our own contributions. Central to the discussion is the dissymmetry factor ( g lum ), governed by the interplay between electric and magnetic dipole transition moments, though other descriptors are also considered. Strategies in organic and inorganic molecular design leading to enhanced {CPL} efficiency are discussed, together with a critical evaluation of potential applications, particularly in sensing. In this context, {NIR}‐emitting {CPL} fluorophores emerge as highly promising. The integration of {CPL}‐active molecules in solid‐state devices, as well as links to other chiral‐related phenomena such as chiral‐induced spin selectivity, are also addressed. Looking ahead, theoretical models and artificial intelligence are considered valuable tools to complement advanced experimental approaches, helping to overcome current limitations and to unlock new opportunities in both fundamental studies and technological applications. We conclude with our own reflections, practical advice, and perspectives for future research."
+pages: "e03285"
+number: "11"
+journaltitle: "Advanced Optical Materials"
+shortjournal: "Advanced Optical Materials"
+author: "Uceda, Rafael G. and Míguez‐Lago, Sandra and Cruz, Carlos M. and Morcillo, Sara P. and Álvarez De Cienfuegos, Luis and Blanco, Víctor and Campaña, Araceli G. and Ribagorda, Maria and Miguel, Delia and Cuerva, Juan M."
+urldate: "2026-06-24"
+date: "2026-03"
+langid: "english"
+---

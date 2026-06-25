@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dongUltrafastInverseChiralityinduced2025"
+title: "Ultrafast inverse chirality-induced spin selectivity observed by {THz} emission"
+volume: "390"
+issn: "0036-8075, 1095-9203"
+url: "https://www.science.org/doi/10.1126/science.ady4885"
+doi: "10.1126/science.ady4885"
+abstract: "Chirality-induced spin selectivity ({CISS}) phenomena arise from an interplay among structural chirality, electron spin orientation, and charge current. Steady-state observations such as magnetoresistance offer little insight into the timescales that govern the spin-charge interconversion and often conflate interfacial and bulk phenomena. By contrast, inverse {CISS} involves the conversion of spin to a charge current. Using terahertz ({THz}) emission spectroscopy, we directly measured an ultrafast charge current due to inverse {CISS} with picosecond time resolution. Polarity and polarization analysis of the {THz} emission map the induced charge current direction upon spin injection. We found that a charge current is generated along the spin orientation that changes direction with stereochemical configuration. These observations directly demonstrate the inherent coupling between spin and charge currents in chiral systems, offering key insights into their fundamental dynamics. , Editor’s summary Chirality induced spin selectivity ({CISS}) describes the effect of a chiral medium on the spin of electrons traversing it. Despite over two decades of detailed empirical observations, the mechanistic underpinnings of {CISS} remain somewhat mysterious. Dong et al . now report measurements of the ultrafast dynamics of an inverse {CISS} effect, in which terahertz emission elucidates spin-to-charge conversion in a chiral methylbenzylammonium lead iodide perovskite. The results are more consistent with a spin-polarization mechanism than with a spin-filtering mechanism. —Jake S. Yeston"
+pages: "595--600"
+number: "6773"
+journaltitle: "Science"
+shortjournal: "Science"
+author: "Dong, Yifan and {McConnell}, Aeron and Hautzinger, Matthew P. and Haque, Md Azimul and Comstock, Andrew H. and Theiler, Pius M. and Luther, Joseph M. and Sercel, Peter C. and Sun, Dali and Beard, Matthew C."
+urldate: "2026-06-24"
+date: "2025-11-06"
+langid: "english"
+---

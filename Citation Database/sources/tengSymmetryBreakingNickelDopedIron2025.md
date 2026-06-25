@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tengSymmetryBreakingNickelDopedIron2025"
+title: "Symmetry‐Breaking Nickel‐Doped Iron Oxide Nanostructured Films for Spin‐Controlled Water Oxidation"
+volume: "21"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202502222"
+doi: "10.1002/smll.202502222"
+abstract: "Abstract Symmetry‐breaking in inorganic materials can induce chirality, enabling the integration of structural robustness with the functional advantages of chirality, which holds immense potential across numerous fields. However, achieving stable intrinsic chirality in inorganic materials and optimizing their catalytic performance remains a significant challenge. Here, a series of symmetry‐breaking ironbased oxide chiral nanostructured films, synthesized via a solution‐based symmetry‐breaking approach that induces tunable intrinsic chirality are presented. These films demonstrate efficient control over spin‐related processes in the oxygen evolution reaction ({OER}), leveraging chirality‐induced spin selectivity to achieve significantly enhanced catalytic performance compared to achiral counterparts. Nickel incorporated into the chiral framework further reduces overpotentials and boosts {OER} efficiency, showcasing the synergistic effects of symmetry‐breaking and compositional tuning. This work offers a rational framework for seamlessly integrating inorganic chirality with existing catalytic design approaches, paving the way for advanced chiral catalysts in spin‐selective energy conversion and beyond."
+pages: "2502222"
+number: "32"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Teng, Fei and Chen, Zhi and Chu, Yusen and Jin, Yiran and Wang, Peng‐peng"
+urldate: "2026-06-24"
+date: "2025-08"
+langid: "english"
+---

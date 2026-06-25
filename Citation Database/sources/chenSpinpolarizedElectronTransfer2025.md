@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenSpinpolarizedElectronTransfer2025"
+title: "Spin-polarized electron transfer in chiral tartaric acid-engineered Ni({OH})$_{\textrm{2}}$ unlocks {NiOOH} activation for urea electrooxidation"
+volume: "61"
+issn: "1359-7345, 1364-548X"
+url: "https://xlink.rsc.org/?DOI=D5CC00687B"
+doi: "10.1039/D5CC00687B"
+abstract: "Ni({OH}) 2 was modified with chiral tartaric acid, and the chiral-induced spin selectivity effect facilitated electron transfer, promoting the formation of active {NiOOH} and accelerating the urea oxidation reaction. , Chiral tartaric acid ({TA})-modified Ni({OH}) 2 shows chiral-induced spin selectivity ({CISS}) effect, creating spin channels that significantly enhance electron transfer to promote the formation of {NiOOH} species. d -{TA}-Ni({OH}) 2 achieves a current density of 100 {mA} cm −2 at 1.38 V with a Tafel slope of 21.88 {mV} dec −1 , highlighting its potential for the urea oxidation reaction."
+pages: "6364--6367"
+number: "34"
+journaltitle: "Chemical Communications"
+shortjournal: "Chem. Commun."
+author: "Chen, Ming and Zhang, Wen-Da and Gong, Qingna and Liu, Jiangyong and Yang, Xiaoping and Wang, Jing and Yan, Xiaodong"
+urldate: "2026-06-24"
+date: "2025"
+langid: "english"
+---

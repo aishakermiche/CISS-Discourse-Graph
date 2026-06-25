@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "schneiderProbingSpinEffects2025"
+title: "Probing spin effects in phycocyanin using Janus-like ferromagnetic microparticles"
+volume: "27"
+issn: "1463-9076, 1463-9084"
+url: "https://xlink.rsc.org/?DOI=D4CP04129A"
+doi: "10.1039/D4CP04129A"
+abstract: "The relationship between electron spin and the fluorescence properties of phycocyanin is investigated using a novel experimental platform based on Janus-like magnetic particles. , In an era of interdisciplinary scientific research, new methodologies are necessary to simultaneously advance several fields of study. One such case involves the measurement of electron spin effects on biological systems. While magnetic effects are well known in biology, recent years have shown a surge in published evidence isolating the dependence on spin, rather than magnetic field, in biological contexts. Herein we present a simple method for the distinction between the two effects in solution-based samples. The induction of a single uniform spin upon molecules can be achieved by interacting them with a magnetized surface, thereby exposing them to controlled electron spin orientations. With many live biological systems, adsorption to a single surface severely limits the experimental output. A low signal to noise ratio from monolayers interacting with a relatively small surface area, and conformational restrictions due to immobilization, are common challenges when performing biological measurements on macroscopic magnetized surfaces. Here we demonstrate the use of Janus-like ferromagnetic microparticles, originally developed for a spin-based enantiomer separation procedure, as a platform for the spin-controlled measurement of biological molecules in solution. We find new evidence for electron spin involvement in biological systems, with influence observed on the kinetics, and to a lesser degree on the spectrum, of phycocyanin fluorescence. Our results provide both new scientific findings and proof of concept for the use of these unique magnetic particles as a flexible, soluble, high surface area, spin-controlled tool for scientific research."
+pages: "3291--3301"
+number: "6"
+journaltitle: "Physical Chemistry Chemical Physics"
+shortjournal: "Phys. Chem. Chem. Phys."
+author: "Schneider, Avi and David, Ilay and Goren, Naama and Fridman, Hanna T. and Lutzky, Guy and Yochelis, Shira and Zer, Hagit and Adir, Noam and Keren, Nir and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2025"
+langid: "english"
+---

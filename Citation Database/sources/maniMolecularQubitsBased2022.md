@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "maniMolecularQubitsBased2022"
+title: "Molecular qubits based on photogenerated spin-correlated radical pairs for quantum sensing"
+volume: "3"
+issn: "2688-4070"
+url: "https://pubs.aip.org/cpr/article/3/2/021301/2836227/Molecular-qubits-based-on-photogenerated-spin"
+doi: "10.1063/5.0084072"
+abstract: "Photogenerated spin-correlated radical pairs ({SCRPs}) in electron donor–bridge–acceptor (D–B–A) molecules can act as molecular qubits and inherently spin qubit pairs. {SCRPs} can take singlet and triplet spin states, comprising the quantum superposition state. Their synthetic accessibility and well-defined structures, together with their ability to be prepared in an initially pure, entangled spin state and optical addressability, make them one of the promising avenues for advancing quantum information science. Coherence between two spin states and spin selective electron transfer reactions form the foundation of using {SCRPs} as qubits for sensing. We can exploit the unique sensitivity of the spin dynamics of {SCRPs} to external magnetic fields for sensing applications including resolution-enhanced imaging, magnetometers, and magnetic switch. Molecular quantum sensors, if realized, can provide new technological developments beyond what is possible with classical counterparts. While the community of spin chemistry has actively investigated magnetic field effects on chemical reactions via {SCRPs} for several decades, we have not yet fully exploited the synthetic tunability of molecular systems to our advantage. This review offers an introduction to the photogenerated {SCRPs}-based molecular qubits for quantum sensing, aiming to lay the foundation for researchers new to the field and provide a basic reference for researchers active in the field. We focus on the basic principles necessary to construct molecular qubits based on {SCRPs} and the examples in quantum sensing explored to date from the perspective of the experimentalist."
+pages: "021301"
+number: "2"
+journaltitle: "Chemical Physics Reviews"
+author: "Mani, Tomoyasu"
+urldate: "2026-06-24"
+date: "2022-06-01"
+langid: "english"
+---

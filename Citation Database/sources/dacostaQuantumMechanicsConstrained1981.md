@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dacostaQuantumMechanicsConstrained1981"
+title: "Quantum mechanics of a constrained particle"
+volume: "23"
+rights: "http://link.aps.org/licenses/aps-default-license"
+issn: "0556-2791"
+url: "https://link.aps.org/doi/10.1103/PhysRevA.23.1982"
+doi: "10.1103/PhysRevA.23.1982"
+pages: "1982--1987"
+number: "4"
+journaltitle: "Physical Review A"
+shortjournal: "Phys. Rev. A"
+author: "Da Costa, R. C. T."
+urldate: "2026-06-24"
+date: "1981-04-01"
+langid: "english"
+---

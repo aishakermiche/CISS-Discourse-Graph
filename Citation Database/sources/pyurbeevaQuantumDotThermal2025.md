@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "pyurbeevaQuantumDotThermal2025"
+title: "Quantum Dot Thermal Machines—A Guide to Engineering"
+volume: "28"
+issn: "1099-4300"
+url: "https://www.mdpi.com/1099-4300/28/1/2"
+doi: "10.3390/e28010002"
+abstract: "Continuous particle exchange thermal machines require no time-dependent driving, can be realised in solid-state electronic devices, and can be miniaturised to nanometre scale. Quantum dots, providing a narrow energy filter and allowing to manipulate particle flow between the hot and cold reservoirs are at the heart of such devices. It has been theoretically shown that through mitigating passive heat flow, Carnot efficiency can be approached arbitrarily closely in a quantum dot heat engine, and experimentally, values of 0.7{ηC} have been reached. However, for practical applications, other parameters of a thermal machine, such as maximum power, efficiency at maximum power, and noise—stability of the power output or heat extraction—take precedence over maximising efficiency. We explore the effect of the internal microscopic dynamics of a quantum dot on these quantities and demonstrate that its performance as a thermal machine depends on few parameters—the overall conductance and three inherent asymmetries of the dynamics: entropy difference between the charge states, tunnel coupling asymmetry, and the degree of detailed balance breaking. These parameters act as a guide to engineering the quantum states of the quantum dot, allowing to optimise its performance beyond that of the simplest case of a two-fold spin-degenerate transmission level."
+pages: "2"
+number: "1"
+journaltitle: "Entropy"
+shortjournal: "Entropy"
+author: "Pyurbeeva, Eugenia and Kosloff, Ronnie"
+urldate: "2026-06-24"
+date: "2025-12-19"
+langid: "english"
+---

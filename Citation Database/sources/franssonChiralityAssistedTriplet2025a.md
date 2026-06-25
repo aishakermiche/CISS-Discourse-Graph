@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "franssonChiralityAssistedTriplet2025a"
+title: "Chirality Assisted Triplet Electron Pairing"
+volume: "16"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c03734"
+doi: "10.1021/acs.jpclett.4c03734"
+pages: "1629--1633"
+number: "6"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Fransson, J. and Naaman, R."
+urldate: "2026-06-25"
+date: "2025-02-13"
+langid: "english"
+---

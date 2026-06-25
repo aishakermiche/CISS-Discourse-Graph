@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "shibyInterplayChiroOpticalSpin2025"
+title: "Interplay between Chiro-Optical and Spin Transport Properties in Chiral {CdSe} Quantum Dots"
+volume: "19"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c12765"
+doi: "10.1021/acsnano.5c12765"
+pages: "35119--35126"
+number: "39"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Shiby, Elizabeth and Sun, Rui and Bloom, Brian P. and Albro, Joseph A. and Sun, Dali and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2025-10-07"
+langid: "english"
+---

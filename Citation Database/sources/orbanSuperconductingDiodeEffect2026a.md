@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "orbanSuperconductingDiodeEffect2026a"
+title: "The superconducting diode effect in Josephson junctions fabricated from a structurally chiral superconductor"
+volume: "9"
+issn: "2399-3650"
+url: "https://www.nature.com/articles/s42005-026-02564-0"
+doi: "10.1038/s42005-026-02564-0"
+pages: "124"
+number: "1"
+journaltitle: "Communications Physics"
+shortjournal: "Commun Phys"
+author: "Orban, Peter T. and Bassen, Gregory and Crites, Evan N. and Matsuo, Takumi and Siegler, Maxime A. and {McQueen}, Tyrel M."
+urldate: "2026-06-24"
+date: "2026-02-28"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\BA4H8TSU\\Orban et al. - 2026 - The superconducting diode effect in Josephson junctions fabricated from a structurally chiral superc.pdf:application/pdf"
+---

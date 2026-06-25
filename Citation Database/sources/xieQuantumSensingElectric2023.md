@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "xieQuantumSensingElectric2023"
+title: "Quantum Sensing of Electric Fields Using Spin-Correlated Radical Ion Pairs"
+volume: "145"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.3c04212"
+doi: "10.1021/jacs.3c04212"
+pages: "14922--14931"
+number: "27"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Xie, Fangbai and Mao, Haochuan and Lin, Chenjian and Feng, Yuanning and Stoddart, J. Fraser and Young, Ryan M. and Wasielewski, Michael R."
+urldate: "2026-06-24"
+date: "2023-07-12"
+langid: "english"
+---

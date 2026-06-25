@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "hossainObservationTwoTerminalCISS2025"
+title: "Observation of Two-Terminal {CISS} Magnetoresistance with Nonmagnetic Contacts"
+volume: "25"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c01297"
+doi: "10.1021/acs.nanolett.5c01297"
+pages: "9623--9630"
+number: "24"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Hossain, Md Anik and Illescas-Lopez, Sara and Firouzeh, Seyedamin and Cuerva, Juan Manuel and De Cienfuegos, Luis Álvarez and Pramanik, Sandipan"
+urldate: "2026-06-24"
+date: "2025-06-18"
+langid: "english"
+---

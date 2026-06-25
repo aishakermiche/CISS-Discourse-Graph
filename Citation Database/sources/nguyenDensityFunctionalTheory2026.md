@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "nguyenDensityFunctionalTheory2026"
+title: "Density Functional Theory Calculations of Spin Polarization for Diradicals in Single-Molecule Junctions"
+volume: "11"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "2470-1343, 2470-1343"
+url: "https://pubs.acs.org/doi/10.1021/acsomega.5c07837"
+doi: "10.1021/acsomega.5c07837"
+pages: "15786--15794"
+number: "10"
+journaltitle: "{ACS} Omega"
+shortjournal: "{ACS} Omega"
+author: "Nguyen, Kiet A. and Pachter, Ruth"
+urldate: "2026-06-24"
+date: "2026-03-17"
+langid: "english"
+---

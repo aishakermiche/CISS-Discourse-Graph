@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "liuSpinPolarizationChemical2026"
+title: "Spin polarization and chemical catalysis: what we know, what works, and what's next"
+issn: "0306-0012, 1460-4744"
+url: "https://xlink.rsc.org/?DOI=D5CS00239G"
+doi: "10.1039/D5CS00239G"
+shorttitle: "Spin polarization and chemical catalysis"
+abstract: "Spin polarization offers a powerful lever for catalysis by tuning d -band levels, e g occupancy, carrier separation, and spin filtering, enabling advances in {HER}, {OER}, {ORR}, {CO} 2 {RR}, ammonia synthesis, and {CO} oxidation. , Spin polarization, an intrinsic electronic degree of freedom, has emerged as a transformative lever in catalysis, offering new avenues to address challenges in environmental pollution control, renewable energy generation, and modern chemical manufacturing. Building on the inherent connection between electronic properties and catalytic activity, spin effects can enhance catalytic performance through mechanisms such as modification of the d-band center, regulation of e g electrons, and promotion of photogenerated carrier separation and transport. In this review, we introduce established mechanisms, representative evidence, and remaining limitations, and present an up-to-date overview of spin catalysis grounded in the fundamental roles of spin-resolved d-band levels, e g occupancy, spin-assisted carrier separation, and spin filtering, with emphasis on applications in hydrogen evolution, O 2 evolution/reduction, {CO} 2 conversion, ammonia synthesis, and {CO} oxidation. We next highlight effective strategies to improve catalytic performance by modulating spin polarization, including structural engineering and the application of external magnetic fields. Finally, we outline priorities for integrating spin effects into advanced catalytic systems through coordinated development in experimental technologies and theoretical approaches, thereby unlocking opportunities for sustainable chemical processes."
+pages: "10.1039.D5CS00239G"
+journaltitle: "Chemical Society Reviews"
+shortjournal: "Chem. Soc. Rev."
+author: "Liu, Junxian and Liao, Ting and Chen, Zhongfang and Kou, Liangzhi"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

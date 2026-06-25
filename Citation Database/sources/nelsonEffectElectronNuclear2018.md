@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "nelsonEffectElectronNuclear2018"
+title: "Effect of Electron–Nuclear Hyperfine Interactions on Multiple-Quantum Coherences in Photogenerated Covalent Radical (Qubit) Pairs"
+volume: "122"
+issn: "1089-5639, 1520-5215"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpca.8b07556"
+doi: "10.1021/acs.jpca.8b07556"
+pages: "9392--9402"
+number: "49"
+journaltitle: "The Journal of Physical Chemistry A"
+shortjournal: "J. Phys. Chem. A"
+author: "Nelson, Jordan N. and Zhang, Jinyuan and Zhou, Jiawang and Rugg, Brandon K. and Krzyaniak, Matthew D. and Wasielewski, Michael R."
+urldate: "2026-06-24"
+date: "2018-12-13"
+langid: "english"
+---

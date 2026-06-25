@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "bangruwaNovelSpinbasedLabelfree2023"
+title: "A novel spin-based label-free electrochemical dna hybridization biosensor and its applications for dengue virus detection"
+volume: "382"
+issn: "09254005"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0925400523001624"
+doi: "10.1016/j.snb.2023.133447"
+pages: "133447"
+journaltitle: "Sensors and Actuators B: Chemical"
+shortjournal: "Sensors and Actuators B: Chemical"
+author: "Bangruwa, Neeraj and Bhartiya, Prashant K. and Mishra, Debabrata"
+urldate: "2026-06-24"
+date: "2023-05"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "aielloChiralityBasedQuantumLeap2022"
+title: "A Chirality-Based Quantum Leap"
+volume: "16"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.1c01347"
+doi: "10.1021/acsnano.1c01347"
+pages: "4989--5035"
+number: "4"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Aiello, Clarice D. and Abendroth, John M. and Abbas, Muneer and Afanasev, Andrei and Agarwal, Shivang and Banerjee, Amartya S. and Beratan, David N. and Belling, Jason N. and Berche, Bertrand and Botana, Antia and Caram, Justin R. and Celardo, Giuseppe Luca and Cuniberti, Gianaurelio and Garcia-Etxarri, Aitzol and Dianat, Arezoo and Diez-Perez, Ismael and Guo, Yuqi and Gutierrez, Rafael and Herrmann, Carmen and Hihath, Joshua and Kale, Suneet and Kurian, Philip and Lai, Ying-Cheng and Liu, Tianhan and Lopez, Alexander and Medina, Ernesto and Mujica, Vladimiro and Naaman, Ron and Noormandipour, Mohammadreza and Palma, Julio L. and Paltiel, Yossi and Petuskey, William and Ribeiro-Silva, João Carlos and Saenz, Juan José and Santos, Elton J. G. and Solyanik-Gorgone, Maria and Sorger, Volker J. and Stemer, Dominik M. and Ugalde, Jesus M. and Valdes-Curiel, Ana and Varela, Solmar and Waldeck, David H. and Wasielewski, Michael R. and Weiss, Paul S. and Zacharias, Helmut and Wang, Qing Hua"
+urldate: "2026-06-24"
+date: "2022-04-26"
+langid: "english"
+---

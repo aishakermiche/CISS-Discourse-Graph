@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "driessenSynthesisGrowthSolutionprocessed2024"
+title: "Synthesis and growth of solution-processed chiral perovskites"
+volume: "6"
+issn: "2515-7655"
+url: "https://iopscience.iop.org/article/10.1088/2515-7655/ad6e17"
+doi: "10.1088/2515-7655/ad6e17"
+abstract: "Abstract In materials science, chiral perovskites stand out due to their exceptional optoelectronic properties and the versatility in their structure and composition, positioning them as crucial in the advances of technologies in spintronics and chiroptical systems. This review underlines the critical role of synthesizing and growing these materials, a process integral to leveraging their complex interplay between structural chirality and distinctive optoelectronic properties, including chiral-induced spin selectivity and chiroptical activity. The paper offers a comprehensive summary and discussion of the methods used in the synthesis and growth of chiral perovskites, delving into extensive growth techniques, fundamental mechanisms, and strategic approaches for the engineering of low-dimensional perovskites, alongside the creation of novel chiral ligands. The necessity of developing new synthetic approaches and maintaining precise control during the growth of chiral perovskites is emphasized, aiming to enhance their structural chirality and boost their efficiency in spin and chiroptical selectivity."
+pages: "042001"
+number: "4"
+journaltitle: "Journal of Physics: Energy"
+shortjournal: "J. Phys. Energy"
+author: "Driessen, Sander and Sarigul-Ozbek, Sevgi and Sutter-Fella, Carolin M and Tao, Shuxia"
+urldate: "2026-06-24"
+date: "2024-10-01"
+file: "IOP Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\68XL8BPV\\Driessen et al. - 2024 - Synthesis and growth of solution-processed chiral perovskites.pdf:application/pdf"
+---

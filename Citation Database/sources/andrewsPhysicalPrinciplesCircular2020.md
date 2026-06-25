@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "andrewsPhysicalPrinciplesCircular2020"
+title: "Physical Principles of Circular Dichroism"
+volume: "97"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0021-9584, 1938-1328"
+url: "https://pubs.acs.org/doi/10.1021/acs.jchemed.0c01061"
+doi: "10.1021/acs.jchemed.0c01061"
+pages: "4370--4376"
+number: "12"
+journaltitle: "Journal of Chemical Education"
+shortjournal: "J. Chem. Educ."
+author: "Andrews, Steven S. and Tretton, James"
+urldate: "2026-06-24"
+date: "2020-12-08"
+langid: "english"
+---

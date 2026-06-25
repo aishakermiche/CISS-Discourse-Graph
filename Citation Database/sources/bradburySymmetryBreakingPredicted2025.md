@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "bradburySymmetryBreakingPredicted2025"
+title: "Symmetry breaking as predicted by a phase space Hamiltonian with a spin Coriolis potential"
+volume: "162"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/162/24/244107/3350714/Symmetry-breaking-as-predicted-by-a-phase-space"
+doi: "10.1063/5.0274260"
+abstract: "We perform electronic structure calculations for a set of molecules with degenerate spin-dependent ground states ({CH}23, {CH}3•2, O23) going beyond the Born–Oppenheimer approximation and accounting for nuclear motion. According to a phase space approach that parameterizes electronic states ({\textbar}Φ⟩) and electronic energies (E) by nuclear position and momentum [i.e., {\textbar}Φ(R, P)⟩ and E(R, P)], we find that the presence of degenerate spin degrees of freedom leads to broken symmetry ground states. More precisely, rather than a single degenerate minimum at (R, P) = (Rmin, 0), the ground state energy has two minima at (R,P)=(Rmin′,±Pmin) (where Rmin′ is close to Rmin), dramatically contradicting the notion that the total energy of the system can be written in separable form as E=P22M+Vel. Although we find that the broken symmetry solutions have small barriers between them for the small molecules, we hypothesize that the barriers should be macroscopically large for metallic solids, thus offering up a new phase-space potential energy surface for simulating the Einstein–de Haas effect."
+pages: "244107"
+number: "24"
+journaltitle: "The Journal of Chemical Physics"
+author: "Bradbury, Nadine C. and Duston, Titouan and Tao, Zhen and Rawlinson, Jonathan I. and Littlejohn, Robert and Subotnik, Joseph"
+urldate: "2026-06-24"
+date: "2025-06-28"
+langid: "english"
+---

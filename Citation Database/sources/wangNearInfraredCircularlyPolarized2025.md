@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangNearInfraredCircularlyPolarized2025"
+title: "Near-Infrared Circularly Polarized Light Detection through Chiral Polymer Blends with Enhanced Spin Selectivity"
+volume: "17"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1944-8244, 1944-8252"
+url: "https://pubs.acs.org/doi/10.1021/acsami.5c05944"
+doi: "10.1021/acsami.5c05944"
+pages: "32742--32751"
+number: "22"
+journaltitle: "{ACS} Applied Materials \& Interfaces"
+shortjournal: "{ACS} Appl. Mater. Interfaces"
+author: "Wang, Xiaohong and Chen, Siyu and Wu, Xiaocheng and Jiang, Longlong and Hu, Qi and Qiu, Longzhen"
+urldate: "2026-06-24"
+date: "2025-06-04"
+langid: "english"
+---

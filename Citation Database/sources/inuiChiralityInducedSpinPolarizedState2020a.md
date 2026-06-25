@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "inuiChiralityInducedSpinPolarizedState2020a"
+title: "Chirality-Induced Spin-Polarized State of a Chiral Crystal {CrNb} 3 S 6"
+volume: "124"
+issn: "0031-9007, 1079-7114"
+url: "https://link.aps.org/doi/10.1103/PhysRevLett.124.166602"
+doi: "10.1103/PhysRevLett.124.166602"
+pages: "166602"
+number: "16"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Inui, Akito and Aoki, Ryuya and Nishiue, Yuki and Shiota, Kohei and Kousaka, Yusuke and Shishido, Hiroaki and Hirobe, Daichi and Suda, Masayuki and Ohe, Jun-ichiro and Kishine, Jun-ichiro and Yamamoto, Hiroshi M. and Togawa, Yoshihiko"
+urldate: "2026-06-24"
+date: "2020-04-21"
+langid: "english"
+---

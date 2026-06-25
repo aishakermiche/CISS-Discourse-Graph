@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yorkgitisThreeStateElectrochiropticalSwitches2026"
+title: "Three-State Electrochiroptical Switches Derived from Chiral Stable Carbenes"
+volume: "148"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.6c04967"
+doi: "10.1021/jacs.6c04967"
+pages: "24174--24183"
+number: "23"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Yorkgitis, Patrick and Vanthuyne, Nicolas and Cordier, Marie and Favereau, Ludovic and Bertrand, Guy"
+urldate: "2026-06-24"
+date: "2026-06-17"
+langid: "english"
+---

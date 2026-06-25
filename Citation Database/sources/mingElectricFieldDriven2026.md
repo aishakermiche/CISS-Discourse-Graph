@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mingElectricFieldDriven2026"
+title: "Electric field driven polaron transport beyond the harmonic approximation in one-dimensional crystal lattices: From conventional polarons to supersonic solectrons"
+volume: "113"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/1q4n-jtvb"
+doi: "10.1103/1q4n-jtvb"
+shorttitle: "Electric field driven polaron transport beyond the harmonic approximation in one-dimensional crystal lattices"
+pages: "184303"
+number: "18"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Ming, Yi and Velarde, Manuel G. and Hu, Hao"
+urldate: "2026-06-24"
+date: "2026-05-05"
+langid: "english"
+---

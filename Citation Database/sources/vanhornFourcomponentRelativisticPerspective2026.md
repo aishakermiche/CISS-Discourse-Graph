@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "vanhornFourcomponentRelativisticPerspective2026"
+title: "A four-component relativistic perspective on an \textit{E} ⊗ \textit{e} Jahn–Teller model"
+volume: "164"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/164/2/024105/3377041/A-four-component-relativistic-perspective-on-an-E"
+doi: "10.1063/5.0304011"
+abstract: "Most advances in electronic spin-dependent non-adiabatic dynamics focus on refining the underlying dynamics methods. In contrast, this work considers an improved description of spin–orbit coupling by explicitly accounting for its relativistic origins. To this end, we extend a standard one-electron triatomic Jahn–Teller model to the four-component relativistic domain. In our formulation, the electron is treated using the Dirac–Coulomb Hamiltonian, while the nuclei remain non-relativistic, departing from the conventional formulation that incorporates the Pauli spin–orbit coupling as a perturbation. The most striking difference between our relativistic model and the conventional one is the presence of vibronic coupling terms on the anti-diagonal of the diabatic potential matrix. These terms scale as 1/c2 and, although nominally small, they can be amplified near avoided-crossings or in systems with heavy nuclei. Furthermore, their presence implies that nuclear motion can affect the direction of the electron spin, a feature entirely absent in the non-relativistic formulation of our model. In the adiabatic representation, the couplings translate to non-Abelian characteristics of the non-adiabatic coupling matrix that persist even in the Born–Oppenheimer approximation. Within our model setting, a relativistic formulation allows for a more intricate interplay between the electronic spin and nuclear degrees of freedom."
+pages: "024105"
+number: "2"
+journaltitle: "The Journal of Chemical Physics"
+author: "Van Horn, Martin and List, Nanna H."
+urldate: "2026-06-24"
+date: "2026-01-14"
+langid: "english"
+---

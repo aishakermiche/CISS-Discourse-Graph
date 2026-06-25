@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenSpindependentElectrocatalysis2024"
+title: "Spin-dependent electrocatalysis"
+volume: "11"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "2095-5138, 2053-714X"
+url: "https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwae314/7750040"
+doi: "10.1093/nsr/nwae314"
+abstract: "{ABSTRACT} The shift towards sustainable energy requires efficient electrochemical conversion technologies, emphasizing the crucial need for robust electrocatalyst design. Recent findings reveal that the efficiency of some electrocatalytic reactions is spin-dependent, with spin configuration dictating performance. Consequently, understanding the spin's role and controlling it in electrocatalysts is important. This review succinctly outlines recent investigations into spin-dependent electrocatalysis, stressing its importance in energy conversion. It begins with an introduction to spin-related features, discusses characterization techniques for identifying spin configurations, and explores strategies for fine-tuning them. At the end, the article provides insights into future research directions, aiming to reveal more unknown fundamentals of spin-dependent electrocatalysis and encourage further exploration in spin-related research and applications."
+pages: "nwae314"
+number: "9"
+journaltitle: "National Science Review"
+author: "Chen, Zhengjie and Li, Xiaoning and Ma, Hao and Zhang, Yuwei and Peng, Jing and Ma, Tianyi and Cheng, Zhenxiang and Gracia, Jose and Sun, Yuanmiao and Xu, Zhichuan J"
+urldate: "2026-06-24"
+date: "2024-08-13"
+langid: "english"
+---

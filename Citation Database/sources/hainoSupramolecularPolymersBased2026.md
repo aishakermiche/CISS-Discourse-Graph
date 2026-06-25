@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "hainoSupramolecularPolymersBased2026"
+title: "Supramolecular polymers based on molecular recognition of bisporphyrin clefts"
+issn: "1359-7345, 1364-548X"
+url: "https://xlink.rsc.org/?DOI=D6CC02170K"
+doi: "10.1039/D6CC02170K"
+abstract: "Bisporphyrin clefts translate host–guest binding, self-complementary dimerization, and metal coordination into responsive polymers, chiral sensors, gels, and robust films. , This review highlights supramolecular polymers based on bisporphyrin clefts, which are rigidly linked porphyrin dimers that function as electron-rich molecular tweezers and incorporate three addressable recognition modes: donor–acceptor host–guest complexation, self-complementary dimerization, and metal coordination. These interactions can induce supramolecular polymerization and enable interchange among supramolecular polymer-chain structures, affording attractive functions in solution and in the bulk. This feature article first discusses head-to-tail host–guest complexation–directed step-growth polymerization and ring–chain equilibria of heterotopic monomers bearing both a cleft and an electron-deficient guest, as well as redox regulation of supramolecular polymer chains through redox-tuning of donor–acceptor host–guest complexation. It also describes polymerization driven by self-complementary dimerization, post-polymerization main-chain editing via recognition-pair exchange, and helicity control using built-in or external chirality, affording amplified chiroptical readouts of solvent chirality. Finally, cooperative coupling of host–guest interactions and coordination cross-linking is highlighted as a pathway from supramolecular polymer chains to supramolecular polymer networks, yielding gels and robust free-standing films."
+pages: "10.1039.D6CC02170K"
+journaltitle: "Chemical Communications"
+shortjournal: "Chem. Commun."
+author: "Haino, Takeharu and Hisano, Naoyuki and Hirao, Takehiro"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\VTHG8PY4\\Haino et al. - 2026 - Supramolecular polymers based on molecular recognition of bisporphyrin clefts.pdf:application/pdf"
+---

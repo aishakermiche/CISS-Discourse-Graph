@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "cherevkoElectronSpinMatters2025"
+title: "Electron spin matters"
+volume: "10"
+issn: "2058-7546"
+url: "https://www.nature.com/articles/s41560-024-01697-2"
+doi: "10.1038/s41560-024-01697-2"
+pages: "13--14"
+number: "1"
+journaltitle: "Nature Energy"
+shortjournal: "Nat Energy"
+author: "Cherevko, Serhiy"
+urldate: "2026-06-24"
+date: "2025-01-14"
+langid: "english"
+---

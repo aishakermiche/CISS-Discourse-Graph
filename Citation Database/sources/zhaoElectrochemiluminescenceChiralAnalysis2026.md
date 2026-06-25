@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "zhaoElectrochemiluminescenceChiralAnalysis2026"
+title: "Electrochemiluminescence for chiral analysis: Interfacial recognition, signal transduction, and circularly polarized readout"
+volume: "1008"
+issn: "15726657"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S1572665726001232"
+doi: "10.1016/j.jelechem.2026.119910"
+shorttitle: "Electrochemiluminescence for chiral analysis"
+pages: "119910"
+journaltitle: "Journal of Electroanalytical Chemistry"
+shortjournal: "Journal of Electroanalytical Chemistry"
+author: "Zhao, Yuhan and Gou, Xiaodan and Chen, Zixuan and Zhu, Jun-Jie"
+urldate: "2026-06-24"
+date: "2026-05"
+langid: "english"
+---

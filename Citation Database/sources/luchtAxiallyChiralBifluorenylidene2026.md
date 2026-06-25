@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "luchtAxiallyChiralBifluorenylidene2026"
+title: "Axially Chiral Bifluorenylidene Radical Anions with Long Spin–Lattice Relaxation Times at Room Temperature in Fluid Solution"
+volume: "148"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.6c04102"
+doi: "10.1021/jacs.6c04102"
+pages: "22921--22930"
+number: "22"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Lucht, Brett M. and James, Marisa N. and Moriglioni, Nicholas A. and Fosnocht, Elizabeth L. and Saxena, Sunil and Transue, Wesley J."
+urldate: "2026-06-24"
+date: "2026-06-10"
+langid: "english"
+---

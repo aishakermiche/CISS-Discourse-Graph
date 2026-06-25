@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "horeSpinControlHybrid2025"
+title: "Spin control of hybrid quantum-dot-based radical pairs"
+volume: "24"
+issn: "1476-1122, 1476-4660"
+url: "https://www.nature.com/articles/s41563-024-02083-9"
+doi: "10.1038/s41563-024-02083-9"
+pages: "171--172"
+number: "2"
+journaltitle: "Nature Materials"
+shortjournal: "Nat. Mater."
+author: "Hore, P. J."
+urldate: "2026-06-24"
+date: "2025-02"
+langid: "english"
+---

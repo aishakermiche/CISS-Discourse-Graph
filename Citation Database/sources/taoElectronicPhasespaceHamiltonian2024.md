@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "taoElectronicPhasespaceHamiltonian2024"
+title: "An electronic phase-space Hamiltonian approach for electronic current density and vibrational circular dichroism"
+volume: "161"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/161/20/204107/3322275/An-electronic-phase-space-Hamiltonian-approach-for"
+doi: "10.1063/5.0233618"
+abstract: "The Born–Oppenheimer framework stipulates that chemistry and physics occur on potential energy surfaces {VBO}(X) parameterized by a nuclear coordinate X, which are built by diagonalizing a {BO} Hamiltonian Ĥ{BO}(X). However, such a framework cannot recover many measurable chemical and physical features, including vibrational circular dichroism spectra. In this article, we show that a phase-space electronic Hamiltonian Ĥ{PS}(X,P), parameterized by both nuclear position X and momentum P, with a similar computational cost as solving Ĥ{BO}(X), can recover not just experimental vibrational circular dichroism signals but also a meaningful electronic current density that explains the features of the vibrational circular dichroism rotational strengths. Combined with earlier demonstrations that such Hamiltonians can also recover qualitatively correct electronic momenta with electronic densities that approximately satisfy a continuity equation, the data would suggest that, if one looks closely enough, chemistry in fact occurs on potential energy surfaces parameterized by both X and P, {EPS}(X, P). While the dynamical implications of such a phase-space electronic Hamiltonian are not yet known, we hypothesize that, by offering classical trajectories that explicitly offer nonzero electronic momentum while also conserving the total angular momentum (unlike Born–Oppenheimer theory), this new phase-space electronic structure Hamiltonian may well explain some fraction of the chiral-induced spin selectivity effect."
+pages: "204107"
+number: "20"
+journaltitle: "The Journal of Chemical Physics"
+author: "Tao, Zhen and Duston, Titouan and Pei, Zheng and Shao, Yihan and Rawlinson, Jonathan and Littlejohn, Robert and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2024-11-28"
+langid: "english"
+---

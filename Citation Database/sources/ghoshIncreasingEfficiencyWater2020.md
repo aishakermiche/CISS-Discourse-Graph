@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ghoshIncreasingEfficiencyWater2020"
+title: "Increasing the Efficiency of Water Splitting through Spin Polarization Using Cobalt Oxide Thin Film Catalysts"
+volume: "124"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcc.0c07372"
+doi: "10.1021/acs.jpcc.0c07372"
+pages: "22610--22618"
+number: "41"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Ghosh, Supriya and Bloom, Brian P. and Lu, Yiyang and Lamont, Daniel and Waldeck, David H."
+urldate: "2026-06-25"
+date: "2020-10-15"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "maChiralityInducedSpinSelectivity2024"
+title: "Chirality‐Induced Spin Selectivity Enables New Breakthrough in Electrochemical and Photoelectrochemical Reactions"
+volume: "36"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202405685"
+doi: "10.1002/adma.202405685"
+abstract: "Abstract To facilitate the transition from a carbon‐energy‐dependent society to a sustainable society, conventional engineering strategies, which encounter limitations associated with intrinsic material properties, should undergo the paradigm shift. From a theoretical viewpoint, the spin‐dependent feature of oxygen evolution reaction ({OER}) reveals the potential of a spin‐polarization strategy in enhancing the performance of electrochemical ({EC}) reactions. The chirality‐induced spin selectivity ({CISS}) phenomenon attracts unprecedented attention owing to its potential utility in achieving novel breakthroughs. This paper starts with the experimental results aimed at enhancing the efficiency of the spin‐dependent {OER} focusing on the {EC} system based on the {CISS} phenomenon. The applicability of spin‐polarization to {EC} system is verified through various analytical methodologies to clarify the theoretical groundwork and mechanisms underlying the spin‐dependent reaction pathway. The discussion is then extended to effective spin‐control strategies in photoelectrochemical system based on the {CISS} effect. Exploring the influence of spin‐state control on the kinetic and thermodynamic aspects, this perspective also discusses the effect of spin polarization induced by the {CISS} phenomenon on spin‐dependent {OER}. Lastly, future directions for enhancing the performance of spin‐dependent redox systems are discussed, including expansion to various chemical reactions and the development of materials with spin‐control capabilities."
+pages: "2405685"
+number: "35"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Ma, Sunihl and Lee, Hyungsoo and Moon, Jooho"
+urldate: "2026-06-24"
+date: "2024-08"
+langid: "english"
+---

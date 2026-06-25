@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "fanChiralityEngineeringBiOCl2026"
+title: "Chirality Engineering of {BiOCl}/{BiOBr} Hybrid Photocatalysts for Polarized-Photon-Selective Chiral Catalysis"
+volume: "20"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.6c02966"
+doi: "10.1021/acsnano.6c02966"
+pages: "17384--17395"
+number: "24"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Fan, Shengshi and Li, Jun and Ni, Bing and Cao, Yaxin and Wang, Shenli and Xue, Chao and Niu, Wenxin and Wong, Kwok-Yin and Zheng, Guangchao"
+urldate: "2026-06-24"
+date: "2026-06-23"
+langid: "english"
+---

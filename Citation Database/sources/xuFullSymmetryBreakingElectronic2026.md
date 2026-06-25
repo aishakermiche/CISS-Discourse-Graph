@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "xuFullSymmetryBreakingElectronic2026"
+title: "Full Symmetry-Breaking of Electronic and Nuclear Dynamics for Low-Attosecond Resolution of Electronic Chirality"
+volume: "11"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "2470-1343, 2470-1343"
+url: "https://pubs.acs.org/doi/10.1021/acsomega.6c02067"
+doi: "10.1021/acsomega.6c02067"
+pages: "25975--25983"
+number: "17"
+journaltitle: "{ACS} Omega"
+shortjournal: "{ACS} Omega"
+author: "Xu, Tianlv and Kong, Jiawen and Zhou, Tianjing and Wang, Yan and Tu, Jingqin and Azizi, Alireza and Kirk, Steven R. and Jenkins, Samantha"
+urldate: "2026-06-24"
+date: "2026-05-05"
+langid: "english"
+---

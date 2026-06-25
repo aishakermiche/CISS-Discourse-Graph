@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yuChiralCovalentOrganic2025"
+title: "Chiral Covalent Organic Frameworks for Circularly Polarized-light Detection: A Review"
+volume: "41"
+issn: "1005-9040, 2210-3171"
+url: "https://link.springer.com/10.1007/s40242-025-5243-1"
+doi: "10.1007/s40242-025-5243-1"
+shorttitle: "Chiral Covalent Organic Frameworks for Circularly Polarized-light Detection"
+pages: "1586--1606"
+number: "6"
+journaltitle: "Chemical Research in Chinese Universities"
+shortjournal: "Chem. Res. Chin. Univ."
+author: "Yu, Junhao and Zhu, Rongjiao and Li, Rongjin"
+urldate: "2026-06-24"
+date: "2025-12"
+langid: "english"
+---

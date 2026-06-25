@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangLandingEnergyControlledSurfaceConformation2026"
+title: "Landing-Energy-Controlled Surface Conformation of Electrosprayed Foldamer Molecules on Au(111)"
+volume: "20"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c12973"
+doi: "10.1021/acsnano.5c12973"
+pages: "3402--3409"
+number: "4"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Zhang, Shengming and Meier, Dennis and Lawes, Patrick and Zhao, Pengfei and Wang, Jinhua and Maurizot, Victor and Walz, Andreas and Huettig, Annette and Schlichting, Hartmut and Papageorgiou, Anthoula C. and Reichert, Joachim and Huc, Ivan and Barth, Johannes V."
+urldate: "2026-06-24"
+date: "2026-02-03"
+langid: "english"
+---

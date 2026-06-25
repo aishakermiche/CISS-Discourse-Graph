@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "satoRecentAdvancesStudy2025"
+title: "Recent advances in the study of chiral-lattice superconductor {NbGe}$_{\textrm{2}}$ with topologically nontrivial electronic states"
+volume: "37"
+issn: "0953-8984, 1361-648X"
+url: "https://iopscience.iop.org/article/10.1088/1361-648X/ae2225"
+doi: "10.1088/1361-648X/ae2225"
+abstract: "Abstract Quantum materials in which quantum mechanical effects play a dominant role in determining their properties are highly promising as the foundation for next-generation technologies. The chiral-lattice superconductor {NbGe} 2 is one of the quantum materials attracting attention due to its unique electronic state and transport phenomena. In this article, we review recent advances in the study of intriguing electronic states, superconducting properties, and transport phenomena in {NbGe} 2 and related materials. The energy band structure of {NbGe} 2 exhibits saddle-point dispersions near the Fermi level, and a van Hove-type distinct peak structure appears in the density of states just above the Fermi level. This intriguing electronic structure of {NbGe} 2 has been extensively studied through experimental techniques such as quantum oscillations and spin-resolved photoelectron spectroscopy, as well as first-principles calculations. Additionally, in {NbGe} 2 , momentum-conserving scattering processes are dominant, making it a promising platform for observing hydrodynamic transport phenomena. {NbGe} 2 is a fully gapped superconductor exhibiting a characteristic crossover from type-I to type-{II}/1 superconductivity. In microfabricated {NbGe} 2 devices, unusual magnetoresistance, enhanced nonreciprocal transport phenomena near the superconducting transition, and superconducting diode effect in artificially induced surface superconducting state have been observed. We briefly summarize these intriguing results on {NbGe} 2 and provide perspectives."
+pages: "503001"
+number: "50"
+journaltitle: "Journal of Physics: Condensed Matter"
+shortjournal: "J. Phys.: Condens. Matter"
+author: "Sato, Yoshiki J and Aoki, Dai and Harima, Hisatomo"
+urldate: "2026-06-24"
+date: "2025-12-15"
+---

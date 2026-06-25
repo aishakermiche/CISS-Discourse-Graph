@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ehrenfestErsetzungHypotheseVom1925"
+title: "Ersetzung der Hypothese vom unmechanischen Zwang durch eine Forderung bezüglich des inneren Verhaltens jedes einzelnen Elektrons"
+volume: "13"
+rights: "http://www.springer.com/tdm"
+issn: "0028-1042, 1432-1904"
+url: "http://link.springer.com/10.1007/BF01558878"
+doi: "10.1007/BF01558878"
+pages: "953--954"
+number: "47"
+journaltitle: "Die Naturwissenschaften"
+shortjournal: "Naturwissenschaften"
+author: "Ehrenfest, P."
+urldate: "2026-06-24"
+date: "1925-11"
+langid: "german"
+---

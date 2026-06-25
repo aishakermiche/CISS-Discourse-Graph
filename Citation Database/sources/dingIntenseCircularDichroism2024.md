@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dingIntenseCircularDichroism2024"
+title: "Intense Circular Dichroism and Spin Selectivity in {AgBiS}$_{\textrm{2}}$ Nanocrystals by Chiral Ligand Exchange"
+volume: "36"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202410087"
+doi: "10.1002/adma.202410087"
+abstract: "Abstract Chiral semiconducting nanomaterials offer many potential applications in photodetection, light emission, quantum information, and so on. However, it is difficult to achieve a strong circular dichroism ({CD}) signal in semiconducting nanocrystals ({NCs}) due to the complexity of chiral ligand surface engineering and multiple, uncertain mechanisms of chiroptical behavior. Here, a chiral ligand exchange strategy with cysteine on the ternary metal chalcogenide {AgBiS} 2 {NCs} is developed, and a strong, long‐lasting {CD} signal in the near‐{UV} region is achieved. By carefully optimizing the ligand concentration, the {CD} peaks are observed at 260 and 320 nm, respectively, giving insight into the different ligand binding mechanisms influencing the {CD} signal of {AgBiS} 2 {NCs}. Using density‐functional theory, a large degree of crystal distortion by the bidentate mode of ligand chelation, and efficient ligand‐{NC} electron transfer, synergistically resulting in the strongest {CD} signal (g‐factor over 10 −2 ) observed in chiral ligand‐exchanged semiconductor {NCs} to date, is demonstrated. To demonstrate the effective chiral properties of these {AgBiS} 2 {NCs}, a spin‐filter device with over 86\% efficiency is fabricated. This work represents a considerable leap in the field of chiral semiconductor {NCs} and points toward their future applications."
+pages: "2410087"
+number: "52"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Ding, Pengbo and Chen, Dezhang and Tamtaji, Mohsen and Hu, Sile and Qammar, Memoona and Ko, Pui Kei and Sergeev, Aleksandr A. and Zou, Bosen and Tang, Bing and Wong, Kam Sing and Guo, Liang and Chen, Guanhua and Rogach, Andrey L. and Halpert, Jonathan E."
+urldate: "2026-06-24"
+date: "2024-12"
+langid: "english"
+---

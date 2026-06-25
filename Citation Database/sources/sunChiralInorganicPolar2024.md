@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sunChiralInorganicPolar2024"
+title: "Chiral Inorganic Polar {BaTiO}$_{\textrm{3}}$ /{BaCO}$_{\textrm{3}}$ Nanohybrids with Spin Selection for Asymmetric Photocatalysis"
+volume: "24"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.4c04295"
+doi: "10.1021/acs.nanolett.4c04295"
+pages: "15316--15323"
+number: "48"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Sun, Yemeng and Zhang, Yan and Ni, Jingren and Shen, Yihui and Yu, Hongjian and Lee, Hiang Kwee and Hu, Jun and Zhan, Xiuqin and Zhou, Chuanqiang and Han, Jie"
+urldate: "2026-06-24"
+date: "2024-12-04"
+langid: "english"
+---

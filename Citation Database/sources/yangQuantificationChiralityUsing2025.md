@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yangQuantificationChiralityUsing2025"
+title: "Quantification of chirality using continuous chirality measure ({CCM}): From molecules to crystals"
+volume: "1"
+issn: "3066-0017"
+url: "https://pubs.aip.org/aco/article/1/2/020904/3369946/Quantification-of-chirality-using-continuous"
+doi: "10.1063/5.0288724"
+shorttitle: "Quantification of chirality using continuous chirality measure ({CCM})"
+abstract: "Chirality, the geometric property of non-superimposability on a mirror image, is a fundamental property across chemistry, biology, and materials science and plays a critical role in tailoring exotic chirality-induced phenomena such as the chirality-induced spin selectivity effect and nonreciprocal transport in electronics, spintronics, photonics, and phononics. Quantifying the degree of chirality remains nontrivial, particularly in complex molecular assemblies and crystalline systems. Continuous Chirality Measure ({CCM}) offers a direct geometry-based framework to assess structural deviations from improper symmetry operations such as mirror symmetry and inversion symmetry, through which the degree of chirality can be quantitatively determined. In this Perspective, we provide a comprehensive review of the theoretical basis of {CCM}, its historical development, recent algorithmic advances for large and periodic systems, and representative examples, including molecules and crystals. By evaluating directional, symmetry-specific measures, {CCM} reveals structure–property correlations associated with geometry and composition. We envision that, by linking {CCM} with chirality-induced phenomena, it can serve as a quantitative metric for characterizing chirality in various functional materials."
+pages: "020904"
+number: "2"
+journaltitle: "{APL} Computational Physics"
+author: "Yang, Cong and Khan, Shehzad and Sun, Dali and Liu, Jun"
+urldate: "2026-06-24"
+date: "2025-12-01"
+langid: "english"
+---

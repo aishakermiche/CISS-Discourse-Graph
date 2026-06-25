@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "upadhyayChiralitydrivenMagnetizationEmerges2026"
+title: "Chirality-driven magnetization emerges from relativistic four-current dynamics"
+volume: "2"
+issn: "3066-0017"
+url: "https://pubs.aip.org/aco/article/2/1/016103/3378817/Chirality-driven-magnetization-emerges-from"
+doi: "10.1063/5.0313445"
+abstract: "Chirality-induced spin selectivity ({CISS}) is a striking quantum phenomenon in which electron transport through chiral molecules leads to spin polarization—even in the absence of external magnetic fields or magnetic components. Although observed in systems such as {DNA}, helicenes, proteins, and polymers, the fundamental physical origin of {CISS} remains unresolved. Here, we introduce a time-dependent relativistic four-current framework, in which charge and current densities evolve according to the time-dependent variational principle. Real-time relativistic four-current simulations enable direct analysis of helical currents and induced magnetization dynamics. Applied to helicenes—axially chiral molecules lacking stereocenters—our simulations reveal curvature-induced helical electron currents that generate spontaneous magnetic fields aligned along the molecular axis. These fields are handedness-dependent and reach magnitudes of 10−1 T per single helicene strand. Our results suggest that {CISS} may arise from intrinsic, relativistic, curvature-induced helical currents and the associated magnetic fields within chiral molecules. This four-current mechanism offers a self-contained explanation for the driving force underlying spin selectivity, independent of interfacial effects or unphysically enhanced spin–orbit coupling. Furthermore, our results provide a new perspective that offers a unifying framework with the potential to reconcile many existing hypotheses and theoretical models, while also suggesting several testable predictions that can be examined experimentally."
+pages: "016103"
+number: "1"
+journaltitle: "{APL} Computational Physics"
+author: "Upadhyay, Shiv and Zheng, Xuechen and Wang, Tian and Shayit, Agam and Liu, Jun and Sun, Dali and Li, Xiaosong"
+urldate: "2026-06-24"
+date: "2026-03-01"
+langid: "english"
+---

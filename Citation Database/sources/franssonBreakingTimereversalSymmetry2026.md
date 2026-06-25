@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "franssonBreakingTimereversalSymmetry2026"
+title: "Breaking of time-reversal symmetry and Onsager reciprocity in chiral molecule interfaced with an environment"
+volume: "2"
+issn: "3066-0017"
+url: "https://pubs.aip.org/aco/article/2/1/016111/3382399/Breaking-of-time-reversal-symmetry-and-Onsager"
+doi: "10.1063/5.0312951"
+abstract: "Molecular closed shell structures are known to form spin-singlet configurations, resulting from the spin-exchange associated with electron–electron interactions. While the vanishing total spin-moment is an immanent property of the spin-singlet, the vanishing local moments are a result of fluctuations between degenerate spin-configurations. Here, it is demonstrated that the spin-configuration of a chiral molecule is enantiospecifically locked when coupled to an electron reservoir. The coupling opens up the molecular closed shell structure, which broadens the energy levels. Together with the molecular spin–orbit coupling, this dissipative coupling generates an effective spin-splitting of the molecular energy levels and facilitates stabilization of a chirality determined spin-configuration. The molecular charge distribution is, moreover, shown to depend on the magnetization of the reservoir such that no linear response regime is established with respect to the external magnetization. Accordingly, the Onsager reciprocity theorem does not apply to a chiral molecule attached to a reservoir, hence providing a theoretical foundation for the chirality induced spin selectivity effect."
+pages: "016111"
+number: "1"
+journaltitle: "{APL} Computational Physics"
+author: "Fransson, Jonas"
+urldate: "2026-06-24"
+date: "2026-03-01"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\7I7XQMLE\\Fransson - 2026 - Breaking of time-reversal symmetry and Onsager reciprocity in chiral molecule interfaced with an env.pdf:application/pdf"
+---

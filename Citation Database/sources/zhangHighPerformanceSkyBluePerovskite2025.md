@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangHighPerformanceSkyBluePerovskite2025"
+title: "High‐Performance Sky‐Blue Perovskite Spin‐Light Emitting Diodes Due to Chiral Ionic Liquid Implantation and Passivation"
+volume: "35"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202503088"
+doi: "10.1002/adfm.202503088"
+abstract: "Abstract In chiral hybrid perovskites ({CHPs}), the generation of polarized spin current and the manipulation of spin exciton recombination are expected to produce circularly polarized electroluminescence ({CP}‐{EL}) through chiral‐induced spin selectivity ({CISS}). It opens a new avenue for developing single junction spin light‐emitting diodes (spin‐{LEDs}). The recent challenge lies primarily in balancing device performance and {CP}‐{EL} polarization. Beyond this, blue spin‐{LEDs} have not been fully realized. It lacks studies for interior spin‐chiroptical properties. Herein, a promising chirality transfer methodology is initiated for fabricating sky‐blue (≈491 nm) spin‐{LEDs} using synthesized chiral ionic liquids ({CILs}). They on one side yield the material passivation, giving rise to the chiroptical and electroluminescence ({EL}) properties. An optimal external quantum efficiency ({EQE}) of 13.0\% with a dissymmetry factor of 0.158 for {CP}‐{EL} is obtained. Importantly, this method leads to the elevation of chiral‐induced spin orbit coupling ({CISOC}) strength up to 0.9717 {eV} A, with a long decay lifetime over 1 ns for the polarization. A large polarized spin current of approximately 75\% is achieved in ambient conditions. This work unlocks the blue spin‐{LEDs}, with further construction for the spin‐chiroptics and device performance relationship."
+pages: "2503088"
+number: "31"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Zhang, Guoshuai and Tang, Jun and Li, Yang and Zhang, Xiangpeng and Jiang, Linze and Li, Jing and Wu, Xianyao and Zhu, Xixiang and Yu, Haomiao and Shi, Yumeng and Wang, Xi and Wang, Kai and Li, Jinpeng"
+urldate: "2026-06-24"
+date: "2025-08"
+langid: "english"
+---

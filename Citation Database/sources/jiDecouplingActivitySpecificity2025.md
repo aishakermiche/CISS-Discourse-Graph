@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jiDecouplingActivitySpecificity2025"
+title: "Decoupling Activity and Specificity in Coronazymes"
+volume: "21"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202500783"
+doi: "10.1002/smll.202500783"
+abstract: "Abstract Specificity and activity are often at odds for natural enzymes. In this work, specificity and activity in coronazymes made of an Au nanoparticle ({AuNP}) and coated with {DNA} aptamer for glucose substrates are decoupled. By single‐molecule fluorescent {MT}‐{HILO} (magnetic tweezers coupled with highly inclined and laminated optical sheet) microscopy, it is found that this coronazyme has ≈30 times higher activity on the d ‐glucose compared to bare {AuNP} nanozymes. Significantly, the new coronazyme demonstrates long‐range modulations by circularly polarized light ({CPL}) according to the matching chirality between the {CPL} and {DNA} corona, which follows the rule of chiral induced spin selectivity ({CISS}). Although the aptamer in the coronazyme is evolved against d ‐glucose, surprisingly, this coronazyme catalyzes l ‐glucose better than d ‐glucose, likely due to the faster rates for the aptamer to interact with the l ‐ over d ‐glucose. These results demonstrate, for the first time, an artificial enzyme with its catalytic activity controlled by short‐range intermolecular forces, whereas its chiral specificity is modulated by long‐range {CPLs}. This decoupled arrangement is pivotal to forge premier catalysts with activity and specificity superior to natural enzymes by separately optimizing these two properties."
+pages: "2500783"
+number: "14"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Ji, Jiahao and Zuo, Li and Pokhrel, Bishal and Pokhrel, Pravin and Shakya, Sajan and Shen, Hao and Mao, Hanbin"
+urldate: "2026-06-24"
+date: "2025-04"
+langid: "english"
+---

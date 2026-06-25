@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ucedaHelicalPConjugatedStructure2025"
+title: "Helical π-Conjugated Structure Based on Complementary Helical Monomers with Circularly Polarized Luminescence"
+volume: "27"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1523-7060, 1523-7052"
+url: "https://pubs.acs.org/doi/10.1021/acs.orglett.5c02299"
+doi: "10.1021/acs.orglett.5c02299"
+pages: "7967--7972"
+number: "29"
+journaltitle: "Organic Letters"
+shortjournal: "Org. Lett."
+author: "Uceda, Rafael G. and Ortuño, Ana M. and Álvarez De Cienfuegos, Luis and Movilla, Federico and Mota, Antonio J. and Miguel, Delia and Cuerva, Juan M."
+urldate: "2026-06-24"
+date: "2025-07-25"
+langid: "english"
+---

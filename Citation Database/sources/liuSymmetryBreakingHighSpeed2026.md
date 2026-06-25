@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liuSymmetryBreakingHighSpeed2026"
+title: "Symmetry Breaking in High-Speed Synthesized Chiral Two-Dimensional Perovskite Single Crystals Enabling Polarization-Sensitive Advanced Optoelectronics"
+volume: "26"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05046"
+doi: "10.1021/acs.nanolett.5c05046"
+pages: "1334--1341"
+number: "4"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Liu, Yulin and Wu, Ziqiao and Li, Wanjun and Luo, Huifang and Zhang, Zhaobing and Zheng, Huiqun and Lin, Yuhuan and Mai, Wenjie and Cabot, Andreu and Li, Wenzhe and Fan, Jiandong"
+urldate: "2026-06-24"
+date: "2026-02-04"
+langid: "english"
+---

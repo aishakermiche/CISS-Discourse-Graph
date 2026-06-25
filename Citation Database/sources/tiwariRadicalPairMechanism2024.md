@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "tiwariRadicalPairMechanism2024"
+title: "Radical pair mechanism and the role of chirality-induced spin selectivity during planaria regeneration"
+volume: "125"
+issn: "0003-6951, 1077-3118"
+url: "https://pubs.aip.org/apl/article/125/10/103701/3311147/Radical-pair-mechanism-and-the-role-of-chirality"
+doi: "10.1063/5.0227302"
+abstract: "Planaria serve as an intriguing model system wherein the effects of electric and magnetic fields on various biochemical pathways during cell morphogenesis can be studied. Recent experimental observations have demonstrated the non-trivial modulation of reactive oxygen species ({ROS}) levels by a weak magnetic field ({WMF}) during planaria regeneration. However, the underlying biophysical mechanism behind this remains elusive. In this work, we investigate the role of the radical pair mechanism ({RPM}) and attempt to explain the experimental results of the effect of {WMFs} on {ROS} modulation during planaria regeneration. We also propose that instead of the flavin adenine dinucleotide-superoxide radical pair ({FADH}•−O2•−), a non-superoxide-based flavin adenine dinucleotide-tryptophan radical pair ({FAD}•−−{TrpH}•+) might be a more suitable radical pair ({RP}) candidate for the observed {ROS} modulation. We also investigate the role of chirality-induced spin selectivity on {ROS} levels by including it in the framework of the {RPM}. We conclude that the singlet initiated {FAD}•−−{TrpH}•+ is a more realistic choice of {RP}, and hence, superoxide formation might happen later and not during the {RP} spin dynamics."
+pages: "103701"
+number: "10"
+journaltitle: "Applied Physics Letters"
+author: "Tiwari, Yash and Raghuvanshi, Parul and Poonia, Vishvendra Singh"
+urldate: "2026-06-24"
+date: "2024-09-02"
+langid: "english"
+---

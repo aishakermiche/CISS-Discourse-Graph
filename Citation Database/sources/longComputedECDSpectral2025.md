@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "longComputedECDSpectral2025"
+title: "Computed {ECD} spectral data for over 10,000 chiral organic small molecules"
+volume: "12"
+issn: "2052-4463"
+url: "https://www.nature.com/articles/s41597-025-05929-2"
+doi: "10.1038/s41597-025-05929-2"
+pages: "1641"
+number: "1"
+journaltitle: "Scientific Data"
+shortjournal: "Sci Data"
+author: "Long, Da and Li, Zhihao and Xu, Xin and Liu, Chengchun and Zhang, Hui and Cao, Xiaoyu and Yang, Liulin and Wang, Xinchang and Mo, Fanyang"
+urldate: "2026-06-24"
+date: "2025-10-14"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\GLFBW6R3\\Long et al. - 2025 - Computed ECD spectral data for over 10,000 chiral organic small molecules.pdf:application/pdf"
+---

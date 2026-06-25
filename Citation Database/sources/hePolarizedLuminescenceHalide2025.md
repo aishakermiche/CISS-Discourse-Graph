@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "hePolarizedLuminescenceHalide2025"
+title: "Polarized Luminescence in Halide Perovskite Nanomaterials"
+volume: "37"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202507400"
+doi: "10.1002/adma.202507400"
+abstract: "Abstract Halide perovskite nanomaterials have emerged as a transformative platform for generating and manipulating polarized luminescence, offering unprecedented opportunities for next‐generation optoelectronic technologies. This review comprehensively examines recent advances in engineering both linearly polarized luminescence ({LPL}) and circularly polarized luminescence ({CPL}) from perovskite nanostructures, focusing on structural design principles, chirality transfer mechanisms, and performance optimization strategies. Methods are systematically analyzed to achieve polarized emission, including anisotropic nanocrystal growth, chiral ligand functionalization, and liquid crystal‐mediated alignment, while highlighting critical optical factors such as dissymmetry factors and photoluminescence quantum yield. Key challenges in enhancing the precision control over perovskite nanostructures, room‐temperature {CPL} efficiency, and scalable assembly are discussed, with a forward‐looking perspective on the integration of artificial intelligence ({AI}) to accelerate progress in the development of perovskite nanomaterials with customized polarized luminescence. By bridging fundamental insights with technological applications, this review outlines a roadmap for developing perovskite‐based polarized light sources that combine high performance, stability, and manufacturability, which are key enablers for the future of quantum photonics, ultra‐secure communication, and intelligent optical systems."
+pages: "e07400"
+number: "47"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "He, Chenlu and Li, Zejian and Jiang, Hao and Luo, Siheng and Zhang, Wenchao and Qin, Xian"
+urldate: "2026-06-24"
+date: "2025-11"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "banerjee-ghoshSeparationEnantiomersTheir2018"
+title: "Separation of enantiomers by their enantiospecific interaction with achiral magnetic substrates"
+volume: "360"
+issn: "0036-8075, 1095-9203"
+url: "https://www.science.org/doi/10.1126/science.aar4265"
+doi: "10.1126/science.aar4265"
+abstract: "Taking enantiomers for a spin There are two common ways to distinguish mirror-image molecules, or enantiomers. The first relies on their distinct interactions with circularly polarized light, the second on their interactions with a pure enantiomer of some other molecule. Now Banerjee-Ghosh et al. report a conceptually different approach to chiral resolution. Experiments showed that, depending on the direction of magnetization, chiral oligopeptides, oligonucleotides, and amino acids have enantiospecific differences in initial adsorption rates on ferromagnetic surfaces. This effect is attributed to enantiospecific induced spin polarization. Science , this issue p. 1331 , Spin polarization of chiral molecules enhances the initial adsorption rate of one enantiomer onto a ferromagnetic substrate. , It is commonly assumed that recognition and discrimination of chirality, both in nature and in artificial systems, depend solely on spatial effects. However, recent studies have suggested that charge redistribution in chiral molecules manifests an enantiospecific preference in electron spin orientation. We therefore reasoned that the induced spin polarization may affect enantiorecognition through exchange interactions. Here we show experimentally that the interaction of chiral molecules with a perpendicularly magnetized substrate is enantiospecific. Thus, one enantiomer adsorbs preferentially when the magnetic dipole is pointing up, whereas the other adsorbs faster for the opposite alignment of the magnetization. The interaction is not controlled by the magnetic field per se, but rather by the electron spin orientations, and opens prospects for a distinct approach to enantiomeric separations."
+pages: "1331--1334"
+number: "6395"
+journaltitle: "Science"
+shortjournal: "Science"
+author: "Banerjee-Ghosh, Koyel and Ben Dor, Oren and Tassinari, Francesco and Capua, Eyal and Yochelis, Shira and Capua, Amir and Yang, See-Hun and Parkin, Stuart S. P. and Sarkar, Soumyajit and Kronik, Leeor and Baczewski, Lech Tomasz and Naaman, Ron and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2018-06-22"
+langid: "english"
+---

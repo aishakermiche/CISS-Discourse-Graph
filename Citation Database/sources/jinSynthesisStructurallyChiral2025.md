@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "jinSynthesisStructurallyChiral2025"
+title: "Synthesis of structurally chiral nickel oxide nanostructures for enhanced spin-dependent oxygen electrocatalysis"
+volume: "18"
+issn: "1998-0124, 1998-0000"
+url: "https://www.sciopen.com/article/10.26599/NR.2025.94907222"
+doi: "10.26599/NR.2025.94907222"
+pages: "94907222"
+number: "3"
+journaltitle: "Nano Research"
+author: "Jin, Yiran and Cheng, Yang and Dong, Shenghe and Xiao, Chengyu and Chen, Zhi and Wang, Peng-peng"
+urldate: "2026-06-24"
+date: "2025-03"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\3GWQMDDH\\Jin et al. - 2025 - Synthesis of structurally chiral nickel oxide nanostructures for enhanced spin-dependent oxygen elec.pdf:application/pdf"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "ruggPhotodrivenQuantumTeleportation2019"
+title: "Photodriven quantum teleportation of an electron spin state in a covalent donor–acceptor–radical system"
+volume: "11"
+issn: "1755-4330, 1755-4349"
+url: "https://www.nature.com/articles/s41557-019-0332-8"
+doi: "10.1038/s41557-019-0332-8"
+pages: "981--986"
+number: "11"
+journaltitle: "Nature Chemistry"
+shortjournal: "Nat. Chem."
+author: "Rugg, Brandon K. and Krzyaniak, Matthew D. and Phelan, Brian T. and Ratner, Mark A. and Young, Ryan M. and Wasielewski, Michael R."
+urldate: "2026-06-24"
+date: "2019-11"
+langid: "english"
+---

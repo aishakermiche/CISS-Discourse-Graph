@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wolfUnusualSpinPolarization2022"
+title: "Unusual Spin Polarization in the Chirality-Induced Spin Selectivity"
+volume: "16"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.2c07088"
+doi: "10.1021/acsnano.2c07088"
+pages: "18601--18607"
+number: "11"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Wolf, Yotam and Liu, Yizhou and Xiao, Jiewen and Park, Noejung and Yan, Binghai"
+urldate: "2026-06-24"
+date: "2022-11-22"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "liInfluenceCoherentTunneling2015"
+title: "Influence of Coherent Tunneling and Incoherent Hopping on the Charge Transfer Mechanism in Linear Donor–Bridge–Acceptor Systems"
+volume: "6"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5b02154"
+doi: "10.1021/acs.jpclett.5b02154"
+pages: "4889--4897"
+number: "24"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Li, Guangqi and Govind, Niranjan and Ratner, Mark A. and Cramer, Christopher J. and Gagliardi, Laura"
+urldate: "2026-06-25"
+date: "2015-12-17"
+langid: "english"
+---

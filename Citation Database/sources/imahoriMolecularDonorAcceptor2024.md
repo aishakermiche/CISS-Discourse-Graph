@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "imahoriMolecularDonorAcceptor2024"
+title: "Molecular donor–acceptor linked systems as models for examining their interactions in excited states"
+volume: "161"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/161/8/080901/3309317/Molecular-donor-acceptor-linked-systems-as-models"
+doi: "10.1063/5.0222310"
+abstract: "Molecular donor–acceptor (D–A) linked systems have attracted significant attention due to their potential to address D–A interactions in excited states. In these systems, it is crucial to understand the interplay between electrons and spin behaviors, atomic nucleus movements (including vibration, rotation, fluctuation, and transfer), and collective motion (electron–phonon coupling) over time. Through intentional manipulation of locally excited, charge-transfer excited, and charge-separated states, along with modulation of dynamic effects (enhancement or restraint), we expect to unlock the full potential of D–A systems for photofunctions in electronics, energy, healthcare, and functional materials. In this perspective, we present our recent examples of D–A linked systems and related ones that address the aforementioned issues as part of our “Dynamic Exciton” research project in Japan."
+pages: "080901"
+number: "8"
+journaltitle: "The Journal of Chemical Physics"
+author: "Imahori, Hiroshi and Akiyama, Midori"
+urldate: "2026-06-24"
+date: "2024-08-28"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gauravChiralMetalHalide2026"
+title: "Chiral Metal Halide Perovskites for Spin‐Polarized Light‐Emitting Diodes"
+volume: "38"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523684"
+doi: "10.1002/adma.202523684"
+abstract: "{ABSTRACT} With the growing importance of displays, reducing their power consumption has become crucial for developing energy‐efficient photonic–electronic platforms. Conventional light emitting diodes ({LEDs}) rely on external polarizers and waveplates to control light polarization in displays, but these optics cause at least half of the incident energy of the {LEDs} to be lost, demanding higher drive currents and accelerating degradation. Generating circularly polarized light ({CPL}) directly at the source offers a low‐power alternative by eliminating such optical losses and enabling direct spin–photon interfaces. Recently, chiral metal halide perovskites ({MHPs}) have emerged as efficient, solution‐processable semiconductors that intrinsically couple light polarization and spin. Their strong spin–orbit coupling and broken inversion symmetry enable spin‐selective charge transport via the chiral‐induced spin selectivity effect, allowing both spin manipulation and its impact on emission to be observed within the same layer. In colloidal nanocrystal form they can emit {CPL} with high photoluminescence quantum yield, making them promising candidates for chiral light emission, although their use is still limited by low polarization anisotropy. This perspective discusses intrinsic and extrinsic routes to achieve circularly polarized electroluminescence ({CP}‐{EL}) using chiral {MHPs}, highlights progress in low‐dimensional films and chiral‐ligand nanocrystals, and discusses prospects for room‐temperature spin control and filter‐free, spin‐{LEDs} for next‐generation energy‐efficient optoelectronic displays."
+pages: "e23684"
+number: "23"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Gaurav, Ashish and Kim, Jihyun and Fiuza‐Maneiro, Nadesh and Kim, Hongki and Seok, Hae‐Jun and Gómez‐Graña, Sergio and Hoye, Robert L. Z. and Polavarapu, Lakshminarayana and Fuchter, Matthew J."
+urldate: "2026-06-24"
+date: "2026-04"
+langid: "english"
+---

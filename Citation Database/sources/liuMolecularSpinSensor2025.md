@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liuMolecularSpinSensor2025"
+title: "Molecular spin sensor for in-situ monitoring of crystallization behavior and phase transition in aromatic materials"
+volume: "16"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-025-62649-2"
+doi: "10.1038/s41467-025-62649-2"
+pages: "7170"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Liu, Linshan and Zhao, Chong and Zhang, Yingjian and Zhang, Zhuxia and Wang, Chunru and Wang, Taishan"
+urldate: "2026-06-24"
+date: "2025-08-04"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\HY8GIN89\\Liu et al. - 2025 - Molecular spin sensor for in-situ monitoring of crystallization behavior and phase transition in aro.pdf:application/pdf"
+---

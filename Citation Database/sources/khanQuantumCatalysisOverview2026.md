@@ -1,0 +1,18 @@
+---
+type: "incollection"
+citekey: "khanQuantumCatalysisOverview2026"
+location: "Singapore"
+title: "Quantum Catalysis Overview"
+isbn: "9789819560462 9789819560479"
+url: "https://link.springer.com/10.1007/978-981-95-6047-9_1"
+doi: "10.1007/978-981-95-6047-9_1"
+pages: "1--24"
+booktitle: "Quantum Catalysis Reactions for Sustainability"
+publisher: "Springer Nature Singapore"
+author: "Khan, Farha and Adil, Mohammad and Oves, Mohammad"
+editor: "Oves, Mohammad and Shahadat, Mohammad"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+note: "Series Title: Sustainable Materials and Technology"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mishraLengthDependentElectronSpin2020"
+title: "Length-Dependent Electron Spin Polarization in Oligopeptides and {DNA}"
+volume: "124"
+rights: "http://pubs.acs.org/page/policy/authorchoice\_ccby\_termsofuse.html"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcc.0c02291"
+doi: "10.1021/acs.jpcc.0c02291"
+pages: "10776--10782"
+number: "19"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Mishra, Suryakant and Mondal, Amit Kumar and Pal, Shubhadeep and Das, Tapan Kumar and Smolinsky, Eilam Z. B. and Siligardi, Giuliano and Naaman, Ron"
+urldate: "2026-06-25"
+date: "2020-05-14"
+langid: "english"
+---

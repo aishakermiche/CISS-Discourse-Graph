@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "zhaoQuantumCorrelationBehaviour2025"
+title: "Quantum correlation behaviour in single-molecule junctions"
+volume: "8"
+issn: "2522-5820"
+url: "https://www.nature.com/articles/s42254-025-00888-4"
+doi: "10.1038/s42254-025-00888-4"
+pages: "9--26"
+number: "1"
+journaltitle: "Nature Reviews Physics"
+shortjournal: "Nat Rev Phys"
+author: "Zhao, Yuxin and Liang, Wenjie and Zhao, Yanli"
+urldate: "2026-06-24"
+date: "2025-11-07"
+langid: "english"
+---

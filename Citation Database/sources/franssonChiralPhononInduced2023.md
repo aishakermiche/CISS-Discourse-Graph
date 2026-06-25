@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "franssonChiralPhononInduced2023"
+title: "Chiral phonon induced spin polarization"
+volume: "5"
+issn: "2643-1564"
+url: "https://link.aps.org/doi/10.1103/PhysRevResearch.5.L022039"
+doi: "10.1103/PhysRevResearch.5.L022039"
+pages: "L022039"
+number: "2"
+journaltitle: "Physical Review Research"
+shortjournal: "Phys. Rev. Research"
+author: "Fransson, J."
+urldate: "2026-06-25"
+date: "2023-05-24"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\YFDY8RIG\\Fransson - 2023 - Chiral phonon induced spin polarization.pdf:application/pdf"
+---

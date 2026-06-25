@@ -1,0 +1,15 @@
+---
+type: "article"
+citekey: "vardiSpindependentIsotopicFractionation2026"
+title: "Spin-dependent isotopic fractionation of L-methionine"
+issn: "24519294"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2451929426000598"
+doi: "10.1016/j.chempr.2026.102993"
+pages: "102993"
+journaltitle: "Chem"
+shortjournal: "Chem"
+author: "Vardi, Ofek and Yuran, Nir and Jakob, Ella Manuela and Ben-Nissan, Gili and Yochelis, Shira and Sharon, Michal and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2026-03"
+langid: "english"
+---

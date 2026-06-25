@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "smorkaInfluenceNonequilibriumVibrational2025"
+title: "Influence of nonequilibrium vibrational dynamics on spin selectivity in chiral molecular junctions"
+volume: "162"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/162/1/014304/3329329/Influence-of-nonequilibrium-vibrational-dynamics"
+doi: "10.1063/5.0235411"
+abstract: "We explore the role of molecular vibrations in the chirality-induced spin selectivity ({CISS}) effect in the context of charge transport through a molecular nanojunction. We employ a mixed quantum–classical approach that combines Ehrenfest dynamics for molecular vibrations with the hierarchical equations of motion method for the electronic degrees of freedom. This approach treats the molecular vibrations in a nonequilibrium manner, which is crucial for the dynamics of molecular nanojunctions. To explore the effect of vibrational dynamics on spin selectivity, we also introduce a new figure of merit, the displacement polarization, which quantifies the difference in vibrational displacements for opposing lead magnetizations. We analyze the dynamics of single trajectories, investigating how the spin selectivity depends on voltage and electronic–vibrational coupling. Furthermore, we investigate the dynamics and temperature dependence of ensemble-averaged observables. We demonstrate that spin selectivity is correlated in time with the vibrational polarization, indicating that the dynamics of molecular vibrations is the driving force of {CISS} in this model within the Ehrenfest approach."
+pages: "014304"
+number: "1"
+journaltitle: "The Journal of Chemical Physics"
+author: "Smorka, R. and Rudge, S. L. and Thoss, M."
+urldate: "2026-06-24"
+date: "2025-01-07"
+langid: "english"
+---

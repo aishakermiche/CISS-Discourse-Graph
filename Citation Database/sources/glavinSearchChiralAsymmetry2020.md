@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "glavinSearchChiralAsymmetry2020"
+title: "The Search for Chiral Asymmetry as a Potential Biosignature in our Solar System"
+volume: "120"
+rights: "http://pubs.acs.org/page/policy/authorchoice\_termsofuse.html"
+issn: "0009-2665, 1520-6890"
+url: "https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00474"
+doi: "10.1021/acs.chemrev.9b00474"
+pages: "4660--4689"
+number: "11"
+journaltitle: "Chemical Reviews"
+shortjournal: "Chem. Rev."
+author: "Glavin, Daniel P. and Burton, Aaron S. and Elsila, Jamie E. and Aponte, José C. and Dworkin, Jason P."
+urldate: "2026-06-24"
+date: "2020-06-10"
+langid: "english"
+---

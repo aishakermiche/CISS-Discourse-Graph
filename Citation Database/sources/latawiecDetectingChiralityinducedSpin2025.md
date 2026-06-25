@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "latawiecDetectingChiralityinducedSpin2025"
+title: "Detecting chirality-induced spin selectivity in chromophore-linked {DNA} hairpins using photogenerated radical pairs"
+volume: "122"
+issn: "0027-8424, 1091-6490"
+url: "https://pnas.org/doi/10.1073/pnas.2515120122"
+doi: "10.1073/pnas.2515120122"
+abstract: "Chirality-induced spin selectivity ({CISS}) results in spin polarization of electrons transmitted through chiral molecules and materials. Since {CISS} results in spin polarization even at room temperature, it affords the possibility of using it to develop quantum technologies that can operate under ambient conditions. We have shown previously that photo-driven hole transfer within {DNA} hairpins provides a facile route to generate spin-correlated radical pairs ({SCRPs}). To study the effect of {CISS} on the spin dynamics of {SCRPs} in {DNA} hairpins, we prepared a series of electron donor—chiral bridge—acceptor molecules where the chiral bridge is a B-form {DNA} helix consisting of 4 to 6 base pairs. Naphthalene-1,8:4,5-bis(dicarboximide) ({NDI}) serves as the hairpin linker chromophore and electron acceptor. Photoexcitation of {NDI} results in rapid hole transfer through the π-stacked purine bases of the {DNA} and trapping of the hole on a terminal stilbene diether (Sd) to generate the {NDI} •− - Sd •+ {SCRP}. Time-resolved electron paramagnetic resonance spectra of the {SCRPs} at X- (9.6 {GHz}), Q- (34 {GHz}), and W- (94 {GHz}) bands show that the {CISS} effect imparts significant triplet character to the {SCRP}. We do not observe a significant dependence of {CISS} on {DNA} length, likely resulting from hole delocalization over the guanine bases in the G-tract. Interestingly, we find that the {CISS} contribution significantly increases with magnetic field strength. These findings should be considered in any future modeling of {CISS}."
+pages: "e2515120122"
+number: "32"
+journaltitle: "Proceedings of the National Academy of Sciences"
+shortjournal: "Proc. Natl. Acad. Sci. U.S.A."
+author: "Latawiec, Elisabeth I. and Chiesa, Alessandro and Qiu, Yunfan and Tcyrulnikov, Nikolai A. and Young, Ryan M. and Carretta, Stefano and Krzyaniak, Matthew D. and Wasielewski, Michael R."
+urldate: "2026-06-24"
+date: "2025-08-12"
+langid: "english"
+---

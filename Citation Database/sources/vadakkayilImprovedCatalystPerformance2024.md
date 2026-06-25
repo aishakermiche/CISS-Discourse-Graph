@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "vadakkayilImprovedCatalystPerformance2024"
+title: "Improved Catalyst Performance for the Oxygen Evolution Reaction under a Chiral Bias"
+volume: "14"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "2155-5435, 2155-5435"
+url: "https://pubs.acs.org/doi/10.1021/acscatal.4c04477"
+doi: "10.1021/acscatal.4c04477"
+pages: "17303--17309"
+number: "23"
+journaltitle: "{ACS} Catalysis"
+shortjournal: "{ACS} Catal."
+author: "Vadakkayil, Aravind and Dunlap-Shohl, Wiley A. and Joy, Meera and Bloom, Brian P. and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2024-12-06"
+langid: "english"
+---

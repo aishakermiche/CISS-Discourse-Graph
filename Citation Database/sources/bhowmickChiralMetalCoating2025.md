@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bhowmickChiralMetalCoating2025"
+title: "Chiral Metal Coating to Enhance Water Electrolysis"
+volume: "39"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "0887-0624, 1520-5029"
+url: "https://pubs.acs.org/doi/10.1021/acs.energyfuels.4c04304"
+doi: "10.1021/acs.energyfuels.4c04304"
+pages: "764--770"
+number: "1"
+journaltitle: "Energy \& Fuels"
+shortjournal: "Energy Fuels"
+author: "Bhowmick, Deb Kumar and Yuran, Nir and Fadeev, Michael and Yochelis, Shira and Paltiel, Yossi and Naaman, Ron"
+urldate: "2026-06-24"
+date: "2025-01-09"
+langid: "english"
+---

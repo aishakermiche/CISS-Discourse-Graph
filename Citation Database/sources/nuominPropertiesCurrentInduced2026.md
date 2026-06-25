@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "nuominPropertiesCurrentInduced2026"
+title: "The Properties of Current Induced Chiral Phonons Recapitulate the Characteristics of the {CISS} Effect"
+volume: "17"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.6c00793"
+doi: "10.1021/acs.jpclett.6c00793"
+pages: "5191--5196"
+number: "18"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Nuomin, Hanggai and Song, Feng-Feng and Zhang, Peng and Sun, Dali and Beratan, David N."
+urldate: "2026-06-24"
+date: "2026-05-07"
+langid: "english"
+---

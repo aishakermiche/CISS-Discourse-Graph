@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "bedoyaSpinChargeTransport2026"
+title: "Spin–charge transport in chirally induced spin selectivity"
+volume: "164"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/164/4/044306/3378056/Spin-charge-transport-in-chirally-induced-spin"
+doi: "10.1063/5.0312418"
+abstract: "Chiral Induced Spin Selectivity ({CISS}) is an intriguing phenomenon in chiral molecules, in which spin polarization emerges at room temperature in two-terminal junctions without requiring ferromagnetic contacts or strong intrinsic spin–orbit coupling. This work develops a unified tight-binding framework that reproduces charge and spin transport in single- and double-helical molecules, including ordered oligopeptides and {DNA}. We first reproduce the spin-independent conductance–distance behavior observed by Giese, Curr. Opin. Chem. Biol. 6, 612 (2002), and Lindsay, Life 10, 72 (2020), by including electron–phonon interactions through Einstein phonon reservoirs at temperature T. Upon introducing spin–orbit coupling under the tunneling barrier for single-stranded {DNA}, we obtain a clear spin-conductance asymmetry, leading to strong spin polarization (20\%–40\%) that increases with molecular length and reverses sign with molecular chirality. The temperature dependence of the polarization exhibits a linear increase near room temperature, consistent with experimental trends. Double-stranded configurations yield similar spin-selective behavior within the experimental setup. We argue that this class of models provides the closest microscopic correspondence to current {CISS} measurements and that further refinements can be achieved by identifying specific decoherence processes and barrier parameters associated with each molecular system."
+pages: "044306"
+number: "4"
+journaltitle: "The Journal of Chemical Physics"
+author: "Bedoya, Valeria and Pastawski, Horacio M. and Fernández-Alcázar, Lucas J. and Medina, Ernesto"
+urldate: "2026-06-24"
+date: "2026-01-28"
+langid: "english"
+---

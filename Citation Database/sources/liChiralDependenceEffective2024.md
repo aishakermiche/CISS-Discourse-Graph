@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "liChiralDependenceEffective2024"
+title: "The chiral dependence of effective masses of polaron spin states in chiral structures"
+volume: "691"
+issn: "09214526"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0921452624006501"
+doi: "10.1016/j.physb.2024.416309"
+pages: "416309"
+journaltitle: "Physica B: Condensed Matter"
+shortjournal: "Physica B: Condensed Matter"
+author: "Li, Wei-Ping"
+urldate: "2026-06-24"
+date: "2024-10"
+langid: "english"
+---

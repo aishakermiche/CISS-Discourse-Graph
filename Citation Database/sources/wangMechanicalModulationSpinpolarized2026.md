@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wangMechanicalModulationSpinpolarized2026"
+title: "Mechanical modulation of spin-polarized transport in chiral molecular junctions"
+volume: "113"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/l56v-mspq"
+doi: "10.1103/l56v-mspq"
+pages: "104416"
+number: "10"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Wang, Y. and Du, W. B. and Liu, X. and Ren, J. F. and Xie, S. J. and Timm, C. and Wang, C. K. and Hu, G. C."
+urldate: "2026-06-24"
+date: "2026-03-09"
+langid: "english"
+---

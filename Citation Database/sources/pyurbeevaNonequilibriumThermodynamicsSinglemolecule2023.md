@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "pyurbeevaNonequilibriumThermodynamicsSinglemolecule2023"
+title: "Non-equilibrium thermodynamics in a single-molecule quantum system"
+volume: "3"
+issn: "2633-4356"
+url: "https://iopscience.iop.org/article/10.1088/2633-4356/accd3a"
+doi: "10.1088/2633-4356/accd3a"
+abstract: "Abstract Thermodynamic probes can be used to deduce microscopic internal dynamics of nanoscale quantum systems. Several direct entropy measurement protocols based on charge transport measurements have been proposed and experimentally applied to single-electron devices. To date, these methods have relied on (quasi-)equilibrium conditions between the nanoscale quantum system and its environment, which constitutes only a small subset of the experimental conditions available. In this paper, we establish a thermodynamic analysis method based on stochastic thermodynamics, that is valid far from equilibrium conditions, is applicable to a broad range of single-electron devices and allows us to find the difference in entropy between the charge states of the nanodevice, as well as a characteristic of any selection rules governing electron transfers. We apply this non-equilibrium entropy measurement protocol to a single-molecule device in which the internal dynamics can be described by a two-site Hubbard model."
+pages: "025003"
+number: "2"
+journaltitle: "Materials for Quantum Technology"
+shortjournal: "Mater. Quantum. Technol."
+author: "Pyurbeeva, E and Thomas, J O and Mol, J A"
+urldate: "2026-06-24"
+date: "2023-06-01"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\5DMKU5Y4\\Pyurbeeva et al. - 2023 - Non-equilibrium thermodynamics in a single-molecule quantum system.pdf:application/pdf"
+---

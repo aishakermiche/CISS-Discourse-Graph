@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dellisQuantumZenoEffect2012"
+title: "The quantum Zeno effect immunizes the avian compass against the deleterious effects of exchange and dipolar interactions"
+volume: "107"
+rights: "https://www.elsevier.com/tdm/userlicense/1.0/"
+issn: "03032647"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0303264711001894"
+doi: "10.1016/j.biosystems.2011.11.007"
+pages: "153--157"
+number: "3"
+journaltitle: "Biosystems"
+shortjournal: "Biosystems"
+author: "Dellis, A.T. and Kominis, I.K."
+urldate: "2026-06-24"
+date: "2012-03"
+langid: "english"
+---

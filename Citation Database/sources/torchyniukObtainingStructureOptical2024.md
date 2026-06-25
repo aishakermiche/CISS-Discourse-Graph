@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "torchyniukObtainingStructureOptical2024"
+title: "Obtaining, Structure, and Optical and Electrical Properties of Chiral Perovskites: A Review"
+volume: "60"
+issn: "0040-5760, 1573-935X"
+url: "https://link.springer.com/10.1007/s11237-025-09818-y"
+doi: "10.1007/s11237-025-09818-y"
+shorttitle: "Obtaining, Structure, and Optical and Electrical Properties of Chiral Perovskites"
+pages: "155--176"
+number: "3"
+journaltitle: "Theoretical and Experimental Chemistry"
+shortjournal: "Theor Exp Chem"
+author: "Torchyniuk, P. V. and V’yunov, O. I. and Ishchenko, A. A. and Belous, A. G."
+urldate: "2026-06-24"
+date: "2024-07"
+langid: "english"
+---

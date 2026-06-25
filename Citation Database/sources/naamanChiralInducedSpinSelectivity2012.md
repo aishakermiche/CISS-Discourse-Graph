@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "naamanChiralInducedSpinSelectivity2012"
+title: "Chiral-Induced Spin Selectivity Effect"
+volume: "3"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/jz300793y"
+doi: "10.1021/jz300793y"
+pages: "2178--2187"
+number: "16"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Naaman, R. and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2012-08-16"
+langid: "english"
+---

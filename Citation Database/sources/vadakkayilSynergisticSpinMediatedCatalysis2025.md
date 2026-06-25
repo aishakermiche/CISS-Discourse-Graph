@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "vadakkayilSynergisticSpinMediatedCatalysis2025"
+title: "Synergistic Spin-Mediated Catalysis for the Oxygen Evolution Reaction"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c14127"
+doi: "10.1021/jacs.5c14127"
+pages: "jacs.5c14127"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Vadakkayil, Aravind and Fahim, Fiham and Dunlap-Shohl, Wiley A. and Vullo, Michael and Bloom, Brian P. and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2025-11-10"
+langid: "english"
+---

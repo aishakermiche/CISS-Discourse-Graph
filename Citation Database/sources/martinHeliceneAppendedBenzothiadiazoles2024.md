@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "martinHeliceneAppendedBenzothiadiazoles2024"
+title: "Helicene Appended Benzothiadiazoles as Chiral Emitters"
+volume: "30"
+issn: "0947-6539, 1521-3765"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202401413"
+doi: "10.1002/chem.202401413"
+abstract: "Abstract A homologous series of 4,7‐bis(aryl) substituted benzothiadiazole ({BTD}) compounds, containing the helicenic derivatives bis([4]helicene), bis([5]helicene) and bis([6]helicene), have been prepared upon a double Suzuki coupling between 3,6‐bis(pinacolyl‐borane)‐{BTD} and the corresponding bromo‐aryl precursors. The single crystal X‐ray structure of the bis([4]helicene) compound shows the existence of both helicities ( M ) and ( P ) on the same molecule. All the compounds of the series are highly emissive in solution, with quantum yields of the emission ranging from 50 to 91 \%. The enantiopure compounds ( M,M ) and ( P,P ) for the {BTD}‐bis([6]helicene) have been prepared from the corresponding enantiopure 2‐bromo‐[6]helicene precursors. Their chiroptical properties have been investigated in correlation with density functional theory ({DFT}) calculations, which allowed to confidently assign the absolute configuration of the helicene arms and to characterize the different electronic transitions, including the low energy charge transfer excitation from helicenes to {BTD}. The enantiomerically pure fluorophores ( M,M )‐ and ( P,P )‐{BTD}‐bis([6]helicene), which exist in solution as two main conformers, according to the {DFT} calculations, show {CPL} activity in solution, with g lum factors of ≈1.7×10 −3 at λ em =525 nm, and also in the solid state, with g lum factors of ≈1.2×10 −3 in spite of the strong decrease of the quantum efficiency."
+pages: "e202401413"
+number: "42"
+journaltitle: "Chemistry – A European Journal"
+shortjournal: "Chemistry A European J"
+author: "Martin, Kévin and Aharon, Tal and Mastropasqua Talamo, Maurizio and Hauser, Andreas and Bürgi, Thomas and Vanthuyne, Nicolas and Caricato, Marco and Avarvari, Narcis"
+urldate: "2026-06-24"
+date: "2024-07-25"
+langid: "english"
+---

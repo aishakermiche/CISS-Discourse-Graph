@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangChiralityEnhancedTripletState2025"
+title: "Chirality Enhanced Triplet-State Generation in a {DNA}-Intercalated Natural Antibiotic"
+volume: "147"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c17056"
+doi: "10.1021/jacs.5c17056"
+pages: "45629--45638"
+number: "49"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Wang, Lina and Wang, Lianxin and Wang, Xueli and Shen, Zhetao and Jia, Menghui and Pan, Haifeng and Mei, Ye and Chen, Jinquan"
+urldate: "2026-06-24"
+date: "2025-12-10"
+langid: "english"
+---

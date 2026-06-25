@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jungUniversalChiralNanopaint2025"
+title: "Universal Chiral Nanopaint for Metal Oxide Biomaterials"
+volume: "19"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.4c14460"
+doi: "10.1021/acsnano.4c14460"
+pages: "8632--8645"
+number: "9"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Jung, Wookjin and Lee, Dongkyu and Kim, Hohyeon and Son, Boyoung and Oh, Seungjun and Gong, Jeong Eun and Kim, Daehong and Yoon, Jungwon and Yeom, Jihyeon"
+urldate: "2026-06-24"
+date: "2025-03-11"
+langid: "english"
+---

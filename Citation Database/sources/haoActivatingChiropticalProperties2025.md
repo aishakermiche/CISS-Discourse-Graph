@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "haoActivatingChiropticalProperties2025"
+title: "Activating the Chiroptical Properties of High-Fold Axial Chiral Perovskite by a Chiral Induction Strategy"
+volume: "25"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c02909"
+doi: "10.1021/acs.nanolett.5c02909"
+pages: "12611--12619"
+number: "33"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Hao, Zechen and Lu, Haolin and Feng, Qihang and Zhang, Yunxin and Zhao, Wenkai and Shao, Tianyin and Niu, Xinyi and Wang, Hebin and Wang, Zhaoyu and Sun, Bing and Zhang, Hao-Li and Long, Guankui"
+urldate: "2026-06-24"
+date: "2025-08-20"
+langid: "english"
+---

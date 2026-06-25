@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dingChiralMetalHalide2025"
+title: "Chiral metal halide perovskites toward room temperature spin light-emitting diodes: Insights and perspectives"
+volume: "6"
+issn: "2688-4070"
+url: "https://pubs.aip.org/cpr/article/6/2/021303/3344038/Chiral-metal-halide-perovskites-toward-room"
+doi: "10.1063/5.0272833"
+shorttitle: "Chiral metal halide perovskites toward room temperature spin light-emitting diodes"
+abstract: "Chiral metal halide perovskites ({MHPs}) have emerged for the excellent integration of spin states of freedom with optoelectronic properties. The chiral-induced spin selectivity ({CISS}) effect enables chiral {MHPs} great potential to spin-dependent optoelectronic applications. In this review, we briefly summarize the construction principles and recent discoveries on the {CISS} effect of chiral {MHPs}. Then, the room temperature spin light-emitting diodes (spin-{LEDs}) based on the {CISS} effect of chiral {MHPs} are discussed. In the end, challenges and opportunities related to spin-{LEDs} based on chiral {MHPs} are proposed."
+pages: "021303"
+number: "2"
+journaltitle: "Chemical Physics Reviews"
+author: "Ding, Jingyi and Wang, Hailong and Tang, Jibo and Zhang, Linqing and Zhang, Wei and Wang, Qingqian"
+urldate: "2026-06-24"
+date: "2025-06-01"
+langid: "english"
+---

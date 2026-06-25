@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "laboratoryoftoxicologyfacultyofpharmacyuniversityofparis54avenuedelobservatoire75006parisfrance.ChiralDrugsOverview2006"
+title: "Chiral Drugs. An Overview"
+volume: "2"
+issn: "15509702, 15552810"
+url: "https://ijbs.org/User/ContentFullTextFrame.aspx?VolumeNO=2&StartPage=85"
+doi: "10.59566/IJBS.2006.2085"
+abstract: "About more than half of the drugs currently in use are chiral compounds and near 90\% of the last ones are marketed as racemates consisting of an equimolar mixture of two enantiomers. Although they have the same chemical structure, most isomers of chiral drugs exhibit marked differences in biological activities such as pharmacology, toxicology, pharmacokinetics, metabolism etc. Some mechanisms of these properties are also explained. Therefore, it is important to promote the chiral separation and analysis of racemic drugs in pharmaceutical industry as well as in clinic in order to eliminate the unwanted isomer from the preparation and to find an optimal treatment and a right therapeutic control for the patient. In this article, we review the nomenclature, pharmacology, toxicology, pharmacokinetics, metabolism etc of some usual chiral drugs as well as their mechanisms. Different techniques used for the chiral separation in pharmaceutical industry as well as in clinical analyses are also examined."
+pages: "85--100"
+number: "2"
+journaltitle: "International Journal of Biomedical Science"
+shortjournal: "Int. J Biomed Sci."
+author: "{Laboratory of Toxicology, Faculty of Pharmacy, University of Paris 5, 4 avenue de l'Observatoire, 75006 Paris, France.} and Chuong, Pham-Huy and Nguyen, Lien Ai and {Department of Pharmacy, Lucile Salter Packard Children's Hospital, Stanford University Medical Center, 725 Welch Road, Palo Alto, CA 94304, USA} and He, Hua and {Department of Analytical Chemistry, China Pharmaceutical University, Nanjing, 210009, China}"
+urldate: "2026-06-24"
+date: "2006-09-15"
+---

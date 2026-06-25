@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "finklerQuantumSensingControl2021"
+title: "Quantum Sensing and Control of Spin-State Dynamics in the Radical-Pair Mechanism"
+volume: "15"
+issn: "2331-7019"
+url: "https://link.aps.org/doi/10.1103/PhysRevApplied.15.034066"
+doi: "10.1103/PhysRevApplied.15.034066"
+pages: "034066"
+number: "3"
+journaltitle: "Physical Review Applied"
+shortjournal: "Phys. Rev. Applied"
+author: "Finkler, Amit and Dasari, Durga"
+urldate: "2026-06-24"
+date: "2021-03-23"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\BH9B342Q\\Finkler and Dasari - 2021 - Quantum Sensing and Control of Spin-State Dynamics in the Radical-Pair Mechanism.pdf:application/pdf"
+---

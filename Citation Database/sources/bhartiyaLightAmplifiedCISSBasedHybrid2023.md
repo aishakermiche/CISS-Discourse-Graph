@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bhartiyaLightAmplifiedCISSBasedHybrid2023"
+title: "Light-Amplified {CISS}-Based Hybrid {QD}-{DNA} Impedimetric Device for {DNA} Hybridization Detection"
+volume: "95"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0003-2700, 1520-6882"
+url: "https://pubs.acs.org/doi/10.1021/acs.analchem.2c04608"
+doi: "10.1021/acs.analchem.2c04608"
+pages: "3656--3665"
+number: "7"
+journaltitle: "Analytical Chemistry"
+shortjournal: "Anal. Chem."
+author: "Bhartiya, Prashant K. and {Suryansh} and Bangruwa, Neeraj and Srivastava, Manish and Mishra, Debabrata"
+urldate: "2026-06-24"
+date: "2023-02-21"
+langid: "english"
+---

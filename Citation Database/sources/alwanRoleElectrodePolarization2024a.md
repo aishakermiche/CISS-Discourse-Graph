@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "alwanRoleElectrodePolarization2024a"
+title: "Role of Electrode Polarization in the Electron Transport Chirality-Induced Spin-Selectivity Effect"
+volume: "128"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcc.3c08223"
+doi: "10.1021/acs.jpcc.3c08223"
+pages: "6438--6445"
+number: "15"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Alwan, Seif and Sharoni, Amos and Dubi, Yonatan"
+urldate: "2026-06-25"
+date: "2024-04-18"
+langid: "english"
+---

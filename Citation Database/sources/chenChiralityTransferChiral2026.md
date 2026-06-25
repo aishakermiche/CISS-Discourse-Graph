@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenChiralityTransferChiral2026"
+title: "Chirality transfer from chiral perovskite to molecular dopants via charge transfer states"
+volume: "17"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-026-70362-x"
+doi: "10.1038/s41467-026-70362-x"
+pages: "3757"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Chen, Guan-Lin and Tsai, Hsinhan and Shrestha, Reshna and Forde, Aaron and Crawley, Matthew R. and Wei, Cunyi and Tseng, Kai-Wei and Liu, Zhe-Yu and Dai, Chi-An and Tong, Xiao and Cotlet, Mircea and Wang, Leeyih and Tretiak, Sergei and Nie, Wanyi"
+urldate: "2026-06-24"
+date: "2026-03-10"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\4B5AYIUZ\\Chen et al. - 2026 - Chirality transfer from chiral perovskite to molecular dopants via charge transfer states.pdf:application/pdf"
+---

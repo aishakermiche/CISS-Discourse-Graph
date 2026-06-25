@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mantelEffectChiralityUltrafast2025"
+title: "Effect of Chirality on Ultrafast Triplet Exciton Formation in Electron Donor–Acceptor Cocrystals"
+volume: "147"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c10851"
+doi: "10.1021/jacs.5c10851"
+pages: "29592--29601"
+number: "32"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Mantel, Georgia C. and Kairys, Kyle T. and Williams, Malik L. and Krzyaniak, Matthew D. and Young, Ryan M. and Tempelaar, Roel and Wasielewski, Michael R."
+urldate: "2026-06-24"
+date: "2025-08-13"
+langid: "english"
+---

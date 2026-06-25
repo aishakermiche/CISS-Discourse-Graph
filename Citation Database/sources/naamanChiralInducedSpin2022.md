@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "naamanChiralInducedSpin2022"
+title: "Chiral Induced Spin Selectivity and Its Implications for Biological Functions"
+volume: "51"
+issn: "1936-122X, 1936-1238"
+url: "https://www.annualreviews.org/doi/10.1146/annurev-biophys-083021-070400"
+doi: "10.1146/annurev-biophys-083021-070400"
+abstract: "Chirality in life has been preserved throughout evolution. It has been assumed that the main function of chirality is its contribution to structural properties. In the past two decades, however, it has been established that chiral molecules possess unique electronic properties. Electrons that pass through chiral molecules, or even charge displacements within a chiral molecule, do so in a manner that depends on the electron's spin and the molecule's enantiomeric form. This effect, referred to as chiral induced spin selectivity ({CISS}), has several important implications for the properties of biosystems. Among these implications, {CISS} facilitates long-range electron transfer, enhances bio-affinities and enantioselectivity, and enables efficient and selective multi-electron redox processes. In this article, we review the {CISS} effect and some of its manifestations in biological systems. We argue that chirality is preserved so persistently in biology not only because of its structural effect, but also because of its important function in spin polarizing electrons."
+pages: "99--114"
+number: "1"
+journaltitle: "Annual Review of Biophysics"
+shortjournal: "Annu. Rev. Biophys."
+author: "Naaman, Ron and Paltiel, Yossi and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2022-05-09"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mamontovCloseShellBiradicalEnantiomers2026"
+title: "Close-Shell and Biradical Enantiomers for Probing the Chiral-Induced Spin Selectivity Effect"
+volume: "17"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.6c00717"
+doi: "10.1021/acs.jpclett.6c00717"
+pages: "5678--5684"
+number: "20"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Mamontov, Alexandre and Goldberg, Daniel and De Leener, Gaël and Luhmer, Michel and Andotra, Anmol and Pandey, Priya and Maini, Lucia and Dellemme, David and Surin, Mathieu and Gatsios, Christos and Koch, Norbert and Kuliashov, Oleg and Yochelis, Shira and Paltiel, Yossi and Geerts, Yves Henri"
+urldate: "2026-06-24"
+date: "2026-05-21"
+langid: "english"
+---

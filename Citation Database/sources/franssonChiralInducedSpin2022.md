@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "franssonChiralInducedSpin2022"
+title: "The Chiral Induced Spin Selectivity Effect What It Is, What It Is Not, And Why It Matters"
+volume: "62"
+issn: "0021-2148, 1869-5868"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/ijch.202200046"
+doi: "10.1002/ijch.202200046"
+abstract: "Abstract The chiral induced spin selectivity effect is an excited states phenomenon, which can be probed using photo‐spectroscopy as well as transport measurements. On the one hand such measurements represent averaged quantities, on the other hand nearly all theoretical descriptions, with only a few exceptions, have been concerned with energy dependent properties of the pertinent structures. While those properties may or may not be relevant for the chiral induced spin selectivity effect, many of those properties have been attributed as being the, or part of the, origins of the effect. Here, it is demonstrated that, for instance, the spin‐resolved transmission provides little, if any, information about the chiral induced spin selectivity effect. Moreover, although effective single‐electron theory can be used in this context, reasons are given for why such descriptions are not viable."
+pages: "e202200046"
+number: "11"
+journaltitle: "Israel Journal of Chemistry"
+shortjournal: "Israel Journal of Chemistry"
+author: "Fransson, J."
+urldate: "2026-06-24"
+date: "2022-12"
+langid: "english"
+---

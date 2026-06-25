@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "babcockRadicalScavengingCould2021"
+title: "Radical Scavenging Could Answer the Challenge Posed by Electron–Electron Dipolar Interactions in the Cryptochrome Compass Model"
+volume: "1"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "2691-3704, 2691-3704"
+url: "https://pubs.acs.org/doi/10.1021/jacsau.1c00332"
+doi: "10.1021/jacsau.1c00332"
+pages: "2033--2046"
+number: "11"
+journaltitle: "{JACS} Au"
+shortjournal: "{JACS} Au"
+author: "Babcock, Nathan Sean and Kattnig, Daniel R."
+urldate: "2026-06-24"
+date: "2021-11-22"
+langid: "english"
+---

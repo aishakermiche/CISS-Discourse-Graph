@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "shiChiralBiO2CO32026"
+title: "Chiral ({BiO})$_{\textrm{2}}$ {CO}$_{\textrm{3}}$ catalysts with spin-selective charge transport enhance photocatalytic oxygen evolution"
+volume: "18"
+issn: "2040-3364, 2040-3372"
+url: "https://xlink.rsc.org/?DOI=D6NR00364H"
+doi: "10.1039/D6NR00364H"
+abstract: "Intrinsically chiral ({BiO}) 2 {CO} 3 leverages the {CISS} effect to polarize photogenerated holes, promoting the 4-electron O 2 pathway while suppressing H 2 O 2 formation. This work links structural chirality to spin polarization and catalytic efficiency. , Photocatalytic water splitting for hydrogen production is limited by the sluggish kinetics of the oxygen evolution reaction ({OER}) and rapid recombination of photogenerated charge carriers. Because the {OER} requires the formation of triplet O 2 from singlet-state reactants, the spin states of reaction intermediates critically influence the reaction pathways. Spin mismatch introduces substantial kinetic barriers and can promote a competing two-electron pathway that produces H 2 O 2 , thereby lowering the overall efficiency. The chirality-induced spin selectivity ({CISS}) effect enables spin polarization without external magnetic fields, providing a promising strategy to regulate multi-electron catalytic processes. Here, we report the first synthesis of intrinsically chiral bismuth subcarbonate (({BiO}) 2 {CO} 3 , {BOC}) photocatalysts using sucrose as a bifunctional chiral directing agent. The resulting materials exhibit hierarchical chirality spanning lattice distortion, mesoscopic organization, and macroscopic helical nano-architectures. Magnetic conductive atomic force microscopy demonstrates that spin polarization increases monotonically with the optical chirality factor ( g ), reaching 68.3\% in the most strongly chiral sample. Correspondingly, increasing chirality leads to progressively enhanced photocurrent density, accelerated {OER} kinetics, improved charge utilization efficiency, and significantly suppressed H 2 O 2 formation. Electrochemically active surface area analysis reveals that samples with stronger chirality possess fewer exposed active sites but higher intrinsic activity per site, indicating that performance enhancement originates from improved single-site reactivity rather than increased site density. These results establish a direct correlation among chiral structure, spin polarization, and catalytic activity, providing a new design principle for spin-regulated high-performance photocatalysts."
+pages: "9801--9808"
+number: "18"
+journaltitle: "Nanoscale"
+shortjournal: "Nanoscale"
+author: "Shi, Yuqiang and Sun, Zhiwei and Wang, Yige and Fu, Xiaoxiao and Song, Zhijia and Xie, Zhaoxiong and Lin, Haixin"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

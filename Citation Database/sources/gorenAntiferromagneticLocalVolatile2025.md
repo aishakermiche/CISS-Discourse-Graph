@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gorenAntiferromagneticLocalVolatile2025"
+title: "Antiferromagnetic local volatile memory utilizing non-collinear Mn3Sn thin films and chiral gating"
+volume: "6"
+issn: "2662-4443"
+url: "https://www.nature.com/articles/s43246-025-00954-5"
+doi: "10.1038/s43246-025-00954-5"
+pages: "238"
+number: "1"
+journaltitle: "Communications Materials"
+shortjournal: "Commun Mater"
+author: "Goren, Naama and Hazra, Binoy Krishna and Zhang, Tian-Yi and Yochelis, Shira and Sun, Qing-Feng and Parkin, Stuart S. P. and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2025-11-04"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\LUIJP6P6\\Goren et al. - 2025 - Antiferromagnetic local volatile memory utilizing non-collinear Mn3Sn thin films and chiral gating.pdf:application/pdf"
+---

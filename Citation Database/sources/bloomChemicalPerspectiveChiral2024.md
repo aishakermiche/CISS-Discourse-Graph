@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bloomChemicalPerspectiveChiral2024"
+title: "A chemical perspective on the chiral induced spin selectivity effect"
+volume: "11"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "2095-5138, 2053-714X"
+url: "https://academic.oup.com/nsr/article/doi/10.1093/nsr/nwae212/7697177"
+doi: "10.1093/nsr/nwae212"
+abstract: "{ABSTRACT} This review discusses opportunities in chemistry that are enabled by the chiral induced spin selectivity ({CISS}) effect. First, the review begins with a brief overview of the seminal studies on {CISS}. Next, we discuss different chiral material systems whose properties can be tailored through chemical means, with a special emphasis on hybrid organic-inorganic layered materials that exhibit some of the largest spin filtering properties to date. Then, we discuss the promise of {CISS} for chemical reactions and enantioseparation before concluding."
+pages: "nwae212"
+number: "9"
+journaltitle: "National Science Review"
+author: "Bloom, Brian P and Chen, Zhongwei and Lu, Haipeng and Waldeck, David H"
+urldate: "2026-06-24"
+date: "2024-08-13"
+langid: "english"
+---

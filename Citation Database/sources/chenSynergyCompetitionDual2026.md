@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenSynergyCompetitionDual2026"
+title: "Synergy and Competition of Dual Chirality in the Chirality-Induced Spin Selectivity of Supramolecular Helices"
+volume: "148"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.6c03497"
+doi: "10.1021/jacs.6c03497"
+pages: "23953--23964"
+number: "23"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Chen, Song and Zhang, Kai-Yuan and Sun, Xi and Zhou, Shu-Zheng and Fu, Hua-Hua"
+urldate: "2026-06-24"
+date: "2026-06-17"
+langid: "english"
+---

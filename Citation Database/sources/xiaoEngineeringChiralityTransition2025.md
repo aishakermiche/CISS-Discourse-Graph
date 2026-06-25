@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "xiaoEngineeringChiralityTransition2025"
+title: "Engineering Chirality of Transition Metal‐Based Nanomaterials for Enhanced Electrocatalysis"
+volume: "35"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202508134"
+doi: "10.1002/adfm.202508134"
+abstract: "Abstract Transition metal‐based chiral nanomaterials have emerged as a highly promising class of electrocatalysts, uniquely combining the intrinsic electrocatalytic activity of transition metals with properties that arise specifically from chirality. In particular, the chirality‐induced spin selectivity ({CISS}) effect, which modulates electron spin polarization, has provided a powerful approach to controlling reaction pathways and enhancing catalytic performance. Substantial advances are achieved in both the synthesis and application of these transition metal‐based chiral nanomaterials, leading to improvements in a variety of electrocatalytic reactions. Nevertheless, a deeper understanding of the formation mechanisms of diverse chiral structures and the mechanistic relationship between chiral configurations and improved electrocatalytic performance is still needed. This review systematically examines synthetic strategies for constructing transition metal‐based chiral nanomaterials with different structural features. An in‐depth discussion of the {CISS} effect and its role in a wide range of electrocatalytic reactions is then provided. Finally, the current challenges in both synthesis and application are assessed, and offer perspectives on future research directions such as leveraging machine learning‐assisted chiral design and advanced in situ spectroscopy to accelerate the development of chiral‐enabled, spin‐selective electrocatalytic systems."
+pages: "2508134"
+number: "44"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Xiao, Chengyu and Fu, Wenlong and Tan, Lili and Wang, Peng‐peng"
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+---

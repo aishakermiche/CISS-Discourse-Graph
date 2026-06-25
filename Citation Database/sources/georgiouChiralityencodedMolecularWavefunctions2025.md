@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "georgiouChiralityencodedMolecularWavefunctions2025"
+title: "Chirality-encoded molecular wavefunctions"
+volume: "163"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/163/20/204104/3373213/Chirality-encoded-molecular-wavefunctions"
+doi: "10.1063/5.0293823"
+abstract: "For enantiomers, the ground-state charge densities are mapped into one another by spatial reflection, yet—when spin–orbit coupling ({SOC}) is present—their occupied spinors need not coincide beyond a global phase. {SOC} encodes spatially varying, intrinsic phase textures whose gradients leave the density unchanged but enter gauge-invariant response combinations. These phases provide a general mechanism for enantiospecific contributions in response tensors. We show that isotropic pseudoscalar signatures arise only from polar-axial couplings, while same-parity couplings remain mirror-even; in oriented samples, anisotropic tensor components can also flip sign. We derive analytical bounds linking {SOC}-driven spinor phases and amplitude distortions to measurable tensor differences and validate them with relativistic plane wave density-functional calculations on prototypical chiral molecules. Plane waves are chosen because they faithfully represent delocalized {SOC} phase textures that standard localized bases struggle to capture. Experiments that couple mirror-odd operators to {SOC}-induced phases in chiral samples can, in principle, yield enantiospecific responses."
+pages: "204104"
+number: "20"
+journaltitle: "The Journal of Chemical Physics"
+author: "Georgiou, T. and Palma, J. L. and Mujica, V. and Schwartz, R. N. and Bouchard, L.-S."
+urldate: "2026-06-24"
+date: "2025-11-28"
+langid: "english"
+---

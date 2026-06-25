@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "zhangChiralityDetectionBiological2023"
+title: "Chirality detection of biological molecule through spin selectivity effect"
+volume: "159"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/159/11/114703/2911567/Chirality-detection-of-biological-molecule-through"
+doi: "10.1063/5.0156513"
+abstract: "The ability to accurately monitor chiral biological molecules is of great significance for their potential applications in disease diagnosis and virus detection. As the existing chiral detection technologies are mainly relying on an optical method by using left/right circularly polarized light, the universality is low and the operation is complicated. Moreover, large quantity of chiral molecules is required, causing low detection efficiency. Here, a self-assembled monolayer of polypeptides has been fabricated to realize trace detection of chirality based on spin selectivity of photon–electron interaction. We have utilized Kerr technique to detect the rotation angle by the molecular monolayer, which indicates the chirality of polypeptides. The chiral structure of a biological molecule could result in spin-selectivity of electrons and thus influence the interaction between electron spin and light polarization. A Kerr rotation angle of ∼3° has been obviously observed, equivalent to the magneto-optic Kerr effect without magnetic material or magnetic field. Furthermore, we have provided a novel solution to achieve chirality discrimination and amplification simultaneously through an optical fiber. The proposed design is applicable for chiral detection via increasing their differential output signal, which clearly demonstrates a useful strategy toward chirality characterization of biological molecules."
+pages: "114703"
+number: "11"
+journaltitle: "The Journal of Chemical Physics"
+author: "Zhang, Yu and Wang, Guangcheng and Liu, Fangyuan and Shang, Zixuan and Li, Tianhao and Yang, Qianqian and Zhai, Tianrui and Wang, Xiaolei"
+urldate: "2026-06-24"
+date: "2023-09-21"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bangruwaCISSBasedLabelFreeNovel2022"
+title: "{CISS}-Based Label-Free Novel Electrochemical Impedimetric Detection of {UVC}-Induced {DNA} Damage"
+volume: "7"
+rights: "https://pubs.acs.org/page/policy/authorchoice\_ccbyncnd\_termsofuse.html"
+issn: "2470-1343, 2470-1343"
+url: "https://pubs.acs.org/doi/10.1021/acsomega.2c04659"
+doi: "10.1021/acsomega.2c04659"
+pages: "37705--37713"
+number: "42"
+journaltitle: "{ACS} Omega"
+shortjournal: "{ACS} Omega"
+author: "Bangruwa, Neeraj and Srivastava, Manish and Mishra, Debabrata"
+urldate: "2026-06-24"
+date: "2022-10-25"
+langid: "english"
+---

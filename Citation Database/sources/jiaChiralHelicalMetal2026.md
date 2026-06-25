@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jiaChiralHelicalMetal2026"
+title: "Chiral Helical Metal–Organic Frameworks with Intrinsic Spin Polarization Enable Enantioselective Electropolymerization"
+volume: "148"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.6c02817"
+doi: "10.1021/jacs.6c02817"
+pages: "21834--21845"
+number: "21"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Jia, Lei and Xu, Lijun and Liu, Dan and Jiang, Chao and Tang, Jingyan and Gong, Wei and Yan, Qiang and Liu, Yan and Dong, Jinqiao and Cui, Yong"
+urldate: "2026-06-24"
+date: "2026-06-03"
+langid: "english"
+---

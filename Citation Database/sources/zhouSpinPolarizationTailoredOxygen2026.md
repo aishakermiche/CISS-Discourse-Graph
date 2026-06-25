@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhouSpinPolarizationTailoredOxygen2026"
+title: "Spin-Polarization Tailored Oxygen Evolution of Chiral Gold Nanocrystals Probed by Single-Particle Electrochemistry"
+volume: "20"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.6c05258"
+doi: "10.1021/acsnano.6c05258"
+pages: "15697--15705"
+number: "21"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Zhou, Huaxu and Wang, Yan and Zhang, Wanning and Zhang, Weitong and Fang, Yuxi and Yi, Tao and Chen, Qianjin"
+urldate: "2026-06-24"
+date: "2026-06-02"
+langid: "english"
+---

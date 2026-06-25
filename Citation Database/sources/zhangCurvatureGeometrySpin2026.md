@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangCurvatureGeometrySpin2026"
+title: "Curvature geometry–spin electronics–catalytic dynamics coupling in emerging catalytic engineering"
+volume: "55"
+issn: "0306-0012, 1460-4744"
+url: "https://xlink.rsc.org/?DOI=D5CS01114K"
+doi: "10.1039/D5CS01114K"
+abstract: "Nanoscale curvature induces asymmetric strain and electronic reconstruction, activating spin polarization and spin-selective electron transfer. Curvature–spin coupling reshapes energy landscapes and kinetic pathways for programmable catalysis. , In complex reaction systems such as energy conversion and environmental catalysis, the traditional “structure–performance” relationship framework centered around active sites is gradually revealing limitations, such as insufficient regulation dimensions and rigid reaction pathways. In recent years, curvature engineering and spin degree of freedom regulation have emerged as new paradigms for structural and electronic dimension control, showing potential to break through the limitations of conventional catalytic pathway selectivity and reaction rates. Although previous studies have reported catalytic responses to strain induced by curvature and spin-polarization effects, the intrinsic coupling mechanism between the two remains underexplored and lacks systematic summarization and theoretical unification. This review proposes a “curvature–spin–catalytic dynamics triple coupling frontier mechanism”, aiming to elucidate how non-uniform geometric perturbations at the nanoscale collaboratively drive electronic structure reconstruction, spin state transitions, and reaction barrier adjustments. The physical origins, microscopic pathways, and experimental characterization related to this coupling mechanism are integrated across scales. Beginning with lattice distortion-induced d-orbital reorganization and crystal field regulation, the discussion extends to enhanced orbital–spin coupling, spin-filtered electron transfer, and pathway differentiation, further connecting to dynamic feedback, self-regulating active platform construction, and multi-physical field responsive regulation. This review also summarizes key advances in related in situ characterization techniques, first-principles simulation systems, and multi-field coupling configurations. This review not only fills the gap in the catalysis field regarding the triple coupling mechanism of structure–electron–reaction pathways, but also provides a paradigm framework and cross-scenario guidance for the development of next-generation programmable and responsive catalytic systems."
+pages: "2691--2730"
+number: "5"
+journaltitle: "Chemical Society Reviews"
+shortjournal: "Chem. Soc. Rev."
+author: "Zhang, Xiayan and Lu, Jinrong and Liu, Jialu and Sun, Mingyu and Zhang, Guoqing and Kong, Shengwei and Zhang, Mengzhou and Wang, Jia and Li, Zihang and Shi, Xinjian"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

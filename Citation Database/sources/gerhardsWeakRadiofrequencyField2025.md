@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gerhardsWeakRadiofrequencyField2025"
+title: "Weak Radiofrequency Field Effects on Biological Systems Mediated through the Radical Pair Mechanism"
+volume: "125"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "0009-2665, 1520-6890"
+url: "https://pubs.acs.org/doi/10.1021/acs.chemrev.5c00178"
+doi: "10.1021/acs.chemrev.5c00178"
+pages: "8051--8088"
+number: "17"
+journaltitle: "Chemical Reviews"
+shortjournal: "Chem. Rev."
+author: "Gerhards, Luca and Deser, Andreas and Kattnig, Daniel R. and Matysik, Jörg and Solov’yov, Ilia A."
+urldate: "2026-06-24"
+date: "2025-09-10"
+langid: "english"
+---

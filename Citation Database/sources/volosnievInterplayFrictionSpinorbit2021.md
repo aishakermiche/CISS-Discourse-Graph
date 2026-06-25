@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "volosnievInterplayFrictionSpinorbit2021"
+title: "Interplay between friction and spin-orbit coupling as a source of spin polarization"
+volume: "104"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.104.024430"
+doi: "10.1103/PhysRevB.104.024430"
+pages: "024430"
+number: "2"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Volosniev, Artem G. and Alpern, Hen and Paltiel, Yossi and Millo, Oded and Lemeshko, Mikhail and Ghazaryan, Areg"
+urldate: "2026-06-24"
+date: "2021-07-26"
+langid: "english"
+file: "Accepted Version:C\:\\Users\\19496\\Zotero\\storage\\N45DGPIF\\Volosniev et al. - 2021 - Interplay between friction and spin-orbit coupling as a source of spin polarization.pdf:application/pdf"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "liuEmergingFrontiersChiral2024"
+title: "Emerging frontiers in chiral {II}\&ndash;{VI} semiconductor nanostructures"
+volume: "54"
+issn: "1674-7224"
+url: "https://engine.scichina.com/doi/10.1360/SSC-2024-0073"
+doi: "10.1360/SSC-2024-0073"
+pages: "1337--1351"
+number: "8"
+journaltitle: "{SCIENTIA} {SINICA} Chimica"
+shortjournal: "Sci. Sin.-Chim"
+author: "Liu, Peizhao and Zhang, Huaifang and Zhou, Binqian and Cao, Tao and Chen, Wei and Li, Yiwen and Hao, Junjie and Pan, Ruikun and Cheng, Jiaji"
+urldate: "2026-06-24"
+date: "2024-08-01"
+langid: "english"
+---

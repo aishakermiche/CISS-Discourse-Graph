@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "leeCu2CuChiral2025"
+title: "Cu$_{\textrm{2}}$ O/Cu Chiral Catalysts for Highly Selective Solar‐Assisted {CO}$_{\textrm{2}}$ ‐to‐{CO} Electroreduction"
+volume: "35"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202508577"
+doi: "10.1002/adfm.202508577"
+abstract: "Abstract The intrinsic spin control capabilities of chiral materials help regulate the spin states of charge carriers, suppressing singlet‐state byproducts like H 2 and {HCOOH} while enhancing the Faradaic efficiency ({FE}) for {CO}. To induce strong chirality in transition‐metal‐based catalysts, intermediate organic molecules are utilized with extended chains in the chiral ligand complex to preserve chirality during hydrothermal synthesis. The resulting L ‐(‐)‐diethanolamine ( L ‐{DEA}) Cu 2 O/Cu chiral catalyst demonstrates high spin polarization efficiency, achieving a current density of −140 {mA} cm −2 at −1 V {RHE} , with a {FE} {CO} ​ exceeding 80\%. Conversely, its {FE} H2 reduced to 1.6\%. The L ‐{DEA} Cu 2 O/Cu chiral catalyst is subsequently integrated with a perovskite‐based photocathode and a {BiVO} 4 photoanode in a bias‐free tandem system. This artificial photosynthesis system demonstrates a solar‐to‐chemical efficiency ( η {STC} ) of 6.37\% ( η {STC} ,{CO} of 4.49\%), with a {FE} {CO} of 80\%, maintaining stable operation for 14 h."
+pages: "e08577"
+number: "50"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Lee, Hyungsoo and Park, Young Sun and Kwon, Eunji and Jeong, Chang‐Seop and Yun, Juwon and Moon, Subin and Lee, Soobin and Kim, Jun Hwan and Kim, Donghyun and Jeong, Wooyong and Son, Jaehyun and Park, Jihwon and Yu, Seungho and Moon, Jooho"
+urldate: "2026-06-24"
+date: "2025-12"
+langid: "english"
+---

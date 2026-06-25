@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "huangSpinSelectiveOxygenEvolution2026"
+title: "Spin‐Selective Oxygen Evolution in Chiral Molecule‐Intercalated Layered Double Hydroxides"
+issn: "2198-3844, 2198-3844"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76090"
+doi: "10.1002/advs.76090"
+abstract: "{ABSTRACT} The chiral‐induced spin selectivity ({CISS}) effect offers a novel paradigm for designing high‐performance catalysts for spin‐dependent oxygen evolution reactions ({OER}). Layered double hydroxides ({LDHs}), are widely used for oxygen evolution reaction ({OER}) due to their superior electrocatalytic activity and stability in alkaline environments. Here, we demonstrate that intercalating chiral phenylalanine molecules into {CoFe}‐{LDH} induces spin‐polarized {OER} via the {CISS} effect, while simultaneously expanding the interlayer spacing. The resulting chiral–inorganic hybrid interface directs the reaction along a lower‐energy pathway, promoting the formation of triplet O 2 , and exhibits outstanding {OER} performance with a lower overpotential of 245 {mV} at 10 {mA} cm −2 , as well as faster charge‐transfer kinetics compared to its achiral counterpart. Using in situ {XANES}, in situ Raman spectroscopy, and nanoscale scanning electrochemical cell microscopy ({SECCM}), we further uncover the fundamental origin of this chiral‐induced spin‐selective behavior. This study establishes a general strategy for designing advanced, stable oxide‐based electrocatalysts, where intercalated chiral molecules manipulate spin dynamics to improve reaction kinetics and selectivity."
+pages: "e76090"
+journaltitle: "Advanced Science"
+shortjournal: "Advanced Science"
+author: "Huang, Chih‐Ying and Wu, Cheng‐Rong and Lu, Yang‐Sheng and Chang, Yu‐Ying and Chang, Chia‐Che and Liu, Tsung‐Hsin and Lee, Che‐Lun and Shiue, Jessie and Lin, Yu‐Chang and Chuang, Wei‐Tsung and Tsai, Huang‐Ming and Ho, Ya‐Lun and Chiou, Jau‐Wern and Hsu, Hua‐Shu and Li, Shao‐Sian and Chen, Chia‐Chun and Pong, Way‐Faung and Chen, Chun‐Wei"
+urldate: "2026-06-24"
+date: "2026-06-16"
+langid: "english"
+---

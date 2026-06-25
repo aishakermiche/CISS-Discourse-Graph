@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "hisanoHelicalSupramolecularPolymers2025"
+title: "Helical Supramolecular Polymers Formed via Head‐to‐Tail Host‐Guest Complexation of Chiral Bisporphyrin Monomers with Trinitrofluorenone"
+volume: "31"
+issn: "0947-6539, 1521-3765"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202404210"
+doi: "10.1002/chem.202404210"
+abstract: "Abstract The intermolecular host‐guest complexation of head‐to‐tail monomers consisting of cleft‐shaped bisporphyrin and trinitrofluorenone units connected by a chiral binaphthyl linker was employed to construct helically twisted supramolecular polymers. Results from 1 H {NMR}, diffusion‐ordered {NMR} spectroscopy, and viscometry experiments revealed that the supramolecular polymerization of these monomers follows a ring‐chain competition mechanism. The introduction of bulky substituents at the linker significantly suppressed the formation of macrocyclic oligomers, whereas smaller alkyl chains facilitated the formation of the cyclic form. The chirally twisted structures of the supramolecular polymers were confirmed using circular dichroism spectroscopy. Atomic force microscopy revealed that the ( R )‐ and ( S )‐configurations of the binaphthyl linkers induced right‐ and left‐handed helical structures, respectively, in the supramolecular polymer chains. The absence of cooperativity in the supramolecular copolymerization of ( R )‐ and ( S )‐ 1 a resulted in the formation of stereo‐random supramolecular copolymers."
+pages: "e202404210"
+number: "15"
+journaltitle: "Chemistry – A European Journal"
+shortjournal: "Chemistry A European J"
+author: "Hisano, Naoyuki and Kodama, Tomoki and Koya, Soichiro and Haino, Takeharu"
+urldate: "2026-06-24"
+date: "2025-03-12"
+langid: "english"
+---

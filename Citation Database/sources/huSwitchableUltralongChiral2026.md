@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "huSwitchableUltralongChiral2026"
+title: "Switchable Ultralong Chiral Signal Transmission and Gate Tunability in Organic Chiral Semiconductor"
+volume: "9"
+issn: "2639-5274"
+url: "https://spj.science.org/doi/10.34133/research.1306"
+doi: "10.34133/research.1306"
+abstract: "Chiral structures have substantial potential for spin information utilization because of their distinctive spatial symmetry-breaking features and the consequent strong spin–charge correlation. One of the limitations in the development of chiral spintronics for both theoretical and practical applications is the limited range of chiral-related signal transmission, which is only tens of nanometers and is usually determined by the conductivity of the chiral materials and device applicability. In addition, the role of circularly polarized light, an important chiral parameter, in chiral signal transmission has been typically neglected. In this study, targeted chiral induction was conducted using the semiconductor polymer {PCDTPT} ([4-(4,4-dihexadecyl-4 H -cyclopenta[1,2-b:5,4-b′]dithiophen-2-yl)-alt-[1,2,5]thiad-iazolo [3,4-c] pyridine]), which was further used to fabricate a field-effect transistor device. In a dark environment, the chiral-related signal could be transmitted up to 10 μm with an external magnetic field. Through the synergistic effects of spin-selective transition and chiral spin filtering under illumination, the chiral signal expression was fundamentally switched to another form, and the transmission distance was notably increased to the millimeter scale. In addition, owing to the flexible external field tunability (gate voltage, temperature, and polarized light) in multiple scenarios, the chiral signals reflected detailed dynamic changes. The achievement of long-distance chiral signal transmission and circularly polarized light-induced signal conversion and extension is expected to promote the development of chiral spintronics for both theoretical and practical applications."
+pages: "1306"
+journaltitle: "Research"
+shortjournal: "Research"
+author: "Hu, Renjie and Niu, Xiaoying and Lu, Xiangqian and Li, Shilin and Yu, Yuan and Zhao, Xiangping and Xiang, Zhiwei and Song, Kepeng and Nam, Ki Tae and Gao, Kun and Qin, Wei"
+urldate: "2026-06-24"
+date: "2026-01-01"
+langid: "english"
+---

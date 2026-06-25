@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "pengBifunctionalPhenylalanineLysine2026"
+title: "A Bifunctional Phenylalanine–Lysine Oligopeptide Enabling Both Chiral Differentiation and Relative Configuration Analysis by Nuclear Magnetic Resonance Spectroscopy"
+volume: "148"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c22161"
+doi: "10.1021/jacs.5c22161"
+pages: "13035--13042"
+number: "12"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Peng, Yun and Zhu, Mingjun and Xiang, Qilin and Wang, Jiening and Yu, Gangjin and Wang, Guan and Wu, Shan and Zhang, Xu and He, Lichun and Liu, Maili"
+urldate: "2026-06-24"
+date: "2026-04-01"
+langid: "english"
+---

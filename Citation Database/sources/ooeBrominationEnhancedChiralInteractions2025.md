@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ooeBrominationEnhancedChiralInteractions2025"
+title: "Bromination-Enhanced Chiral Interactions for Triphenylamine on Au and Ag(111)"
+volume: "129"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcc.4c08221"
+doi: "10.1021/acs.jpcc.4c08221"
+pages: "4976--4984"
+number: "10"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Ooe, Hiroaki and Takasugi, Kazushiro and Yokoyama, Takashi"
+urldate: "2026-06-24"
+date: "2025-03-13"
+langid: "english"
+---

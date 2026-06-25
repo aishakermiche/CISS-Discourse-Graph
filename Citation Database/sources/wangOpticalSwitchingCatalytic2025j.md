@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangOpticalSwitchingCatalytic2025j"
+title: "Optical Switching of Catalytic Pathways for Hydrogen Generation via Light‐Handedness Control on Chiral Nanostructures"
+volume: "64"
+issn: "1433-7851, 1521-3773"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/anie.202517047"
+doi: "10.1002/anie.202517047"
+abstract: "Abstract Precise optical control over catalytic pathways remains a major challenge in solar‐driven hydrogen production. Here, we report a reversible light‐handedness‐dependent switching mechanism between photocatalysis and photothermal catalysis using a standard Au@{CdS} nanocatalyst functionalized with chiral cysteine ligands. The switching behavior is governed by the interplay of chemical chirality and circularly polarized light, mediated by the chirality‐induced spin selectivity effect. When the handedness of circularly polarized light matches the catalyst's chirality, spin‐polarized carriers are efficiently transferred, favoring photocatalysis. In contrast, mismatched conditions suppress charge transfer, enhance recombination, and induce localized heating, shifting the reaction toward photothermal catalysis. Tuning the handedness of circularly polarized light to mismatch the catalyst chirality induces a significant photothermal effect, with temperatures reaching 343 K and hydrogen evolution rates of up to 4.8 mmol g −1 h −1 , doubling the performance in the matched case. This study introduces a light‐handedness‐controlled catalytic switch that enables dynamic modulation between two reaction modes using the same chiral catalyst, advancing our mechanistic understanding of spin‐dependent photothermal phenomena and establishing a versatile platform for optically tunable solar fuel production. The interaction of chemical and optical chirality offers a novel approach to designing next‐generation photocatalysts that can be tailored for energy conversion."
+pages: "e202517047"
+number: "52"
+journaltitle: "Angewandte Chemie International Edition"
+shortjournal: "Angew Chem Int Ed"
+author: "Wang, Qingli and Liu, Jiahong and Li, Shouyuan and Ji, Shuaikun and Zhang, Caiwei and Wang, Junting and Zhang, Jiatao and Wang, Yiou"
+urldate: "2026-06-24"
+date: "2025-12-22"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "leeTunableSpinQubit2025"
+title: "Tunable Spin Qubit Pairs in Quantum Dot–Molecule Conjugates"
+volume: "19"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c00288"
+doi: "10.1021/acsnano.5c00288"
+pages: "12194--12207"
+number: "12"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Lee, Autumn Y. and Teferi, Mandefro and Hernandez, Frida S. and Jain, Amisha and Tran, Tiffany and Wang, Kefu and Mani, Tomoyasu and Schwartzberg, Adam M. and Tang, Ming Lee and Niklas, Jens and Poluektov, Oleg G. and Olshansky, Jacob H."
+urldate: "2026-06-24"
+date: "2025-04-01"
+langid: "english"
+---

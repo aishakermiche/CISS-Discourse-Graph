@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tangChiralIonicLiquids2025"
+title: "Chiral Ionic Liquids Enable High‐Performance Room Temperature Single Junction Spin‐Light Emitting Diodes"
+volume: "19"
+issn: "1863-8880, 1863-8899"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202401008"
+doi: "10.1002/lpor.202401008"
+abstract: "Abstract Room temperature and solution‐processible spin‐light emitting diodes (spin‐{LEDs}) are of practical importance since electronic spins act as information carriers for circularly polarized electroluminescence ({CP}‐{EL}) generation. The recent boost of quasi‐2D chiral hybrid perovskites ({CHPs}) has gained unprecedented attention because of the possible spin manipulation via innate chiral‐induced spin‐orbit coupling ({CISOC}) without involving cumbersome spin injection from ferromagnets. Herein, a unique method is developed using chiral ionic liquids ({CILs}) as antisolvents for fabricating highly reproducible and stable lead‐bromide thin films based single junction spin‐{LEDs}. With this, the chirality is successfully transferred into the perovskites with outstanding chiroptical properties and improved film crystallinities. More than 75\% photoluminescent quantum yields ({PLQY}) and 13\% {CP}‐{EL} have been achieved. The existence of chiral‐induced spin selectivity ({CISS}) is proved and a large degree of polarized spin current () of ≈80\% with a long spin lifetime exceeding 1.0 ns is attained. Further their magneto‐chiroptical effects are explored through magnetic circular dichroism ({MCD}) and magneto‐photoluminescence ({MPL}). The method opens a new avenue for the development of {CHPs} and high‐performance single junction spin‐{LEDs}."
+pages: "2401008"
+number: "2"
+journaltitle: "Laser \& Photonics Reviews"
+shortjournal: "Laser \&amp; Photonics Reviews"
+author: "Tang, Jun and Tao, Sheng and Li, Yang and Zhang, Xiangpeng and Kan, Lixuan and Zhang, Guoshuai and Jiang, Linze and Zhou, Jin and Qin, Yang and Sun, Xiangnan and Yang, Yijun and Zhu, Xixiang and Yu, Haomiao and Li, Jinpeng and Yu, Zhi‐gang and Wang, Kai"
+urldate: "2026-06-24"
+date: "2025-01"
+langid: "english"
+---

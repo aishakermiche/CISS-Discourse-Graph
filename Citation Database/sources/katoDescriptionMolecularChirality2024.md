@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "katoDescriptionMolecularChirality2024"
+title: "Description of molecular chirality and its analysis with high harmonic generation"
+volume: "110"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.110.085308"
+doi: "10.1103/PhysRevB.110.085308"
+pages: "085308"
+number: "8"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Kato, Akihito and Yokoshi, Nobuhiko"
+urldate: "2026-06-24"
+date: "2024-08-30"
+langid: "english"
+---

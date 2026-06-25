@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "simoniFirstprinciplesOpenQuantum2025"
+title: "First-principles open quantum dynamics for solids based on density-matrix formalism"
+volume: "163"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/163/17/170901/3371184/First-principles-open-quantum-dynamics-for-solids"
+doi: "10.1063/5.0277603"
+abstract: "The theoretical description of materials’ properties driven out of equilibrium has important consequences in various fields such as semiconductor spintronics, nonlinear optics, and continuous and discrete quantum information science and technology. The coupling of a quantum many-body system to an external bath can dramatically modify its dynamics compared to that of closed systems; new phenomena like relaxation and decoherence appear as a consequence of the non-unitary evolution of the quantum system. In addition, electron–electron correlations must be properly accounted for in order to go beyond a simple one-electron or mean-field description of the electronic system. Here, we discuss a first-principles methodology based on the evolution of the electronic density matrix capable of treating electron–environment interactions and electron–electron correlations at the same level of description. The effect of the environment is separated into a coherent contribution, like the coupling to applied external electromagnetic fields, and an incoherent contribution, like the interaction with lattice vibrations or the thermal background of radiation. Electron–electron interactions are included using the nonequilibrium Green’s function plus the generalized Kadanoff–Baym ansatz. The obtained non-Markovian coupled set of equations reduces to the ordinary Lindblad quantum master equation form in the Markovian limit."
+pages: "170901"
+number: "17"
+journaltitle: "The Journal of Chemical Physics"
+author: "Simoni, Jacopo and Riva, Gabriele and Ping, Yuan"
+urldate: "2026-06-24"
+date: "2025-11-07"
+langid: "english"
+---

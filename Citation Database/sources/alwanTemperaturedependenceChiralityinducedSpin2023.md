@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "alwanTemperaturedependenceChiralityinducedSpin2023"
+title: "Temperature-dependence of the chirality-induced spin selectivity effect—Experiments and theory"
+volume: "159"
+issn: "0021-9606"
+url: "https://doi.org/10.1063/5.0147886"
+doi: "10.1063/5.0147886"
+abstract: "The temperature-dependence of the chirality-induced spin selectivity ({CISS}) effect can be used to discriminate between different theoretical proposals for the mechanism of the {CISS} effect. Here, we briefly review key experimental results and discuss the effect of temperature in different models for the {CISS} effect. We then focus on the recently suggested spinterface mechanism and describe the different possible effects temperature can have within this model. Finally, we analyze in detail recent experimental results presented in the work of Qian et al. [Nature 606, 902–908 (2022)] and demonstrate that, contrary to the original interpretation by the authors, these data actually indicate that the {CISS} effect increases with decreasing temperature. Finally, we show how the spinterface model can accurately reproduce these experimental results."
+pages: "014106"
+number: "1"
+journaltitle: "The Journal of Chemical Physics"
+shortjournal: "The Journal of Chemical Physics"
+author: "Alwan, Seif and Sarkar, Subhajit and Sharoni, Amos and Dubi, Yonatan"
+urldate: "2024-12-30"
+date: "2023-07-05"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\2F8TV2VD\\Alwan et al. - 2023 - Temperature-dependence of the chirality-induced sp.pdf:application/pdf;Snapshot:C\:\\Users\\19496\\Zotero\\storage\\6DCR6Q2X\\Temperature-dependence-of-the-chirality-induced.html:text/html"
+---

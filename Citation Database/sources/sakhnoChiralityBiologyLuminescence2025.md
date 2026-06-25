@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sakhnoChiralityBiologyLuminescence2025"
+title: "Chirality in Biology, Luminescence, Catalysis, and Spintronics: An Analysis of New Approaches: A Review"
+volume: "61"
+issn: "0040-5760, 1573-935X"
+url: "https://link.springer.com/10.1007/s11237-026-09862-2"
+doi: "10.1007/s11237-026-09862-2"
+shorttitle: "Chirality in Biology, Luminescence, Catalysis, and Spintronics"
+pages: "155--179"
+number: "3"
+journaltitle: "Theoretical and Experimental Chemistry"
+shortjournal: "Theor Exp Chem"
+author: "Sakhno, T. V. and Minaev, B. P. and Sakhno, Y. E."
+urldate: "2026-06-24"
+date: "2025-07"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "salehResonantEdelsteinInverse2026"
+title: "Resonant Edelstein and inverse Edelstein effects, charge-to-spin conversion, and spin pumping from chiral-spin modes"
+volume: "113"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/5p54-96d7"
+doi: "10.1103/5p54-96d7"
+pages: "099602"
+number: "9"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Saleh, Mojdeh and Kumar, Abhishek and Maslov, Dmitrii L. and Maiti, Saurabh"
+urldate: "2026-06-24"
+date: "2026-03-25"
+langid: "english"
+---

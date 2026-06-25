@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "hirakidaSymmetryRequirementsCurrentinduced2025"
+title: "Symmetry requirements for current-induced spin magnetization specific to chiral crystals: Multipole analysis and the hidden spin-glide symmetry"
+volume: "111"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.111.115150"
+doi: "10.1103/PhysRevB.111.115150"
+shorttitle: "Symmetry requirements for current-induced spin magnetization specific to chiral crystals"
+pages: "115150"
+number: "11"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Hirakida, Ryosuke and Kato, Masaki and Ogata, Masao"
+urldate: "2026-06-24"
+date: "2025-03-24"
+langid: "english"
+---

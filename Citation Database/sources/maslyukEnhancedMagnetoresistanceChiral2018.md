@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "maslyukEnhancedMagnetoresistanceChiral2018"
+title: "Enhanced Magnetoresistance in Chiral Molecular Junctions"
+volume: "9"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.8b02360"
+doi: "10.1021/acs.jpclett.8b02360"
+pages: "5453--5459"
+number: "18"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Maslyuk, Volodymyr V. and Gutierrez, Rafael and Dianat, Arezoo and Mujica, Vladimiro and Cuniberti, Gianaurelio"
+urldate: "2026-06-25"
+date: "2018-09-20"
+langid: "english"
+---

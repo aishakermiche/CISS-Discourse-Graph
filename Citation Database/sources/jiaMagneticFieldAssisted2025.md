@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "jiaMagneticFieldAssisted2025"
+title: "Magnetic field assisted electrochemical recognition performance improvement for chiral Dy-Fomc/Fe3O4"
+volume: "1015"
+issn: "09258388"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0925838825003639"
+doi: "10.1016/j.jallcom.2025.178805"
+pages: "178805"
+journaltitle: "Journal of Alloys and Compounds"
+shortjournal: "Journal of Alloys and Compounds"
+author: "Jia, Jia-Ge and Qian, Qing-Qing and Ji, Yu and Hu, Xiukun and Yang, Hangfu and Wu, Qiong"
+urldate: "2026-06-24"
+date: "2025-02"
+langid: "english"
+---

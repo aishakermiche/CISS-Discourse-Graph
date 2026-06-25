@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "rayAsymmetricScatteringPolarized1999a"
+title: "Asymmetric Scattering of Polarized Electrons by Organized Organic Films of Chiral Molecules"
+volume: "283"
+issn: "0036-8075, 1095-9203"
+url: "https://www.science.org/doi/10.1126/science.283.5403.814"
+doi: "10.1126/science.283.5403.814"
+abstract: "Electron transmission experiments demonstrate a large asymmetry in the scattering probability of polarized electrons by thin organized films of chiral molecules. This large asymmetry results from the interaction of the electron's wavefunction with many scatterers (molecules) in the organized monolayer structure and represents a manifestation of quantum interference on the scale of supramolecular lengths."
+pages: "814--816"
+number: "5403"
+journaltitle: "Science"
+shortjournal: "Science"
+author: "Ray, K. and Ananthavel, S. P. and Waldeck, D. H. and Naaman, R."
+urldate: "2026-06-24"
+date: "1999-02-05"
+langid: "english"
+---

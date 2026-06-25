@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "niuSynthesizingTwoDimensionalChiral2025"
+title: "Synthesizing Two-Dimensional Chiral Cobalt Telluride through a Predesigned Buffer Layer"
+volume: "25"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c04678"
+doi: "10.1021/acs.nanolett.5c04678"
+pages: "17357--17363"
+number: "50"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Niu, Tianchao and Yu, Pengfei and Gao, Wenjin and Zhu, Yinuo and Hua, Chenqiang and Zhou, Miao"
+urldate: "2026-06-24"
+date: "2025-12-17"
+langid: "english"
+---

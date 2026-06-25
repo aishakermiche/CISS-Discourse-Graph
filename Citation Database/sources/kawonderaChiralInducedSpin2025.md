@@ -1,0 +1,18 @@
+---
+type: "incollection"
+citekey: "kawonderaChiralInducedSpin2025"
+title: "Chiral induced spin selectivity: a mechanism for enhancing the oxygen evolution reaction in (photo)electrocatalytic water splitting"
+isbn: "978-1-83707-025-1 978-1-83707-026-8 978-1-83707-024-4"
+url: "https://books.rsc.org/books/book/2476/chapter/8747645/Chiral-induced-spin-selectivity-a-mechanism-for"
+doi: "10.1039/9781837070244-00265"
+shorttitle: "Chiral induced spin selectivity"
+abstract: "The discovery of electron spin control, through the Chiral Induced Spin Selectivity ({CISS}) effect has led to significant strides in (photo)electrocatalytic water splitting research, especially the oxygen evolution reaction ({OER}). The {OER} has been identified as a bottleneck in the overall water splitting process because of the four electrons that are involved in the process. This makes the idea of electron spin filtration and control of paramount importance in water splitting, as proper spin alignment will therefore enhance the chances of producing triplet oxygen, thereby promoting the cathode reaction for hydrogen reduction. This review looks at water splitting in general, the challenges that it faces and strides that have been made in the field of spin control with regards to improving the {OER}."
+pages: "265--285"
+booktitle: "Electrochemistry"
+publisher: "Royal Society of Chemistry"
+author: "Kawondera, Rufaro B. and Mtangi, Wilbert"
+editor: "Banks, Craig E"
+urldate: "2026-06-24"
+date: "2025-12-15"
+langid: "english"
+---

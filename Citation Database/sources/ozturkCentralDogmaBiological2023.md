@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ozturkCentralDogmaBiological2023"
+title: "The central dogma of biological homochirality: How does chiral information propagate in a prebiotic network?"
+volume: "159"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/159/6/061102/2905827/The-central-dogma-of-biological-homochirality-How"
+doi: "10.1063/5.0156527"
+shorttitle: "The central dogma of biological homochirality"
+abstract: "Biological systems are homochiral, raising the question of how a racemic mixture of prebiotically synthesized biomolecules could attain a homochiral state at the network level. Based on our recent results, we aim to address a related question of how chiral information might have flowed in a prebiotic network. Utilizing the crystallization properties of the central ribonucleic acid ({RNA}) precursor known as ribose-aminooxazoline ({RAO}), we showed that its homochiral crystals can be obtained from its fully racemic solution on a magnetic mineral surface due to the chiral-induced spin selectivity ({CISS}) effect [Ozturk et al., {arXiv}:2303.01394 (2023)]. Moreover, we uncovered a mechanism facilitated by the {CISS} effect through which chiral molecules, such as {RAO}, can uniformly magnetize such surfaces in a variety of planetary environments in a persistent manner [Ozturk et al., {arXiv}:2304.09095 (2023)]. All this is very tantalizing because recent experiments with {tRNA} analogs demonstrate high stereoselectivity in the attachment of L-amino acids to D-ribonucleotides, enabling the transfer of homochirality from {RNA} to peptides [Wu et al., J. Am. Chem. Soc. 143, 11836 (2021)]. Therefore, the biological homochirality problem may be reduced to ensuring that a single common {RNA} precursor (e.g., {RAO}) can be made homochiral. The emergence of homochirality at {RAO} then allows for the chiral information to propagate through {RNA}, then to peptides, and ultimately through enantioselective catalysis to metabolites. This directionality of the chiral information flow parallels that of the central dogma of molecular biology—the unidirectional transfer of genetic information from nucleic acids to proteins [F. H. Crick, in Symposia of the Society for Experimental Biology, Number {XII}: The Biological Replication of Macromolecules, edited by F. K. Sanders (Cambridge University Press, Cambridge, 1958), pp. 138-163; and F. Crick, Nature 227, 561 (1970)]."
+pages: "061102"
+number: "6"
+journaltitle: "The Journal of Chemical Physics"
+author: "Ozturk, S. Furkan and Sasselov, Dimitar D. and Sutherland, John D."
+urldate: "2026-06-24"
+date: "2023-08-14"
+langid: "english"
+---

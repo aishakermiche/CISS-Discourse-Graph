@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liUnravelingChiralPerovskite2025"
+title: "Unraveling Chiral Perovskite Spin‐Light Emitting Diode Performance and Magneto‐Chiroptical Properties Relationship Due to the Synergistic Effect"
+volume: "35"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202424619"
+doi: "10.1002/adfm.202424619"
+abstract: "Abstract Chiral hybrid perovskites ({CHPs}) are very promising for room temperature spin‐light emitting diodes (spin‐{LEDs}) because of the chiral‐induced spin orbit coupling ({CISOC}) and the helicity‐dependent carrier transport. The chiral‐achiral synergistic method has been recognized as a critical and successful pathway for developing high‐performance spin‐{LEDs}. Nonetheless, it remains an absence of any studies to demonstrate and elucidate the relationship between chiral perovskite spin‐{LEDs}’ performance and magneto‐chiroptical properties. Herein, high‐performance spin‐{LEDs} are being designed and fabricated using the synergistic method. A combination of experimental and theoretical study is performed systematically toward understanding critical spin‐related chiroptical properties, for instance, spin lifetimes, {CISOC} strengths, and magnetic transition dipole moments. To tune the chiral organic constituent is found to be decisive for degrees of circularly polarized electroluminescence ({CP}‐{EL}) and magneto‐chiroptical properties of {CHPs}. This insightful study, for the first time, unlocks the correlation between the chiral perovskite spin‐{LEDs}’ performance and spin‐dependent chiroptical properties due to the synergistic effect."
+pages: "2424619"
+number: "35"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Li, Yang and Jiang, Linze and Tang, Jun and Tao, Sheng and Zhang, Xiangpeng and Chen, Houzhi and Zhang, Guoshuai and Li, Jing and Zhu, Xixiang and Yu, Haomiao and Shi, Yumeng and Li, Jinpeng and Wang, Kai"
+urldate: "2026-06-24"
+date: "2025-08"
+langid: "english"
+---

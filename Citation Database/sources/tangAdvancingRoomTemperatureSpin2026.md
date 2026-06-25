@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tangAdvancingRoomTemperatureSpin2026"
+title: "Advancing Room-Temperature Spin Qubits with Naphthalene Diimide-Based Chiral Covalent Organic Frameworks"
+volume: "148"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c20171"
+doi: "10.1021/jacs.5c20171"
+pages: "10684--10691"
+number: "10"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Tang, Chang and Sun, Zhecheng and Wei, Huijie and Sun, Lei and Jin, Zexin"
+urldate: "2026-06-24"
+date: "2026-03-18"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kondouChiralityInducedMagnetoresistanceDue2022"
+title: "Chirality-Induced Magnetoresistance Due to Thermally Driven Spin Polarization"
+volume: "144"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.2c00496"
+doi: "10.1021/jacs.2c00496"
+pages: "7302--7307"
+number: "16"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Kondou, Kouta and Shiga, Masanobu and Sakamoto, Shoya and Inuzuka, Hiroyuki and Nihonyanagi, Atsuko and Araoka, Fumito and Kobayashi, Masaki and Miwa, Shinji and Miyajima, Daigo and Otani, {YoshiChika}"
+urldate: "2026-06-24"
+date: "2022-04-27"
+langid: "english"
+---

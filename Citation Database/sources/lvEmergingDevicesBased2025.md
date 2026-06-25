@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "lvEmergingDevicesBased2025"
+title: "Emerging devices based on chiral nanomaterials"
+volume: "17"
+issn: "2040-3364, 2040-3372"
+url: "https://xlink.rsc.org/?DOI=D4NR03998J"
+doi: "10.1039/D4NR03998J"
+abstract: "Chiral nanomaterials, as a class of advanced materials, have recently attracted extensive attention on account of their unique physical and chemical properties that stem from their special geometry. , As advanced materials, chiral nanomaterials have recently gained vast attention due to their special geometry-based physical and chemical properties. The fast development of the related science and technology means that various devices involving polarization-based information encryption, photoelectronic and spintronic devices, 3D displays, biomedical sensors and measurement, photonic engineering, electronic engineering, solar devices, etc. , been explored extensively. These fields are at their beginning, and much effort needs to be made, including improving the optical, electronic, and magnetic properties of advanced chiral nanomaterials, precisely designing materials, and developing more efficient construction methods. This review tries to offer a whole picture of these state-of-the-art conditions in these fields and offers perspectives on future development."
+pages: "3585--3599"
+number: "7"
+journaltitle: "Nanoscale"
+shortjournal: "Nanoscale"
+author: "Lv, Jiawei and Sun, Rui and Gao, Xiaoqing"
+urldate: "2026-06-24"
+date: "2025"
+langid: "english"
+---

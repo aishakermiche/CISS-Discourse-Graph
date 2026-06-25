@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangCrossscaleMechanismsBiomagnetic2026"
+title: "Cross-scale mechanisms of biomagnetic effects and their applications in environmental remediation and \&lt;?A3B2 pi6?\&gt;sustainable agriculture"
+volume: "71"
+issn: "0023-074X"
+url: "https://www.sciengine.com/doi/10.1360/CSB-2025-5803"
+doi: "10.1360/CSB-2025-5803"
+shorttitle: "Cross-scale mechanisms of biomagnetic effects and their applications in environmental remediation and \&lt;?"
+pages: "4254--4266"
+number: "18"
+journaltitle: "Chinese Science Bulletin"
+shortjournal: "Chin. Sci. Bull."
+author: "Wang, Guoliang and Li, Tian and Zhou, Qixing"
+urldate: "2026-06-24"
+date: "2026-06-01"
+langid: "english"
+---

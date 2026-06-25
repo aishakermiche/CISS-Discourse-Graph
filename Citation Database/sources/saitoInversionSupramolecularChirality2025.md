@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "saitoInversionSupramolecularChirality2025"
+title: "Inversion of supramolecular chirality by photo-enhanced secondary nucleation"
+volume: "20"
+issn: "1748-3387, 1748-3395"
+url: "https://www.nature.com/articles/s41565-025-01882-8"
+doi: "10.1038/s41565-025-01882-8"
+pages: "825--834"
+number: "6"
+journaltitle: "Nature Nanotechnology"
+shortjournal: "Nat. Nanotechnol."
+author: "Saito, Takuho and Inoue, Daisuke and Kitamoto, Yuichi and Hanayama, Hiroki and Fujita, Takatoshi and Watanabe, Yuki and Suda, Masayuki and Hirose, Takashi and Kajitani, Takashi and Yagai, Shiki"
+urldate: "2026-06-24"
+date: "2025-06"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\KU5SFT86\\Saito et al. - 2025 - Inversion of supramolecular chirality by photo-enhanced secondary nucleation.pdf:application/pdf"
+---

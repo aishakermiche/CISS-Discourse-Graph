@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "bianPhasespaceWayElectronic2026"
+title: "The phase-space way to electronic structure theory and subsequently chemical dynamics"
+volume: "7"
+issn: "2688-4070"
+url: "https://pubs.aip.org/cpr/article/7/1/011303/3377134/The-phase-space-way-to-electronic-structure-theory"
+doi: "10.1063/5.0286240"
+abstract: "A phase-space electronic structure theory offers a new and powerful approach for tackling problems with coupled nuclear-electronic dynamics in a fashion that goes beyond an electronic structure theory based on the Born–Oppenheimer ({BO}) theory. Whereas the {BO} theory stipulates that we consider electronic states parameterized by nuclear position X only, i.e., molecular orbitals are functions of nuclear positions but not nuclear velocities, the phase-space ({PS}) theory allows for electronic states to be parameterized by both nuclear position X and nuclear momentum P (the latter being treated as a classical parameter). As a result, within a phase-space approach, one can directly recover many new features, including electronic momentum and vibrational circular dichroism spectra. Moreover, the phase-space electronic structure theory is exact for the hydrogen atom (insofar as the agreement of the eigenstates) and, for a set of model problems, the method can even improve upon vibrational energies relative to the {BO} theory if one requantizes the nuclear momentum P through a Weyl transform. Perhaps most importantly, the phase-space approach offers a very new perspective on spin physics, stipulating that molecules and materials with degenerate or nearly degenerate ground states (especially due to spin degeneracy) display broken-symmetry ground states in their phase-space potential energy surfaces. This last feature opens up novel possibilities for exploring spin chemistry (including the Einstein–de Haas effect and chiral induced spin selectivity) using well established electronic structure theory methods. At the end of the day, in order to tackle a host of exciting electronic dynamical phenomena, especially subtle problems in magnetic chemistry, it will be essential for the electronic structure community to pivot toward diagonalizing Ĥ{PS}(X,P) rather than Ĥ{BO}(X)."
+pages: "011303"
+number: "1"
+journaltitle: "Chemical Physics Reviews"
+author: "Bian, Xuezhi and Duston, Titouan and Bradbury, Nadine and Tao, Zhen and Bhati, Mansi and Qiu, Tian and Wu, Xinchun and Wu, Yanze and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2026-03-01"
+langid: "english"
+---

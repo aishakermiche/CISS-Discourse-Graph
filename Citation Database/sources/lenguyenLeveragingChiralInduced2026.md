@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "lenguyenLeveragingChiralInduced2026"
+title: "Leveraging chiral induced spin selectivity to improve the efficiency and selectivity of electrocatalytic reduction"
+volume: "14"
+issn: "2050-7488, 2050-7496"
+url: "https://xlink.rsc.org/?DOI=D5TA09768A"
+doi: "10.1039/D5TA09768A"
+abstract: "Chiral-induced spin selectivity ({CISS}) enables spin-polarized electron transfer, modulating key steps in electrochemical reduction reactions. By stabilizing spin-sensitive intermediates, {CISS} enhances activity and selectivity, offering a new strategy for catalyst design. , Energy production is a fundamental pillar of modern society, but it remains heavily reliant on fossil fuel combustion, which leads to environmental degradation and resource depletion. Electrocatalytic reduction reactions ({ERRs}) offer a cleaner alternative by functioning under mild conditions, eliminating the need for high temperatures or pressures. However, their widespread adoption is hindered by challenges such as low efficiency, inadequate selectivity, and sluggish kinetics. The introduction of chiral-induced spin selectivity ({CISS}) offers a promising strategy to address these limitations by reducing energy barriers in reactions involving spin-sensitive intermediates or transition states. By leveraging {CISS}, {ERR} pathways can be manipulated to favor desired reactions, enhance product yield, and suppress unwanted byproducts, improving selectivity. Beyond reducing the impact of competing side reactions, {CISS} also enhances the kinetics of {ERRs} by accelerating reaction rates and lowering the energy barriers associated with multi-electron transfer steps. Thanks to its straightforward and versatile application, {CISS} shows significant potential in optimizing well-studied {ERRs}, such as the hydrogen evolution reaction ({HER}) and carbon dioxide reduction reaction ({CO} 2 {RR}), facilitating the future transition of these technologies from research laboratories to commercial energy plants worldwide."
+pages: "18497--18524"
+number: "29"
+journaltitle: "Journal of Materials Chemistry A"
+shortjournal: "J. Mater. Chem. A"
+author: "Le Nguyen, Tytan and He, Fan and Yan, Yong and Gu, Jing"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

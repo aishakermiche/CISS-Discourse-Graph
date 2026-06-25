@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "thanaiBayfunctionalized7HeliceneBilayer2026"
+title: "Bay‐functionalized [7]Helicene Bilayer Nanographenes"
+volume: "14"
+issn: "2195-1071, 2195-1071"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202502564"
+doi: "10.1002/adom.202502564"
+abstract: "Abstract Helical bilayer nanographenes ({HBNGs}) represent a promising class of materials for advanced optoelectronic and chiroptical applications, owing to their extended π ‐conjugation, intrinsic chirality, and tunable interlayer interactions. Here, the rational design and synthesis of bay ‐functionalized [7]{HBNGs} incorporating methoxy, diketone, and phenazine moieties is reported. These tailored modifications enable precise tuning of redox properties and significantly enhance photophysical properties, including pronounced spectral shifts, prolonged fluorescence lifetimes of up to 10 ns, and fluorescence quantum yields reaching 55\%. Importantly, the resulting [7]{HBNGs} exhibit strong electronic circular dichroism and exceptional circularly polarized luminescence ({CPL}), with {CPL} brightness values as high as 110 M −1 cm −1 . The modular, convergent strategy enables versatile late‐stage modification of bay‐substituted {HBNGs} from a single scalable precursor, streamlining access to diverse derivatives and opening new opportunities for their application in molecular electronics, chiroptical devices, and advanced optoelectronic materials."
+pages: "e02564"
+number: "13"
+journaltitle: "Advanced Optical Materials"
+shortjournal: "Advanced Optical Materials"
+author: "Thanai, Anmol and Sharma, Vikas and Minion, Louis and Khan, Hassan and Abbas, Hadeel and Whitehead, George F. S. and Hasija, Avantika and Wade, Jessica and Fuchter, Matthew John and Keerthi, Ashok"
+urldate: "2026-06-24"
+date: "2026-04"
+langid: "english"
+---

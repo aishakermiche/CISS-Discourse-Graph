@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kimChiralinducedSpinSelectivity2021a"
+title: "Chiral-induced spin selectivity enables a room-temperature spin light-emitting diode"
+volume: "371"
+issn: "0036-8075, 1095-9203"
+url: "https://www.science.org/doi/10.1126/science.abf5291"
+doi: "10.1126/science.abf5291"
+abstract: "Spin injection sans magnetism Light-emitting diodes ({LEDs}) that emit circularly polarized light (spin-{LEDs}) have potential applications in in three-dimensional displays, bioencoding, and tomography. The requisite spin polarization of the charge carriers is usually achieved with ferromagnetic contacts and applied magnetic fields, but Kim et al. report on a room-temperature spin-{LED} that relies instead on a chiral-induced spin selectivity organic layer. This layer selectively injected spin-polarized holes into metal halide perovskite nanocrystals, where they radiatively recombined with unpolarized electrons with an efficiency of 2.6\%. Science , this issue p. 1129 , Spin-polarized light-emitting diodes based on metal halide perovskites operate at room temperature without a magnetic field. , In traditional optoelectronic approaches, control over spin, charge, and light requires the use of both electrical and magnetic fields. In a spin-polarized light-emitting diode (spin-{LED}), charges are injected, and circularly polarized light is emitted from spin-polarized carrier pairs. Typically, the injection of carriers occurs with the application of an electric field, whereas spin polarization can be achieved using an applied magnetic field or polarized ferromagnetic contacts. We used chiral-induced spin selectivity ({CISS}) to produce spin-polarized carriers and demonstrate a spin-{LED} that operates at room temperature without magnetic fields or ferromagnetic contacts. The {CISS} layer consists of oriented, self-assembled small chiral molecules within a layered organic-inorganic metal-halide hybrid semiconductor framework. The spin-{LED} achieves ±2.6\% circularly polarized electroluminescence at room temperature."
+pages: "1129--1133"
+number: "6534"
+journaltitle: "Science"
+shortjournal: "Science"
+author: "Kim, Young-Hoon and Zhai, Yaxin and Lu, Haipeng and Pan, Xin and Xiao, Chuanxiao and Gaulding, E. Ashley and Harvey, Steven P. and Berry, Joseph J. and Vardeny, Zeev Valy and Luther, Joseph M. and Beard, Matthew C."
+urldate: "2026-06-24"
+date: "2021-03-12"
+langid: "english"
+---

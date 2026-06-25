@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "grecchiChemicalPumpingWireless2026"
+title: "Chemical pumping and wireless electrochemical platforms for next-generation reactors"
+volume: "567"
+issn: "00134686"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0013468626007231"
+doi: "10.1016/j.electacta.2026.148831"
+pages: "148831"
+journaltitle: "Electrochimica Acta"
+shortjournal: "Electrochimica Acta"
+author: "Grecchi, Sara and Arnaboldi, Serena"
+urldate: "2026-06-24"
+date: "2026-08"
+langid: "english"
+---

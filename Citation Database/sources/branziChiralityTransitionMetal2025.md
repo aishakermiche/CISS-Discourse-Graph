@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "branziChiralityTransitionMetal2025"
+title: "Chirality in Transition Metal Dichalcogenide Nanostructures"
+volume: "31"
+issn: "0947-6539, 1521-3765"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202404765"
+doi: "10.1002/chem.202404765"
+abstract: "Abstract The fascinating properties introduced by the breaking of mirror symmetry have recently motivated a rising interest in chirality in nanomaterials. In particular, transition metal ({TM}) dichalcogenides ({TMDs}) are a wide group of technologically relevant 2D layered materials where recent efforts in the introduction of chirality have shown promising results, attracting great attention for future studies and potential applications. This review article is focused on the development of chirality in {TM} dichalcogenide nanostructures, dealing with the synthetic strategies that have been adopted to produce chiral {TMDs} both via solution‐phase and vapor‐phase syntheses along with the characterization of their chiroptical properties. A broad range of examples, including a variety of nanostructures such as 0D quantum dots ({QDs}), 1D nanotubes, 2D flakes, and more complex 3D nanostructures as well as different origins of chirality are considered. Critical analysis of potential pitfalls in the assessment of the materials’ chirality are discussed. A broad range of exciting properties and applications associated with the materials’ chirality, including: nanomedicine, enantioselective catalysis, spin‐dependent electrocatalysis, spintronics, and nonlinear optics, are also presented in the review."
+pages: "e202404765"
+number: "35"
+journaltitle: "Chemistry – A European Journal"
+shortjournal: "Chemistry A European J"
+author: "Branzi, Lorenzo and Martyn, Joseph and Fitzsimmons, Lucy and Gun'ko, Yurii K."
+urldate: "2026-06-24"
+date: "2025-06-23"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "suarez-rodriguezNonlinearTransportNoncentrosymmetric2025"
+title: "Nonlinear transport in non-centrosymmetric systems"
+volume: "24"
+issn: "1476-1122, 1476-4660"
+url: "https://www.nature.com/articles/s41563-025-02261-3"
+doi: "10.1038/s41563-025-02261-3"
+pages: "1005--1018"
+number: "7"
+journaltitle: "Nature Materials"
+shortjournal: "Nat. Mater."
+author: "Suárez-Rodríguez, Manuel and De Juan, Fernando and Souza, Ivo and Gobbi, Marco and Casanova, Fèlix and Hueso, Luis E."
+urldate: "2026-06-24"
+date: "2025-07"
+langid: "english"
+---

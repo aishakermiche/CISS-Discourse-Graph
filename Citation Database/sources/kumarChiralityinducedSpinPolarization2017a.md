@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kumarChiralityinducedSpinPolarization2017a"
+title: "Chirality-induced spin polarization places symmetry constraints on biomolecular interactions"
+volume: "114"
+issn: "0027-8424, 1091-6490"
+url: "https://pnas.org/doi/full/10.1073/pnas.1611467114"
+doi: "10.1073/pnas.1611467114"
+abstract: "Significance Chiral molecules are the building blocks of life. Although artificially, it is difficult to separate two different enantiomers of the same molecules; in nature, this process is efficient. This work proposes a mechanism for understanding this efficiency. In many bioprocesses, the interactions between molecules result from electron reorganization in the molecules, like that which occurs when an external electric field is applied. We show that the charge reorganization in chiral molecules is accompanied by a polarization of the spins associated with the displaced charge. The symmetry constraints imposed by the spin polarization may help account for the enantioselectivity. Calculations indicate that this contribution to the interaction energy for two molecules of the same handedness can be comparable with the available thermal energy. , Noncovalent interactions between molecules are key for many biological processes. Necessarily, when molecules interact, the electronic charge in each of them is redistributed. Here, we show experimentally that, in chiral molecules, charge redistribution is accompanied by spin polarization. We describe how this spin polarization adds an enantioselective term to the forces, so that homochiral interaction energies differ from heterochiral ones. The spin polarization was measured by using a modified Hall effect device. An electric field that is applied along the molecules causes charge redistribution, and for chiral molecules, a Hall voltage is measured that indicates the spin polarization. Based on this observation, we conjecture that the spin polarization enforces symmetry constraints on the biorecognition process between two chiral molecules, and we describe how these constraints can lead to selectivity in the interaction between enantiomers based on their handedness. Model quantum chemistry calculations that rigorously enforce these constraints show that the interaction energy for methyl groups on homochiral molecules differs significantly from that found for heterochiral molecules at van der Waals contact and shorter (i.e., ∼0.5 kcal/mol at 0.26 nm)."
+pages: "2474--2478"
+number: "10"
+journaltitle: "Proceedings of the National Academy of Sciences"
+shortjournal: "Proc. Natl. Acad. Sci. U.S.A."
+author: "Kumar, Anup and Capua, Eyal and Kesharwani, Manoj K. and Martin, Jan M. L. and Sitbon, Einat and Waldeck, David H. and Naaman, Ron"
+urldate: "2026-06-24"
+date: "2017-03-07"
+langid: "english"
+---

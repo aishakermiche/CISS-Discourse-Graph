@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "bloomUsingChiralinducedSpin2025"
+title: "Using chiral-induced spin selectivity as a tool to improve materials and processes for energy science"
+volume: "11"
+issn: "2058-8437"
+url: "https://www.nature.com/articles/s41578-025-00864-5"
+doi: "10.1038/s41578-025-00864-5"
+pages: "213--225"
+number: "3"
+journaltitle: "Nature Reviews Materials"
+shortjournal: "Nat Rev Mater"
+author: "Bloom, Brian P. and Lingenfelder, Magalí and Naaman, Ron and Sun, Dali and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2025-12-01"
+langid: "english"
+---

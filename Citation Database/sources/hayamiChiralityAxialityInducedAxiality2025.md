@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "hayamiChiralityAxialityInducedAxiality2025"
+title: "Chirality/Axiality-Induced Axiality/Chirality via Surface Polarization"
+volume: "94"
+issn: "0031-9015, 1347-4073"
+url: "https://journals.jps.jp/doi/10.7566/JPSJ.94.123702"
+doi: "10.7566/JPSJ.94.123702"
+pages: "123702"
+number: "12"
+journaltitle: "Journal of the Physical Society of Japan"
+shortjournal: "J. Phys. Soc. Jpn."
+author: "Hayami, Satoru and Oiwa, Rikuto and Inda, Akane"
+urldate: "2026-06-24"
+date: "2025-12-15"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\8HF4SMLV\\Hayami et al. - 2025 - ChiralityAxiality-Induced AxialityChirality via Surface Polarization.pdf:application/pdf"
+---

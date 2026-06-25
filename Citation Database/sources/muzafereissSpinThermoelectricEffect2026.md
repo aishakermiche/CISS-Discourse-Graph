@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "muzafereissSpinThermoelectricEffect2026"
+title: "The spin thermoelectric effect in nonmagnetic chiral materials"
+issn: "2050-7488, 2050-7496"
+url: "https://xlink.rsc.org/?DOI=D6TA01920J"
+doi: "10.1039/D6TA01920J"
+abstract: "p–n junctions are commonly applied in thermoelectric cooling devices based on the Peltier effect (top). Here in addition to the Peltier effect chiral layer is added that enhance the thermoelectric effect by ordering the electronics spin (bottom). , p–n junctions are commonly applied in thermoelectric cooling devices based on the Peltier effect. Here the effect of chirality on the thermoelectric properties of p–n junction devices was studied by inserting a chiral polymer at the interface between p- and n-silicon. Although the chiral polymer covered only part of the interface, it increased the temperature gradient between the two parts of the device by about a factor of two compared with p–n junctions in which the chiral polymer was replaced by achiral molecules or a racemic mixture of the polymer. The contact heating was about the same for all cases, the devices with the chiral polymer layer displayed a large additional thermal gradient. The increase in the thermal gradient can be rationalized in terms of the chiral-induced spin selectivity effect, i.e. , the spin dependence of conduction through the chiral material and therefore a reduction of entropy through spin orientation. Considering that a subset of the current is conducted through the chiral molecules, the results indicate that the chiral thermal effect is much more efficient than the Peltier effect. The experimental results are followed by a phenomenological model as well as a theoretical explanation."
+pages: "10.1039.D6TA01920J"
+journaltitle: "Journal of Materials Chemistry A"
+shortjournal: "J. Mater. Chem. A"
+author: "Muzafe Reiss, Sheli and Gedeon, Clement and Golan, Ohad and Vardi, Ofek and Merhav, Dror and Chochos, Christos L. and Yochelis, Shira and Waldeck, David H. and Fransson, Jonas and Crassous, Jeanne and Naaman, Ron and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\K6WQSU2R\\Muzafe Reiss et al. - 2026 - The spin thermoelectric effect in nonmagnetic chiral materials.pdf:application/pdf"
+---

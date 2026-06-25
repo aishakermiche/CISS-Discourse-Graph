@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangBoostingSelectivityOxygen2025"
+title: "Boosting the Selectivity in Oxygen Electrocatalysis Using Chiral Nanoparticles as Electron-Spin Filters"
+volume: "147"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c03394"
+doi: "10.1021/jacs.5c03394"
+pages: "15767--15776"
+number: "18"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Wang, Zixu and Wan, Jinling and Sun, Xuehao and Sun, Lichao and Chen, Shengli and Zhang, Qingfeng"
+urldate: "2026-06-24"
+date: "2025-05-07"
+langid: "english"
+---

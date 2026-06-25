@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yuMolecularApproachQuantum2021"
+title: "A Molecular Approach to Quantum Sensing"
+volume: "7"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "2374-7943, 2374-7951"
+url: "https://pubs.acs.org/doi/10.1021/acscentsci.0c00737"
+doi: "10.1021/acscentsci.0c00737"
+pages: "712--723"
+number: "5"
+journaltitle: "{ACS} Central Science"
+shortjournal: "{ACS} Cent. Sci."
+author: "Yu, Chung-Jui and Von Kugelgen, Stephen and Laorenza, Daniel W. and Freedman, Danna E."
+urldate: "2026-06-24"
+date: "2021-05-26"
+langid: "english"
+---

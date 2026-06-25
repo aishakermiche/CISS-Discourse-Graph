@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gargDualSignatureChirality2025"
+title: "Dual Signature of Chirality Induced Spin Selectivity through Spontaneous Resolution of 2D Metal–Organic Frameworks"
+volume: "137"
+issn: "0044-8249, 1521-3757"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/ange.202418222"
+doi: "10.1002/ange.202418222"
+abstract: "Abstract The Chiral‐Induced Spin Selectivity ({CISS}) effect has emerged as a fascinating phenomenon within the realm of electron's spin manipulation, showcasing a unique interplay between electron's spin and molecular chirality. Subsequent to its discovery, researchers have been actively involved in exploring the new chiral molecules as effective spin filters. In the realm of observing the {CISS} effect, the conventional approach has mandated the utilization of two distinct enantiomers of chiral molecules. However, this present study represents a significant advancement by demonstrating the ability to control both spin states of electrons in a single system. In this work, we have demonstrated the preparation of chiral metal–organic frameworks ({MOFs}) via a “spontaneous resolution” process, obviating the requirement for chiral sources. This resulted in the production of chiral crystals exhibiting opposite handedness ( 1P and 1M) and these crystals were subsequently employed as a new class of spin filters based on {CISS} effect. Remarkably, this work signifies the first instance of achieving dual signature of spin selectivity from a single and exclusively achiral system through a spontaneous resolution process. This holds immense potential as it facilitates the production of two distinct spin‐filtering materials from a unified system. Furthermore, we investigated the contact potential differences ({CPD}) of these chiral crystals and, for the first time, associated it with the preferential spin transport properties. Our findings revealed a correlation between the {CPD} and the chirality of the crystals, as well as the magnetization orientations of the ferromagnetic substrate, which can be elucidated by the {CISS} effect. In overall, the significant findings achieved using these robust and easily synthesized {MOF} crystals without the requirement for chiral medium represent a crucial advancement in enhancing the effectiveness of spin filtering materials to produce spintronic devices."
+pages: "e202418222"
+number: "6"
+journaltitle: "Angewandte Chemie"
+shortjournal: "Angewandte Chemie"
+author: "Garg, Rabia and Bisht, Pravesh Singh and Sahoo, Subash Chandra and Mondal, Amit Kumar"
+urldate: "2026-06-24"
+date: "2025-02-03"
+langid: "english"
+---

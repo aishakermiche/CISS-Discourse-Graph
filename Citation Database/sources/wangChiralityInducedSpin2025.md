@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wangChiralityInducedSpin2025"
+title: "Chirality induced spin selectivity in electron transport investigated by scanning probe microscopy"
+volume: "37"
+issn: "0953-8984, 1361-648X"
+url: "https://iopscience.iop.org/article/10.1088/1361-648X/ada478"
+doi: "10.1088/1361-648X/ada478"
+abstract: "Abstract Chirality induced spin selectivity ({CISS}) effect implies the relationship between chirality and magnetism, attracting extensive attention in the fields of physics, chemistry and biology. Since it was first discovered with photoemission method in 1999, the {CISS} effect has been investigated and measured by a variety of methods. Among different means of measurements, scanning probe microscopy ({SPM}) as a powerful tool to explore the {CISS} effect, can directly measure and present the spin filtering property of chiral molecules in electron transport. In this paper, we summarize the recent experiments on the {CISS} effect studied with scanning tunneling microscopy and atomic force microscopy, analyzing the experimental setups and results, and delving into the underlying mechanisms. The present review offers a concise introduction to several chiral molecules which are investigated by {SPM} for the {CISS} effect, and a detailed exploration of various experimental techniques tailored to the unique adsorption structures of these molecules. The impact of molecular structure on spin selectivity and the profound implications of {CISS} are also demonstrated together with a concise overview of {CISS} theory. A conclusive synopsis and forward-looking perspectives on the investigation of the {CISS} effect in electron transport utilizing {SPM} techniques are presented."
+pages: "113003"
+number: "11"
+journaltitle: "Journal of Physics: Condensed Matter"
+shortjournal: "J. Phys.: Condens. Matter"
+author: "Wang, Xueyan and Li, Xin and He, Yang and Xu, Zhen and Pan, Haoyang and Li, Jie and Wang, Yansong and Dong, Wenjie and Chen, Huamei and Shen, Qian and Shen, Ziyong and Hou, Shimin and Wu, Kai and Zhang, Yajie and Wang, Yongfeng"
+urldate: "2026-06-24"
+date: "2025-03-17"
+---

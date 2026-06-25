@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wangControlElectronSpin2024"
+title: "Control of the electron spin state for enhancing plasmonic nitrogen fixation"
+volume: "4"
+issn: "26671093"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2667109324002999"
+doi: "10.1016/j.checat.2024.101112"
+pages: "101112"
+number: "9"
+journaltitle: "Chem Catalysis"
+shortjournal: "Chem Catalysis"
+author: "Wang, Penglei and Wu, Boyuan and Wu, Hao and Wang, Jianfang"
+urldate: "2026-06-24"
+date: "2024-09"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangTopochemicalSynthesisChiroptical2025"
+title: "Topochemical synthesis of chiroptical materials through charge-transfer/Diels–Alder cascade reaction"
+volume: "16"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-025-60790-6"
+doi: "10.1038/s41467-025-60790-6"
+pages: "5539"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Wang, Zhuoer and Pei, Yan and Hao, Aiyou and Xing, Pengyao"
+urldate: "2026-06-24"
+date: "2025-07-01"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\5PZMQ5H4\\Wang et al. - 2025 - Topochemical synthesis of chiroptical materials through charge-transferDiels–Alder cascade reaction.pdf:application/pdf"
+---

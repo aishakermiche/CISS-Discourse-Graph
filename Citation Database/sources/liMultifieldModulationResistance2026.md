@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liMultifieldModulationResistance2026"
+title: "Multifield Modulation of Resistance States in a Spin Valve Based on Chiral Perovskites"
+volume: "17"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.6c00490"
+doi: "10.1021/acs.jpclett.6c00490"
+pages: "4435--4441"
+number: "15"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Li, Ruiqing and Feng, Jiaying and Cai, Jiakai and Mao, Baorui and Sha, Xuyang and Guo, Hangwen and Wang, Jingying"
+urldate: "2026-06-24"
+date: "2026-04-16"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "choPureDephasingQuantum2023"
+title: "Pure dephasing, quantum decoherence, and wave–particle duality"
+volume: "4"
+issn: "2688-4070"
+url: "https://pubs.aip.org/cpr/article/4/2/021311/2893190/Pure-dephasing-quantum-decoherence-and-wave"
+doi: "10.1063/5.0149363"
+abstract: "Ultrafast spectroscopy is a valuable tool for monitoring the timescales of interactions between systems and their environments, resulting in pure dephasing. The superposition of ground and excited states of a molecule in a condensed phase, created by field–matter interactions, loses its coherence due to fluctuations from surrounding molecules that interact differently with the ground and excited states. Recently, quantum decoherence has become an intense area of research due to its relevance to the quantum-to-classical transition and its critical role in developing quantum technologies, such as quantum computers and cryptography. Although both pure dephasing and quantum decoherence result from the same process of environmental monitoring of systems through quantum entanglement between the system and its environment, they have been studied and discussed in very different contexts with seemingly disparate terminologies. In this work, we present a detailed theoretical description of pure dephasing and quantum decoherence in bosonic environments coupled to a two-level system, compare them directly, and demonstrate their connections to the wave–particle duality of isolated systems and the wave-particle-entanglement triality of composite systems consisting of systems and their environments. It is believed that the present review will be helpful for gaining a deeper understanding of ultrafast spectroscopy from a quantum mechanical perspective and the wave–particle duality of quantum objects interacting with their surrounding environments."
+pages: "021311"
+number: "2"
+journaltitle: "Chemical Physics Reviews"
+author: "Cho, Minhaeng"
+urldate: "2026-06-24"
+date: "2023-06-01"
+langid: "english"
+---

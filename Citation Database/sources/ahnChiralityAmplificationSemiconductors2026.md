@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ahnChiralityAmplificationSemiconductors2026"
+title: "Chirality amplification in semiconductors for advanced optoelectronics"
+volume: "55"
+issn: "0306-0012, 1460-4744"
+url: "https://xlink.rsc.org/?DOI=D5CS00684H"
+doi: "10.1039/D5CS00684H"
+abstract: "Harnessing chirality in semiconductors offers new routes for advanced optoelectronics. This review highlights advances in chirality amplification strategies in diverse semiconductor platforms, along with their chiroptical amplification in devices. , Because circularly polarized light ({CPL}) uniquely carries spin-selective information, chiral optoelectronics offer a powerful platform for developing high-efficiency, spin-based optical devices and driving next-generation photonic technologies. Intrinsically chiral semiconductors can absorb or emit {CPL} through light–matter interactions, positioning them as highly attractive active materials for advanced optoelectronics. However, their weak chiroptical activities often hinder practical implementation. To address this challenge, researchers have explored a range of strategies aimed at enhancing chiroptical performance. Recent advances in molecular design, processing techniques, and device engineering have led to significant improvements in the chiroptical properties of these materials. This review summarizes recent progress in chirality amplification strategies for semiconductors in advanced optoelectronics. Intrinsically chiral semiconductors are classified into three groups: organic semiconductors, metal–organic materials, and chiral hybrid perovskites. Furthermore, strategies for enhancing chiroptical signal output in chiral optoelectronic devices are discussed, supported by relevant theoretical frameworks. These advancements establish a solid foundation for the development of high-performance chiral optoelectronic devices, paving the way for future innovations in photonic technology."
+pages: "400--432"
+number: "1"
+journaltitle: "Chemical Society Reviews"
+shortjournal: "Chem. Soc. Rev."
+author: "Ahn, Jaeyong and Choi, Wonbin and Lee, Sang Hyuk and Park, Jonghyun and Kim, Seoyoung and Song, Inho and Oh, Joon Hak"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

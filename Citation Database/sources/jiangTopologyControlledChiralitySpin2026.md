@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jiangTopologyControlledChiralitySpin2026"
+title: "Topology-Controlled Chirality and Spin Selectivity in Two-Dimensional Covalent Organic Frameworks"
+volume: "148"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c18071"
+doi: "10.1021/jacs.5c18071"
+pages: "2551--2562"
+number: "2"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Jiang, Chao and Jin, Chuanyu and Lv, Yao and Han, Xing and Li, Zhongkui and Liu, Zeyi and Yan, Qiang and Liu, Yan and Dai, Sheng and Li, Dehui and Cui, Yong"
+urldate: "2026-06-24"
+date: "2026-01-21"
+langid: "english"
+---

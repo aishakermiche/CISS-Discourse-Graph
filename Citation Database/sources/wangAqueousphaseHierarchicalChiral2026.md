@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wangAqueousphaseHierarchicalChiral2026"
+title: "Aqueous-phase hierarchical chiral assembly of Zn-cysteine: Chirality amplification and Interface-ready functionality"
+volume: "708"
+issn: "00219797"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0021979725031741"
+doi: "10.1016/j.jcis.2025.139782"
+shorttitle: "Aqueous-phase hierarchical chiral assembly of Zn-cysteine"
+pages: "139782"
+journaltitle: "Journal of Colloid and Interface Science"
+shortjournal: "Journal of Colloid and Interface Science"
+author: "Wang, Zimo and Ba, Junjie and Li, Junpeng and Yin, Xiuxiu and Wang, Yizhan"
+urldate: "2026-06-24"
+date: "2026-04"
+langid: "english"
+---

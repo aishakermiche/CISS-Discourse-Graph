@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "shiEmergingOpticalTechniques2026"
+title: "Emerging optical techniques for sorting and detection of chiral particles"
+volume: "9"
+issn: "2096-4579, 2097-3993"
+url: "https://www.oejournal.org/oea/article/doi/10.29026/oea.2026.250255"
+doi: "10.29026/oea.2026.250255"
+pages: "250255"
+number: "6"
+journaltitle: "Opto-Electronic Advances"
+shortjournal: "Opto-Electron Adv"
+author: "Shi, Yuzhi and Li, Chengfeng and Lin, Xiaolei and Xue, Wenwen and Lai, Chengxing and He, Tao and Song, Qinghua and Wang, Zhanshan and Wang, Yulan and Tsai, Din Ping and Cheng, Xinbin and Zou, Haidong"
+urldate: "2026-06-24"
+date: "2026"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\BK37BPYC\\Shi et al. - 2026 - Emerging optical techniques for sorting and detection of chiral particles.pdf:application/pdf"
+---

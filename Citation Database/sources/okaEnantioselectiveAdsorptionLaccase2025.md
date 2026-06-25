@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "okaEnantioselectiveAdsorptionLaccase2025"
+title: "Enantioselective Adsorption of Laccase on Homocysteine-Modified Au(111) Single-Crystalline Electrodes for Oxygen Reduction"
+volume: "15"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "2155-5435, 2155-5435"
+url: "https://pubs.acs.org/doi/10.1021/acscatal.5c04700"
+doi: "10.1021/acscatal.5c04700"
+pages: "18572--18579"
+number: "21"
+journaltitle: "{ACS} Catalysis"
+shortjournal: "{ACS} Catal."
+author: "Oka, Sayuki and Kato, Masaru and Ohashi, Ryuto and Matsushima, Hisayoshi and Sugai, Aozora and Yamaguchi, Takahide and Hoshino, Shogo and Yagi, Ichizo"
+urldate: "2026-06-24"
+date: "2025-11-07"
+langid: "english"
+---

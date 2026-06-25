@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "papiFamilyCobaltIIComplexes2025"
+title: "A Family of Cobalt({II}) Complexes Exhibiting Record Dissymmetry Factors in Vibrational Circular Dichroism"
+volume: "137"
+issn: "0044-8249, 1521-3757"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/ange.202517057"
+doi: "10.1002/ange.202517057"
+abstract: "Abstract A family of novel chiral cobalt({II}) complexes with two diketonate and one bis(oxazoline) ligand, [Co(dkt) 2 ({BOX})], is reported. These complexes exhibit octahedral coordination geometry and feature a chiroptical superspectrum extending from {UV} to mid‐{IR} regions. Vibrational circular dichroism ({VCD}) enhancement occurs thanks to the coupling between ligand vibrations and low‐lying electronic transitions allied to the distorted octahedral high‐spin Co {II} d 7 core, generating {VCD} bands of unprecedented intensity in the mid‐{IR} region with dissymmetry factors up to 3.6 × 10 −2 for a {VCD} peak at 1453 cm −1 and {\textgreater} 5 × 10 −2 for its shoulder at 1430 cm −1 . These values correspond to a ≈ 100‐fold enhancement with respect to the diamagnetic Zn {II} analog and set a record among non‐aggregated species in solution. The extraordinarily enhanced intensity allows recording a {VCD} spectrum with a signal‐to‐noise (S/N) ratio of ≈ 30 in a single acquisition."
+pages: "e17057"
+number: "52"
+journaltitle: "Angewandte Chemie"
+shortjournal: "Angewandte Chemie"
+author: "Papi, Gianmarco and Guelfi, Massimo and Bagnasco, Alessio and Marchetti, Fabio and Pescitelli, Gennaro"
+urldate: "2026-06-24"
+date: "2025-12-22"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "zhangEnhancedElectrochemicalWater2018a"
+title: "Enhanced Electrochemical Water Splitting with Chiral Molecule-Coated Fe$_{\textrm{3}}$ O$_{\textrm{4}}$ Nanoparticles"
+volume: "3"
+issn: "2380-8195, 2380-8195"
+url: "https://pubs.acs.org/doi/10.1021/acsenergylett.8b01454"
+doi: "10.1021/acsenergylett.8b01454"
+pages: "2308--2313"
+number: "10"
+journaltitle: "{ACS} Energy Letters"
+shortjournal: "{ACS} Energy Lett."
+author: "Zhang, Wenyan and Banerjee-Ghosh, Koyel and Tassinari, Francesco and Naaman, Ron"
+urldate: "2026-06-24"
+date: "2018-10-12"
+langid: "english"
+---

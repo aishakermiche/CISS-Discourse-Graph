@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tiwariIntelligentMolecularLogic2026"
+title: "Intelligent Molecular Logic Architectures via Spin‐Selective {DNA}‐Hybridization Platform"
+volume: "11"
+issn: "2365-709X, 2365-709X"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/admt.202502247"
+doi: "10.1002/admt.202502247"
+abstract: "{ABSTRACT} Spin‐based {DNA} biosensing and molecular logic circuits are emerging as essential modules in advanced diagnostics and smart molecular computing, yet their advancement relies on precise control of spin‐dependent processes. The chiral‐induced spin selectivity ({CISS}) effect has been investigated using various electrochemical techniques, where concurrent charge and diffusive mass transport processes follow disparate time constants. Frequency‐resolved probing is therefore necessary to separate these contributions, enabling ultrasensitive {DNA} detection and spin‐based logic operations. In a remarkable achievement, we introduce a dual‐responsive platform that integrates alternating current voltammetry ({ACV}) with thermally tunable Ni 50 Mn 18 Ga 25 Cu 7 ({NMGC}) Heusler alloy to directly probe and modulate frequency‐based spin‐polarization (P s ). {ACV} exploits frequency‐dependent measurements to isolate the dynamic evolution of spin polarization P s , enabling ultrasensitive {DNA} detection with femtomolar resolution ({LOD} = 13 {fM}). Moreover, thermally driven martensite–austenite transition and P s thresholds maps sensing into logic functions, enabling reconfigurable operation () and a three‐input {AND} gate at room temperature. Grounded in the fundamentals of the {CISS} effect, this adaptive approach paves the way for spin‐logic as a reliable platform for molecular‐scale information processing, intelligent diagnostics, and future reconfigurable spintronic technologies."
+pages: "e02247"
+number: "8"
+journaltitle: "Advanced Materials Technologies"
+shortjournal: "Adv Materials Technologies"
+author: "Tiwari, Mayank and Bhartiya, Prashant K. and Mishra, Debabrata"
+urldate: "2026-06-24"
+date: "2026-04"
+langid: "english"
+---

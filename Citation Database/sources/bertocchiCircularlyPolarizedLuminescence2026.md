@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "bertocchiCircularlyPolarizedLuminescence2026"
+title: "Circularly polarized luminescence: an easy path from molecules to supramolecular systems and beyond"
+issn: "0306-0012, 1460-4744"
+url: "https://xlink.rsc.org/?DOI=D6CS00339G"
+doi: "10.1039/D6CS00339G"
+shorttitle: "Circularly polarized luminescence"
+abstract: "This tutorial introduces circularly polarized luminescence of organic materials. It covers basic concepts, experimental determination, an overview of models, and the challenges of circularly polarized electroluminescence. , This tutorial offers an easy access point to the hot topic of circularly polarized luminescence ({CPL}), focusing on organic materials. Some basic concepts about chiroptical responses are presented and the subtleties associated with reliable {CPL} measurements are summarized. A brief overview of models for {CPL} is illustrated, with main focus on supramolecular systems, before addressing the challenging topic of circularly polarized electroluminescence."
+pages: "10.1039.D6CS00339G"
+journaltitle: "Chemical Society Reviews"
+shortjournal: "Chem. Soc. Rev."
+author: "Bertocchi, Francesco and Giavazzi, Davide and Nizar, Shahana and Phan Huu, D. K. Andrea and Savi, Lorenzo and Terenziani, Francesca and Sissa, Cristina and Painelli, Anna"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

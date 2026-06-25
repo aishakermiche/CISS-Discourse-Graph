@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "entin-wohlmanCommentSpinorbitInteraction2021"
+title: "Comment on “Spin-orbit interaction and spin selectivity for tunneling electron transfer in {DNA}”"
+volume: "103"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.103.077401"
+doi: "10.1103/PhysRevB.103.077401"
+pages: "077401"
+number: "7"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Entin-Wohlman, Ora and Aharony, Amnon and Utsumi, Yasuhiro"
+urldate: "2026-06-24"
+date: "2021-02-22"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\6V3QMXBC\\Entin-Wohlman et al. - 2021 - Comment on “Spin-orbit interaction and spin selectivity for tunneling electron transfer in DNA”.pdf:application/pdf"
+---

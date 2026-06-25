@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "qinNanoscaleHelicalHeterojunctions2026"
+title: "Nanoscale Helical Heterojunctions From a π‐Conjugated Emitter With Two Heterochiral Centers"
+volume: "38"
+issn: "0899-0042, 1520-636X"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/chir.70089"
+doi: "10.1002/chir.70089"
+abstract: "{ABSTRACT} Chirality transfer from molecules to supramolecular architectures underpins diverse biological and material functions, yet constructing helical heterojunctions remains a formidable challenge. Here, we report the discovery of nanoscale helical junctions directed by a molecular chiral junction derived from a meso‐form lipid emitter with two heterochiral centers. Unlike enantiopure molecules, which assemble into uniform homochiral fibers, the meso‐form molecule self‐assembles into planar belts in pure {DMSO} and striking helical heterojunctions with opposite‐handed portions in {DMSO}/H 2 O 9:1 (v/v). Spectroscopic and structural analyses reveal that solvent polarity and stereochemical configuration govern distinct packing modes and hierarchical chirality amplification. This unprecedented molecular‐to‐supramolecular transformation provides a new paradigm for chirality engineering, offering mechanistic insights into chiral self‐assembly and opening opportunities for advanced chiroptical materials."
+pages: "e70089"
+number: "3"
+journaltitle: "Chirality"
+shortjournal: "Chirality"
+author: "Qin, Xujin and Zhang, Zhen and Han, Jianlei and Yang, Xuefeng and Jin, Xue and Yang, Dong and Duan, Pengfei"
+urldate: "2026-06-24"
+date: "2026-03"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhuEnantiospecificityOrganicPhotoelectrochemical2025"
+title: "Enantiospecificity in Organic Photoelectrochemical Transistors Enabled by Chirality-Induced Spin Selectivity Effects"
+volume: "19"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c06982"
+doi: "10.1021/acsnano.5c06982"
+pages: "20247--20256"
+number: "21"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Zhu, Jian-Hong and Yang, Xinzhe and Zheng, Yulin and Wang, Shujia and He, Zhen-Kun and Gao, Zhida and Song, Yan-Yan"
+urldate: "2026-06-24"
+date: "2025-06-03"
+langid: "english"
+---

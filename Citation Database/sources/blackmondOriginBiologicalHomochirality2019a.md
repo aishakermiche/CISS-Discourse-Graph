@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "blackmondOriginBiologicalHomochirality2019a"
+title: "The Origin of Biological Homochirality"
+volume: "11"
+issn: "1943-0264"
+url: "http://cshperspectives.cshlp.org/lookup/doi/10.1101/cshperspect.a032540"
+doi: "10.1101/cshperspect.a032540"
+pages: "a032540"
+number: "3"
+journaltitle: "Cold Spring Harbor Perspectives in Biology"
+shortjournal: "Cold Spring Harb Perspect Biol"
+author: "Blackmond, Donna G."
+urldate: "2026-06-24"
+date: "2019-03"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\MP9TSRAJ\\Blackmond - 2019 - The Origin of Biological Homochirality.pdf:application/pdf"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "liGiantTransmissiveGoosHanchen2026"
+title: "Giant transmissive Goos-Hänchen shifts enabled by chiral-defect resonances in one-dimensional photonic crystals"
+volume: "101"
+issn: "0031-8949, 1402-4896"
+url: "https://iopscience.iop.org/article/10.1088/1402-4896/ae5351"
+doi: "10.1088/1402-4896/ae5351"
+abstract: "Abstract We theoretically investigate transmissive Goos–Hänchen ({TGH}) shifts supported by defect resonances in a one-dimensional photonic crystal containing an isotropic chiral defect layer. The defect mode provides strong intracavity localization and a sharply dispersive transmission phase, while chirality introduces polarization coupling and helicity-dependent phase accumulation that reshapes the resonance dispersion. As a result, the angular derivative of the transmission phase becomes strongly enhanced near the defect resonance, yielding giant lateral displacements of the transmitted beam. For a baseline cavity with moderate Bragg mirrors (e.g., N = 8), the normalized shift reaches the order of 10 2 , whereas increasing the mirror periods and tuning the incidence angle can further boost the shift to exceed 10 3 while maintaining resonant high transmission. We analyze how the {TGH} response depends on the chirality parameter γ , defect thickness d C , and the number of periods N , and identify regimes enabling efficient enhancement as well as polarity control via resonance detuning. These results establish chiral-defect resonances in planar photonic crystals as a compact mechanism for amplifying and tailoring transmitted beam shifts, with potential applications in phase-sensitive beam steering and refractometric sensing."
+pages: "145505"
+number: "14"
+journaltitle: "Physica Scripta"
+shortjournal: "Phys. Scr."
+author: "Li, Changjian and Guo, Shen and Ye, Jingfei and Xian, Fenglin and Zheng, Gaige"
+urldate: "2026-06-24"
+date: "2026-04-10"
+---

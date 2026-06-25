@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "keensMagnetosensitivityDipolarlyCoupled2018"
+title: "Magnetosensitivity in Dipolarly Coupled Three-Spin Systems"
+volume: "121"
+issn: "0031-9007, 1079-7114"
+url: "https://link.aps.org/doi/10.1103/PhysRevLett.121.096001"
+doi: "10.1103/PhysRevLett.121.096001"
+pages: "096001"
+number: "9"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Keens, Robert H. and Bedkihal, Salil and Kattnig, Daniel R."
+urldate: "2026-06-24"
+date: "2018-08-27"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\I9AY43QF\\Keens et al. - 2018 - Magnetosensitivity in Dipolarly Coupled Three-Spin Systems.pdf:application/pdf"
+---

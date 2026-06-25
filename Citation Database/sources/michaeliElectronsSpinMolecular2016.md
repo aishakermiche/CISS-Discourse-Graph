@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "michaeliElectronsSpinMolecular2016"
+title: "The electron's spin and molecular chirality – how are they related and how do they affect life processes?"
+volume: "45"
+issn: "0306-0012, 1460-4744"
+url: "https://xlink.rsc.org/?DOI=C6CS00369A"
+doi: "10.1039/C6CS00369A"
+abstract: "The recently discovered chiral induced spin selectivity ({CISS}) effect gives rise to a spin selective electron transmission through biomolecules. , The recently discovered chiral induced spin selectivity ({CISS}) effect gives rise to a spin selective electron transmission through biomolecules. Here we review the mechanism behind the {CISS} effect and its implication for processes in Biology. Specifically, three processes are discussed: long-range electron transfer, spin effects on the oxidation of water, and enantioselectivity in bio-recognition events. These phenomena imply that chirality and spin may play several important roles in biology, which have not been considered so far."
+pages: "6478--6487"
+number: "23"
+journaltitle: "Chemical Society Reviews"
+shortjournal: "Chem. Soc. Rev."
+author: "Michaeli, Karen and Kantor-Uriel, Nirit and Naaman, Ron and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2016"
+langid: "english"
+---

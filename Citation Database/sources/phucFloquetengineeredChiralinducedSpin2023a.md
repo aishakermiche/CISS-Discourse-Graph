@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "phucFloquetengineeredChiralinducedSpin2023a"
+title: "Floquet-engineered chiral-induced spin selectivity"
+volume: "159"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/159/5/054706/2905521/Floquet-engineered-chiral-induced-spin-selectivity"
+doi: "10.1063/5.0166058"
+abstract: "The control of electron spin, crucial to the stability of matter, offers new possibilities for manipulating the properties of molecules and materials with potential applications in spintronics and chemical reactions. Recent experiments have demonstrated that electron transmission through chiral molecules depends on the electron spin orientation, a phenomenon known as chiral-induced spin selectivity ({CISS}). In this study, we show that {CISS} can be observed in achiral systems driven by an external circularly polarized laser field in the framework of Floquet engineering. By using the Floquet theory for a time-periodically driven system to investigate spin-dependent electron transport in a two-terminal setup, we demonstrate that the spin polarization can approach unity if the light intensity is sufficiently strong, the rate of dephasing is sufficiently low, and the average chemical potential of the two leads is within an appropriate range of values, which is narrow because of the high frequency of the laser field. To obtain a broader range of energies for large spin polarization, a combination of chiral molecules and light–matter interactions is considered, and the spin polarization of electrons transported through a helical molecule driven by a laser field is evaluated."
+pages: "054706"
+number: "5"
+journaltitle: "The Journal of Chemical Physics"
+author: "Phuc, Nguyen Thanh"
+urldate: "2026-06-24"
+date: "2023-08-07"
+langid: "english"
+---

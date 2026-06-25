@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "royseChiralityInducedSpinCurrents2026"
+title: "Chirality-Induced Spin Currents in a Fermi Gas"
+volume: "136"
+issn: "0031-9007, 1079-7114"
+url: "https://link.aps.org/doi/10.1103/73th-7hwt"
+doi: "10.1103/73th-7hwt"
+pages: "123401"
+number: "12"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Royse, Camen A. and Thomas, J. E."
+urldate: "2026-06-24"
+date: "2026-03-23"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\4YMW7D3K\\Royse and Thomas - 2026 - Chirality-Induced Spin Currents in a Fermi Gas.pdf:application/pdf"
+---

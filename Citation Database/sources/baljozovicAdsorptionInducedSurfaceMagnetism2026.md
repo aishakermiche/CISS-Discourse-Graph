@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "baljozovicAdsorptionInducedSurfaceMagnetism2026"
+title: "Adsorption-Induced Surface Magnetism"
+volume: "20"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c15791"
+doi: "10.1021/acsnano.5c15791"
+pages: "4143--4151"
+number: "5"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Baljozović, Miloš and Karmakar, Shiladitya and Fernandes Cauduro, André L. and Shyam Sundar, Mothuku and Lozano, Marco and Kumar, Manish and Soler-Polo, Diego and Schmid, Andreas K. and Bedekar, Ashutosh V. and Jelinek, Pavel and Ernst, Karl-Heinz"
+urldate: "2026-06-24"
+date: "2026-02-10"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "medinaChiralMolecularFilms2012"
+title: "Chiral molecular films as electron polarizers and polarization modulators"
+volume: "99"
+issn: "0295-5075, 1286-4854"
+url: "https://iopscience.iop.org/article/10.1209/0295-5075/99/17006"
+doi: "10.1209/0295-5075/99/17006"
+pages: "17006"
+number: "1"
+journaltitle: "{EPL} (Europhysics Letters)"
+shortjournal: "{EPL}"
+author: "Medina, Ernesto and López, Floralba and Ratner, Mark A. and Mujica, Vladimiro"
+urldate: "2026-06-24"
+date: "2012-07-01"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\IHG5YH9E\\Medina et al. - 2012 - Chiral molecular films as electron polarizers and polarization modulators.pdf:application/pdf"
+---

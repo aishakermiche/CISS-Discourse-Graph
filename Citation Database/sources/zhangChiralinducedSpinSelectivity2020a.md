@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangChiralinducedSpinSelectivity2020a"
+title: "Chiral-induced spin selectivity: A polaron transport model"
+volume: "102"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.102.214303"
+doi: "10.1103/PhysRevB.102.214303"
+shorttitle: "Chiral-induced spin selectivity"
+pages: "214303"
+number: "21"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Zhang, Longlong and Hao, Yuying and Qin, Wei and Xie, Shijie and Qu, Fanyao"
+urldate: "2026-06-24"
+date: "2020-12-14"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "albroMeasurementPlatformProbe2025a"
+title: "Measurement Platform to Probe the Mechanism of Chiral-Induced Spin Selectivity through Direction-Dependent Magnetic Conductive Atomic Force Microscopy"
+volume: "19"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c04980"
+doi: "10.1021/acsnano.5c04980"
+pages: "17941--17949"
+number: "18"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Albro, Joseph A. and Garrett, Noah T. and Govindaraj, Keerthana and Bloom, Brian P. and Rosi, Nathaniel L. and Waldeck, David H."
+urldate: "2026-06-25"
+date: "2025-05-13"
+langid: "english"
+---

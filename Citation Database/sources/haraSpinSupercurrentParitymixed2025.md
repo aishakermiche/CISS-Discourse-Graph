@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "haraSpinSupercurrentParitymixed2025"
+title: "Spin supercurrent in parity-mixed superconductors with structural chirality"
+volume: "8"
+issn: "2399-3650"
+url: "https://www.nature.com/articles/s42005-025-02295-8"
+doi: "10.1038/s42005-025-02295-8"
+pages: "389"
+number: "1"
+journaltitle: "Communications Physics"
+shortjournal: "Commun Phys"
+author: "Hara, Keito and Yanase, Youichi"
+urldate: "2026-06-24"
+date: "2025-09-30"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\ZFXBVJHG\\Hara and Yanase - 2025 - Spin supercurrent in parity-mixed superconductors with structural chirality.pdf:application/pdf"
+---

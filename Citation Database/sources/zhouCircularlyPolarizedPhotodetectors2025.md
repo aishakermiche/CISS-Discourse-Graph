@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhouCircularlyPolarizedPhotodetectors2025"
+title: "Circularly Polarized Photodetectors Based on Chiral Moiré Stacking Films of Electrospun {ZnO} Nanowires"
+volume: "8"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "2574-0970, 2574-0970"
+url: "https://pubs.acs.org/doi/10.1021/acsanm.4c05768"
+doi: "10.1021/acsanm.4c05768"
+pages: "376--383"
+number: "1"
+journaltitle: "{ACS} Applied Nano Materials"
+shortjournal: "{ACS} Appl. Nano Mater."
+author: "Zhou, Kunhong and Hu, Xueyan and Chen, Gaoyu and Xu, Dongdong and Xu, Xiangxing"
+urldate: "2026-06-24"
+date: "2025-01-10"
+langid: "english"
+---

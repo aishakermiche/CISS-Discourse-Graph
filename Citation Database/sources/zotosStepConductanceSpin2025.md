@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "zotosStepConductanceSpin2025"
+title: "Step conductance and spin selectivity in a one-dimensional tailored conical magnet"
+volume: "112"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/ydd1-gwjc"
+doi: "10.1103/ydd1-gwjc"
+pages: "064420"
+number: "6"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Zotos, X."
+urldate: "2026-06-24"
+date: "2025-08-11"
+langid: "english"
+---

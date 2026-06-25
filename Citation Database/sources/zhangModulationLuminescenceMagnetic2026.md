@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangModulationLuminescenceMagnetic2026"
+title: "Modulation of Luminescence by Magnetic Field in Chiral Nanostructured Organic Cocrystal Enantiomers"
+volume: "9"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "2574-0970, 2574-0970"
+url: "https://pubs.acs.org/doi/10.1021/acsanm.6c01404"
+doi: "10.1021/acsanm.6c01404"
+pages: "11001--11008"
+number: "23"
+journaltitle: "{ACS} Applied Nano Materials"
+shortjournal: "{ACS} Appl. Nano Mater."
+author: "Zhang, Hanchen and Lu, Xiangqian and Li, Shilin and Qin, Wei"
+urldate: "2026-06-24"
+date: "2026-06-12"
+langid: "english"
+---

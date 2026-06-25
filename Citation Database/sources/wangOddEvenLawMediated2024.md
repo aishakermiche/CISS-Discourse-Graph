@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangOddEvenLawMediated2024"
+title: "Odd‐Even Law Mediated Supramolecular Chirality of Luminescent Dipeptides for Chiroptical Energy Transfer"
+volume: "20"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202405698"
+doi: "10.1002/smll.202405698"
+abstract: "Abstract Inherent luminescent short peptides essentially provide opportunities to rationally manipulate supramolecular chirality and chiral luminescence. Herein, a facile protocol to construct a series of naphthalimide‐appended dipeptides is reported that show ultrasound wave‐activated supramolecular chirality regulated by odd‐even law. Naphthalimide luminophores are conjugated to the dipeptide skeleton with variable alkyl spacers. The presence of tyrosine interferes the kinetic aggregation into achiral nanoparticles without chirality transfer to supramolecular scale. However, ultrasound treatment initiates the nanoparticle‐to‐helix transition accompanied with the appeared chiral optics, including Cotton effect and circularly polarized luminescence ({CPL}). The supramolecular chiral parameters, including handedness of helices and chiroptical behaviors, follow the odd‐even law of alkyl spacers in dipeptides bearing non‐substituted naphthalimides. The amine‐substitution boosted the quantum yields of dipeptide whereas no odd‐even effect. The two types of dipeptides constituted ideal energy transfer pairs that enable the efficient energy transfer as well as the transportation of odd‐even law to dipeptides containing substituted naphthalimides. This work sheds light on the construction of luminescent dipeptides with applications in precise control over chirality transportation and chiral luminescence."
+pages: "2405698"
+number: "49"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Wang, Zhuoer and Lu, Jiahui and Hao, Aiyou and Xing, Pengyao"
+urldate: "2026-06-24"
+date: "2024-12"
+langid: "english"
+---

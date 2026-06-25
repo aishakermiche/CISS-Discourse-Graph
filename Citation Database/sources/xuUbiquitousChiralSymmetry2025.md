@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "xuUbiquitousChiralSymmetry2025"
+title: "Ubiquitous Chiral Symmetry Breaking of Conjugated Polymers via Liquid–Liquid Phase Separation"
+volume: "147"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c07995"
+doi: "10.1021/jacs.5c07995"
+pages: "33530--33544"
+number: "37"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Xu, Zhuang and Wang, Ziming and Zhang, Rui and Verma, Archana and Neu, Justin S. and Bairagya, Priyotosh and Jeon, Sanghyun and Damron, Alec M. and Rinehart, Joshua M. and Wagner, Justine S. and Sabury, Sina and Luo, Xuyi and Österholm, Anna M. and Mei, Jianguo and Moore, Jeffrey S. and You, Wei and Reynolds, John R. and Jackson, Nicholas E. and Diao, Ying"
+urldate: "2026-06-24"
+date: "2025-09-17"
+langid: "english"
+---

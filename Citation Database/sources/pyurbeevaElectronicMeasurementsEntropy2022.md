@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "pyurbeevaElectronicMeasurementsEntropy2022"
+title: "Electronic measurements of entropy in meso- and nanoscale systems"
+volume: "3"
+issn: "2688-4070"
+url: "https://pubs.aip.org/cpr/article/3/4/041308/2836301/Electronic-measurements-of-entropy-in-meso-and"
+doi: "10.1063/5.0101784"
+abstract: "Entropy is one of the most fundamental quantities in physics. For systems with few degrees of freedom, the value of entropy provides a powerful insight into its microscopic dynamics, such as the number, degeneracy, and relative energies of electronic states, the value of spin, degree of localization and entanglement, and the emergence of exotic states such as non-Abelian anyons. As the size of a system decreases, the conventional methods for measuring entropy, based on heat capacity, quickly become infeasible due to the requirement of increasingly accurate measurements of heat. Several methods to directly measure entropy of mesoscopic quantum systems have recently been developed. These methods use electronic measurements of charge, conductance and thermocurrent, rather than heat, and have been successfully applied to a wide range of systems, from quantum dots and molecules, to quantum Hall states and twisted bilayer graphene. In this Review, we provide an overview of electronic direct entropy measurement methods, discuss their theoretical background, compare their ranges of applicability and look into the directions of their future extensions and applications."
+pages: "041308"
+number: "4"
+journaltitle: "Chemical Physics Reviews"
+author: "Pyurbeeva, Eugenia and Mol, Jan A. and Gehring, Pascal"
+urldate: "2026-06-24"
+date: "2022-12-01"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\K3CGIZ5V\\Pyurbeeva et al. - 2022 - Electronic measurements of entropy in meso- and nanoscale systems.pdf:application/pdf"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wagnerProbingChiralSymmetry2025"
+title: "Probing chiral symmetry with a topological domain wall sensor"
+volume: "1"
+issn: "29506360"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2950636025000015"
+doi: "10.1016/j.newton.2025.100009"
+pages: "100009"
+number: "1"
+journaltitle: "Newton"
+shortjournal: "Newton"
+author: "Wagner, Glenn and Neupert, Titus and Thomale, Ronny and Szczerbakow, Andrzej and Korczak, Jędrzej and Story, Tomasz and Bode, Matthias and Odobesko, Artem"
+urldate: "2026-06-24"
+date: "2025-03"
+langid: "english"
+---

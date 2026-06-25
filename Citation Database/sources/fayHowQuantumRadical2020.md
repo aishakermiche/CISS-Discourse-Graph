@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "fayHowQuantumRadical2020"
+title: "How quantum is radical pair magnetoreception?"
+volume: "221"
+issn: "1359-6640, 1364-5498"
+url: "https://xlink.rsc.org/?DOI=C9FD00049F"
+doi: "10.1039/C9FD00049F"
+abstract: "Semiclassical methods cannot accurately simulate magnetic field effects relevant to avian magnetoreception, which may therefore deserve the label “quantum biology”. , Currently the most likely mechanism of the magnetic compass sense in migratory songbirds relies on the coherent spin dynamics of pairs of photochemically formed radicals in the retina. Spin-conserving electron transfer reactions are thought to result in radical pairs whose near-degenerate electronic singlet and triplet states interconvert coherently as a result of hyperfine, exchange, and dipolar couplings and, crucially for a compass sensor, Zeeman interactions with the geomagnetic field. In this way, the yields of the reaction products can be influenced by magnetic interactions a million times smaller than k B T . The question we ask here is whether one can only account for the coherent spin dynamics using quantum mechanics. We find that semiclassical approximations to the spin dynamics of radical pairs only provide a satisfactory description of the anisotropic product yields when there is no electron spin–spin coupling, a situation unlikely to be consistent with a magnetic sensing function. Although these methods perform reasonably well for shorter-lived radical pairs with stronger electron-spin coupling, the accurate simulation of anisotropic magnetic field effects relevant to magnetoreception seems to require full quantum mechanical calculations."
+pages: "77--91"
+journaltitle: "Faraday Discussions"
+shortjournal: "Faraday Discuss."
+author: "Fay, Thomas P. and Lindoy, Lachlan P. and Manolopoulos, David E. and Hore, P. J."
+urldate: "2026-06-24"
+date: "2020"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\74DLZQIA\\Fay et al. - 2020 - How quantum is radical pair magnetoreception.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhaoAnalyticGradientsEOMDEACCSD2026"
+title: "Analytic gradients for {EOM}-{DEA}-{CCSD} and {EOM}-{DIP}-{CCSD}: Theory, implementation, and application to diradicals"
+volume: "164"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/164/1/014116/3376865/Analytic-gradients-for-EOM-DEA-CCSD-and-EOM-DIP"
+doi: "10.1063/5.0308620"
+shorttitle: "Analytic gradients for {EOM}-{DEA}-{CCSD} and {EOM}-{DIP}-{CCSD}"
+abstract: "Equation-of-motion coupled-cluster theory with single and double excitations ({EOM}-{CCSD}) provides a robust framework for describing a wide range of electronically excited and open-shell states. Among its various formulations, the double electron-attachment ({EOM}-{DEA}-{CCSD}) and double ionization potential ({EOM}-{DIP}-{CCSD}) methods are particularly effective for treating diradicals and other types of open-shell species. To enable accurate geometry optimizations and property calculations, we present the derivation and implementation of analytic nuclear gradients for {EOM}-{DEA}-{CCSD} and {EOM}-{DIP}-{CCSD}. These new capabilities were illustrated by calculations of singlet–triplet gaps in benzyne diradicals as well as characterization of molecules relevant to quantum information science. We further extended the framework to include spin–orbit coupling calculations for {EOM}-{DEA}-{CCSD} states, allowing calculations of intensity borrowing and intersystem crossings."
+pages: "014116"
+number: "1"
+journaltitle: "The Journal of Chemical Physics"
+author: "Zhao, Tingting and Krylov, Anna I."
+urldate: "2026-06-24"
+date: "2026-01-07"
+langid: "english"
+---

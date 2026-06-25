@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "liDesigningChiralOrganic2026"
+title: "Designing chiral organic small molecules for circularly polarized light detection via group theory"
+issn: "2567-3165, 2567-3165"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/inf2.70155"
+doi: "10.1002/inf2.70155"
+abstract: "Abstract Circularly polarized light ({CPL}) photodetectors are of great interest for applications in polarization imaging, information encryption, and optical communication. Chiral organic small molecules have emerged as attractive active materials due to their structural tunability, well‐defined intrinsic chirality, and solution processability. However, in most chiral organic small molecule systems, molecular‐scale effects and optical selection rules lead to mismatch in magnitude and spatial orientation between the magnetic and electric transition dipole moments, resulting in low absorption dissymmetry factors ( g abs ) and poor compatibility between chiroptical response and charge transport. This review summarizes the recent progress in chiral organic small molecules for {CPL} detection from the perspective of group theory. By comparing the representative chiral point groups such as C 1 , C n , and D n , we elucidate how point group symmetry imposes constraints on the relative arrangement of transition dipole moments, thereby governing the molecular g abs . In particular, the D 2 point group can enforce both electric and magnetic transition dipole alignment along the principal molecular axes, yielding an optimal orientation (0° or 180°) and thus enabling the high g abs . Recent advances in chiral organic small molecules D 2 point group demonstrate their potential to simultaneously achieve strong chiroptical responses and efficient charge transport, offering a clear structural guideline for the rational design of high‐performance {CPL} photodetectors based on chiral organic small molecules. image"
+pages: "e70155"
+journaltitle: "{InfoMat}"
+shortjournal: "{InfoMat}"
+author: "Li, Zhenping and Zhao, Wenkai and Fu, Jiajun and Wu, Wenhan and Chu, Xingshuo and Xu, Zihao and Zhong, Yu‐Wu and Zhang, Hao‐Li and Ma, Wei and Long, Guankui and Shang, Xiaobo"
+urldate: "2026-06-24"
+date: "2026-06-09"
+langid: "english"
+---

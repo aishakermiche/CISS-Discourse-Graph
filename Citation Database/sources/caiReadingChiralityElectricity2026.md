@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "caiReadingChiralityElectricity2026"
+title: "Reading chirality in electricity: circularly polarized light-programmed hot-electron generation and applications"
+issn: "2040-3364, 2040-3372"
+url: "https://xlink.rsc.org/?DOI=D6NR00667A"
+doi: "10.1039/D6NR00667A"
+shorttitle: "Reading chirality in electricity"
+abstract: "End-to-end schematic of {CPL}-programmed hot-carrier generation and functional readout. , Chirality is fundamental to nature, but intrinsic molecular signals are often weak. This review details a paradigm shift in plasmonic chiroptics, moving from far-field “observation” toward “harnessing” chirality via energetic hot carriers to drive functional outputs. We propose a unified “conversion chain” framework organized into four critical stages: optical, carrier, interfacial, and quantum. A central focus is the decoupling of optical circular dichroism from hot-carrier chirality, noting that functional asymmetry can be amplified or lost during generation and extraction. We summarize cutting-edge applications, including polarization-sensitive photodetection and enantiospecific photocatalysis. Finally, we identify key bottlenecks and outline strategies for transforming proof-of-concept demonstrations into robust, next-generation chiroptoelectronic platforms."
+pages: "10.1039.D6NR00667A"
+journaltitle: "Nanoscale"
+shortjournal: "Nanoscale"
+author: "Cai, Bin and Gu, Leilei and Yu, Peng and Lin, Feng and Wang, Zhiming M."
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

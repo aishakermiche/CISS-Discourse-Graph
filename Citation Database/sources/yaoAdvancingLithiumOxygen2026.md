@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "yaoAdvancingLithiumOxygen2026"
+title: "Advancing Lithium–Oxygen Batteries: Pioneering Cathode Catalyst Innovation and Artificial Intelligence‐Driven Design Paradigms"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.73460"
+doi: "10.1002/adma.73460"
+shorttitle: "Advancing Lithium–Oxygen Batteries"
+abstract: "{ABSTRACT} Lithium‐oxygen batteries ({LOBs}) are regarded as one of the most promising next‐generation energy storage systems, owing to their exceptionally high theoretical energy density. However, their practical application remains severely hindered by sluggish oxygen reduction and evolution reaction kinetics, insulating discharge products, large voltage polarization, and poor cycling stability. Cathode catalysts play a pivotal role in regulating reaction pathways, accelerating interfacial kinetics, and improving reaction reversibility. This review systematically summarizes the fundamental working principles and key challenges of nonaqueous {LOBs}, followed by a comprehensive overview of recent advances in cathode catalyst materials, including carbon‐based catalysts, noble metals, transition metal oxides, sulfides, nitrides, carbides, and redox mediators. Particular emphasis is placed on emerging catalyst design strategies, such as single‐atom catalysts, metal–organic frameworks‐derived materials, heterostructure and interfacial engineering, high‐entropy catalysts, and spin‐related oxygen electrocatalysis. In addition, recent progress in high‐throughput computation and artificial intelligence‐driven catalyst design is explored, highlighting the potential for data‐assisted discovery, multiscale structure‐activity relationships, and mechanism‐guided optimization. The review concludes by addressing the critical challenges and outlining future directions for the development of efficient, durable, and practically viable cathode catalysts for nonaqueous {LOBs}."
+pages: "e73460"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Yao, Yuqing and Hao, Chongyang and Mejia‐Centeno, Karol Viviana and Khan, Malik Dilshad and Wang, Shang and Li, Longqiu and Tian, Yanhong and Cabot, Andreu and Sun, Qing"
+urldate: "2026-06-24"
+date: "2026-06-01"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jiangTwistedGrapheneNanoribbons2026"
+title: "Twisted Graphene Nanoribbons for Breakthroughs in Energy Storage, Bioelectronics and Chiroptics"
+volume: "59"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0001-4842, 1520-4898"
+url: "https://pubs.acs.org/doi/10.1021/acs.accounts.5c00754"
+doi: "10.1021/acs.accounts.5c00754"
+pages: "437--450"
+number: "3"
+journaltitle: "Accounts of Chemical Research"
+shortjournal: "Acc. Chem. Res."
+author: "Jiang, Qifeng and Louie, Shayan and Bao, Si Tong and Ng, Fay and Steigerwald, Michael L. and Nuckolls, Colin"
+urldate: "2026-06-24"
+date: "2026-02-03"
+langid: "english"
+---

@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "langSurfacePlasmonResonance2025"
+title: "Surface plasmon resonance effect enhances spin-polarized electrons to promote photocatalytic {CO}2 reduction"
+volume: "699"
+issn: "00219797"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0021979725016534"
+doi: "10.1016/j.jcis.2025.138262"
+pages: "138262"
+journaltitle: "Journal of Colloid and Interface Science"
+shortjournal: "Journal of Colloid and Interface Science"
+author: "Lang, Yanni and Hong, Dongfeng and Ma, Rongze and Zhang, Haoqiang and Xu, Liang and Zhao, Xinye and Wu, Dan and Li, Yongjin and Zhou, Dacheng and Song, Zhiguo and Wen, Yugeng and Yang, Yong and Han, Jin and Qiu, Jianbei"
+urldate: "2026-06-24"
+date: "2025-12"
+langid: "english"
+---

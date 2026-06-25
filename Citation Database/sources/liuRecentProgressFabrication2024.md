@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "liuRecentProgressFabrication2024"
+title: "Recent progress in fabrication and application of chiral interfaces"
+volume: "52"
+issn: "18722040"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S1872204024000367"
+doi: "10.1016/j.cjac.2024.100391"
+pages: "100391"
+number: "4"
+journaltitle: "Chinese Journal of Analytical Chemistry"
+shortjournal: "Chinese Journal of Analytical Chemistry"
+author: "Liu, Qixin and Zhang, Yuqi and Wu, Lie and Jiang, Xiue"
+urldate: "2026-06-24"
+date: "2024-04"
+langid: "english"
+---

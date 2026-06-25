@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "tiwariRoleChiralinducedSpin2022"
+title: "Role of chiral-induced spin selectivity in the radical pair mechanism of avian magnetoreception"
+volume: "106"
+issn: "2470-0045, 2470-0053"
+url: "https://link.aps.org/doi/10.1103/PhysRevE.106.064409"
+doi: "10.1103/PhysRevE.106.064409"
+pages: "064409"
+number: "6"
+journaltitle: "Physical Review E"
+shortjournal: "Phys. Rev. E"
+author: "Tiwari, Yash and Poonia, Vishvendra Singh"
+urldate: "2026-06-24"
+date: "2022-12-28"
+langid: "english"
+---

@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "behniaModelingSpinSelectivity2016"
+title: "Modeling spin selectivity in charge transfer across the {DNA}/Gold interface"
+volume: "477"
+issn: "03010104"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0301010416303834"
+doi: "10.1016/j.chemphys.2016.08.016"
+pages: "61--73"
+journaltitle: "Chemical Physics"
+shortjournal: "Chemical Physics"
+author: "Behnia, S. and Fathizadeh, S. and Akhshani, A."
+urldate: "2026-06-25"
+date: "2016-09"
+langid: "english"
+---

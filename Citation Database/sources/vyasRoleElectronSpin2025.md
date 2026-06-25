@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "vyasRoleElectronSpin2025"
+title: "Role of Electron Spin, Chirality, and Charge Dynamics in Promoting the Persistence of Nascent Nucleic Acid–Peptide Complexes"
+volume: "129"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1520-6106, 1520-5207"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcb.5c01150"
+doi: "10.1021/acs.jpcb.5c01150"
+pages: "3978--3987"
+number: "16"
+journaltitle: "The Journal of Physical Chemistry B"
+shortjournal: "J. Phys. Chem. B"
+author: "Vyas, Pratik and Santra, Kakali and Preeyanka, Naupada and Gupta, Anu and Weil-Ktorza, Orit and Zhu, Qirong and Metanis, Norman and Fransson, Jonas and Longo, Liam M. and Naaman, Ron"
+urldate: "2026-06-24"
+date: "2025-04-24"
+langid: "english"
+---

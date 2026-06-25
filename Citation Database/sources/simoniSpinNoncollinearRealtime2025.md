@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "simoniSpinNoncollinearRealtime2025"
+title: "Spin non-collinear real-time time-dependent density-functional theory and implementation in the modern {GPU}-accelerated {\textless}span style='font-variant:small-caps;'{\textgreater}{INQ}{\textless}/span{\textgreater} code"
+volume: "1"
+issn: "3066-0017"
+url: "https://pubs.aip.org/aco/article/1/2/026108/3367469/Spin-non-collinear-real-time-time-dependent"
+doi: "10.1063/5.0290737"
+shorttitle: "Spin non-collinear real-time time-dependent density-functional theory and implementation in the modern {GPU}-accelerated {\textless}span style='font-variant"
+abstract: "Time-dependent density functional theory ({TDDFT}) describes the time evolution of quantum mechanical many-electron systems under the influence of external time-dependent electric and magnetic fields. {INQ} is especially designed to efficiently solve the real-time {TDDFT} equations on graphics processing units, which aims to overcome the computational limitation of time and size scales of non-equilibrium quantum dynamics. In this work, we present an implementation of non-collinear {TDDFT} for the {INQ} code to simulate spin dynamics in real time. We discuss the implementation of non-collinear magnetic effects, exchange correlation magnetic fields, spin–orbit coupling, and the interaction between the electronic system and external magnetic fields, with plane-wave basis and pseudopotential approximations. We consider several prototypical examples of spin dynamics in magnetic clusters and solids after light excitation."
+pages: "026108"
+number: "2"
+journaltitle: "{APL} Computational Physics"
+author: "Simoni, Jacopo and Andrade, Xavier and Fang, Wuzhang and Grieder, Andrew C. and Correa, Alfredo A. and Ogitsu, Tadashi and Ping, Yuan"
+urldate: "2026-06-24"
+date: "2025-12-01"
+langid: "english"
+---

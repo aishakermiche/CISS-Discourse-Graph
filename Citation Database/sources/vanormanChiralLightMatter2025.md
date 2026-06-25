@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "vanormanChiralLightMatter2025"
+title: "Chiral light–matter interactions in solution-processable semiconductors"
+volume: "9"
+issn: "2397-3358"
+url: "https://www.nature.com/articles/s41570-025-00690-x"
+doi: "10.1038/s41570-025-00690-x"
+pages: "208--223"
+number: "4"
+journaltitle: "Nature Reviews Chemistry"
+shortjournal: "Nat Rev Chem"
+author: "{VanOrman}, Zachary A. and Kitzmann, Winald R. and Reponen, Antti-Pekka M. and Deshpande, Tejas and Jöbsis, Huygen J. and Feldmann, Sascha"
+urldate: "2026-06-24"
+date: "2025-02-17"
+langid: "english"
+---

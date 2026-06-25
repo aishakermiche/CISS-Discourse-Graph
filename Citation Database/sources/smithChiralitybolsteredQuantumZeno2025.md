@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "smithChiralitybolsteredQuantumZeno2025"
+title: "Chirality-bolstered quantum Zeno effect enhances radical pair-based magnetoreception"
+volume: "7"
+issn: "2639-0213"
+url: "https://pubs.aip.org/aqs/article/7/3/032601/3358275/Chirality-bolstered-quantum-Zeno-effect-enhances"
+doi: "10.1116/5.0277712"
+abstract: "Radical pairs in the flavoprotein cryptochrome are central to various magnetically sensitive biological processes, including the proposed mechanism of avian magnetoreception. Cryptochrome's molecular chirality has been hypothesized to enhance magnetic field effects via the chirality-induced spin selectivity ({CISS}) effect, yet the mechanism underlying this enhancement remains unresolved. In this work, we systematically investigate the impact of {CISS} on the directional magnetic sensitivity of prototypical radical pair reactions, analyzing two distinct models—one generating spin polarization and, for the first time, one generating coherence. We find that {CISS}-induced spin polarization significantly enhances magnetic sensitivity by introducing triplet character into the initial state and reinforcing the quantum Zeno effect, aligning with enhancements observed in triplet-born radical pairs subject to strongly asymmetric recombination. In contrast, {CISS}-generated spin coherence does not provide a significant improvement in sensitivity. These findings indicate that {CISS} is not itself a universal enhancer of sensitivity or coherence in radical pair reactions, and its influence must be evaluated case by case, particularly in relation to the quantum Zeno effect. Additionally, we provide a unified interpolation scheme for modeling {CISS}-influenced initial states and recombination dynamics, encompassing the principal models currently discussed in the literature for singlet and triplet precursors."
+pages: "032601"
+number: "3"
+journaltitle: "{AVS} Quantum Science"
+author: "Smith, Luke D. and Tallapudi, Sukesh and Denton, Matt C. J. and Kattnig, Daniel R."
+urldate: "2026-06-24"
+date: "2025-09-01"
+langid: "english"
+---

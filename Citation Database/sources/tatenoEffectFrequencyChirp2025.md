@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "tatenoEffectFrequencyChirp2025"
+title: "Effect of frequency chirp on {RYDMR} spectrum in {AWG}-{RYDMR} system at low magnetic field"
+volume: "864"
+issn: "00092614"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0009261425000454"
+doi: "10.1016/j.cplett.2025.141905"
+pages: "141905"
+journaltitle: "Chemical Physics Letters"
+shortjournal: "Chemical Physics Letters"
+author: "Tateno, Akihiro and Nagashima, Hiroki and Maeda, Kiminori"
+urldate: "2026-06-24"
+date: "2025-04"
+langid: "english"
+---

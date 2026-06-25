@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "aoyamaSynthesisRedoxProperties2025"
+title: "Synthesis and redox properties of a chiral heterohelicene constituted of pyrrole and 1,1′‐biazulene skeletons"
+volume: "72"
+issn: "0009-4536, 2192-6549"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/jccs.70068"
+doi: "10.1002/jccs.70068"
+abstract: "Abstract Chiral helicene radicals having a combination of molecular chirality and unpaired electron spin(s) are of increasing interest from both fundamental science and technological fields. We have synthesized a helicene compound, wherein a 1,1′‐biazulene skeleton is fused with an isobenzopyrrole unit that has bulky mesityl groups for steric protection. The final cyclization reaction for the target compound was accomplished very efficiently by using a microflow method. The helical structure was confirmed by X‐ray crystallography, and the optical resolution was achieved by {HPLC} with a chiral stationary phase. Upon one‐electron oxidation of this compound, its cation radical was successfully produced with enough stability for isolation."
+pages: "1061--1072"
+number: "10"
+journaltitle: "Journal of the Chinese Chemical Society"
+shortjournal: "J Chinese Chemical Soc"
+author: "Aoyama, Hiroki and Narita, Masahiro and Goto, Kenta and Murafuji, Toshihiro and Igawa, Kazunobu and Kawasaki, Yuuya and Tomooka, Katsuhiko and Tani, Fumito"
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+---

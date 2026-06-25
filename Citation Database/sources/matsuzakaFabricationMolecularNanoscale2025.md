@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "matsuzakaFabricationMolecularNanoscale2025"
+title: "Fabrication of molecular nanoscale junctions with a junction area of 7 × 7 nm2 and their structural and electrical properties"
+volume: "20"
+issn: "2731-9229"
+url: "https://link.springer.com/10.1186/s11671-025-04354-z"
+doi: "10.1186/s11671-025-04354-z"
+pages: "164"
+number: "1"
+journaltitle: "Discover Nano"
+shortjournal: "Discover Nano"
+author: "Matsuzaka, Mizuki and Miyamoto, Ryunosuke and Zhang, Zijing and Sato, Kenta and Kaiju, Hideo"
+urldate: "2026-06-24"
+date: "2025-09-21"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\FSB8WMT2\\Matsuzaka et al. - 2025 - Fabrication of molecular nanoscale junctions with a junction area of 7 × 7 nm2 and their structural.pdf:application/pdf"
+---

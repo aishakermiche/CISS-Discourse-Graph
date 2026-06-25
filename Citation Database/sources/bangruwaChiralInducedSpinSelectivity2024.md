@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bangruwaChiralInducedSpinSelectivity2024"
+title: "Chiral-Induced Spin Selectivity Modulated Time-Correlated Single-Photon Counting for {DNA} Hybridization Detection"
+volume: "15"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03479"
+doi: "10.1021/acs.jpclett.3c03479"
+pages: "2384--2391"
+number: "9"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Bangruwa, Neeraj and Tiwari, Mayank and Shandilya, Ankur and Gutierrez, Rafael and Peralta, Mayra and Varela, Solmar and Cuniberti, Gianaurelio and Mishra, Debabrata"
+urldate: "2026-06-24"
+date: "2024-03-07"
+langid: "english"
+---

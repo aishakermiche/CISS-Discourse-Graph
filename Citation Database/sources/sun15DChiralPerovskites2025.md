@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sun15DChiralPerovskites2025"
+title: "1.5D Chiral Perovskites Mediated by Hydrogen‐Bonding Network with Remarkable Spin‐Polarized Property"
+volume: "137"
+issn: "0044-8249, 1521-3757"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/ange.202423314"
+doi: "10.1002/ange.202423314"
+abstract: "Abstract In this study, we developed new chiral hybrid perovskites, ( R / S ‐{MBA})({GA}){PbI} 4 , by incorporating achiral guanidinium ({GA} + ) and chiral R / S ‐methylbenzylammonium ( R / S ‐{MBA} + ) into the perovskite framework. The resulting materials possess a distinctive structural configuration, positioned between 1D and 2D perovskites, which we describe as 1.5D. This structure is featured by a hydrogen‐bonding‐network‐induced arrangement of zigzag inorganic chains, further forming an organized layered architecture. The structural dimensionality affects both electronic and spin‐related properties. Density functional theory ({DFT}) calculations reveal Rashba splitting induced by the inversion asymmetry of the crystal structure, while circularly polarized transient absorption spectroscopy confirms spin lifetime on the nanosecond timescale. Magnetic conductive‐probe atomic force microscopy ({mCP}‐{AFM}) measurements demonstrate exceptional chiral‐induced spin selectivity ({CISS}) with maximum spin polarization degrees of (92±1)\% and (−94±2)\% for ( R ‐{MBA})({GA}){PbI} 4 and ( S ‐{MBA})({GA}){PbI} 4 , respectively. These findings underscore the potential of ( R / S ‐{MBA})({GA}){PbI} 4 as promising candidates for next‐generation spintronic devices, also highlight the critical role of chemical environment in sculpturing the structural dimension and spin‐polarized property of chiral perovskites."
+pages: "e202423314"
+number: "13"
+journaltitle: "Angewandte Chemie"
+shortjournal: "Angewandte Chemie"
+author: "Sun, Shuo and Jiang, Jiawei and Jia, Menghui and Tian, Yunfei and Xiao, Yin"
+urldate: "2026-06-24"
+date: "2025-03-24"
+langid: "english"
+---

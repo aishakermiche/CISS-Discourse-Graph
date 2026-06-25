@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kurtinaChiralityInductionAtomically2026"
+title: "Chirality induction in atomically thin {CdTe} nanostructures"
+volume: "36"
+issn: "0959-9436, 1364-551X"
+url: "https://www.mathnet.ru/mendc7467"
+doi: "10.71267/mencom.7983"
+abstract: "Chiral atomically thin {CdTe} nanostructures with thicknesses of 2 and 3 monolayers coated with enantiomerically pure {\textless}em{\textgreater}N{\textless}/em{\textgreater}-acetyl-L-cysteine ligand were prepared by ligand exchange. Circular dichroism spectra demonstrate the Cotton effect for heavy-hole and light-hole excitons."
+pages: "484--486"
+number: "4"
+journaltitle: "Mendeleev Communications"
+shortjournal: "Mendeleev Communications"
+author: "Kurtina, Daria A and Platonova, Maria Yu and Vasiliev, Roman Borisovich"
+urldate: "2026-06-24"
+date: "2026"
+langid: "russian"
+---

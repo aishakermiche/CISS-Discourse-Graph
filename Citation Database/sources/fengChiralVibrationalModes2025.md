@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "fengChiralVibrationalModes2025"
+title: "Chiral vibrational modes in small molecules"
+volume: "163"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/163/1/014106/3351423/Chiral-vibrational-modes-in-small-molecules"
+doi: "10.1063/5.0271584"
+abstract: "The development of quantitative methods for characterizing molecular chirality can provide an important tool for studying chirality-induced phenomena in molecular systems. Significant progress has been made in recent years toward understanding the chirality of molecular normal vibrational modes, mostly focusing on vibrations of helical molecular structures. In the present study, we examine the applicability of two methodologies previously used for helical structures for the quantification of the chirality of molecular normal modes across a range of small, not necessarily helical, molecules. The first approach involves the application of the Continuous Chirality Measure ({CCM}) to each normal mode by associating the mode with a structure formed by imposing the corresponding motion relative to a common origin. The second approach assigns to each normal mode a pseudoscalar defined as the product of atomic linear and angular momentum summed over all atoms. In particular, using the {CCM} also as a measure of the chirality of the underlying molecular structure, we establish the existence of a correlation between the chirality of molecular normal modes and that of the underlying molecular structure. Furthermore, we find that normal modes associated with different frequency ranges of the molecular vibrational spectrum exhibit distinct handedness behavior."
+pages: "014106"
+number: "1"
+journaltitle: "The Journal of Chemical Physics"
+author: "Feng, Jichen and Abraham, Ethan and Subotnik, Joseph and Nitzan, Abraham"
+urldate: "2026-06-24"
+date: "2025-07-07"
+langid: "english"
+---

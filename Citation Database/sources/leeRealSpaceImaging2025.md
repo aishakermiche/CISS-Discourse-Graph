@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "leeRealSpaceImaging2025"
+title: "Real Space Imaging of Spin Scattering in Chirality-Induced Spin Selectivity"
+volume: "19"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c10577"
+doi: "10.1021/acsnano.5c10577"
+pages: "42046--42055"
+number: "50"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Lee, Jaehyun and Lee, Sang-Hyuk and Jeong, Uiseok and J. C. Dalayoan, Daryll and Shin, Soobeom and Jeong, Hu Young and Jin, Hosub and Yan, Binghai and Park, Noejung and Namgung, Seon"
+urldate: "2026-06-24"
+date: "2025-12-23"
+langid: "english"
+---

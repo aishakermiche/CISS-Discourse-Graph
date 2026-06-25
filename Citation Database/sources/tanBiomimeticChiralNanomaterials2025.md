@@ -1,0 +1,17 @@
+---
+type: "incollection"
+citekey: "tanBiomimeticChiralNanomaterials2025"
+edition: "1"
+title: "Biomimetic Chiral Nanomaterials"
+isbn: "978-3-527-35454-2 978-3-527-84985-7"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/9783527849857.ch05"
+doi: "10.1002/9783527849857.ch05"
+pages: "73--92"
+booktitle: "Biomimetic Nanomaterials"
+publisher: "Wiley"
+author: "Tan, Lili and Wang, Peng‐peng"
+editor: "Ni, Bing and Zhang, Zhicheng"
+urldate: "2026-06-24"
+date: "2025-07-26"
+langid: "english"
+---

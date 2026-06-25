@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "alsaadProximityEffectOptically2025"
+title: "Proximity Effect of Optically Active h-{BCN} Nanoflakes Deposited on Different Substrates to Tailor Electronic, Spintronic, and Optoelectronic Properties"
+volume: "26"
+issn: "1422-0067"
+url: "https://www.mdpi.com/1422-0067/26/5/2096"
+doi: "10.3390/ijms26052096"
+abstract: "Hexagonal {BCN} (h-{BCN}), an isoelectronic counterpart to graphene, exhibits chirality and offers the distinct advantage of optical activity in the vacuum ultraviolet ({VUV}) region, characterized by significantly higher wavelengths compared to graphene nanoflakes. h-{BCN} possesses a wide bandgap and demonstrates desirable semiconducting properties. In this study, we employ Density Functional Theory ({DFT}) calculations to investigate the proximity effects of adsorbed h-{BCN} flakes on two-dimensional (2D) substrates. The chosen substrates encompass monolayers of 3D transition metals and {WSe}2, as well as a bilayer consisting of {WSe}2/Ni. Notably, the hydrogen-terminated h-{BCN} nanoflakes retain their planar configuration following adsorption. We observe a strong interaction between h-{BCN} and fcc-based monolayers such as Ni(111), resulting in the closure of the optical bandgap, while the adsorption energy on {WSe}2 is significantly weaker, preserving an approximate 1.1 {eV} bandgap. Furthermore, we demonstrate the magnetism induced by the proximity of adsorbed chiral h-{BCN} molecules, and the chiral-induced spin selectivity within the proposed systems."
+pages: "2096"
+number: "5"
+journaltitle: "International Journal of Molecular Sciences"
+shortjournal: "{IJMS}"
+author: "Alsaad, Ahmad and Bai, Jaeil and Mei, Wai-Ning and Turallo, Joel and Ilie, Carolina and Sabirianov, Renat"
+urldate: "2026-06-24"
+date: "2025-02-27"
+langid: "english"
+---

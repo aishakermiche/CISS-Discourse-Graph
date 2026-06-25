@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "niuChiralInducedSpin2026"
+title: "Chiral induced spin selectivity effect: A review of materials, mechanisms, and application exploration"
+volume: "348"
+issn: "00018686"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0001868625003501"
+doi: "10.1016/j.cis.2025.103739"
+shorttitle: "Chiral induced spin selectivity effect"
+pages: "103739"
+journaltitle: "Advances in Colloid and Interface Science"
+shortjournal: "Advances in Colloid and Interface Science"
+author: "Niu, Xiaohui and Zheng, Jian and Zhang, Jianying and Wang, Yuewei and Li, Hongxia and Yang, Xing and Wang, Kunjie"
+urldate: "2026-06-24"
+date: "2026-02"
+langid: "english"
+---

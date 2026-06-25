@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "brownEnhancingPhotogeneratedRadical2024"
+title: "Enhancing Photogenerated Radical Pair Properties in Donor-Chromophore-Acceptor Systems for Quantum Information Applications"
+volume: "128"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1089-5639, 1520-5215"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpca.4c05015"
+doi: "10.1021/acs.jpca.4c05015"
+pages: "9371--9382"
+number: "43"
+journaltitle: "The Journal of Physical Chemistry A"
+shortjournal: "J. Phys. Chem. A"
+author: "Brown, Paige J. and Qiu, Yunfan and Latawiec, Elisabeth I. and Phelan, Brian T. and Tcyrulnikov, Nikolai A. and Palmer, Jonathan R. and Krzyaniak, Matthew D. and Kopp, Sebastian M. and Huang, Yuheng and Young, Ryan M. and Wasielewski, Michael R."
+urldate: "2026-06-24"
+date: "2024-10-31"
+langid: "english"
+---

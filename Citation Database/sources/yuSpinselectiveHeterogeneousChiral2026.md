@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yuSpinselectiveHeterogeneousChiral2026"
+title: "Spin-selective heterogeneous chiral perovskites for circular-polarization-resolved retinomorphic sensors"
+volume: "17"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-026-71190-9"
+doi: "10.1038/s41467-026-71190-9"
+pages: "4587"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Yu, De and Zhang, Xin and Wang, Tao and Li, Yuheng and He, Ruiqin and Xu, Zeyang and Tang, Jixin and Zhang, Yixuan and Zhang, Xinmiao and Huang, Huang and Zhao, Tongpeng and Liu, Haoliang and Liu, Ao and Shen, Kai and Bai, Sai and Zhu, Huihui and Chen, Yimu and Song, Qinghai"
+urldate: "2026-06-24"
+date: "2026-03-30"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\WTPXNIJJ\\Yu et al. - 2026 - Spin-selective heterogeneous chiral perovskites for circular-polarization-resolved retinomorphic sen.pdf:application/pdf"
+---

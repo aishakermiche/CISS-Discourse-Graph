@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenHyperfluorescenceCircularlyPolarized2025"
+title: "Hyperfluorescence circularly polarized {OLEDs} consisting of chiral {TADF} sensitizers and achiral multi-resonance emitters"
+volume: "16"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-025-56923-6"
+doi: "10.1038/s41467-025-56923-6"
+pages: "1656"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Chen, Letian and Zou, Peng and Chen, Jinke and Xu, Letian and Tang, Ben Zhong and Zhao, Zujin"
+urldate: "2026-06-24"
+date: "2025-02-15"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\MNJK6MU7\\Chen et al. - 2025 - Hyperfluorescence circularly polarized OLEDs consisting of chiral TADF sensitizers and achiral multi.pdf:application/pdf"
+---

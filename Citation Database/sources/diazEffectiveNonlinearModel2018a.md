@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "diazEffectiveNonlinearModel2018a"
+title: "Effective nonlinear model for electron transport in deformable helical molecules"
+volume: "98"
+issn: "2470-0045, 2470-0053"
+url: "https://link.aps.org/doi/10.1103/PhysRevE.98.052221"
+doi: "10.1103/PhysRevE.98.052221"
+pages: "052221"
+number: "5"
+journaltitle: "Physical Review E"
+shortjournal: "Phys. Rev. E"
+author: "Díaz, E. and Contreras, A. and Hernández, J. and Domínguez-Adame, F."
+urldate: "2026-06-25"
+date: "2018-11-21"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\GZLDT93F\\Díaz et al. - 2018 - Effective nonlinear model for electron transport in deformable helical molecules.pdf:application/pdf"
+---

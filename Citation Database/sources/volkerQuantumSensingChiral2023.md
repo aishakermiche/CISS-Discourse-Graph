@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "volkerQuantumSensingChiral2023"
+title: "Toward quantum sensing of chiral induced spin selectivity: Probing donor–bridge–acceptor molecules with {NV} centers in diamond"
+volume: "158"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/158/16/161103/2885321/Toward-quantum-sensing-of-chiral-induced-spin"
+doi: "10.1063/5.0145466"
+shorttitle: "Toward quantum sensing of chiral induced spin selectivity"
+abstract: "Photoexcitable donor–bridge–acceptor (D–B–A) molecules that support intramolecular charge transfer are ideal platforms to probe the influence of chiral induced spin selectivity ({CISS}) in electron transfer and resulting radical pairs. In particular, the extent to which {CISS} influences spin polarization or spin coherence in the initial state of spin-correlated radical pairs following charge transfer through a chiral bridge remains an open question. Here, we introduce a quantum sensing scheme to measure directly the hypothesized spin polarization in radical pairs using shallow nitrogen–vacancy ({NV}) centers in diamond at the single- to few-molecule level. Importantly, we highlight the perturbative nature of the electron spin–spin dipolar coupling within the radical pair and demonstrate how Lee–Goldburg decoupling can preserve spin polarization in D–B–A molecules for enantioselective detection by a single {NV} center. The proposed measurements will provide fresh insight into spin selectivity in electron transfer reactions."
+pages: "161103"
+number: "16"
+journaltitle: "The Journal of Chemical Physics"
+author: "Völker, Laura A. and Herb, Konstantin and Janitz, Erika and Degen, Christian L. and Abendroth, John M."
+urldate: "2026-06-24"
+date: "2023-04-28"
+langid: "english"
+---

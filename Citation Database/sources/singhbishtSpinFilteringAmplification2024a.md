@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "singhbishtSpinFilteringAmplification2024a"
+title: "Spin Filtering and Amplification in Self-Assembled Nanofibers Based on Chiral Asymmetric Building Blocks"
+volume: "15"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c01423"
+doi: "10.1021/acs.jpclett.4c01423"
+pages: "6605--6610"
+number: "25"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Singh Bisht, Pravesh and Garg, Rabia and Nakka, Nagaraju and Mondal, Amit Kumar"
+urldate: "2026-06-25"
+date: "2024-06-27"
+langid: "english"
+---

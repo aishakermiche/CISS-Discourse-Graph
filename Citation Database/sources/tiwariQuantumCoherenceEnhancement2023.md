@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "tiwariQuantumCoherenceEnhancement2023"
+title: "Quantum coherence enhancement by the chirality-induced spin selectivity effect in the radical-pair mechanism"
+volume: "107"
+issn: "2469-9926, 2469-9934"
+url: "https://link.aps.org/doi/10.1103/PhysRevA.107.052406"
+doi: "10.1103/PhysRevA.107.052406"
+pages: "052406"
+number: "5"
+journaltitle: "Physical Review A"
+shortjournal: "Phys. Rev. A"
+author: "Tiwari, Yash and Poonia, Vishvendra Singh"
+urldate: "2026-06-24"
+date: "2023-05-15"
+langid: "english"
+---

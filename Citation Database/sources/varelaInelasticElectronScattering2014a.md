@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "varelaInelasticElectronScattering2014a"
+title: "Inelastic electron scattering from a helical potential: transverse polarization and the structure factor in the single scattering approximation"
+volume: "26"
+rights: "http://iopscience.iop.org/info/page/text-and-data-mining"
+issn: "0953-8984, 1361-648X"
+url: "https://iopscience.iop.org/article/10.1088/0953-8984/26/1/015008"
+doi: "10.1088/0953-8984/26/1/015008"
+shorttitle: "Inelastic electron scattering from a helical potential"
+pages: "015008"
+number: "1"
+journaltitle: "Journal of Physics: Condensed Matter"
+shortjournal: "J. Phys.: Condens. Matter"
+author: "Varela, Solmar and Medina, Ernesto and López, Floralba and Mujica, Vladimiro"
+urldate: "2026-06-25"
+date: "2014-01-08"
+---

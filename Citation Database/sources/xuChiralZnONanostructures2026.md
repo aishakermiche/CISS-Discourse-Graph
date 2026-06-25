@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "xuChiralZnONanostructures2026"
+title: "Chiral {ZnO} Nanostructures with Chiral-Induced Spin Selectivity-Induced Spin Polarization for Ultrasensitive Photoelectrochemical {DNA} Detection"
+volume: "98"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0003-2700, 1520-6882"
+url: "https://pubs.acs.org/doi/10.1021/acs.analchem.6c00229"
+doi: "10.1021/acs.analchem.6c00229"
+pages: "10781--10791"
+number: "14"
+journaltitle: "Analytical Chemistry"
+shortjournal: "Anal. Chem."
+author: "Xu, Haiying and Zhang, Yunxue and Zhou, Mengting and Yao, Shan and Lv, Yanfeng and Zhou, Shuang and Cui, Kang and Zhang, Yan and Zhang, Jing and Yan, Mei"
+urldate: "2026-06-24"
+date: "2026-04-14"
+langid: "english"
+---

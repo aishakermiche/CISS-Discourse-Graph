@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "utsumiSpinSelectivityTimereversal2020"
+title: "Spin selectivity through time-reversal symmetric helical junctions"
+volume: "102"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.102.035445"
+doi: "10.1103/PhysRevB.102.035445"
+pages: "035445"
+number: "3"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Utsumi, Yasuhiro and Entin-Wohlman, Ora and Aharony, Amnon"
+urldate: "2026-06-24"
+date: "2020-07-30"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\855YUZ6M\\Utsumi et al. - 2020 - Spin selectivity through time-reversal symmetric helical junctions.pdf:application/pdf"
+---

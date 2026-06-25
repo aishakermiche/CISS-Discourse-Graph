@@ -1,0 +1,17 @@
+---
+type: "inproceedings"
+citekey: "pfeifferTemperatureDependenceElectrically2025"
+location: "Washington, {DC}, {USA}"
+title: "Temperature Dependence of Electrically Switchable Phosphonic Acid-Based Self-Assembled Monolayer Junctions"
+rights: "https://doi.org/10.15223/policy-029"
+isbn: "979-8-3315-1271-2"
+url: "https://ieeexplore.ieee.org/document/11113815/"
+doi: "10.1109/NANO63165.2025.11113815"
+eventtitle: "2025 {IEEE} 25th International Conference on Nanotechnology ({NANO})"
+pages: "34--39"
+booktitle: "2025 {IEEE} 25th International Conference on Nanotechnology ({NANO})"
+publisher: "{IEEE}"
+author: "Pfeiffer, Christian and Weber, Selina and Rojas, Jonathan and Kirsch, Peer and Tornow, Marc"
+urldate: "2026-06-24"
+date: "2025-07-13"
+---

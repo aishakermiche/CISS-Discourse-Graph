@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "xuChiralitySelectedNoncollinearAntiferromagnetic2026"
+title: "Chirality‐Selected Noncollinear Antiferromagnetic State"
+volume: "38"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202516514"
+doi: "10.1002/adma.202516514"
+abstract: "Abstract The topological noncollinear antiferromagnet ({AFM}) Mn 3 Sn exhibits a giant anomalous Hall conductance ({AHC}) originating from its nonvanishing Berry curvature. Conventionally, the two {AHC} states are regarded as time‐reversal pairs coupled to the magnetic octupole moment, and their control has relied on reversing this moment by external magnetic fields or electric currents. Here, an alternative mechanism is demonstrated—the chirality‐selected noncollinear antiferromagnetic state—in which the {AHC} polarity is defined by the vector spin chirality ({VSC}) of the Kagome lattice. By constructing Mn 3 Sn/Pt heterostructures, a Fert–Levy–type Dzyaloshinskii–Moriya interaction ({DMI}) is introduced that sets the lattice chirality. The induced {DMI} changes the {VSC} from counterclockwise ({CCW}) to clockwise ({CW}), resulting in a corresponding inversion of the {AHC} sign. This behavior is confirmed by symmetry analysis and atomistic simulations that link the polarity inversion to the competition between {DMI} energy and intrinsic anisotropy. These findings establish a chirality‐defined route for controlling noncollinear antiferromagnetic order and highlight {DMI} engineering as a powerful means of tailoring Berry‐curvature‐driven transport in {AFMs}."
+pages: "e16514"
+number: "8"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Xu, Shijie and Dai, Bingqian and Zhang, Zhizhong and Sun, Shuhan and Lou, Wen‐Kai and Ren, Yi and Tang, Meng and Ma, Yinchang and Cheng, Houyi and Tai, Lixuan and Zhang, Yue and Zhang, Xixiang and Zhao, Weisheng and Chang, Kai and Wang, Kang L."
+urldate: "2026-06-24"
+date: "2026-02"
+langid: "english"
+---

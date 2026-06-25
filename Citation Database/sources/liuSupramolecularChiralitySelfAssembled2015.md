@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "liuSupramolecularChiralitySelfAssembled2015"
+title: "Supramolecular Chirality in Self-Assembled Systems"
+volume: "115"
+issn: "0009-2665, 1520-6890"
+url: "https://pubs.acs.org/doi/10.1021/cr500671p"
+doi: "10.1021/cr500671p"
+pages: "7304--7397"
+number: "15"
+journaltitle: "Chemical Reviews"
+shortjournal: "Chem. Rev."
+author: "Liu, Minghua and Zhang, Li and Wang, Tianyu"
+urldate: "2026-06-24"
+date: "2015-08-12"
+langid: "english"
+---

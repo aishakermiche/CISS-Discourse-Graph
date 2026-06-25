@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "antoniniAutomaticGenerationDensityFitting2025"
+title: "Automatic Generation of Density-Fitting Auxiliary Basis Sets for All-Electron Dirac–Kohn–Sham Calculations"
+volume: "129"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1089-5639, 1520-5215"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpca.5c02772"
+doi: "10.1021/acs.jpca.5c02772"
+pages: "6930--6941"
+number: "30"
+journaltitle: "The Journal of Physical Chemistry A"
+shortjournal: "J. Phys. Chem. A"
+author: "Antonini, Nicoló and Ronca, Enrico and Storchi, Loriano and Belpassi, Leonardo"
+urldate: "2026-06-24"
+date: "2025-07-31"
+langid: "english"
+---

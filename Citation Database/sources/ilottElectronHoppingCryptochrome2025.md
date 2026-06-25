@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ilottElectronHoppingCryptochrome2025"
+title: "Electron hopping in cryptochrome: Implications for radical pair magnetoreception and the role of the fourth tryptophan"
+volume: "163"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/163/2/024110/3351956/Electron-hopping-in-cryptochrome-Implications-for"
+doi: "10.1063/5.0278806"
+shorttitle: "Electron hopping in cryptochrome"
+abstract: "A magnetic compass sense in migratory animals is widely attributed to quantum spin dynamics in radical pairs formed within cryptochrome (Cry) flavoproteins. During Cry photoreduction, electron transfer along a chain of four tryptophan residues creates a sequence of radical pairs. Reversible electron hopping between the third ({RPC}) and fourth ({RPD}) radical pairs has been proposed to reconcile two opposing demands: efficient magnetosensitivity via {RPC} and downstream signaling via {RPD}. We present an efficient numerical approach for modeling dynamically exchanging radical pairs, employing an iterative linear solver with tailored preconditioners. This enables simulation of radical pair networks in Cry with arbitrary hopping rates, allowing a detailed exploration of their magnetosensitivity. Using this method, we reassess the reversible hopping hypothesis. For the crystal structure of avian Cry, hopping does not enhance sensitivity beyond that of a static {RPC} pair. However, by systematically optimizing kinetic parameters and the position and orientation of the fourth tryptophan, we identify configurations that enhance magnetic sensitivity by up to a factor of 3.6, while retaining the surface-exposure of this residue, potentially linked to signaling. Our findings suggest that Cry magnetosensitivity may be finely tuned by structural or evolutionary factors. The developed framework offers a broadly applicable tool for simulating complex radical pair dynamics in biology and chemistry, extending beyond magnetoreception."
+pages: "024110"
+number: "2"
+journaltitle: "The Journal of Chemical Physics"
+author: "Ilott, Saja Isabella and Pearse, Cass D. and Tigg, Benjamin and Kattnig, Daniel R."
+urldate: "2026-06-24"
+date: "2025-07-14"
+langid: "english"
+---

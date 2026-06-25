@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "aharonySpinOrbitInteractions2025"
+title: "Spin–orbit interactions, time-reversal symmetry, and spin selection"
+volume: "162"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/162/15/154103/3344093/Spin-orbit-interactions-time-reversal-symmetry-and"
+doi: "10.1063/5.0265363"
+abstract: "Spin selective transport is usually associated with spin–orbit interactions. However, these interactions are invariant under time-reversal symmetry, and the Onsager relations and Bardarson’s theorem imply that such interactions cannot yield spin selectivity for transport through a junction between two electronic reservoirs. Here, we review several ways to overcome this restriction, using a Zeeman magnetic field, the Aharonov–Bohm phase, time-dependent electric fields that generate time-dependent spin–orbit interactions, time-dependent transients, more than two terminals, leakage, and more than one level per ion on the junction. Our considerations focus on the transport of noninteracting electrons at low temperatures. A possible connection with the phenomenon of chiral-induced spin selectivity is pointed out in one of the systems considered."
+pages: "154103"
+number: "15"
+journaltitle: "The Journal of Chemical Physics"
+author: "Aharony, Amnon and Entin-Wohlman, Ora"
+urldate: "2026-06-24"
+date: "2025-04-21"
+langid: "english"
+---

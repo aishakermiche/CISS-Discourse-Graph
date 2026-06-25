@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mondalSmartDustChemical2025"
+title: "Smart Dust for Chemical Mapping"
+volume: "37"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419052"
+doi: "10.1002/adma.202419052"
+abstract: "Abstract This review article explores the transformative potential of smart dust systems by examining how existing chemical sensing technologies can be adapted and advanced to realize their full capabilities. Smart dust, characterized by submillimeter‐scale autonomous sensing platforms, offers unparalleled opportunities for real‐time, spatiotemporal chemical mapping across diverse environments. This article introduces the technological advancements underpinning these systems, critically evaluates current limitations, and outlines new avenues for development. Key challenges, including multi‐compound detection, system control, environmental impact, and cost, are discussed alongside potential solutions. By leveraging innovations in miniaturization, wireless communication, {AI}‐driven data analysis, and sustainable materials, this review highlights the promise of smart dust to address critical challenges in environmental monitoring, healthcare, agriculture, and defense sectors. Through this lens, the article provides a strategic roadmap for advancing smart dust from concept to practical application, emphasizing its role in transforming the understanding and management of complex chemical systems."
+pages: "2419052"
+number: "19"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Mondal, Indrajit and Haick, Hossam"
+urldate: "2026-06-24"
+date: "2025-05"
+langid: "english"
+---

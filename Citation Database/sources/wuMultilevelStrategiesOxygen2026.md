@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "wuMultilevelStrategiesOxygen2026"
+title: "Multilevel Strategies for Oxygen Electrocatalysis From Interfacial Environment to Spin Modulation"
+issn: "1527-8999, 1528-0691"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/tcr.70182"
+doi: "10.1002/tcr.70182"
+abstract: "The efficiency of oxygen reduction and evolution reactions is fundamentally constrained by macroscopic mass transport bottlenecks at the triple‐phase interface and the quantum‐mechanical restriction of spin‐forbidden transitions. This review presents a multilevel framework to overcome these barriers. At the macroscopic solid–liquid–gas boundary, bio‐inspired and asymmetric wettability architectures enable the decoupling of gas and ion transport channels, thereby alleviating diffusion‐limited current scaling. At the atomic level, defect engineering, size control, heteroatom doping and synergistic heterointerface construction regulate local electronic structure and oxygen intermediate adsorption. Beyond intrinsic material design, external physical fields act as dynamic levers, ranging from magnetohydrodynamic enhancement of bubble detachment to magnetic exchange interactions for spin alignment. We further highlight chiral spintronics, where the chiral‐induced spin selectivity effect provides an intrinsic field‐free route for spin filtering. By promoting parallel spin alignment of radical intermediates, intrinsic chirality facilitates triplet oxygen formation. Finally, we integrate these multilevel strategies to outline a path toward next‐generation oxygen electrocatalysts, while identifying critical challenges in stability, spin‐sensitive operando characterization, standardized evaluation, and practical scalability."
+pages: "e70182"
+journaltitle: "The Chemical Record"
+shortjournal: "The Chemical Record"
+author: "Wu, Lin and Li, Lixiang and Zhang, Han and Zhao, Hongwei and Li, Qingdong and Zhang, Xueyuan and Sun, Chengguo and An, Baigang"
+urldate: "2026-06-24"
+date: "2026-05-28"
+langid: "english"
+---

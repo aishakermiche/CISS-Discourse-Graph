@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "serrano-freijeiroChiralAuAgCore2026"
+title: "Chiral Au@Ag Core–Shell Nanoparticles for Enantioselective {SERS} Detection of Bio-Relevant Chiral Molecules"
+volume: "6"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "2694-2496, 2694-2496"
+url: "https://pubs.acs.org/doi/10.1021/acsnanoscienceau.5c00184"
+doi: "10.1021/acsnanoscienceau.5c00184"
+pages: "313--323"
+number: "2"
+journaltitle: "{ACS} Nanoscience Au"
+shortjournal: "{ACS} Nanosci. Au"
+author: "Serrano-Freijeiro, Andrés and Zarzuela-Amor, Marta and Renero-Lecuna, Carlos and Obelleiro-Liz, Manuel and Martín, Víctor F. and Pérez-Juste, Ignacio and Taboada, José M. and Casado, Juan and Pastoriza-Santos, Isabel and Pérez-Juste, Jorge and Bals, Sara and Liz-Marzán, Luis M."
+urldate: "2026-06-24"
+date: "2026-04-15"
+langid: "english"
+---

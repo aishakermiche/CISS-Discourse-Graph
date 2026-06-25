@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhouChiralIdentifiedMulticolorTunablePhotoluminescence2026"
+title: "Chiral‐Identified Multicolor‐Tunable Photoluminescence via Excitation‐Wavelength Modulation in 0D Antimony({III}) Enantiomers for Multilevel Anti‐Counterfeiting"
+volume: "36"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202520933"
+doi: "10.1002/adfm.202520933"
+abstract: "Abstract Despite increasing research interests in chiral hybrid metal halides for photonic applications, the chiral‐identified multicolor‐tunable photoluminescence ({PL}) remains a fundamental challenge for multilevel anti‐counterfeiting. Herein, 0D antimony({III}) enantiomers, ( R / S ‐C 5 H 14 N 2 ) 2 {SbCl} 5 ·2Cl, are designed and synthesized via chiral induction using R / S ‐3‐aminopiperidine dihydrochloride as structural templates. Hydrogen bonding networks between C 5 H 14 N 2 + and [{SbCl} 5 ] 2− contribute to the chiral helical structures with distinct asymmetry factors, facilitating efficient chiral transfer across organic–inorganic interfaces. Incredibly, R ‐ and S ‐enantiomers exhibit an unprecedented excitation‐dependent {PL} behavior with chiral differentiation, leading to multicolor‐tunable emissions across the visible‐light spectrum, from blue to white to yellow. This originates from the competitive transitions between the triplet‐state ( 3 P n →S 0 ) self‐trapped excitons ({STEs}) of [{SbCl} 5 ] 2− and the singlet‐state (S 1 →S 0 ) fluorescence of R / S ‐C 5 H 14 N 2 + . Beyond that, chiral organic ligands break the inorganic symmetry, facilitating spin–orbit coupling and excited‐state splitting of R ‐ and S ‐enantiomers, which governs the electron absorption transitions to achieve the chiral‐identified multicolor‐tunable {PL}. These materials are further employed in multilevel anti‐counterfeiting by fabricating these precise images into periodic pixel arrays. This work establishes a paradigm for designing eco‐friendly chiral emitters with superior {PL} tunability, as well as provides fundamental insight into multi‐channel radiative transition mechanisms."
+pages: "e20933"
+number: "18"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Zhou, Guojun and Wang, Sidan and Zhang, Nan and Mao, Yilin and Zhou, Jun and Xia, Zhiguo and Zhang, Xian‐Ming"
+urldate: "2026-06-24"
+date: "2026-03"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "vittmannSpinDependentMomentumConservation2023"
+title: "Spin-Dependent Momentum Conservation of Electron–Phonon Scattering in Chirality-Induced Spin Selectivity"
+volume: "14"
+rights: "https://pubs.acs.org/page/policy/termsofuse.html"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.2c03224"
+doi: "10.1021/acs.jpclett.2c03224"
+pages: "340--346"
+number: "2"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Vittmann, Clemens and Lim, James and Tamascelli, Dario and Huelga, Susana F. and Plenio, Martin B."
+urldate: "2026-06-24"
+date: "2023-01-19"
+langid: "english"
+---

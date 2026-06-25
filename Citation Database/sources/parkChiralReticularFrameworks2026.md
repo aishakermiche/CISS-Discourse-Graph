@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "parkChiralReticularFrameworks2026"
+title: "Chiral reticular frameworks as emerging spin filters"
+volume: "8"
+issn: "25895974"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2589597425002801"
+doi: "10.1016/j.trechm.2025.11.007"
+pages: "119--129"
+number: "2"
+journaltitle: "Trends in Chemistry"
+shortjournal: "Trends in Chemistry"
+author: "Park, Seong-Hyeon and Park, Sarah S."
+urldate: "2026-06-24"
+date: "2026-02"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "moharanaChiralinducedUnidirectionalSpintocharge2025"
+title: "Chiral-induced unidirectional spin-to-charge conversion"
+volume: "11"
+issn: "2375-2548"
+url: "https://www.science.org/doi/10.1126/sciadv.ado4285"
+doi: "10.1126/sciadv.ado4285"
+abstract: "The observation of spin-dependent transmission of electrons through chiral molecules has led to the discovery of chiral-induced spin selectivity ({CISS}). The remarkably high efficiency of the spin polarizing effect has recently gained substantial interest due to the high potential for future sustainable hybrid chiral molecule magnetic applications. However, the fundamental mechanisms underlying the chiral-induced phenomena remain to be understood fully. In this work, we explore the impact of chirality on spin angular momentum in hybrid metal/chiral molecule thin-film heterostructures. For this, we inject a pure spin current via spin pumping and investigate the spin-to-charge conversion at the hybrid chiral interface. Notably, we observe a chiral-induced unidirectionality in the conversion. Furthermore, angle-dependent measurements reveal that the spin selectivity is maximum when the spin angular momentum is aligned with the molecular chiral axis. Our findings validate the central role of spin angular momentum for the {CISS} effect, paving the path toward three-dimensional functionalization of hybrid molecule-metal devices via chirality. , Chiral molecules induce unidirectional spin-to-charge conversion with maximum spin selectivity along the molecular axis."
+pages: "eado4285"
+number: "1"
+journaltitle: "Science Advances"
+shortjournal: "Sci. Adv."
+author: "Moharana, Ashish and Kapon, Yael and Kammerbauer, Fabian and Anthofer, David and Yochelis, Shira and Shema, Hadar and Gross, Elad and Kläui, Mathias and Paltiel, Yossi and Wittmann, Angela"
+urldate: "2026-06-24"
+date: "2025-01-03"
+langid: "english"
+---

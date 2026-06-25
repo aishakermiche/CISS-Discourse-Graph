@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jainAvianCompassCan2021"
+title: "The avian compass can be sensitive even without sustained electron spin coherence"
+volume: "477"
+issn: "1471-2946"
+url: "http://royalsocietypublishing.org/rspa/article/82367"
+doi: "10.1098/rspa.2020.0778"
+abstract: "Theoretical studies indicating the presence of long-lived coherence in the radical pair system have engendered questions about its utilitarian role in the avian compass. In this paper, we investigate the role of electron spin coherence in a multinuclear radical pair system including its impact on compass sensitivity. We find that sustenance of long-lived electron spin coherence is unlikely in a multinuclear hyperfine environment. After probing the role of the hyperfine interactions in the compass, we affirm the hyperfine anisotropy to be an essential parameter for the necessary sensitivity required for the compass action. Thereby, we identify a parameter regime where the compass would exhibit good sensitivity even without sustained electron spin coherence."
+pages: "20200778"
+number: "2250"
+journaltitle: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+shortjournal: "Proc. R. Soc. A."
+author: "Jain, Rakshit and Poonia, Vishvendra S. and Saha, Kasturi and Saha, Dipankar and Ganguly, Swaroop"
+urldate: "2026-06-24"
+date: "2021-06"
+langid: "english"
+---

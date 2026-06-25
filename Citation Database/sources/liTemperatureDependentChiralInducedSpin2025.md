@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liTemperatureDependentChiralInducedSpin2025"
+title: "Temperature-Dependent Chiral-Induced Spin Selectivity Effect over Metal Oxyhalide for Photocatalysis"
+volume: "15"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "2155-5435, 2155-5435"
+url: "https://pubs.acs.org/doi/10.1021/acscatal.5c06812"
+doi: "10.1021/acscatal.5c06812"
+pages: "19947--19953"
+number: "23"
+journaltitle: "{ACS} Catalysis"
+shortjournal: "{ACS} Catal."
+author: "Li, Ruofan and Zhang, Ling and Xu, Mengya and Wu, Yongsheng and Zhang, Chuanqi and Wang, Wenzhong"
+urldate: "2026-06-24"
+date: "2025-12-05"
+langid: "english"
+---

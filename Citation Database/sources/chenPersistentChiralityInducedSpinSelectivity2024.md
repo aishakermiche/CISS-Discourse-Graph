@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenPersistentChiralityInducedSpinSelectivity2024"
+title: "Persistent Chirality-Induced Spin-Selectivity Effect in Circular Helix Molecules"
+volume: "24"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.4c00383"
+doi: "10.1021/acs.nanolett.4c00383"
+pages: "6210--6217"
+number: "21"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Chen, Song and Wu, Ruqian and Fu, Hua-Hua"
+urldate: "2026-06-24"
+date: "2024-05-29"
+langid: "english"
+---

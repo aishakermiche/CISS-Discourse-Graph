@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mayerExperimentalVerificationElectron1995"
+title: "Experimental Verification of Electron Optic Dichroism"
+volume: "74"
+rights: "http://link.aps.org/licenses/aps-default-license"
+issn: "0031-9007, 1079-7114"
+url: "https://link.aps.org/doi/10.1103/PhysRevLett.74.4803"
+doi: "10.1103/PhysRevLett.74.4803"
+pages: "4803--4806"
+number: "24"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Mayer, Stefan and Kessler, Joachim"
+urldate: "2026-06-24"
+date: "1995-06-12"
+langid: "english"
+---

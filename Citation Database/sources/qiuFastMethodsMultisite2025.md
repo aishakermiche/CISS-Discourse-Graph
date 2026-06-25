@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "qiuFastMethodsMultisite2025"
+title: "Fast methods for multisite charge transfer processes. I. Constrained, state averaged {CASSCF}(1,n) and {CASSCF}(2n − 1,n) simulations"
+volume: "163"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/163/23/234125/3375291/Fast-methods-for-multisite-charge-transfer"
+doi: "10.1063/5.0300687"
+abstract: "We design a dynamically weighted state-averaged constrained complete active space self-consistent field ({DW}-{SA}-{cCASSCF}) algorithm to treat electrons or holes moving between n molecular fragments (where n can be larger than 2). Within such a so-called {eDSCn}/{hDSCn} approach, we consider configurations that are mutually single excitations of each other, and we apply a generalized set of constraints to tailor the method for studying charge transfer problems. The constrained optimization problem is efficiently solved using a {DIIS}-{SQP} algorithm, thus maintaining computational efficiency. We demonstrate the method for a finite Su–Schrieffer–Heeger chain, successfully reproducing the expected exponential decay of diabatic couplings with distance. When combined with a gradient, the current extension immediately enables efficient nonadiabatic dynamics simulations of complex multi-state charge transfer processes."
+pages: "234125"
+number: "23"
+journaltitle: "The Journal of Chemical Physics"
+author: "Qiu, Tian and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2025-12-21"
+langid: "english"
+---

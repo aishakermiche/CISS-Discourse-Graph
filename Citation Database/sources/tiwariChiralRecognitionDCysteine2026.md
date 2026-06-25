@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tiwariChiralRecognitionDCysteine2026"
+title: "Chiral Recognition of L and D‐Cysteine Via Spin Selection Using Photoluminescence and A Highly Spin‐Polarized Ferromagnetic Substrate"
+volume: "6"
+issn: "2629-2742, 2629-2742"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/anse.202500075"
+doi: "10.1002/anse.202500075"
+abstract: "Spin‐resolved photoluminescence approach is employed for the enantioselective detection of L‐ and D‐cysteine using quantum dot‐functionalized ferromagnetic electrodes. The L‐cysteine‐functionalized system exhibited a spin polarization P s of 21.5\% and a quenching efficiency ({QE}) of 35.6\%, while the D‐cysteine system showed 9.2\% P s and 21.0\% {QE}. The detection limits are determined to be 1.86 {nM} for L‐cysteine and 20 {nM} for D‐cysteine. These results demonstrate the validation of the chiral‐induced spin selectivity effect and also establish a sensitive, spin‐based fluorescence platform for enantioselective biosensing of amino acids."
+pages: "e202500075"
+number: "1"
+journaltitle: "Analysis \& Sensing"
+shortjournal: "Analysis \&amp; Sensing"
+author: "Tiwari, Mayank and {Prince} and Mishra, Debabrata"
+urldate: "2026-06-24"
+date: "2026-01"
+langid: "english"
+---

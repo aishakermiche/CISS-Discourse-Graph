@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "joseyiiiDimensionalEngineeringHybrid2025"
+title: "Dimensional Engineering in Hybrid Transition Metal Halide Materials through the Introduction of Chiral Organic Cations"
+volume: "37"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0897-4756, 1520-5002"
+url: "https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01592"
+doi: "10.1021/acs.chemmater.5c01592"
+pages: "6385--6394"
+number: "16"
+journaltitle: "Chemistry of Materials"
+shortjournal: "Chem. Mater."
+author: "Josey Iii, Richard F. and Fenton, Julie L."
+urldate: "2026-06-24"
+date: "2025-08-26"
+langid: "english"
+---

@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "naamanWhyMechanismUnderlying2026"
+title: "Why Is the Mechanism Underlying the Chiral‐Induced Selectivity Effect Still Challenging?"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523675"
+doi: "10.1002/adma.202523675"
+abstract: "{ABSTRACT} This perspective explains why theoreticians struggle to develop a comprehensive mechanism for the chiral‐induced spin selectivity ({CISS}) effect. The effect and experimental results are described, with emphasis on how spin‐dependent transport through chiral systems differs from the commonly described electron transfer through linear systems. The missing elements in the conventional theories of electron transfer are identified, and experiments justifying the importance of these elements are presented."
+pages: "e23675"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Naaman, Ron and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2026-03-06"
+langid: "english"
+---

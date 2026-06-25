@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "palContactElectrificationBased2026"
+title: "Contact Electrification–Based Enantioselective Recognition of Chiral Amino Acids through Stereospecific Interfacial Electron Transfer"
+volume: "148"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c15608"
+doi: "10.1021/jacs.5c15608"
+pages: "3063--3076"
+number: "3"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Pal, Arnab and Kim, Hakjeong and Suresh, Shreerag and Wei, Po-Han and Al-Kabbany, Abdullah Mohamed and Choi, Dukhyun and Lin, Zong-Hong"
+urldate: "2026-06-24"
+date: "2026-01-28"
+langid: "english"
+---

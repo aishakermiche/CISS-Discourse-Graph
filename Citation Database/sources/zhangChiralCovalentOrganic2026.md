@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangChiralCovalentOrganic2026"
+title: "Chiral Covalent Organic Framework for Highly Efficient Spin Polarization"
+volume: "148"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c21153"
+doi: "10.1021/jacs.5c21153"
+pages: "21305--21312"
+number: "21"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Zhang, Enbing and Ding, Shuaishuai and Feng, Guangyuan and Cheng, Jinhao and Li, Xiaojuan and Liu, Zhiping and Zhang, Xiaojing and Ke, Yunzhe and Lei, Shengbin and Hu, Wenping"
+urldate: "2026-06-24"
+date: "2026-06-03"
+langid: "english"
+---

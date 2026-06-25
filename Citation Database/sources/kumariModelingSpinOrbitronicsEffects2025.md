@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kumariModelingSpinOrbitronicsEffects2025"
+title: "Modeling Spin-Orbitronics Effects at Interfaces and Chiral Molecules"
+volume: "25"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c00544"
+doi: "10.1021/acs.nanolett.5c00544"
+pages: "8869--8875"
+number: "22"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Kumari, Poonam and Barreteau, Cyrille and Smogunov, Alexander"
+urldate: "2026-06-24"
+date: "2025-06-04"
+langid: "english"
+---

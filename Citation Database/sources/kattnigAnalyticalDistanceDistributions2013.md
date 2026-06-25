@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "kattnigAnalyticalDistanceDistributions2013"
+title: "Analytical distance distributions in systems of spherical symmetry with applications to double electron–electron resonance"
+volume: "230"
+rights: "https://www.elsevier.com/tdm/userlicense/1.0/"
+issn: "10907807"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S1090780713000219"
+doi: "10.1016/j.jmr.2013.01.007"
+pages: "50--63"
+journaltitle: "Journal of Magnetic Resonance"
+shortjournal: "Journal of Magnetic Resonance"
+author: "Kattnig, Daniel R. and Hinderberger, Dariush"
+urldate: "2026-06-24"
+date: "2013-05"
+langid: "english"
+---

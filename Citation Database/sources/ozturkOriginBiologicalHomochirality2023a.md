@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ozturkOriginBiologicalHomochirality2023a"
+title: "Origin of biological homochirality by crystallization of an {RNA} precursor on a magnetic surface"
+volume: "9"
+issn: "2375-2548"
+url: "https://www.science.org/doi/10.1126/sciadv.adg8274"
+doi: "10.1126/sciadv.adg8274"
+abstract: "Homochirality is a signature of life on Earth, yet its origins remain an unsolved puzzle. Achieving homochirality is essential for a high-yielding prebiotic network capable of producing functional polymers like {RNA} and peptides on a persistent basis. Because of the chiral-induced spin selectivity effect, which established a strong coupling between electron spin and molecular chirality, magnetic surfaces can act as chiral agents and be templates for the enantioselective crystallization of chiral molecules. Here, we studied the spin-selective crystallization of racemic ribo-aminooxazoline ({RAO}), an {RNA} precursor, on magnetite (Fe 3 O 4 ) surfaces, achieving an unprecedented enantiomeric excess (ee) of about 60\%. Following the initial enrichment, we then obtained homochiral (100\% ee) crystals of {RAO} after a subsequent crystallization. Our results demonstrate a prebiotically plausible way of achieving system-level homochirality from completely racemic starting materials, in a shallow-lake environment on early Earth where sedimentary magnetite deposits are expected to be common. , Homochirality was achieved by the spin-selective crystallization of a racemic {RNA} precursor on a magnetite surface."
+pages: "eadg8274"
+number: "23"
+journaltitle: "Science Advances"
+shortjournal: "Sci. Adv."
+author: "Ozturk, S. Furkan and Liu, Ziwei and Sutherland, John D. and Sasselov, Dimitar D."
+urldate: "2026-06-25"
+date: "2023-06-09"
+langid: "english"
+---

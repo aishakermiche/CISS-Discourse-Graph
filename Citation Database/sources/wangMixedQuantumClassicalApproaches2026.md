@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangMixedQuantumClassicalApproaches2026"
+title: "Mixed Quantum-Classical Approaches to Spin Current and Polarization Dynamics in Chiral Molecular Junctions"
+volume: "17"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02850"
+doi: "10.1021/acs.jpclett.5c02850"
+pages: "1553--1562"
+number: "6"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Wang, Yu and Bi, Ruihao and Liu, Wei and Han, Jiayue and Dou, Wenjie"
+urldate: "2026-06-24"
+date: "2026-02-12"
+langid: "english"
+---

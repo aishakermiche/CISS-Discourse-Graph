@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mashhoonNeutronInterferometryRotating1988"
+title: "Neutron interferometry in a rotating frame of reference"
+volume: "61"
+rights: "http://link.aps.org/licenses/aps-default-license"
+issn: "0031-9007"
+url: "https://link.aps.org/doi/10.1103/PhysRevLett.61.2639"
+doi: "10.1103/PhysRevLett.61.2639"
+pages: "2639--2642"
+number: "23"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Mashhoon, Bahram"
+urldate: "2026-06-24"
+date: "1988-12-05"
+langid: "english"
+---

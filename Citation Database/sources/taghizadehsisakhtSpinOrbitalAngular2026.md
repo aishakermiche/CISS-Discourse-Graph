@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "taghizadehsisakhtSpinOrbitalAngular2026"
+title: "Spin and Orbital Angular Momentum Polarization in Thouless Topological Charge Pumping"
+volume: "26"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.6c01053"
+doi: "10.1021/acs.nanolett.6c01053"
+pages: "6152--6160"
+number: "18"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Taghizadeh Sisakht, Esmaeil and Jeong, Uiseok and Jiang, Xiao and Oh, Jinseok and Liu, Yizhou and Yan, Binghai and Park, Noejung"
+urldate: "2026-06-24"
+date: "2026-05-13"
+langid: "english"
+---

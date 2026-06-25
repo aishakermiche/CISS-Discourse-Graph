@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhuCaptodativeRadicalsCoupling2026a"
+title: "Captodative Radicals Coupling Into Homochiral Molecular Nanotubes With Conglomerate Crystallization"
+volume: "65"
+issn: "1433-7851, 1521-3773"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/anie.8898375"
+doi: "10.1002/anie.8898375"
+abstract: "{ABSTRACT} Chiral macrocycles featuring cyclic skeletons, intrinsic chiral cavities, and unique guest binding properties have aroused considerable interest due to their promising applications in enantioselective recognition, asymmetric catalysis, et al. Nevertheless, the design and synthesis of new chiral macrocyclic architectures remain a highly desired yet challenging task. In this work, we present the construction of an unprecedented homochiral molecular nanotube 1 , self‐assembled via reversible radical coupling from an achiral C 2 ‐symmetric semirigid monomer decorated with four dicyanomethyl radicals. X‐ray crystallographic studies reveal that the tetraradical monomers undergo narcissistic chiral self‐assembly, transferring conformational chirality from the monomeric building blocks to the resulting tube‐shaped trimeric macrocycle 1 , thereby affording homochirality. Notably, racemic 1 undergoes conglomerate crystallization from solution, yielding a pair of enantiomers ( P , P , P ,‐ 1 and M , M , M ,‐ 1 ), evidenced by x‐ray crystallography and circular dichroism ({CD}) spectroscopy. The dynamic nature of the radical‐based covalent bonds endows the system with solvent‐ and thermal‐responsive properties, as well as unique electrochemical redox behavior. This work introduces a new paradigm for constructing stimuli‐responsive chiral macrocyclic structures through radical‐mediated dynamic covalent chemistry."
+pages: "e8898375"
+number: "16"
+journaltitle: "Angewandte Chemie International Edition"
+shortjournal: "Angew Chem Int Ed"
+author: "Zhu, Zheng‐Zhong and Yin, Fan and Fan, Peng and Hong, Shun‐Xing and Zhou, Li‐Peng and Cheng, Pei‐Ming and Wang, Yi‐Xin and Yang, Jian and Yan, Qiang and Sun, Qing‐Fu"
+urldate: "2026-06-24"
+date: "2026-04-13"
+langid: "english"
+---

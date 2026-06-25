@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "guptaCurrentinducedSpinPolarization2024"
+title: "Current-induced spin polarization in chiral tellurium: A first-principles quantum transport study"
+volume: "109"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.109.155141"
+doi: "10.1103/PhysRevB.109.155141"
+shorttitle: "Current-induced spin polarization in chiral tellurium"
+pages: "155141"
+number: "15"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Gupta, Reena and Droghetti, Andrea"
+urldate: "2026-06-24"
+date: "2024-04-15"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "vadakkayilElectronSpinPolarization2025"
+title: "Electron Spin Polarization Facilitates the Urea Oxidation Reaction"
+volume: "17"
+issn: "1867-3880, 1867-3899"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202501142"
+doi: "10.1002/cctc.202501142"
+abstract: "Abstract This work reports on the role of electron spin in the urea oxidation reaction ({UOR}), which is important for wastewater treatment and for hydrogen production in energy applications, as it possesses a lower thermodynamic equilibrium potential to produce hydrogen than does direct water splitting. We demonstrate that spin‐polarized catalysts facilitate the {UOR}, leading to a decrease in reaction overpotential and an improved product distribution compared to analogous unpolarized catalysts. Computational studies attribute the improved performance to a stabilization of the desired reaction pathway upon spin polarization. This work underscores the importance of electron spin considerations for multistep, multielectron and multiproton, electrochemical reactions."
+pages: "e01142"
+number: "21"
+journaltitle: "{ChemCatChem}"
+shortjournal: "{ChemCatChem}"
+author: "Vadakkayil, Aravind and Pototschnig, Ulrich and Joy, Meera and Shiby, Elizabeth and Govindaraj, Keerthana and Tan, Susheng and Herrmann, Carmen and Bloom, Brian P. and Waldeck, David. H."
+urldate: "2026-06-24"
+date: "2025-11"
+langid: "english"
+---

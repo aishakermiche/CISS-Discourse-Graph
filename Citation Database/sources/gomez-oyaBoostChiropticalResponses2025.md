@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gomez-oyaBoostChiropticalResponses2025"
+title: "Boost of Chiroptical Responses Through the Enhancement of Electron Transition Dipole Moment"
+volume: "31"
+issn: "0947-6539, 1521-3765"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202501266"
+doi: "10.1002/chem.202501266"
+abstract: "Abstract The development of robust chiroptical systems is crucial for advancing optoelectronic technologies. Spirobifluorenes ({SBFs}) have proven to be versatile scaffolds for the construction of a wide variety of robust axially chiral compounds presenting strong chiroptical responses. Herein, we present a strategy for boosting the chiroptical responses via enhancing electric transition dipole moment ({ETDM}) of interacting chromophores in C 2 ‐symmetric {SBFs} presenting exciton coupling. To experimentally validate this approach, we peripherally extended the {SBF} scaffold through Knoevenagel condensation with the aim of increasing the {ETDM} of the featured chromophores. The influence of the functionalization on the {ETDM} was investigated using a combination of computational modeling and experimental techniques, enabling a detailed examination of the relationship between molecular structure and chiroptical properties. Our results demonstrate that peripheral functionalization of {SBFs} significantly enhances the electric transition dipole moment ({ETDM}) of the constituent chromophores, with each incremental increase in {ETDM} resulting in a five‐fold enhancement of the g ‐factor, thereby substantially amplifying the overall chiroptical activity. This straightforward strategy underscores the importance of the {ETDM} of interacting chromophores in fine‐tuning the optoelectronic properties and provides a promising avenue for the rational design of high‐performance chiroptical materials."
+pages: "e202501266"
+number: "37"
+journaltitle: "Chemistry – A European Journal"
+shortjournal: "Chemistry A European J"
+author: "Gómez‐Oya, Iván and Portela‐Pino, Julia and Salonen, Laura M. and Peña‐Gallego, Ángeles and Alonso‐Gómez, José Lorenzo"
+urldate: "2026-06-24"
+date: "2025-07-02"
+langid: "english"
+---

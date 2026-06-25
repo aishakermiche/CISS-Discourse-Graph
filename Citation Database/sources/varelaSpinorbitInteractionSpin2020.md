@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "varelaSpinorbitInteractionSpin2020"
+title: "Spin-orbit interaction and spin selectivity for tunneling electron transfer in {DNA}"
+volume: "101"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.101.241410"
+doi: "10.1103/PhysRevB.101.241410"
+pages: "241410"
+number: "24"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Varela, Solmar and Zambrano, Iskra and Berche, Bertrand and Mujica, Vladimiro and Medina, Ernesto"
+urldate: "2026-06-24"
+date: "2020-06-11"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\Z5HQMB6X\\Varela et al. - 2020 - Spin-orbit interaction and spin selectivity for tunneling electron transfer in DNA.pdf:application/pdf"
+---

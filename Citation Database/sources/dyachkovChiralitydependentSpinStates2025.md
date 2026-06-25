@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dyachkovChiralitydependentSpinStates2025"
+title: "Chirality-dependent spin states and transport in {GaAs} nanotubes: Cylindrical wave technique calculations"
+volume: "112"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/pjfj-gtfx"
+doi: "10.1103/pjfj-gtfx"
+shorttitle: "Chirality-dependent spin states and transport in {GaAs} nanotubes"
+pages: "125125"
+number: "12"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "D’yachkov, Pavel"
+urldate: "2026-06-24"
+date: "2025-09-12"
+langid: "english"
+---

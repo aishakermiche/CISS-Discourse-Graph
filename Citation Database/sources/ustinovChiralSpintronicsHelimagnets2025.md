@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "ustinovChiralSpintronicsHelimagnets2025"
+title: "Chiral spintronics of helimagnets"
+volume: "68"
+issn: "1063-7869, 1468-4780"
+url: "https://ufn.ru/en/articles/2025/10/c/"
+doi: "10.3367/UFNe.2025.07.039974"
+pages: "1001--1028"
+number: "10"
+journaltitle: "Physics-Uspekhi"
+shortjournal: "Phys. Usp."
+author: "Ustinov, Vladimir V. and Yasyulevich, Ivan A."
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+---

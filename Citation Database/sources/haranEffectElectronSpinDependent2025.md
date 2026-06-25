@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "haranEffectElectronSpinDependent2025"
+title: "The Effect of Electron Spin-Dependent Polarizability on Protein Activity"
+volume: "15"
+issn: "2218-273X"
+url: "https://www.mdpi.com/2218-273X/15/6/830"
+doi: "10.3390/biom15060830"
+abstract: "In recent years, it has been established that electron transport through a chiral system depends on spin. In several studies, it has further been established that charge polarization in proteins may affect their activity and, specifically, that this polarization is electron spin-dependent. Here, we review experimental methods that enable the spin dependence of protein polarizability to be recorded and describe results from several studies that indicate the importance of spin in controlling the reactivity of proteins. We conclude by suggesting why this spin dependence may be of importance and discussing how future studies might explore pathways within proteins by which polarizability affects protein reactive sites."
+pages: "830"
+number: "6"
+journaltitle: "Biomolecules"
+shortjournal: "Biomolecules"
+author: "Haran, Gilad and Naaman, Ron"
+urldate: "2026-06-24"
+date: "2025-06-06"
+langid: "english"
+---

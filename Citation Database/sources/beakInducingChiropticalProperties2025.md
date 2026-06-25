@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "beakInducingChiropticalProperties2025"
+title: "Inducing Chiroptical Properties in Achiral {DPP}‐Based Conjugated Polymers through Intermolecular Interactions and Co‐Crystallization with Chiral Small Molecules"
+volume: "13"
+issn: "2195-1071, 2195-1071"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202501636"
+doi: "10.1002/adom.202501636"
+abstract: "Abstract Chiral optoelectronic materials capable of interacting with circularly polarized ({CP}) light have emerged as promising candidates for next‐generation technologies. This study presents a facile strategy for the preparation of chiroptical films by blending an achiral conjugated polymer, {PDVT}‐10, containing diketopyrrolopyrrole ({DPP}) moieties with chiral small molecules, 1,1′‐binaphthyl‐2,2′‐diamine ({BN}). Chirality induction in conjugated polymer systems is driven comprehensively from intermolecular hydrogen bonding to co‐crystallization with aggregation, as revealed by a stepwise approach of optical and X‐ray scattering analyses depending on the ratio. By optimizing the blending ratio of {PDVT}‐10 and {BN} to 7:3, near‐infrared ({NIR})‐circularly polarized light‐sensitive phototransistors are successfully fabricated on 850 nm, which exhibit distinct {CP} light discrimination and photodetection performance. These findings provide insights into the mechanism of inducing chirality to achiral conjugated polymers, enhancing chiroptical properties, and providing applications in {CP} photosensitive optoelectronics."
+pages: "e01636"
+number: "29"
+journaltitle: "Advanced Optical Materials"
+shortjournal: "Advanced Optical Materials"
+author: "Beak, Jeongwoo and Moon, Yina and Yang, Dongseong and Han, Nara and Lee, Minwoo and Song, Geon Chang and Kim, Dong‐Yu"
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+---

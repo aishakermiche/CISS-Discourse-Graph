@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kominisQuantumRelativeEntropy2020"
+title: "Quantum relative entropy shows singlet-triplet coherence is a resource in the radical-pair mechanism of biological magnetic sensing"
+volume: "2"
+issn: "2643-1564"
+url: "https://link.aps.org/doi/10.1103/PhysRevResearch.2.023206"
+doi: "10.1103/PhysRevResearch.2.023206"
+pages: "023206"
+number: "2"
+journaltitle: "Physical Review Research"
+shortjournal: "Phys. Rev. Research"
+author: "Kominis, I. K."
+urldate: "2026-06-24"
+date: "2020-05-21"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\JWB8FS9Z\\Kominis - 2020 - Quantum relative entropy shows singlet-triplet coherence is a resource in the radical-pair mechanism.pdf:application/pdf"
+---

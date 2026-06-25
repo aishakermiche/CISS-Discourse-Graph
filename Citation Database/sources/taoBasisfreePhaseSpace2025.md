@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "taoBasisfreePhaseSpace2025"
+title: "A basis-free phase space electronic Hamiltonian that recovers beyond Born–Oppenheimer electronic momentum and current density"
+volume: "162"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/162/14/144111/3343998/A-basis-free-phase-space-electronic-Hamiltonian"
+doi: "10.1063/5.0260731"
+abstract: "We present a phase-space electronic Hamiltonian Ĥ{PS} (parameterized by both nuclear position X and momentum P) that boosts each electron into the moving frame of the nuclei that are closest in real space. The final form for the phase space Hamiltonian does not assume the existence of an atomic orbital basis, and relative to standard Born–Oppenheimer theory, the newly proposed one-electron operators can be expressed directly as functions of electronic and nuclear positions and momentum. We show that (i) quantum–classical dynamics along such a Hamiltonian maintains momentum conservation and that (ii) diagonalizing such a Hamiltonian can recover the electronic momentum and electronic current density reasonably well. In conjunction with other reports in the literature that such a phase-space approach can also recover vibrational circular dichroism spectra, we submit that the present phase-space approach offers a testable and powerful approach to post-{BO} electronic structure theory. Moreover, the approach is inexpensive and can be immediately applied to simulations of chiral induced spin selectivity experiments (where the transfer of angular momentum between nuclei and electrons is considered critical)."
+pages: "144111"
+number: "14"
+journaltitle: "The Journal of Chemical Physics"
+author: "Tao, Zhen and Qiu, Tian and Bian, Xuezhi and Duston, Titouan and Bradbury, Nadine and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2025-04-14"
+langid: "english"
+---

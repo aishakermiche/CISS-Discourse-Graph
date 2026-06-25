@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ozeriChiralityOrganizationAdsorbates2026"
+title: "Chirality and Organization of Adsorbates Modify Surface Phonon Dynamics"
+volume: "36"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.75593"
+doi: "10.1002/adfm.75593"
+abstract: "{ABSTRACT} We report on heat capacity measurements on thin gold films deposited on Si before and after chemisorption of chiral and achiral molecular monolayers, performed by applying Joule heating and time‐resolved thermometry. Our results reveal modifications in heat capacity with a distinct dependence on molecular chirality and organizational structure: Ordered homochiral monolayers increase the Debye temperature, while disordered monolayers, whether chiral or achiral, significantly decrease it. In contrast, ordered racemic monolayers induce no notable change, suggesting a critical role of net chiral symmetry in altering the phonon spectrum. These findings indicate that the vibrational properties of a molecularly treated metal are governed not simply by molecular identity, but rather by the interplay between chirality and spatial organization, pointing to a chiral‐specific coupling mechanism at the interface."
+pages: "e75593"
+number: "47"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Ozeri, Meital and Pyurbeeva, Eugenia and Yochelis, Shira and Fransson, Jonas and Kosloff, Ronnie and Millo, Oded and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2026-06"
+langid: "english"
+---

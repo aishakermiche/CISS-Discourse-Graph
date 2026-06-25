@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "geyerChiralityInducedSpinSelectivity2019"
+title: "Chirality-Induced Spin Selectivity in a Coarse-Grained Tight-Binding Model for Helicene"
+volume: "123"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcc.9b07764"
+doi: "10.1021/acs.jpcc.9b07764"
+pages: "27230--27241"
+number: "44"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Geyer, Matthias and Gutierrez, Rafael and Mujica, Vladimiro and Cuniberti, Gianaurelio"
+urldate: "2026-06-24"
+date: "2019-11-07"
+langid: "english"
+---

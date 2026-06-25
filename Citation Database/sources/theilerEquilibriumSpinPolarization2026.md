@@ -1,0 +1,15 @@
+---
+type: "article"
+citekey: "theilerEquilibriumSpinPolarization2026"
+title: "Equilibrium spin polarization arising from chirality"
+issn: "29506360"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2950636026000824"
+doi: "10.1016/j.newton.2026.100480"
+pages: "100480"
+journaltitle: "Newton"
+shortjournal: "Newton"
+author: "Theiler, Pius M. and Beard, Matthew C."
+urldate: "2026-06-24"
+date: "2026-04"
+langid: "english"
+---

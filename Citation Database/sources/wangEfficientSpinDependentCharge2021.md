@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangEfficientSpinDependentCharge2021"
+title: "Efficient Spin-Dependent Charge Transmission and Improved Enantioselective Discrimination Capability in Self-Assembled Chiral Coordinated Monolayers"
+volume: "12"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03106"
+doi: "10.1021/acs.jpclett.1c03106"
+pages: "10262--10269"
+number: "42"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Wang, Chenchen and Guo, Ai-Min and Sun, Qing-Feng and Yan, Yong"
+urldate: "2026-06-25"
+date: "2021-10-28"
+langid: "english"
+---

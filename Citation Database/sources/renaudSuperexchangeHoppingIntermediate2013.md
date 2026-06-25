@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "renaudSuperexchangeHoppingIntermediate2013"
+title: "Between Superexchange and Hopping: An Intermediate Charge-Transfer Mechanism in Poly(A)-Poly(T) {DNA} Hairpins"
+volume: "135"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/ja3113998"
+doi: "10.1021/ja3113998"
+shorttitle: "Between Superexchange and Hopping"
+pages: "3953--3963"
+number: "10"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Renaud, Nicolas and Berlin, Yuri A. and Lewis, Frederick D. and Ratner, Mark A."
+urldate: "2026-06-25"
+date: "2013-03-13"
+langid: "english"
+---

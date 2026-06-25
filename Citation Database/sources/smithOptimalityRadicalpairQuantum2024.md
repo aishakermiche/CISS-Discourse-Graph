@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "smithOptimalityRadicalpairQuantum2024"
+title: "On the optimality of the radical-pair quantum compass"
+volume: "9"
+issn: "2058-9565"
+url: "https://iopscience.iop.org/article/10.1088/2058-9565/ad48b4"
+doi: "10.1088/2058-9565/ad48b4"
+abstract: "Abstract Quantum sensing enables the ultimate precision attainable in parameter estimation. Circumstantial evidence suggests that certain organisms, most notably migratory songbirds, also harness quantum-enhanced magnetic field sensing via a radical-pair-based chemical compass for the precise detection of the weak geomagnetic field. However, what underpins the acuity of such a compass operating in a noisy biological setting, at physiological temperatures, remains an open question. Here, we address the fundamental limits of inferring geomagnetic field directions from radical-pair spin dynamics. Specifically, we compare the compass precision, as derived from the directional dependence of the radical-pair recombination yield, to the ultimate precision potentially realisable by a quantum measurement on the spin system under steady-state conditions. To this end, we probe the quantum Fisher information and associated Cramér–Rao bound in spin models of realistic complexity, accounting for complex inter-radical interactions, a multitude of hyperfine couplings, and asymmetric recombination kinetics, as characteristic for the magnetosensory protein cryptochrome. We compare several models implicated in cryptochrome magnetoreception and unveil their optimality through the precision of measurements ostensibly accessible to nature. Overall, the comparison provides insight into processes honed by nature to realise optimality whilst constrained to operating with mere reaction yields. Generally, the inference of compass orientation from recombination yields approaches optimality in the limits of complexity, yet levels off short of the theoretical optimal precision bounds by up to one or two orders of magnitude, thus underscoring the potential for improving on design principles inherent to natural systems."
+pages: "035041"
+number: "3"
+journaltitle: "Quantum Science and Technology"
+shortjournal: "Quantum Sci. Technol."
+author: "Smith, Luke D and Glatthard, Jonas and Chowdhury, Farhan T and Kattnig, Daniel R"
+urldate: "2026-06-24"
+date: "2024-07-01"
+file: "IOP Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\H52BQ32H\\Smith et al. - 2024 - On the optimality of the radical-pair quantum compass.pdf:application/pdf"
+---

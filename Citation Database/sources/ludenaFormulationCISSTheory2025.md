@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "ludenaFormulationCISSTheory2025"
+title: "Toward a formulation of a {CISS} theory with the inclusion of two-particle relativistic effects, electron–phonon coupling, and electron–electron correlation. An application to {NMR}-based chiral discrimination"
+volume: "163"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/163/12/124119/3364396/Toward-a-formulation-of-a-CISS-theory-with-the"
+doi: "10.1063/5.0272982"
+abstract: "The current status of the theoretical foundations of the Chiral-Induced Spin Selectivity ({CISS}) effect has substantially improved from its original one-electron formulation. However, there is a need to improve the inclusion of electron–vibrational interaction, the exchange and correlation effects arising from electron–electron interactions, and non-Born–Oppenheimer coupling to enhance the predictive power of the theory and its agreement with experiments. In an attempt to overcome these difficulties, we advance in the present work a microscopic quantum mechanical treatment of {CISS} based on the relativistic Breit–Pauli many-particle Hamiltonian. In particular, we determine in this context the effect that including non-Born–Oppenheimer components arising in a Taylor expansion of the electron–nuclear potential has on the spin–orbit coupling term of this Hamiltonian. We also consider in this framework the electron–electron exchange and correlation effects and propose some practical approximations based on non-relativistic approaches. Finally, we extend the application of the Breit–Pauli Hamiltonian to describe nuclear–nuclear spin interactions and discuss the possibility of explaining enantiomeric selectivity in cross-polarization nuclear magnetic resonance experiments."
+pages: "124119"
+number: "12"
+journaltitle: "The Journal of Chemical Physics"
+author: "Ludeña, Eduardo V. and Ugalde, Jesus M. and Lopez, Xabier and Bouchard, Louis-S. and Mujica, Vladimiro"
+urldate: "2026-06-24"
+date: "2025-09-28"
+langid: "english"
+---

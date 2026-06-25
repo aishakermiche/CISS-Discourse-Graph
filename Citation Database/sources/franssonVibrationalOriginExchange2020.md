@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "franssonVibrationalOriginExchange2020"
+title: "Vibrational origin of exchange splitting and ”chiral-induced spin selectivity"
+volume: "102"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.102.235416"
+doi: "10.1103/PhysRevB.102.235416"
+pages: "235416"
+number: "23"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Fransson, J."
+urldate: "2023-04-27"
+date: "2020-12-14"
+langid: "english"
+file: "Fransson - 2020 - Vibrational origin of exchange splitting and ”chir.pdf:C\:\\Users\\19496\\Zotero\\storage\\SPKQHCS3\\Fransson - 2020 - Vibrational origin of exchange splitting and ”chir.pdf:application/pdf;Full Text:C\:\\Users\\19496\\Zotero\\storage\\GV474GLI\\Fransson - 2020 - Vibrational origin of exchange splitting and ”chiral-induced spin selectivity.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "luRecentPreparationApplications2025"
+title: "Recent preparation and applications of chiral pillar[5]arene-based functional materials"
+volume: "150"
+issn: "0003-2654, 1364-5528"
+url: "https://xlink.rsc.org/?DOI=D5AN00720H"
+doi: "10.1039/D5AN00720H"
+abstract: "A comprehensive analysis of the synthesis of chiral pillar[5]arene-based materials for their applications. , Pillar[5]arenes were first synthesized and reported in 2008 by Ogoshi et al. Due to their rigid cavity structures, rich host–guest interactions and ease of functionalization, pillar[5]arenes have garnered considerable attention in the fields of supramolecular chemistry, material science and stereochemistry. However, they face significant challenges in obtaining stable enantiomers due to the presence of rotational single bonds within the cavity structure, which leads to a high predisposition for racemization. This review provides a comprehensive analysis of the synthesis of pillar[5]arene-based macrocyclic chiral materials and their applications over the past decade, including circularly polarized luminescent materials, chirality memory materials, chiral organic nanotube materials, and chiral molecular recognition and separation. We conclude by highlighting the research challenges, potential applications, and anticipated outcomes."
+pages: "4020--4030"
+number: "18"
+journaltitle: "The Analyst"
+shortjournal: "Analyst"
+author: "Lu, Taotao and Li, Hui and Zhao, Liang and Lai, Chenghua and Luo, Daijiga and Qi, Yanxing"
+urldate: "2026-06-24"
+date: "2025"
+langid: "english"
+---

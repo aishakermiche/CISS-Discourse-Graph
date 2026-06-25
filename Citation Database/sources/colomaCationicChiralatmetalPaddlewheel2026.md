@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "colomaCationicChiralatmetalPaddlewheel2026"
+title: "Cationic chiral-at-metal paddlewheel diruthenium complexes"
+volume: "297"
+issn: "02775387"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0277538726003141"
+doi: "10.1016/j.poly.2026.118268"
+pages: "118268"
+journaltitle: "Polyhedron"
+shortjournal: "Polyhedron"
+author: "Coloma, Isabel and Kordestani, Nazanin and Herrero, Santiago and Hillard, Elizabeth A. and Cortijo, Miguel"
+urldate: "2026-06-24"
+date: "2026-09"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "shpatzdayanPolarizedEmissionChiral2024"
+title: "Polarized Emission in Chiral Quasi‐2D Perovskite Light‐Emitting Diode"
+volume: "12"
+issn: "2195-1071, 2195-1071"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202401205"
+doi: "10.1002/adom.202401205"
+abstract: "Abstract Chiral 2D perovskites synthesized using (R‐+)‐α‐Methylbenzylamine (R‐{MBA}) and (S–)‐α‐Methylbenzylamine (S‐{MBA}) as barrier molecules exhibit chirality at low n values, as confirmed by circular dichroism ({CD}) analysis. The Anisotropy factor decreases significantly with increasing the n value, reaching 0.0032 for pure 2D perovskite. These synthesized quasi‐2D chiral perovskites have been successfully integrated into light‐emitting diodes ({LEDs}), demonstrating polarized emission for the first time. Remarkably, n = 3, R enantiomer achieves a total external quantum efficiency ({EQE}) of 12.1\%, with polarized {EQE} of 4\%. In the case of n = 2, the total {EQE} for both enantiomers is 4.3\%, with polarized {EQE} of 3.4\%, higher than the non‐polarized {EQE} of 0.9\%. Degree of Polarization ({DOP}) is employed to characterize the fraction of an electromagnetic wave that exhibits polarization. The {DOP} analysis reveals a significant increase for low dimensional perovskite. Particularly for n = 2, R enantiomer exhibits a {DOP} of 53\% compared to 2.5\% for the non‐chiral molecule {BzA}. These findings demonstrate efficient polarized emission in 2D chiral perovskite {LEDs}, indicating promising avenues for advanced optical device applications."
+pages: "2401205"
+number: "31"
+journaltitle: "Advanced Optical Materials"
+shortjournal: "Advanced Optical Materials"
+author: "Shpatz Dayan, Adva and Schneider, Avi and Azulay, Doron and Paltiel, Yossi and Etgar, Lioz"
+urldate: "2026-06-24"
+date: "2024-11"
+langid: "english"
+---

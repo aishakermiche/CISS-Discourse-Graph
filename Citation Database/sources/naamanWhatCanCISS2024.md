@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "naamanWhatCanCISS2024"
+title: "What Can {CISS} Teach Us about Electron Transfer?"
+volume: "15"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02617"
+doi: "10.1021/acs.jpclett.4c02617"
+pages: "11002--11006"
+number: "44"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Naaman, Ron and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2024-11-07"
+langid: "english"
+---

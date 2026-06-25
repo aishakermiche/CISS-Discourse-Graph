@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "stephensLongRangeSpinCurrents2021"
+title: "Long-Range Spin Currents with Chiral Crystals"
+volume: "14"
+rights: "©2021 by the American Physical Society. All rights reserved."
+url: "https://physics.aps.org/articles/v14/s113"
+doi: "10.1103/PhysRevLett.127.126602"
+abstract: "Chiral crystals can produce spin-polarized currents that propagate over tens of micrometers—a promising feature for application in spintronics devices."
+pages: "s113"
+journaltitle: "Physics"
+publisher: "American Physical Society"
+author: "Stephens, Marric"
+urldate: "2021-09-15"
+date: "2021-09-14"
+langid: "english"
+file: "Snapshot:C\:\\Users\\19496\\Zotero\\storage\\VSHEMAQI\\s113.html:text/html;Stephens_2021_Long-Range Spin Currents with Chiral Crystals.pdf:C\:\\Users\\19496\\Zotero\\storage\\BVLBFUAT\\Stephens_2021_Long-Range Spin Currents with Chiral Crystals.pdf:application/pdf"
+---

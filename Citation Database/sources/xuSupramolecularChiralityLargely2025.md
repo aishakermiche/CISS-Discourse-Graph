@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "xuSupramolecularChiralityLargely2025"
+title: "Supramolecular chirality largely modulates chemical doping of conjugated polymers"
+volume: "16"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-025-62915-3"
+doi: "10.1038/s41467-025-62915-3"
+pages: "8381"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Xu, Zhuang and Saiev, Shamil and Qian, Peisen and Nabei, Yoji and Wang, Ziming and Rinehart, Joshua M. and Österholm, Anna M. and Jones, Austin L. and Lee, Jong-Hoon and Hwang, Changhyun and Wang, Siqing and Sun, Rui and Shin, Dongguen and Jeon, Sanghyun and Elangovan, Kavinraaj Ella and Vura-Weis, Josh and Coropceanu, Veaceslav and Rodríguez-López, Joaquín and Reynolds, John R. and Sun, Dali and Brédas, Jean-Luc and Diao, Ying"
+urldate: "2026-06-24"
+date: "2025-09-25"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\U5ZW9A6R\\Xu et al. - 2025 - Supramolecular chirality largely modulates chemical doping of conjugated polymers.pdf:application/pdf"
+---

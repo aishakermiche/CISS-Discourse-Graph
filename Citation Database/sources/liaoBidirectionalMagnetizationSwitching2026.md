@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liaoBidirectionalMagnetizationSwitching2026"
+title: "Bidirectional Magnetization Switching in a Ferrimagnetic Insulator by a Monochiral Cu({II})–Leucine Complex"
+volume: "8"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "2637-6113, 2637-6113"
+url: "https://pubs.acs.org/doi/10.1021/acsaelm.5c02560"
+doi: "10.1021/acsaelm.5c02560"
+pages: "720--731"
+number: "1"
+journaltitle: "{ACS} Applied Electronic Materials"
+shortjournal: "{ACS} Appl. Electron. Mater."
+author: "Liao, Wei-Hsiang and Webb, Joshua S. and Xue, Yu-Hui and Zhang, Yao and Chang, Yu-Ying and Hashmi, Muhammad Ali and Hunt, Patricia A. and Söhnel, Tilo and Granville, Simon and Shao, Yu-Cheng and Hanif, Muhammad and Hsu, Hua-Shu"
+urldate: "2026-06-24"
+date: "2026-01-13"
+langid: "english"
+---

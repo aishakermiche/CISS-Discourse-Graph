@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "theilerPTSymmetryEnforced2026"
+title: "{PT} symmetry enforced twin exchange as the origin of chirality-induced spin selectivity"
+volume: "12"
+issn: "2375-2548"
+url: "https://www.science.org/doi/10.1126/sciadv.aec7069"
+doi: "10.1126/sciadv.aec7069"
+abstract: "Chiral molecules, ubiquitous in chemistry and biology, can differentiate electrons by their spin, a phenomenon known as chirality-induced spin selectivity ({CISS}). Despite its robustness and technological relevance, {CISS} has resisted conventional explanation: Spin-orbit coupling ({SOC}) models cannot fully account for the observed magnitude, room-temperature persistence, or equilibrium signatures. Here, we argue that structural chirality enforces a twin-pair exchange mechanism via the indistinguishability principle, which intrinsically couples spin and spatial degrees of freedom such that wave functions cannot be factorized into spin and spatial components. We derive an effective Hamiltonian that describes both transport and equilibrium {CISS} phenomena and is non-Hermitian. However, the inherent pseudo-Hermiticity, with P T symmetry as a special case, ensures real eigenvalues and thermodynamic consistency. We demonstrate that our framework is a step toward resolving long-standing anomalies of {CISS}. It situates {CISS} alongside equilibrium symmetry-breaking phenomena such as ferromagnetism and superconductivity, with implications for spintronics, catalysis, and the origins of biological homochirality. , Electron correlations in chiral systems drive P T symmetry and the emergence of spin-selective transport."
+pages: "eaec7069"
+number: "12"
+journaltitle: "Science Advances"
+shortjournal: "Sci. Adv."
+author: "Theiler, Pius M. and Driessen, Sander and Beard, Matthew C."
+urldate: "2026-06-24"
+date: "2026-03-20"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenNonadiabaticPotentialEnergy2023"
+title: "Nonadiabatic Potential Energy Surfaces for a Molecule on a Surface as Found by Constrained Complete Active Space Theory"
+volume: "14"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.3c00777"
+doi: "10.1021/acs.jpclett.3c00777"
+pages: "5665--5673"
+number: "24"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Chen, Junhan and Subotnik, Joseph"
+urldate: "2026-06-25"
+date: "2023-06-22"
+langid: "english"
+---

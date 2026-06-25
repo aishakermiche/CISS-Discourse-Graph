@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "guChiralMetalHalides2025"
+title: "Chiral Metal Halides toward Circularly Polarized Photodetectors"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508016"
+doi: "10.1002/adma.202508016"
+abstract: "Abstract Circularly polarized ({CP}) photodetection has become a cornerstone technology in advancing fields such as quantum communication, biomedical imaging, and secure optical encryption. Conventional {CP} photodetectors relying on external optical components face challenges in miniaturization and efficiency, driving the exploration of chiral‐sensitive materials for direct polarization discrimination. Among these, chiral metal halides have emerged as a revolutionary platform due to their intrinsic spin‐orbit coupling, structurally tailorable chirality, and solution processability, enabling unprecedented photocurrent dissymmetry factors and broad absorption wavelengths. This review comprehensively examines the fundamental principles, material innovations, and device engineering strategies underpinning chiral metal halide‐based {CP} photodetectors. Furthermore, representative applications of chiral metal halide‐based {CP} photodetectors exploiting their emergent properties in high‐precision circular polarization imaging, dynamic information encryption and bionic neuromorphic perception are examined. Finally, persisting challenges and future research directions are outlined for chiral metal halide‐based {CP} photodetectors."
+pages: "e08016"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Gu, Yarong and Zhang, Xinyu and Li, Ziqing and Fang, Xiaosheng"
+urldate: "2026-06-24"
+date: "2025-10-09"
+langid: "english"
+---

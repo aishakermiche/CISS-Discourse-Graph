@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ghoshEffectChiralMolecules2020"
+title: "Effect of Chiral Molecules on the Electron’s Spin Wavefunction at Interfaces"
+volume: "11"
+rights: "http://pubs.acs.org/page/policy/authorchoice\_ccby\_termsofuse.html"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03487"
+doi: "10.1021/acs.jpclett.9b03487"
+pages: "1550--1557"
+number: "4"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Ghosh, Supriya and Mishra, Suryakant and Avigad, Eytan and Bloom, Brian P. and Baczewski, L. T. and Yochelis, Shira and Paltiel, Yossi and Naaman, Ron and Waldeck, David H."
+urldate: "2026-06-25"
+date: "2020-02-20"
+langid: "english"
+---

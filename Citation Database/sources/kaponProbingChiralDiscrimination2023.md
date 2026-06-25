@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kaponProbingChiralDiscrimination2023"
+title: "Probing chiral discrimination in biological systems using atomic force microscopy: The role of van der Waals and exchange interactions"
+volume: "159"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/159/22/224702/2928645/Probing-chiral-discrimination-in-biological"
+doi: "10.1063/5.0171742"
+shorttitle: "Probing chiral discrimination in biological systems using atomic force microscopy"
+abstract: "We analyze from a theoretical perspective recent experiments where chiral discrimination in biological systems was established using Atomic Force Microscopy ({AFM}). Even though intermolecular forces involved in {AFM} measurements have different origins, i.e., electrostatic, bonding, exchange, and multipole interactions, the key molecular forces involved in enantiospecific biorecognition are electronic spin exchange and van der Waals ({vdW}) dispersion forces, which are sensitive to spin–orbit interaction ({SOI}) and space-inversion symmetry breaking in chiral molecules. The {vdW} contribution to chiral discrimination emerges from the inclusion of {SOI} and spin fluctuations due to the chiral-induced selectivity effect, a result we have recently demonstrated theoretically. Considering these two enantiospecific contributions, we show that the {AFM} results regarding chiral recognition can be understood in terms of a simple physical model that describes the different adhesion forces associated with different electron spin polarization generated in the ({DD}), ({LL}), and ({DL}) enantiomeric pairs, as arising from the spin part of the exchange and {vdW} contributions. The model can successfully produce physically reasonable parameters accounting for the {vdW} and exchange interaction strength, accounting for the chiral discrimination effect. This fact has profound implications in biorecognition where the relevant intermolecular interactions in the intermediate-distance regime are clearly connected to {vdW} forces."
+pages: "224702"
+number: "22"
+journaltitle: "The Journal of Chemical Physics"
+author: "Kapon, Yael and Zhu, Qirong and Yochelis, Shira and Naaman, Ron and Gutierrez, Rafael and Cuniberti, Giannaurelio and Paltiel, Yossi and Mujica, Vladimiro"
+urldate: "2026-06-24"
+date: "2023-12-14"
+langid: "english"
+---

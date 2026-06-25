@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "hePerovskiteSpinLightemitting2025"
+title: "Perovskite spin light-emitting diodes with simultaneously high electroluminescence dissymmetry and high external quantum efficiency"
+volume: "16"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-025-57472-8"
+doi: "10.1038/s41467-025-57472-8"
+pages: "2201"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "He, Shuai and Lin, Weixi and Yu, De and Shi, Junwei and Yin, Zhen and Sun, Changjiu and Liu, Haoliang and Zhang, Chen and Yuan, Jianyu and Bai, Sai and Xiao, Shumin and Long, Guankui and Yuan, Mingjian and Jiang, Yuanzhi and Chen, Yimu and Song, Qinghai"
+urldate: "2026-06-24"
+date: "2025-03-05"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\6WGYKXBT\\He et al. - 2025 - Perovskite spin light-emitting diodes with simultaneously high electroluminescence dissymmetry and h.pdf:application/pdf"
+---

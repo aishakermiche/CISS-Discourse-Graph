@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "paltielDynamicBreakingMirror2026"
+title: "Dynamic breaking of mirror symmetry in spin-dependent electron transport through chiral media causes enantiomeric excesses"
+volume: "12"
+issn: "2375-2548"
+url: "https://www.science.org/doi/10.1126/sciadv.aec9325"
+doi: "10.1126/sciadv.aec9325"
+abstract: "Two fundamental questions have puzzled scientists for more than 150 years. “How did life become homochiral?” and “why was this specific handedness selected?” Recently, it has been shown that homochirality could have emerged through the enantioselective interactions of molecules with magnetic substrates due to the asymmetric crystallization of an {RNA} precursor on a magnetite substrate, abundant on early Earth. This phenomenon is based on the chirality-induced spin selectivity ({CISS}) effect. Despite its robustness, this model could not provide an answer to the second question: Why one specific handedness (D for {RNA}) was selected. Here, we demonstrate that spin-involving processes can have different outcomes in the two enantiomers of chiral molecules. In chiral molecules with unpaired electrons or while electrons are passing through them, the total angular momentum vector, J , is aligned along the “easy axis,” which is defined by the magnetic anisotropy induced by the spin-orbit coupling and asymmetry of the molecular field. The magnitude J is the same for both enantiomers, but the vectors may be aligned differently relative to the molecular frame in the two enantiomers. This difference can be quantified by, for example, by the angle between J and electric dipole moment of the molecule, μ . We show by direct measurements, theory, and ab initio calculations that dynamic spin processes in chiral molecules could result in different efficiencies of spin-related phenomena, including the interaction of chiral molecules with magnetic surfaces. The findings may provide an explanation for the specific homochirality in nature. , Spin-dependent electron transport through chiral system is enantiospecific and may provide explanation for homochirality in life."
+pages: "eaec9325"
+number: "17"
+journaltitle: "Science Advances"
+shortjournal: "Sci. Adv."
+author: "Paltiel, Yossi and Goldberg, Daniel and Yuran, Nir and Yochelis, Shira and Soh, Jia Hao and Seibel, Christopher and Gauss, Jürgen and Zilberg, Shmuel and Ozturk, S. Furkan and Fransson, Jonas and Krylov, Anna I. and Naaman, Ron"
+urldate: "2026-06-24"
+date: "2026-04-24"
+langid: "english"
+---

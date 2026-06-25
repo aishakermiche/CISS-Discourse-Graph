@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yangReplyCommentSpindependent2020"
+title: "Reply to “Comment on ‘Spin-dependent electron transmission model for chiral molecules in mesoscopic devices’”"
+volume: "101"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.101.026404"
+doi: "10.1103/PhysRevB.101.026404"
+pages: "026404"
+number: "2"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Yang, Xu and Van Der Wal, Caspar H. and Van Wees, Bart J."
+urldate: "2026-06-24"
+date: "2020-01-17"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\TQJD3BX7\\Yang et al. - 2020 - Reply to “Comment on ‘Spin-dependent electron transmission model for chiral molecules in mesoscopic.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tehSpinPolarizationMolecular2022a"
+title: "Spin polarization through a molecular junction based on nuclear Berry curvature effects"
+volume: "106"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.106.184302"
+doi: "10.1103/PhysRevB.106.184302"
+pages: "184302"
+number: "18"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Teh, Hung-Hsuan and Dou, Wenjie and Subotnik, Joseph E."
+urldate: "2026-06-25"
+date: "2022-11-17"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\CURKC74W\\Teh et al. - 2022 - Spin polarization through a molecular junction based on nuclear Berry curvature effects.pdf:application/pdf"
+---

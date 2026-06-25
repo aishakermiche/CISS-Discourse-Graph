@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mcnamaraStrongNIRII2025"
+title: "Strong {NIR} {II} Chiroptical Response and Magnetic Anisotropy via Modular Installation of Chiral Capping Ligands on a Light-Emitting Diradicaloid Scaffold"
+volume: "17"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1944-8244, 1944-8252"
+url: "https://pubs.acs.org/doi/10.1021/acsami.5c13020"
+doi: "10.1021/acsami.5c13020"
+pages: "50933--50942"
+number: "36"
+journaltitle: "{ACS} Applied Materials \& Interfaces"
+shortjournal: "{ACS} Appl. Mater. Interfaces"
+author: "{McNamara}, Lauren E. and Anferov, Sophie W. and Fry, H. Christopher and Krzyaniak, Matthew D. and Wasielewski, Michael R. and Boyn, Jan-Niklas and Schaller, Richard D. and Anderson, John S."
+urldate: "2026-06-24"
+date: "2025-09-10"
+langid: "english"
+---

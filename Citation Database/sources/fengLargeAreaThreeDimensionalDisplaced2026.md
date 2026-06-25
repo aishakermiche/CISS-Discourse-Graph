@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "fengLargeAreaThreeDimensionalDisplaced2026"
+title: "Large-Area Three-Dimensional Displaced Overlapping Wing Perovskite Metamaterials with Giant Optical Chirality"
+volume: "17"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c03955"
+doi: "10.1021/acs.jpclett.5c03955"
+pages: "4505--4513"
+number: "15"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Feng, Yuyi and Bi, Xin and Zeng, Yifan and Dong, Yuxuan and Wang, Hao and Wang, Yanheng and Zhu, Qingyun and Nemitz, Clayton A. and Li, Jianyu and Wang, Zhongrui and Jiang, Tongtong and Zhang, Fangci and Jiang, Chenglei and Zhang, Chunhui and Liu, Xianwen and Kang, Guoguo and Yu, Zhinong and Zhang, Ting and Chai, Yuwei and Lin, Zefan and Du, Shuxian and Lan, Zhineng and Cui, Peng and Huang, Hao and Qiu, Yujie and Qiu, Hengwei and Zhao, Xing and Li, Meicheng"
+urldate: "2026-06-24"
+date: "2026-04-16"
+langid: "english"
+---

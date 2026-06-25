@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "aliakbarChiralDiscriminationGatebased2026"
+title: "Chiral discrimination on gate-based quantum computers"
+volume: "164"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/164/14/144116/3386583/Chiral-discrimination-on-gate-based-quantum"
+doi: "10.1063/5.0300495"
+abstract: "We present a novel approach to chiral discrimination using gate-based quantum processors, addressing a key challenge in adapting conventional control techniques using modern quantum computing. Schemes such as stimulated rapid adiabatic passage and shortcuts to adiabaticity have shown strong potential for enantiomer discrimination; however, their reliance on analog and continuous-time control makes them incompatible with digital gate-based quantum computing architectures. Here, we adapt these protocols for quantum computers by discretizing their Gaussian-shaped pulses through Trotterization. We simulate the chiral molecule 1,2-propanediol and experimentally validate this gate-based implementation on {IBM} quantum hardware. Our results demonstrate that this approach is a viable foundation for advancing chiral discrimination protocols, preparing the way for quantum-level manipulation of molecular chirality on accessible quantum architectures."
+pages: "144116"
+number: "14"
+journaltitle: "The Journal of Chemical Physics"
+author: "Ali Akbar, Muhammad Arsalan and Kais, Sabre"
+urldate: "2026-06-24"
+date: "2026-04-14"
+langid: "english"
+---

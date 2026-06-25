@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bianModelingNonadiabaticDynamics2021"
+title: "Modeling nonadiabatic dynamics with degenerate electronic states, intersystem crossing, and spin separation: A key goal for chemical physics"
+volume: "154"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/154/11/110901/315474/Modeling-nonadiabatic-dynamics-with-degenerate"
+doi: "10.1063/5.0039371"
+shorttitle: "Modeling nonadiabatic dynamics with degenerate electronic states, intersystem crossing, and spin separation"
+abstract: "We examine the many open questions that arise for nonadiabatic dynamics in the presence of degenerate electronic states, e.g., for singlet-to-triplet intersystem crossing where a minimal Hamiltonian must include four states (two of which are always degenerate). In such circumstances, the standard surface hopping approach is not sufficient as the algorithm does not include Berry force. Yet, we hypothesize that such a Berry force may be crucial as far as creating chiral induced spin separation, which is now a burgeoning field of study. Thus, this Perspective highlights the fact that if one can generate a robust and accurate semiclassical approach for the case of degenerate states, one will take a big step forward toward merging chemical physics with spintronics."
+pages: "110901"
+number: "11"
+journaltitle: "The Journal of Chemical Physics"
+author: "Bian, Xuezhi and Wu, Yanze and Teh, Hung-Hsuan and Zhou, Zeyu and Chen, Hsing-Ta and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2021-03-21"
+langid: "english"
+---

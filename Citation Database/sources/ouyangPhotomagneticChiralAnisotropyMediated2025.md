@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "ouyangPhotomagneticChiralAnisotropyMediated2025"
+title: "Photomagnetic-Chiral Anisotropy Mediated by Chirality-Driven Asymmetric Spin Splitting"
+volume: "135"
+issn: "0031-9007, 1079-7114"
+url: "https://link.aps.org/doi/10.1103/llys-8b4p"
+doi: "10.1103/llys-8b4p"
+pages: "166903"
+number: "16"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Ouyang, Tianwei and Su, Hang and Zhang, Wanning and Duan, Yingying and Fang, Yuxi and Che, Shunai and Liu, Yizhou"
+urldate: "2026-06-24"
+date: "2025-10-15"
+langid: "english"
+---

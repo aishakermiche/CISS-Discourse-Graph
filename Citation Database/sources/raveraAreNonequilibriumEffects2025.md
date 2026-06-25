@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "raveraAreNonequilibriumEffects2025"
+title: "Are nonequilibrium effects relevant for chiral molecule discrimination?"
+volume: "163"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/163/1/014702/3351076/Are-nonequilibrium-effects-relevant-for-chiral"
+doi: "10.1063/5.0273102"
+abstract: "Sensing and discriminating between enantiomers of chiral molecules remains a significant challenge in the design of sensor platforms. In the case of chemoresistive sensors—where detection relies on changes in electrical response upon analyte adsorption—the sensor substrate is typically functionalized with chirality-sensitive molecular receptors. In this computational study, we investigate whether a chirality-blind substrate, such as a graphene nanoribbon, is still capable of discriminating between enantiomers. To this end, we employ a density-functional parameterized tight-binding method combined with nonequilibrium Green’s functions. For a small set of chiral amino acids, we demonstrate that accounting for the nonequilibrium response of the device leads to significant differences in the electrical currents of enantiomeric pairs of the order of tens of nanoamperes. This effect is further amplified when structural fluctuations of the device’s active region are considered (≈1–2 μA). Moreover, we propose new quantum-mechanical quantities for enantioselective discrimination in molecular sensors, with an emphasis on binding features and property–property correlations. Therefore, our work demonstrates the significance of nonequilibrium effects in chiral discrimination, laying the foundation for future investigations addressing the design of chiral molecular sensors."
+pages: "014702"
+number: "1"
+journaltitle: "The Journal of Chemical Physics"
+author: "Ravera, Federico and Medrano Sandonas, Leonardo and Gutierrez, Rafael and Graziano, Mariagrazia and Cuniberti, Gianaurelio"
+urldate: "2026-06-24"
+date: "2025-07-07"
+langid: "english"
+---

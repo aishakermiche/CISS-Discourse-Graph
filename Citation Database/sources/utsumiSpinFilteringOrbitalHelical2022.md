@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "utsumiSpinFilteringOrbitalHelical2022"
+title: "Spin‐Filtering in a \textit{p} ‐Orbital Helical Atomic Chain"
+volume: "62"
+issn: "0021-2148, 1869-5868"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/ijch.202200107"
+doi: "10.1002/ijch.202200107"
+abstract: "Abstract We theoretically analyze spin filtering in two‐terminal systems, induced by the spin‐orbit interaction ({SOI}), as a possible origin of the “chirality‐induced spin selectivity” ({CISS}) effect observed experimentally in chiral molecules, such as {DNA}. Due to Bardarson's theorem, spin filtering cannot be realized in a molecule containing one orbital‐channel. However, when two orbitals are involved, {SOI} can induce spin filtering in a molecule coupled to two terminals without braking time‐reversal symmetry. In particular, we provide an example of a reflection matrix for a spinful electron passing through a molecule containing two orbital‐channels, which complies with Bardarson's theorem and produces a finite spin conductance. As a microscopic toy model realizing a single strand of {DNA}, we consider a p ‐orbital helical atomic chain with intra‐atomic {SOI}'s and a strong crystalline field along the helix. This model exhibits two‐orbital spin filtering: For various parameters preserving the helical symmetry, the model hosts spin asymmetric states carrying pairs of up and down spins propagating in opposite directions. The typical energy scale of the helical states is the product of the intra‐atomic {SOI} and the curvature. The spin filtering mechanism is associated with the intra‐atomic {SOI}, which would be larger than the inter‐atomic {SOI}. In this respect, the present model may be a more likely candidate for the {CISS} in organic material than other models associated with the inter‐atomic {SOI}."
+pages: "e202200107"
+number: "11"
+journaltitle: "Israel Journal of Chemistry"
+shortjournal: "Israel Journal of Chemistry"
+author: "Utsumi, Yasuhiro and Kato, Takemitsu and Entin‐Wohlman, Ora and Aharony, Amnon"
+urldate: "2026-06-24"
+date: "2022-12"
+langid: "english"
+---

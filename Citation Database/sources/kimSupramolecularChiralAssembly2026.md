@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "kimSupramolecularChiralAssembly2026"
+title: "Supramolecular Chiral Assembly of Open‐Shell Quinoids With Chiral Additives and Their Spin‐Dependent Transport in Magneto Field‐Effect Transistors"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202514649"
+doi: "10.1002/smll.202514649"
+abstract: "{ABSTRACT} Chiral conjugated materials stand at the forefront of organic electronics because of their chiroptical properties and spin‐filtering capabilities. Although chiral materials with intrinsic spins show significant promise for organic spintronics, their development remains challenging due to structural and assembly constraints. In this study, a series of quinoid molecules with intrinsic spins ({QF} n ) is developed and assembled into chiral supramolecular structures by blending with the chiral additive 1,1’‐binaphthyl‐2,2’‐diamine ({BN}). Chirality transfer is considered to occur through F···H–N hydrogen bonding, and succeeds only in fluorinated {QF}1 and {QF}2. Thermal annealing yields markedly different degrees of chirality amplification, depending on the molecular structure. Asymmetric {QF}1 forms stable co‐crystals with {BN}, resulting in a 30‐fold amplification of chirality with an absorption dissymmetry factor ( g abs ) of 1.23 × 10 −2 , whereas symmetric {QF}2 undergoes phase separation with minimal amplification. Notably, {QF}1+{BN} co‐crystals enable the first realization of magneto field‐effect transistors (m‐{FETs}) based on chiral assemblies possessing spins. This system exhibits a clear mirror image of spin polarization ({SP}) of ∼7\% by enantiomers, demonstrating the chirality‐induced spin selectivity ({CISS}) effect. These findings provide foundational insights into the chiral assembly of spin‐bearing molecules and the chirality–spin relationship, advancing the field of organic spintronics."
+pages: "e14649"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Kim, Younghyo and Beak, Jeongwoo and Kim, Yunseul and Cho, Seungrae and Park, Byungho and Hwang, Kyoungtae and Kim, Kihyeun and Waldeck, David H. and Lee, Minwoo and Yun, Taesun and Lee, Chang‐Lyoul and Kim, Dong‐Yu"
+urldate: "2026-06-24"
+date: "2026-05-19"
+langid: "english"
+---

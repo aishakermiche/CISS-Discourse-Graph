@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "benchimolChiralPd2L42025"
+title: "Chiral Pd$_{\textrm{2}}$ L$_{\textrm{4}}$ Capsules from Readily Accessible Tröger's Base Ligands Inducing Circular Dichroism on Fullerenes C$_{\textrm{60}}$ and C$_{\textrm{70}}$"
+volume: "137"
+issn: "0044-8249, 1521-3757"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/ange.202421137"
+doi: "10.1002/ange.202421137"
+abstract: "Abstract The induction of chirality on pristine fullerenes through non‐covalent embedding in an asymmetric nano‐confinement has only been rarely reported. Bringing molecules with such a unique electronic structure and broad application range into a chiral environment is particularly appealing for the development of chiroptical materials, enantioselective photoredox catalysts and systems showing chirality‐induced spin selectivity ({CISS}). In this study, we report the formation of a chiral, configurationally stable Pd 2 L 4 capsule assembled from a C 2 ‐symmetric, ‘ribbon‐shaped’ ligand with a Tröger's base naphthalimide ({TbNaps}) backbone, easily synthesized in three steps from commercially available compounds. Embedding chirality directly into the ligand backbone ensures a relatively lightweight receptor design whose aromatic panels create a strongly shielded inner cavity of about 700 Å 3 volume. Fullerenes C 60 and C 70 , as well as a pair of corannulenes, can be bound in acetonitrile (where unsubstituted fullerenes are insoluble) and X‐ray structures of host‐guest complexes were obtained. Tight interactions between the chiral host and the fullerene guests leads to the induction of a circular dichroism ({CD}) on the characteristic absorption bands of the forbidden π–π* transitions of the fullerenes, backed up by {sTDA} {TD}‐{DFT} calculations and detailed investigation of the electronic excited states."
+pages: "e202421137"
+number: "10"
+journaltitle: "Angewandte Chemie"
+shortjournal: "Angewandte Chemie"
+author: "Benchimol, Elie and O'Connor, Helen M. and Schmidt, Björn and Bogo, Nicola and Holstein, Julian J. and Lovitt, June I. and Shanmugaraju, Sankarasekaran and Stein, Christopher J. and Gunnlaugsson, Thorfinnur and Clever, Guido H."
+urldate: "2026-06-24"
+date: "2025-03-03"
+langid: "english"
+---

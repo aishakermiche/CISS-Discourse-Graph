@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "preeyankaProteinConformationGoverns2025"
+title: "Protein Conformation Governs Spin-Selective Electron Transmission"
+volume: "16"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c01495"
+doi: "10.1021/acs.jpclett.5c01495"
+pages: "6442--6446"
+number: "25"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Preeyanka, Naupada and Das, Tapan Kumar and Naaman, Ron"
+urldate: "2026-06-24"
+date: "2025-06-26"
+langid: "english"
+---

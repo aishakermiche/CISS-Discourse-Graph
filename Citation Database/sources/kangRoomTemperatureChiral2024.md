@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "kangRoomTemperatureChiral2024"
+title: "Room temperature chiral magnetoresistance in a chiral-perovskite-based perpendicular spin valve"
+volume: "12"
+issn: "2166-532X"
+url: "https://pubs.aip.org/apm/article/12/8/081118/3308185/Room-temperature-chiral-magnetoresistance-in-a"
+doi: "10.1063/5.0221834"
+abstract: "Chirality-induced spin selectivity ({CISS}) allows for the generation of spin currents without the need for ferromagnets or external magnetic fields, enabling innovative spintronic device designs. One example is a chiral spin valve composed of ferromagnetic and chiral materials, in which the resistance depends on both the magnetization direction of the ferromagnet and the chirality of the chiral material. So far, chiral spin valves have predominately employed chiral organic molecules, which have limited device applications. Chiral perovskites, which combine the properties of inorganic perovskites with chiral organic molecules, provide an excellent platform for exploring {CISS}-based devices. However, previous chiral perovskite-based spin valves exhibited magnetoresistance ({MR}) only at low temperatures. Here, we report room temperature {MR} in a chiral spin valve consisting of chiral perovskites/{AlOx}/perpendicular ferromagnet structures. It is observed that the chiral {MR} increases with rising temperature, suggesting the crucial role of phonon-induced enhancement of spin–orbit coupling in {CISS} in our device. Furthermore, we enhanced the chiral {MR} by introducing chiral molecules with amplified chirality. This highlights the potential of chirality engineering to improve {CISS} and the associated chiral {MR}, thereby opening possibilities for chiral spin valves tailored for cutting-edge spintronic applications."
+pages: "081118"
+number: "8"
+journaltitle: "{APL} Materials"
+author: "Kang, Min-Gu and Hwang, In-Kook and Kyung, Hee-Chang and Kang, Jaimin and Han, Donghyeon and Lee, Soogil and Kwon, Junyoung and Lee, Kyung-Jin and Yeom, Jihyeon and Park, Byong-Guk"
+urldate: "2026-06-24"
+date: "2024-08-01"
+langid: "english"
+---

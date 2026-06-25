@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "rudgeRoleQuantumVibronic2025"
+title: "The role of quantum vibronic effects in the spin polarization of charge transport through molecular junctions"
+volume: "162"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/162/24/244710/3350916/The-role-of-quantum-vibronic-effects-in-the-spin"
+doi: "10.1063/5.0270610"
+abstract: "The connection between molecular vibrations and spin polarization in charge transport through molecular junctions is currently a topic of high interest, with important consequences for a variety of phenomena, such as chirality-induced spin selectivity. In this work, we follow this theme by exploring the relationship between vibronic dynamics and the corresponding spin polarization of the nonequilibrium charge current in a molecular junction. We employ the hierarchical equations of motion approach, which, since it is numerically exact and treats the vibrational degrees of freedom quantum mechanically, extends previous analyses of similar models that relied on approximate transport methods. We find significant spin polarization of the charge current in the off-resonant, low-voltage regime, where the vibrations must be treated quantum mechanically. Furthermore, we are able to connect the spin polarization in the charge transport to a corresponding polarization of the vibrational dynamics, which manifests itself in the vibrational angular momentum and excitation. Our analysis covers multiple molecule–lead couplings, temperatures, orbital energies, and spin–orbit couplings, demonstrating that the vibrationally assisted spin polarization is robust across a broad range of parameters."
+pages: "244710"
+number: "24"
+journaltitle: "The Journal of Chemical Physics"
+author: "Rudge, S. L. and Kaspar, C. and Smorka, R. and Preston, R. J. and Subotnik, J. and Thoss, M."
+urldate: "2026-06-24"
+date: "2025-06-28"
+langid: "english"
+---

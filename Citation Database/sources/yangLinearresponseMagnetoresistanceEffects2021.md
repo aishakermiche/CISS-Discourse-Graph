@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yangLinearresponseMagnetoresistanceEffects2021"
+title: "Linear-response magnetoresistance effects in chiral systems"
+volume: "104"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.104.155420"
+doi: "10.1103/PhysRevB.104.155420"
+pages: "155420"
+number: "15"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Yang, Xu and Van Wees, Bart J."
+urldate: "2026-06-24"
+date: "2021-10-15"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\JJNR2IQN\\Yang and Van Wees - 2021 - Linear-response magnetoresistance effects in chiral systems.pdf:application/pdf"
+---

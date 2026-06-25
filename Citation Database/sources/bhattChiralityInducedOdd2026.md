@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bhattChiralityInducedOdd2026"
+title: "Chirality Induced Odd–Even Spin Selectivity in Self-Assembled Peptide-Based Helical Nanofibers"
+volume: "20"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.6c03626"
+doi: "10.1021/acsnano.6c03626"
+pages: "16910--16918"
+number: "23"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Bhatt, Nidhi and Garg, Rabia and Das, Tapan Kumar and Singh Bisht, Pravesh and Usman, Mohd and Kuila, Soumen and Nanda, Jayanta and Mondal, Amit Kumar"
+urldate: "2026-06-24"
+date: "2026-06-16"
+langid: "english"
+---

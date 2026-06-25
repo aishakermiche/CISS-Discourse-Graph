@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangEfficientCO2Electroreduction2025"
+title: "Efficient {CO}$_{\textrm{2}}$ Electroreduction to {CO} on Chiral Nanostructured Au Films"
+volume: "15"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "2155-5435, 2155-5435"
+url: "https://pubs.acs.org/doi/10.1021/acscatal.5c01589"
+doi: "10.1021/acscatal.5c01589"
+pages: "12377--12385"
+number: "14"
+journaltitle: "{ACS} Catalysis"
+shortjournal: "{ACS} Catal."
+author: "Zhang, Wanning and Wang, Jiao and Ouyang, Tianwei and Han, Lu and Duan, Yingying and Che, Shunai and Fang, Yuxi"
+urldate: "2026-06-24"
+date: "2025-07-18"
+langid: "english"
+---

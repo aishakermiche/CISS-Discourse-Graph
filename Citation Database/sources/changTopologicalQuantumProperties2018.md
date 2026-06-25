@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "changTopologicalQuantumProperties2018"
+title: "Topological quantum properties of chiral crystals"
+volume: "17"
+issn: "1476-1122, 1476-4660"
+url: "https://www.nature.com/articles/s41563-018-0169-3"
+doi: "10.1038/s41563-018-0169-3"
+pages: "978--985"
+number: "11"
+journaltitle: "Nature Materials"
+shortjournal: "Nature Mater"
+author: "Chang, Guoqing and Wieder, Benjamin J. and Schindler, Frank and Sanchez, Daniel S. and Belopolski, Ilya and Huang, Shin-Ming and Singh, Bahadur and Wu, Di and Chang, Tay-Rong and Neupert, Titus and Xu, Su-Yang and Lin, Hsin and Hasan, M. Zahid"
+urldate: "2026-06-24"
+date: "2018-11"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\M7CV2MHV\\Chang et al. - 2018 - Topological quantum properties of chiral crystals.pdf:application/pdf"
+---

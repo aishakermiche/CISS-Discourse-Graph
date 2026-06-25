@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chotera-oudaImportanceChiralitySelforganizing2025"
+title: "Importance of chirality in the self-organizing peptides – from single molecules to functional supramolecular structures"
+volume: "27"
+issn: "1463-9076, 1463-9084"
+url: "https://xlink.rsc.org/?DOI=D5CP01562F"
+doi: "10.1039/D5CP01562F"
+abstract: "Understanding and controlling chirality in peptide systems is essential for the design of advanced biomaterials with tailored properties for applications in nanotechnology, medicine, and tissue engineering. , Chirality plays a key role in the self-assembly of peptides, influencing their structural and functional properties from the molecular to the supramolecular level. The stereochemistry of peptides determines their assembly pathways, leading to the formation of well-defined nanostructures such as tubes, wires, helices, fibers, sheets, and gels. This chiral self-assembly not only determines the mechanical and optical properties of the resulting materials but also influences their biological interactions and functionality. Understanding and controlling chirality in peptide systems is essential for the design of advanced biomaterials with tailored properties for applications in nanotechnology, medicine, and tissue engineering. This tutorial review article presents experimental techniques that are dedicated to the study of chiral compounds, allow to determine optical purity, and determine the absolute configuration of the studied species. Techniques for studying higher-order structures of self-assembled peptide systems are also discussed. The role of non-covalent intermolecular contacts in the formation of crystal structures made of heterochiral peptides is presented. The structure and morphology of peptide nanotubes ({PNTs}), peptide nanowires ({PNWs}), and other functional peptide devices that arise from the self-assembly and multiplication of chiral structural synthons ({CSS}), the smallest building blocks, are discussed. Finally, examples of systems belonging to the category of soft materials (peptide hydrogels, organogels) are presented."
+pages: "18062--18092"
+number: "35"
+journaltitle: "Physical Chemistry Chemical Physics"
+shortjournal: "Phys. Chem. Chem. Phys."
+author: "Chotera-Ouda, Agata and Trzeciak, Katarzyna and Potrzebowski, Marek J."
+urldate: "2026-06-24"
+date: "2025"
+langid: "english"
+---

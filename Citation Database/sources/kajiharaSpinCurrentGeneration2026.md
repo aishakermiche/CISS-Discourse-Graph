@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "kajiharaSpinCurrentGeneration2026"
+title: "Spin current generation via magnetic skyrmion, bimeron, and meron crystals"
+volume: "113"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/l9tf-qqr2"
+doi: "10.1103/l9tf-qqr2"
+pages: "174414"
+number: "17"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Kajihara, Aoi and Okumura, Shun and Motome, Yukitoshi"
+urldate: "2026-06-24"
+date: "2026-05-15"
+langid: "english"
+---

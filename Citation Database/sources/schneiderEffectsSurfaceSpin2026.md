@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "schneiderEffectsSurfaceSpin2026"
+title: "The Effects of Surface Spin Polarization on Copper Oxidation by Triplet Oxygen"
+volume: "20"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c21063"
+doi: "10.1021/acsnano.5c21063"
+pages: "6234--6245"
+number: "7"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Schneider, Avi and Ozeri, Meital and Kapon, Yael and Kenaz, Ralfy and Gutkin, Vitaly and Yochelis, Shira and Baczewski, Lech Tomasz and Azulay, Doron and Millo, Oded and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2026-02-24"
+langid: "english"
+---

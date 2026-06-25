@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sharmaControlMagnetoopticalProperties2020"
+title: "Control of magneto-optical properties of cobalt-layers by adsorption of α-helical polyalanine self-assembled monolayers"
+volume: "8"
+issn: "2050-7526, 2050-7534"
+url: "https://xlink.rsc.org/?DOI=D0TC02734K"
+doi: "10.1039/D0TC02734K"
+abstract: "Adsorption of α-helical polyaniline self-assembled monolayers onto magnetic substrates containing a thin Co layer determines the magneto-optical response. , The adsorption of chiral molecules was recently shown to trigger a change in the magnetisation of mesoscopic magnetic domains in a ferromagnetic underlayer. In this work, we investigated the macroscopic (magneto-)optical response of chemisorbed α-helical polyalanine self-assembled monolayers ({SAMs}) on a gold and gold-capped-cobalt thin film on Au substrates using spectroscopic ellipsometry and magneto-optical Kerr effect spectroscopy and microscopy. The optical and magneto-optical spectra reveal selective chemisorption of the α-helical polyalanine molecules depending on the orientation of the substrate remanent magnetisation during the {SAMs} process. Moreover, a sign change of the magneto-optical response was observed in some of the magnetic substrates after the chiral {SAMs} formation."
+pages: "11822--11829"
+number: "34"
+journaltitle: "Journal of Materials Chemistry C"
+shortjournal: "J. Mater. Chem. C"
+author: "Sharma, Apoorva and Matthes, Patrick and Soldatov, Ivan and Arekapudi, Sri Sai Phani Kanth and Böhm, Benny and Lindner, Marina and Selyshchev, Oleksandr and Thi Ngoc Ha, Nguyen and Mehring, Michael and Tegenkamp, Christoph and Schulz, Stefan E and Zahn, Dietrich R. T. and Paltiel, Yossi and Hellwig, Olav and Salvan, Georgeta"
+urldate: "2026-06-24"
+date: "2020"
+langid: "english"
+---

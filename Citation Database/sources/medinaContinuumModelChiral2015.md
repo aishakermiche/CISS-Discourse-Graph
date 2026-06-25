@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "medinaContinuumModelChiral2015"
+title: "Continuum model for chiral induced spin selectivity in helical molecules"
+volume: "142"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/142/19/194308/194044/Continuum-model-for-chiral-induced-spin"
+doi: "10.1063/1.4921310"
+abstract: "A minimal model is exactly solved for electron spin transport on a helix. Electron transport is assumed to be supported by well oriented pz type orbitals on base molecules forming a staircase of definite chirality. In a tight binding interpretation, the spin-orbit coupling ({SOC}) opens up an effective πz − πz coupling via interbase px,y − pz hopping, introducing spin coupled transport. The resulting continuum model spectrum shows two Kramers doublet transport channels with a gap proportional to the {SOC}. Each doubly degenerate channel satisfies time reversal symmetry; nevertheless, a bias chooses a transport direction and thus selects for spin orientation. The model predicts (i) which spin orientation is selected depending on chirality and bias, (ii) changes in spin preference as a function of input Fermi level and (iii) back-scattering suppression protected by the {SO} gap. We compute the spin current with a definite helicity and find it to be proportional to the torsion of the chiral structure and the non-adiabatic Aharonov-Anandan phase. To describe room temperature transport, we assume that the total transmission is the result of a product of coherent steps."
+pages: "194308"
+number: "19"
+journaltitle: "The Journal of Chemical Physics"
+author: "Medina, Ernesto and González-Arraga, Luis A. and Finkelstein-Shapiro, Daniel and Berche, Bertrand and Mujica, Vladimiro"
+urldate: "2026-06-25"
+date: "2015-05-21"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\QF9IHRA6\\Medina et al. - 2015 - Continuum model for chiral induced spin selectivity in helical molecules.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "upadhyayWeakElectronPhonon2026"
+title: "Weak electron–phonon coupling is insufficient to generate significant {CISS} in two-terminal transport"
+volume: "164"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/164/16/164303/3387590/Weak-electron-phonon-coupling-is-insufficient-to"
+doi: "10.1063/5.0324706"
+abstract: "A central open question in chiral-induced spin selectivity is whether weak electron–phonon coupling in a helical molecular junction can generate a sizable spin polarization in two-terminal transport without invoking additional strong symmetry-breaking ingredients. We address this question by implementing a self-consistent nonequilibrium Green’s function ({NEGF}) calculation for a helical tight-binding model with spin–orbit coupling and electron–phonon interactions. The electron–phonon self-energies are evaluated self-consistently, and the transport signal is extracted using the standard magnetization-reversal protocol with a spin-polarized analyzer lead. We benchmark a fully self-consistent {NEGF} within the self-consistent Born approximation treatment for both global and local electron–phonon couplings against commonly used approximations, including diagonal self-energy schemes. We quantify how the resulting transport regime and spin polarization depend on phonon frequency, coupling strength, bias, temperature, and system size. In contrast to large polarizations and anomalous size trends reported under approximate treatments, the fully self-consistent calculation yields negligible spin polarization; in addition, the electron–phonon coupling mainly renormalizes the spectrum and transport remains quasi-ballistic across the explored parameter range."
+pages: "164303"
+number: "16"
+journaltitle: "The Journal of Chemical Physics"
+author: "Upadhyay, Vipul and Levy, Amikam"
+urldate: "2026-06-24"
+date: "2026-04-28"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\D4LJSRQU\\Upadhyay and Levy - 2026 - Weak electron–phonon coupling is insufficient to generate significant CISS in two-terminal transport.pdf:application/pdf"
+---

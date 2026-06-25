@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wangChiralityInducedSpin2023"
+title: "Chirality induced spin selectivity in chiral hybrid organic–inorganic perovskites"
+volume: "159"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/159/9/091002/2909880/Chirality-induced-spin-selectivity-in-chiral"
+doi: "10.1063/5.0160032"
+abstract: "Chiral materials exhibit many interesting physical properties including circular dichroism, circularly polarized photoluminescence, and spin selectivity. Since its discovery, chirality-induced spin selectivity ({CISS}) has been demonstrated in many chiral material systems, which indicates promising applications in spintronic devices. Thus, searching for compounds that possess both sizable chirality and excellent spin transport properties is in order. Hybrid organic–inorganic perovskites have attracted intensive research interest due to their long carrier lifetime, high carrier mobility, chemically tunable electronic properties, and long spin lifetime, which make this emerging class of semiconductors promising candidate for spintronics. Moreover, hybrid perovskites integrate inorganic octahedral framework and organic ligands, which may introduce chirality into the materials, especially in quasi-two-dimensional structures. Recently, {CISS} has been observed in 2D chiral hybrid perovskites, showing the spin filtering effect. Studies of {CISS} in chiral hybrid perovskites not only help deepen our understanding of {CISS} mechanism but also shed new light on designing novel spintronic devices. In this review, we summarize the state-of-the-art studies of {CISS} effect in 2D chiral hybrid organic–inorganic perovskites system. We also discuss the remaining challenges and research opportunities of employing {CISS} in next-generation spintronic devices."
+pages: "091002"
+number: "9"
+journaltitle: "The Journal of Chemical Physics"
+author: "Wang, Jingying and Mao, Baorui and Vardeny, Zeev Valy"
+urldate: "2026-06-24"
+date: "2023-09-07"
+langid: "english"
+---

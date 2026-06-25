@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "guptaChiralNanohoopsEfficient2026"
+title: "Chiral Nanohoops as an Efficient Spin Polarization System"
+volume: "36"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202523339"
+doi: "10.1002/adfm.202523339"
+abstract: "Abstract A central challenge in molecular spintronics is to achieve a high spin polarization at low operating voltages and ambient conditions while maintaining good electrical conductivity. Chiral conjugated nanohoops, characterized by their curved and strained π ‐systems, as well as their ability to be functionalized with anchoring groups, represent promising scaffolds for organic spintronics. Here, the synthesis and spin‐selective properties of axially chiral nanohoops incorporating an antiaromatic dibenzo[ a , e ]pentalene ({DBP}) unit are reported. {DBP} enables good charge transport and can be functionalized with a thiomethyl anchoring group. Using magnetic‐conductive atomic force microscopy (mc‐{AFM}) and magnetoresistance ({MR}) measurements, asymmetry in spin transport is shown, with temperature‐dependent {MR} indicating vibrational contributions to spin selectivity. Despite the formation of a supramolecular structure and non‐selective adsorption on the surface, the nanohoops exhibit high spin polarization at ambient temperature and low voltage operation, along with a high conductivity, a rare combination in organic spintronics."
+pages: "e23339"
+number: "25"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Gupta, Anu and Seitz, Philipp and Hermann, Mathias and Esser, Birgit and Naaman, Ron"
+urldate: "2026-06-24"
+date: "2026-03"
+langid: "english"
+---

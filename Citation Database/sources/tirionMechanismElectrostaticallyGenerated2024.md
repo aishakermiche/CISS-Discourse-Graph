@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tirionMechanismElectrostaticallyGenerated2024"
+title: "Mechanism for Electrostatically Generated Magnetoresistance in Chiral Systems without Spin-Dependent Transport"
+volume: "18"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.3c12925"
+doi: "10.1021/acsnano.3c12925"
+pages: "6028--6037"
+number: "8"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Tirion, Sytze H. and Van Wees, Bart J."
+urldate: "2026-06-25"
+date: "2024-02-27"
+langid: "english"
+---

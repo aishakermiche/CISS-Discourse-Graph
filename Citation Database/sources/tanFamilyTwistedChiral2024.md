@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tanFamilyTwistedChiral2024"
+title: "A Family of Twisted Chiral Engineered Inorganic Nanoarchitectures"
+volume: "24"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03627"
+doi: "10.1021/acs.nanolett.4c03627"
+pages: "13678--13685"
+number: "43"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Tan, Lili and Wen, Zhihao and Jin, Yiran and Fu, Wenlong and Gao, Qi and Xiao, Chengyu and Chen, Zhi and Wang, Peng-peng"
+urldate: "2026-06-24"
+date: "2024-10-30"
+langid: "english"
+---

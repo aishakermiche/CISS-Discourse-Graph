@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "luoSensitivityEnhancementRadicalpair2024"
+title: "Sensitivity enhancement of radical-pair magnetoreceptors as a result of spin decoherence"
+volume: "160"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/160/7/074306/3266824/Sensitivity-enhancement-of-radical-pair"
+doi: "10.1063/5.0182172"
+abstract: "Electron spin relaxation is, on many occasions, considered an elephant in the room that challenges the idea of a radical-pair compass, a leading hypothesis for the navigation of migratory avian species. It has been widely recognized that an effective radical-pair magnetoreceptor requires a relaxation time that is long enough for an external magnetic field as weak as the geomagnetic field to significantly modify the coherent spin dynamics. However, previous studies proposed that certain spin relaxation, far quicker than the radical recombination reactions, could enhance, rather than degrade, the directional sensitivity of a radical-pair magnetoreceptor. Here, I investigate relaxation effects on the singlet–triplet interconversion of a model radical pair and find that the enhancement effect originates from population relaxation over a period of several microseconds as a result of efficient spin decoherence. Insights into the truncated spin systems shed light on the physics behind them. I further investigate the possibilities of such enhancement in cryptochrome-based magnetoreception, in which electron hopping takes place between tryptophan residues."
+pages: "074306"
+number: "7"
+journaltitle: "The Journal of Chemical Physics"
+author: "Luo, Jiate"
+urldate: "2026-06-24"
+date: "2024-02-21"
+langid: "english"
+---

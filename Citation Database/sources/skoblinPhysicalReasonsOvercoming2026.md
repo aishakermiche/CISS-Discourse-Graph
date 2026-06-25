@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "skoblinPhysicalReasonsOvercoming2026"
+title: "Physical Reasons for Overcoming the Chiral Catastrophe Paradox"
+volume: "20"
+issn: "1990-7931, 1990-7923"
+url: "https://link.springer.com/10.1134/S1990793126700144"
+doi: "10.1134/S1990793126700144"
+pages: "527--533"
+number: "5"
+journaltitle: "Russian Journal of Physical Chemistry B"
+shortjournal: "Russ. J. Phys. Chem. B"
+author: "Skoblin, A. A. and Zlenko, D. V. and Mikhaleva, M. G. and Stovbun, S. V."
+urldate: "2026-06-24"
+date: "2026-05"
+langid: "english"
+---

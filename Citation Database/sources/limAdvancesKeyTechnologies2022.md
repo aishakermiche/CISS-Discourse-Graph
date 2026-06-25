@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "limAdvancesKeyTechnologies2022"
+title: "Advances and key technologies in magnetoresistive sensors with high thermal stabilities and low field detectivities"
+volume: "10"
+issn: "2166-532X"
+url: "https://pubs.aip.org/apm/article/10/5/051108/2835019/Advances-and-key-technologies-in-magnetoresistive"
+doi: "10.1063/5.0087311"
+abstract: "Advances in micro- and nanotechnology have led to rapid employment of spintronic sensors in both recording and non-recording applications. These state-of-the-art magnetoresistive spintronic sensors exhibit high sensitivities and ultra-low field detectivities that meet requirements of smart sensing applications in the fields of internet of things, mobile devices, space technology, aeronautics, magnetic flux leakage, domotics, the environment, and healthcare. Moreover, their ability to be customized and miniaturized, ease of integration, and cost-effective nature make these sensors uniquely competitive with regard to mass production. In this study, we discuss magnetoresistive field sensors based on the planar-Hall effect, which are very promising for their high sensitivity and sensing ultra-low magnetic fields. We provide a detailed historical overview and discuss recent dramatic developments in several application fields. In addition, we discuss sensor material property requirements, design architectures, noise-reduction techniques, and sensing capabilities, along with the high repeatabilities and good flexibility characteristics of such devices. All of these high-performance characteristics apply across a wide temperature range and make the sensor robust when used in various novel applications. The sensor also appears promising because it is cost-effective and can be used in micro-sensing applications. Recently, a noteworthy study that combined integrated planar-Hall magnetoresistive sensors with microfluidic channels revealed their potential for highly localized magnetic field sensing. This characteristic makes them suitable for point-of-care-technologies that require resolutions of a few {pT} at room temperature."
+pages: "051108"
+number: "5"
+journaltitle: "{APL} Materials"
+author: "Lim, Byeonghwa and Mahfoud, Mohamed and Das, Proloy T. and Jeon, Taehyeong and Jeon, Changyeop and Kim, Mijin and Nguyen, Trung-Kien and Tran, Quang-Hung and Terki, Ferial and Kim, {CheolGi}"
+urldate: "2026-06-24"
+date: "2022-05-01"
+langid: "english"
+---

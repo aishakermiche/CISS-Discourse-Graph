@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liChiralInducedSpin2020"
+title: "Chiral Induced Spin Selectivity as a Spontaneous Intertwined Order"
+volume: "125"
+issn: "0031-9007, 1079-7114"
+url: "https://link.aps.org/doi/10.1103/PhysRevLett.125.263002"
+doi: "10.1103/PhysRevLett.125.263002"
+pages: "263002"
+number: "26"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Li, Xiaopeng and Nan, Jue and Pan, Xiangcheng"
+urldate: "2026-06-25"
+date: "2020-12-30"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\7DGJTFEX\\Li et al. - 2020 - Chiral Induced Spin Selectivity as a Spontaneous Intertwined Order.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "beakInducingChiralityNType2026"
+title: "Inducing Chirality in n-Type Conjugated Polymers by Chiral Solvents for the Development of Spin Transistors"
+volume: "18"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1944-8244, 1944-8252"
+url: "https://pubs.acs.org/doi/10.1021/acsami.6c02690"
+doi: "10.1021/acsami.6c02690"
+pages: "22225--22233"
+number: "15"
+journaltitle: "{ACS} Applied Materials \& Interfaces"
+shortjournal: "{ACS} Appl. Mater. Interfaces"
+author: "Beak, Jeongwoo and Moon, Yina and O’Neil, Justin J. and Yang, Dongseong and Bloom, Brian P. and Lee, Minwoo and Song, Geon Chang and Kim, Yunseul and Waldeck, David H. and Kim, Dong-Yu"
+urldate: "2026-06-24"
+date: "2026-04-22"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "alvarezQuantumPhenomenaBiological2024"
+title: "Quantum phenomena in biological systems"
+volume: "3"
+issn: "2813-2181"
+url: "https://www.frontiersin.org/articles/10.3389/frqst.2024.1466906/full"
+doi: "10.3389/frqst.2024.1466906"
+abstract: "Quantum biology is a modern field of research that aims to understand how quantum effects can affect the chemistry underlying various biological processes. This paper reviews several examples of biological processes where quantum effects might play a notable role. Initially, the photon capture mechanism present in vision is discussed, where the energy of the photon is used to cause conformational changes to chromophoric proteins. The second example elaborates the highly efficient energy transfer process present in photosynthesis and discusses, in particular, how the random quantum walk process may enhance the performance drastically. Subsequently, the vertebrate magnetoreception, and the possible associated role of the radical pair mechanism in the process is considered. The review concludes with the discussion of some speculative ideas of putative quantum effects arising in neural processes."
+pages: "1466906"
+journaltitle: "Frontiers in Quantum Science and Technology"
+shortjournal: "Front. Quantum Sci. Technol."
+author: "Alvarez, Pedro H. and Gerhards, Luca and Solov’yov, Ilia A. and De Oliveira, Marcos C."
+urldate: "2026-06-24"
+date: "2024-10-30"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\674A5KYB\\Alvarez et al. - 2024 - Quantum phenomena in biological systems.pdf:application/pdf"
+---

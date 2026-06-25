@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tokutakeAntiferromagneticOpticallyActive2025"
+title: "Antiferromagnetic Optically Active Polythiophene Derivatives Showing Circularly Polarized Luminescence, Liquid Crystallinity, and Inversion Helicity Reorganization"
+volume: "58"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0024-9297, 1520-5835"
+url: "https://pubs.acs.org/doi/10.1021/acs.macromol.5c01442"
+doi: "10.1021/acs.macromol.5c01442"
+pages: "11370--11377"
+number: "20"
+journaltitle: "Macromolecules"
+shortjournal: "Macromolecules"
+author: "Tokutake, Aoi and Miyashita, Ryo and Kumai, Reiji and Goto, Hiromasa"
+urldate: "2026-06-24"
+date: "2025-10-28"
+langid: "english"
+---

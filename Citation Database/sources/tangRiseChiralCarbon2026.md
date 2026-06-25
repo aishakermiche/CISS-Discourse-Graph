@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tangRiseChiralCarbon2026"
+title: "The rise of chiral carbon nanomaterials: From chirality-governed mechanisms to future environmental applications"
+volume: "29"
+issn: "25890042"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2589004226008576"
+doi: "10.1016/j.isci.2026.115482"
+shorttitle: "The rise of chiral carbon nanomaterials"
+pages: "115482"
+number: "4"
+journaltitle: "{iScience}"
+shortjournal: "{iScience}"
+author: "Tang, Yalian and Zhu, Yuke and Liu, Haoran and Zhao, Wantong and Zhou, Yingjian and Tang, Ye and Ouyang, Da and Tian, Kun and Zheng, Xiangyong and Zhao, Min and Chen, Ruihuan"
+urldate: "2026-06-24"
+date: "2026-04"
+langid: "english"
+---

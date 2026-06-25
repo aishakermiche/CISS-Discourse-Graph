@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "matassaChiralityNanomaterials2024"
+title: "Chirality in nanomaterials"
+volume: "14"
+issn: "2045-2322"
+url: "https://www.nature.com/articles/s41598-024-77887-5"
+doi: "10.1038/s41598-024-77887-5"
+pages: "26268, s41598--024--77887--5"
+number: "1"
+journaltitle: "Scientific Reports"
+shortjournal: "Sci Rep"
+author: "Matassa, Roberto and Ray, Sekhar Chandra and Zheng, Yuebing"
+urldate: "2026-06-24"
+date: "2024-11-01"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\DEVJ29Y9\\Matassa et al. - 2024 - Chirality in nanomaterials.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "singhSinglemoleculeJunctionsMap2025"
+title: "Single-molecule junctions map the interplay between electrons and chirality"
+volume: "16"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-025-56718-9"
+doi: "10.1038/s41467-025-56718-9"
+pages: "1759"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Singh, Anil-Kumar and Martin, Kévin and Mastropasqua Talamo, Maurizio and Houssin, Axel and Vanthuyne, Nicolas and Avarvari, Narcis and Tal, Oren"
+urldate: "2026-06-24"
+date: "2025-02-19"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\QG7RMC4Q\\Singh et al. - 2025 - Single-molecule junctions map the interplay between electrons and chirality.pdf:application/pdf"
+---

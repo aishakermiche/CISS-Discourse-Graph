@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liuEnhancementChiralInducedSpin2025"
+title: "Enhancement of Chiral-Induced Spin Selectivity via Circularly Polarized Light"
+volume: "129"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcc.5c02365"
+doi: "10.1021/acs.jpcc.5c02365"
+pages: "10181--10188"
+number: "22"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Liu, Wei and Chen, Jingqi and Dou, Wenjie"
+urldate: "2026-06-24"
+date: "2025-06-05"
+langid: "english"
+---

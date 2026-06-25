@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "shekhterMagnetoconductanceAnisotropiesAharonovCasher2022"
+title: "Magnetoconductance Anisotropies and Aharonov-Casher Phases"
+volume: "129"
+issn: "0031-9007, 1079-7114"
+url: "https://link.aps.org/doi/10.1103/PhysRevLett.129.037704"
+doi: "10.1103/PhysRevLett.129.037704"
+pages: "037704"
+number: "3"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Shekhter, R. I. and Entin-Wohlman, O. and Jonson, M. and Aharony, A."
+urldate: "2026-06-24"
+date: "2022-07-15"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\GQAL4QP3\\Shekhter et al. - 2022 - Magnetoconductance Anisotropies and Aharonov-Casher Phases.pdf:application/pdf"
+---

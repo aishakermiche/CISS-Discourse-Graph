@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "lambertQuantumBiology2013"
+title: "Quantum biology"
+volume: "9"
+rights: "http://www.springer.com/tdm"
+issn: "1745-2473, 1745-2481"
+url: "https://www.nature.com/articles/nphys2474"
+doi: "10.1038/nphys2474"
+pages: "10--18"
+number: "1"
+journaltitle: "Nature Physics"
+shortjournal: "Nature Phys"
+author: "Lambert, Neill and Chen, Yueh-Nan and Cheng, Yuan-Chung and Li, Che-Ming and Chen, Guang-Yin and Nori, Franco"
+urldate: "2026-06-24"
+date: "2013-01"
+langid: "english"
+---

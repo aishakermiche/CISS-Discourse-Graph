@@ -1,0 +1,16 @@
+---
+type: "incollection"
+citekey: "SpinPhenomenaMolecular2025"
+title: "Spin phenomena in molecular systems, molecule-interfaced magnetic materials and perspective applications"
+volume: "76"
+rights: "https://www.elsevier.com/tdm/userlicense/1.0/"
+isbn: "978-0-443-43043-5"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0081194725000013"
+doi: "10.1016/bs.ssp.2025.09.001"
+pages: "1--52"
+booktitle: "Solid State Physics"
+publisher: "Elsevier"
+urldate: "2026-06-24"
+date: "2025"
+langid: "english"
+---

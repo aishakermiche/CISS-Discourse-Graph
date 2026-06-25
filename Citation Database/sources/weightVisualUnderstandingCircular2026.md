@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "weightVisualUnderstandingCircular2026"
+title: "A Visual Understanding of Circular Dichroism Spectroscopy"
+volume: "20"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c20228"
+doi: "10.1021/acsnano.5c20228"
+pages: "9287--9302"
+number: "11"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Weight, Braden M. and Freixas, Victor M. and Forde, Aaron and Tretiak, Sergei"
+urldate: "2026-06-24"
+date: "2026-03-24"
+langid: "english"
+---

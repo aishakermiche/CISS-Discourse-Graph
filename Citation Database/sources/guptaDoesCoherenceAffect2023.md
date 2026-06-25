@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "guptaDoesCoherenceAffect2023"
+title: "Does Coherence Affect the Multielectron Oxygen Reduction Reaction?"
+volume: "14"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.3c02594"
+doi: "10.1021/acs.jpclett.3c02594"
+pages: "9377--9384"
+number: "42"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Gupta, Anu and Kumar, Anil and Bhowmick, Deb Kumar and Fontanesi, Claudio and Paltiel, Yossi and Fransson, Jonas and Naaman, Ron"
+urldate: "2026-06-25"
+date: "2023-10-26"
+langid: "english"
+---

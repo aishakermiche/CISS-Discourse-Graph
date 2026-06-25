@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "savinInhomogeneousElasticStretching2024"
+title: "Inhomogeneous elastic stretching of carbon nanosprings"
+volume: "244"
+issn: "09270256"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0927025624004750"
+doi: "10.1016/j.commatsci.2024.113254"
+pages: "113254"
+journaltitle: "Computational Materials Science"
+shortjournal: "Computational Materials Science"
+author: "Savin, Alexander V. and Dmitriev, Sergey V."
+urldate: "2026-06-24"
+date: "2024-09"
+langid: "english"
+---

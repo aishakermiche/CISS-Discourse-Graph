@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kumardasLongRangeSpinTransport2025"
+title: "Long‐Range Spin Transport in Chiral Gold"
+volume: "37"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202506523"
+doi: "10.1002/adma.202506523"
+abstract: "Abstract Any attempt to use spintronics‐based logic elements will need to have spin interconnects to transfer information between its elements. Typically, the mean free path of an electron's spin in metals, at room temperature, is of the order of tens to hundreds of nanometers. Here chiral gold films are used to demonstrate that spin information can be transferred to distances of several microns at room temperature. The conduction of spins is accompanied by a Hall effect that exists without applying an external magnetic field. It is verified that the spin diffusion length is consistent with the frequency‐dependent Hall effect which indicates a spin‐effective lifetime in the order of nanoseconds. A theoretical model is presented that involves the anisotropic electronic polarizability of the system, its spin–orbit coupling, and spin exchange interactions."
+pages: "2506523"
+number: "34"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Kumar Das, Tapan and Marelly, Offek and Yochelis, Shira and Paltiel, Yossi and Naaman, Ron and Fransson, Jonas"
+urldate: "2026-06-24"
+date: "2025-08"
+langid: "english"
+---

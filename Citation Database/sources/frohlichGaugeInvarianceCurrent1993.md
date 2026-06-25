@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "frohlichGaugeInvarianceCurrent1993"
+title: "Gauge invariance and current algebra in nonrelativistic many-body theory"
+volume: "65"
+rights: "http://link.aps.org/licenses/aps-default-license"
+issn: "0034-6861, 1539-0756"
+url: "https://link.aps.org/doi/10.1103/RevModPhys.65.733"
+doi: "10.1103/RevModPhys.65.733"
+pages: "733--802"
+number: "3"
+journaltitle: "Reviews of Modern Physics"
+shortjournal: "Rev. Mod. Phys."
+author: "Fröhlich, Jürg and Studer, Urban M."
+urldate: "2026-06-24"
+date: "1993-07-01"
+langid: "english"
+---

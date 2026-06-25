@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kershawNonequilibriumGreensFunction2017"
+title: "Nonequilibrium Green’s function theory for nonadiabatic effects in quantum electron transport"
+volume: "147"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/147/22/224109/970172/Nonequilibrium-Green-s-function-theory-for"
+doi: "10.1063/1.5007071"
+abstract: "We develop nonequilibrium Green’s function-based transport theory, which includes effects of nonadiabatic nuclear motion in the calculation of the electric current in molecular junctions. Our approach is based on the separation of slow and fast time scales in the equations of motion for Green’s functions by means of the Wigner representation. Time derivatives with respect to central time serve as a small parameter in the perturbative expansion enabling the computation of nonadiabatic corrections to molecular Green’s functions. Consequently, we produce a series of analytic expressions for non-adiabatic electronic Green’s functions (up to the second order in the central time derivatives), which depend not solely on the instantaneous molecular geometry but likewise on nuclear velocities and accelerations. An extended formula for electric current is derived which accounts for the non-adiabatic corrections. This theory is concisely illustrated by the calculations on a model molecular junction."
+pages: "224109"
+number: "22"
+journaltitle: "The Journal of Chemical Physics"
+author: "Kershaw, Vincent F. and Kosov, Daniel S."
+urldate: "2026-06-24"
+date: "2017-12-14"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\N6GHPBAB\\Kershaw and Kosov - 2017 - Nonequilibrium Green’s function theory for nonadiabatic effects in quantum electron transport.pdf:application/pdf"
+---

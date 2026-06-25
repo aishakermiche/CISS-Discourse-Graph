@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "akimotoThermalEinsteinHaas2026"
+title: "Thermal Einstein–de Haas Effect Induced by Chiral Phonons in Carbon Nanotubes"
+volume: "95"
+issn: "0031-9015, 1347-4073"
+url: "https://journals.jps.jp/doi/10.7566/JPSJ.95.033801"
+doi: "10.7566/JPSJ.95.033801"
+pages: "033801"
+number: "3"
+journaltitle: "Journal of the Physical Society of Japan"
+shortjournal: "J. Phys. Soc. Jpn."
+author: "Akimoto, Raimu and Matsuura, Hiroyasu and Yamamoto, Takahiro"
+urldate: "2026-06-24"
+date: "2026-03-15"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\QJUS6MDM\\Akimoto et al. - 2026 - Thermal Einstein–de Haas Effect Induced by Chiral Phonons in Carbon Nanotubes.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "guoChiralPConjugatedDouble2025"
+title: "Chiral π-Conjugated Double Helical Aminyl Diradical with the Triplet Ground State"
+volume: "36"
+issn: "0936-5214, 1437-2096"
+url: "http://www.thieme-connect.de/DOI/DOI?10.1055/a-2379-9406"
+doi: "10.1055/a-2379-9406"
+abstract: "Abstract We describe effective development of the highly diastereoselective synthesis of double helical tetraamine 2-H2-C2 and propose a mechanism for its formation. The resolution of 2-H2-C2 is facilitated by a high racemization barrier of 43 kcal mol–1 and it is implemented via either a chiral auxiliary or preparative supercritical fluid chromatography. This enables preparation of the first high-spin neutral diradical, with spin density delocalized within an enantiomeric double helical π-system. The presence of two effective 3-electron C–N bonds in the diradical leads to: (1) the triplet (S = 1) high-spin ground state with a singlet-triplet energy gap of 0.4 kcal mol–1 and (2) the long half-life of up to 6 days in 2-{MeTHF} at room temperature. The diradical possesses a racemization barrier of at least 26 kcal mol–1 in 2-{MeTHF} at 293 K and chiroptical properties, with an absorption anisotropy factor {\textbar}g{\textbar} ≈ 0.005 at 548 nm. These unique magnetic and optical properties of our diradical form the basis for the development of next-generation spintronic devices. 1 Introduction 2 Synthesis and Resolution of the C 2-Symmetric Double Helical Tetraamine 2-H2-C 2 3 Synthesis and Characterization of Neutral High-Spin Aminyl Diradical 22• -C 2 4 Conclusion"
+pages: "431--437"
+number: "5"
+journaltitle: "Synlett"
+shortjournal: "Synlett"
+author: "Guo, Haoxin and Rajca, Andrzej"
+urldate: "2026-06-24"
+date: "2025-03"
+langid: "english"
+---

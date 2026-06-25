@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sasaoSpinCurrentInducedMechanical2019"
+title: "Spin-Current Induced Mechanical Torque in a Chiral Molecular Junction"
+volume: "88"
+issn: "0031-9015, 1347-4073"
+url: "https://journals.jps.jp/doi/10.7566/JPSJ.88.064702"
+doi: "10.7566/JPSJ.88.064702"
+pages: "064702"
+number: "6"
+journaltitle: "Journal of the Physical Society of Japan"
+shortjournal: "J. Phys. Soc. Jpn."
+author: "Sasao, Naoki and Okada, Hiroki and Utsumi, Yasuhiro and Entin-Wohlman, Ora and Aharony, Amnon"
+urldate: "2026-06-24"
+date: "2019-06-15"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\IA896FKP\\Sasao et al. - 2019 - Spin-Current Induced Mechanical Torque in a Chiral Molecular Junction.pdf:application/pdf"
+---

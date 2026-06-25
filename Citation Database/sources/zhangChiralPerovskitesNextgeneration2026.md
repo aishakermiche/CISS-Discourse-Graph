@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "zhangChiralPerovskitesNextgeneration2026"
+title: "Chiral perovskites for next‐generation chiral optoelectronics and spintronics"
+rights: "http://creativecommons.org/licenses/by/4.0/"
+issn: "2836-9092, 2836-9106"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/flm2.70084"
+doi: "10.1002/flm2.70084"
+abstract: "Abstract Owing to the structural broken inversion symmetry and strong spin‐orbit coupling, chiral perovskites have demonstrated circular dichroism, circularly polarized luminescence ({CPL}), and chiral‐induced spin selectivity effect. Their multifunctional roles also encompass light absorption, charge dissociation and transport, either acting as active layers or as interfacial modulators, which are vital to the corresponding chiral optoelectronic and spintronic devices. In this focused review, we summarize the progress in the chiral characteristics of perovskites for their applications in chiral devices including perovskite solar cells, circularly polarized light detectors, and spin {CP}‐light‐emitting diodes. Our aim is to promote chiral perovskite for emerging science and technologies, particularly, the next‐generation high efficiency, low‐energy‐consumption chiral optoelectronic and spintronic devices."
+pages: "flm2.70084"
+journaltitle: "{FlexMat}"
+shortjournal: "{FlexMat}"
+author: "Zhang, Mengyao and Xu, Rui and Hou, Xueyan and Du, Sihan and Xu, Mengting and Wu, Jia and Lin, Zhichao and Liu, Pei and Zhuang, Qiang and Zhao, Xiaoming and Yang, Yang and Shi, Wenda and Guo, Wanlin and Kong, Jie"
+urldate: "2026-06-24"
+date: "2026-06-23"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "chenChiralPlasmonicNanocatalysts2025"
+title: "Chiral plasmonic nanocatalysts for enhanced {CO}$_{\textrm{2}}$ methanation activity and selectivity via polarized photogenerated hot carriers"
+volume: "18"
+issn: "1998-0124, 1998-0000"
+url: "https://www.sciopen.com/article/10.26599/NR.2025.94907940"
+doi: "10.26599/NR.2025.94907940"
+pages: "94907940"
+number: "10"
+journaltitle: "Nano Research"
+author: "Chen, Jiaqi and Shuai, Jintao and Chen, Xuegang and Du, Jiajun and Zhao, Bin and Yu, Xue and Feng, Wei and Zheng, Guangchao and Wu, Xiaochun and Zhou, Xuemei"
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\MR6V7L2H\\Chen et al. - 2025 - Chiral plasmonic nanocatalysts for enhanced CO2 methanation activity and selectivity via.pdf:application/pdf"
+---

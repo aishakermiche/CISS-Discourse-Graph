@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sakamakiEffectsChiralityCounter2025"
+title: "Effects of Chirality and Counter Anions on the Structures and Solid‐State Properties of Radical Cation Salts of Benzo[ \textit{b} ]Phenoxazine‐Based Double Heterohelicene"
+volume: "31"
+issn: "0947-6539, 1521-3765"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202500942"
+doi: "10.1002/chem.202500942"
+abstract: "Abstract In this study, we prepared stable radical cation salts of racemic and enantiopure double hetero[5]helicene ( 1 ), consisting of two benzo[ b ]phenoxazine ( {BPO} ) molecules, using two different counter anions ({SbCl} 6 − and {NTf} 2 − ). The effects of chirality and counter anions on the packing structure and solid‐state electronic properties were investigated. X‐ray single‐crystal analysis revealed that the {SbCl} 6 − anion was positioned above the midpoint of 1 ·+ in both the racemic and enantiopure crystals of 1 ·+ · {SbCl} 6 − . This alignment resulted from the matching between the curvature of 1 ·+ and the spherical shape of the {SbCl} 6 − anion, preventing the formation of continuous π–π interactions among 1 ·+ . In contrast, 1D π–stacked columns of 1 ·+ were present in both the racemic and enantiopure 1 ·+ · {NTf} 2 − crystals, as the {NTf} 2 − anions encased the π‐stacked columns of 1 ·+ . All radical cation salts exhibited distinct melting points, and the enantiopure salts of 1 ·+ · {NTf} 2 − had notably low melting points of 393–395 K, which was 142 K lower than that of rac ‐ 1 ·+ · {NTf} 2 − . {ESR} and {SQUID} measurements of the enantiopure 1 ·+ · {NTf} 2 − crystals revealed significant changes in their magnetic properties upon crystal melting. In contrast, rac ‐ 1 ·+ · {NTf} 2 − displayed an unexpected crystal–crystal phase transition near room temperature, accompanied by a thermal hysteresis loop in its magnetic susceptibility."
+pages: "e202500942"
+number: "29"
+journaltitle: "Chemistry – A European Journal"
+shortjournal: "Chemistry A European J"
+author: "Sakamaki, Daisuke and Sekiguchi, Hiyori and Suzuki, Shuichi and Fujiwara, Hideki"
+urldate: "2026-06-24"
+date: "2025-05-22"
+langid: "english"
+---

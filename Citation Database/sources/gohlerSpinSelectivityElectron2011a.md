@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gohlerSpinSelectivityElectron2011a"
+title: "Spin Selectivity in Electron Transmission Through Self-Assembled Monolayers of Double-Stranded {DNA}"
+volume: "331"
+issn: "0036-8075, 1095-9203"
+url: "https://www.science.org/doi/10.1126/science.1199339"
+doi: "10.1126/science.1199339"
+abstract: "Photoelectrons emitted from a {DNA}-covered gold surface can have an unbalanced spin population of up to 60\%. , In electron-transfer processes, spin effects normally are seen either in magnetic materials or in systems containing heavy atoms that facilitate spin-orbit coupling. We report spin-selective transmission of electrons through self-assembled monolayers of double-stranded {DNA} on gold. By directly measuring the spin of the transmitted electrons with a Mott polarimeter, we found spin polarizations exceeding 60\% at room temperature. The spin-polarized photoelectrons were observed even when the photoelectrons were generated with unpolarized light. The observed spin selectivity at room temperature was extremely high as compared with other known spin filters. The spin filtration efficiency depended on the length of the {DNA} in the monolayer and its organization."
+pages: "894--897"
+number: "6019"
+journaltitle: "Science"
+shortjournal: "Science"
+author: "Göhler, B. and Hamelbeck, V. and Markus, T. Z. and Kettner, M. and Hanne, G. F. and Vager, Z. and Naaman, R. and Zacharias, H."
+urldate: "2026-06-24"
+date: "2011-02-18"
+langid: "english"
+---

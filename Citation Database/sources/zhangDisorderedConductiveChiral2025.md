@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangDisorderedConductiveChiral2025"
+title: "Disordered and Conductive Chiral Spin‐Selective Strategy to Enhance Small‐Molecule‐Based Spintronic Application"
+volume: "21"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202412215"
+doi: "10.1002/smll.202412215"
+abstract: "Abstract Chiral materials, which can manipulate the electron spin by the chiral‐induced spin selectivity ({CISS}) effect without involving the complicated magnetic components, exhibits great potentials in low‐cost spin optoelectronics. However, ideal {CISS} usually requires a relatively ordered and conductive (or insulated but ultrathin) chiral layer, which contradicts the disordered‐packing and high‐impedance characteristics of chiral molecules, preventing the direct application of most chiral molecules for {CISS} and increasing the difficulty to prepare chiral spin‐selective layers. Here, a general disordered and conductive chiral molecular strategy is proposed to simply construct the small‐molecule‐based spin polarizer. Directly spin‐coating chiral molecules onto the electrode forms the disordered chiral thin film, which exhibits obvious {CISS} effects demonstrated by an electrochemical oxygen evolution reaction ({OER}) and a magnetic conductive probe‐atomic force microscopy (mcp‐{AFM}). More importantly, by disorderly doping conductive graphite nanoparticles into this film, the high impedance of the chiral molecular layers can be effectively reduced, which results in a higher {OER} activity with lower H 2 O 2 byproduct and a stronger spin‐polarization degree. This can be attributed to a conductivity‐enhanced disordered {CISS} effect, which may lay the foundation for designing universal and high‐performance spintronic devices."
+pages: "2412215"
+number: "32"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Zhang, Weiguang and Yang, Tong and Jiang, Shuo and Ding, Fang and Liu, Yong and Wang, Mengxu and Li, Wenqi and Feng, Jing and Deng, Mengjie and Yang, Sufang and Zhai, Yaxin and Wang, Jian‐Bo and Chen, Bo and Ma, Ming and Zhang, Wei"
+urldate: "2026-06-24"
+date: "2025-08"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sunRobustChiralityinducedSpin2025"
+title: "Robust chirality-induced spin selectivity in topologically chiral molecular knots"
+volume: "17"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-025-67988-8"
+doi: "10.1038/s41467-025-67988-8"
+pages: "1231"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Sun, Xi and Zhang, Kai-Yuan and Zhou, Shu-Zheng and Fu, Hua-Hua"
+urldate: "2026-06-24"
+date: "2025-12-26"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\LDHDPQNC\\Sun et al. - 2025 - Robust chirality-induced spin selectivity in topologically chiral molecular knots.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jeongCurrentDrivenSymmetryBreaking2026"
+title: "Current-Driven Symmetry Breaking and Spin–Orbit Polarization in Chiral Wires"
+volume: "20"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.6c01719"
+doi: "10.1021/acsnano.6c01719"
+pages: "13172--13179"
+number: "17"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Jeong, Uiseok and Hill, Daniel and Sisakht, Esmaeil Taghizadeh and Yan, Binghai and Rubio, Angel and Ullrich, Carsten A. and Park, Noejung"
+urldate: "2026-06-24"
+date: "2026-05-05"
+langid: "english"
+---

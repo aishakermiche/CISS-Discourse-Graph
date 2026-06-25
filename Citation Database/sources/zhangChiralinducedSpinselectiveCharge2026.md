@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "zhangChiralinducedSpinselectiveCharge2026"
+title: "Chiral-induced spin-selective charge separation in chiral-{BiOBr}/Bi2S3 heterojunctions enabling ultra-sensitive photoelectrochemical detection of aflatoxin B1"
+volume: "227"
+issn: "0026265X"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0026265X26018345"
+doi: "10.1016/j.microc.2026.118632"
+pages: "118632"
+journaltitle: "Microchemical Journal"
+shortjournal: "Microchemical Journal"
+author: "Zhang, Yunxue and Yao, Shan and Xu, Haiying and Zhou, Meng Ting and Lv, Yanfeng and Zhang, Yan and Cui, Kang and Zhang, Jing and Yan, Mei"
+urldate: "2026-06-24"
+date: "2026-08"
+langid: "english"
+---

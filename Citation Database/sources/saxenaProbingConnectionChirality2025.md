@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "saxenaProbingConnectionChirality2025"
+title: "Probing the connection between chirality and spin through time-resolved {EPR} spectroscopy"
+volume: "122"
+issn: "0027-8424, 1091-6490"
+url: "https://pnas.org/doi/10.1073/pnas.2519806122"
+doi: "10.1073/pnas.2519806122"
+pages: "e2519806122"
+number: "38"
+journaltitle: "Proceedings of the National Academy of Sciences"
+shortjournal: "Proc. Natl. Acad. Sci. U.S.A."
+author: "Saxena, Sunil and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2025-09-23"
+langid: "english"
+---

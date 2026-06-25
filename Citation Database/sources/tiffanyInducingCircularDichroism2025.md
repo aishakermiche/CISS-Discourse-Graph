@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tiffanyInducingCircularDichroism2025"
+title: "Inducing Circular Dichroism in Carbon Nanotubes by Chemical Defects"
+volume: "19"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c11532"
+doi: "10.1021/acsnano.5c11532"
+pages: "30476--30486"
+number: "33"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Tiffany, Grace and Arshad, Amara and Weight, Braden M. and Amb, August and Forde, Aaron and Gifford, Brendan J. and Star, Alexander and Tretiak, Sergei and Kilin, Dmitri and Kilina, Svetlana"
+urldate: "2026-06-24"
+date: "2025-08-26"
+langid: "english"
+---

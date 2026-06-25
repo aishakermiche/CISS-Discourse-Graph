@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "huoSpinEffectsElectrocatalysis2025"
+title: "Spin effects in electrocatalysis: Mechanisms, catalyst engineering, modulation, and applications"
+volume: "164"
+issn: "0927796X"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0927796X25000440"
+doi: "10.1016/j.mser.2025.100967"
+shorttitle: "Spin effects in electrocatalysis"
+pages: "100967"
+journaltitle: "Materials Science and Engineering: R: Reports"
+shortjournal: "Materials Science and Engineering: R: Reports"
+author: "Huo, Sichen and Wang, Xinyu and Chen, Yanjie and Yue, Hang and Li, Li and Zou, Jinlong"
+urldate: "2026-06-24"
+date: "2025-06"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenStructuralEngineeringChiralityInduced2025"
+title: "Structural Engineering for Chirality-Induced Spin Control in Metal–Halide Perovskites"
+volume: "17"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1944-8244, 1944-8252"
+url: "https://pubs.acs.org/doi/10.1021/acsami.5c16547"
+doi: "10.1021/acsami.5c16547"
+pages: "62917--62935"
+number: "46"
+journaltitle: "{ACS} Applied Materials \& Interfaces"
+shortjournal: "{ACS} Appl. Mater. Interfaces"
+author: "Chen, Quanlin and Ren, Miao"
+urldate: "2026-06-24"
+date: "2025-11-19"
+langid: "english"
+---

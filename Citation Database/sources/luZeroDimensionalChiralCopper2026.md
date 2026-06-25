@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "luZeroDimensionalChiralCopper2026"
+title: "Zero-Dimensional Chiral Copper Halides with Strong Circular Dichroism and Low-Temperature Ferromagnetism"
+volume: "26"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1528-7483, 1528-7505"
+url: "https://pubs.acs.org/doi/10.1021/acs.cgd.5c01706"
+doi: "10.1021/acs.cgd.5c01706"
+pages: "2991--2997"
+number: "8"
+journaltitle: "Crystal Growth \& Design"
+shortjournal: "Crystal Growth \& Design"
+author: "Lu, Ying and Li, {YingHao} and Wang, {JieYing} and Zhang, Zhe and Zhao, {YuZhen} and Miao, {ZongCheng}"
+urldate: "2026-06-24"
+date: "2026-04-15"
+langid: "english"
+---

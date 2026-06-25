@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "kattnigElectronSpinRelaxation2016"
+title: "Electron spin relaxation can enhance the performance of a cryptochrome-based magnetic compass sensor"
+volume: "18"
+issn: "1367-2630"
+url: "https://iopscience.iop.org/article/10.1088/1367-2630/18/6/063007"
+doi: "10.1088/1367-2630/18/6/063007"
+pages: "063007"
+number: "6"
+journaltitle: "New Journal of Physics"
+shortjournal: "New J. Phys."
+author: "Kattnig, Daniel R and Sowa, Jakub K and Solov'yov, Ilia A and Hore, P J"
+urldate: "2026-06-24"
+date: "2016-06-08"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\Z9LKG3MI\\Kattnig et al. - 2016 - Electron spin relaxation can enhance the performance of a cryptochrome-based magnetic compass sensor.pdf:application/pdf"
+---

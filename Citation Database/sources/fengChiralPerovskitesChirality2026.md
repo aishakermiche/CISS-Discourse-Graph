@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "fengChiralPerovskitesChirality2026"
+title: "Chiral perovskites: From chirality mechanisms to photovoltaics"
+volume: "9"
+issn: "25902385"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2590238526001219"
+doi: "10.1016/j.matt.2026.102758"
+shorttitle: "Chiral perovskites"
+pages: "102758"
+number: "6"
+journaltitle: "Matter"
+shortjournal: "Matter"
+author: "Feng, Yuyi and Zeng, Yifan and Bi, Xin and Dong, Yuxuan and Wang, Hao and Wang, Yanheng and Zhu, Qingyun and Li, Jianyu and Zhang, Fangci and Wang, Zhongrui and Zhang, Chunhui and Jiang, Chenlei and Nemitz, Clayton A. and Li, Meicheng"
+urldate: "2026-06-24"
+date: "2026-06"
+langid: "english"
+---

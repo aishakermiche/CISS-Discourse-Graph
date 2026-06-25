@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ghoshControllingChemicalSelectivity2019"
+title: "Controlling Chemical Selectivity in Electrocatalysis with Chiral {CuO}-Coated Electrodes"
+volume: "123"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpcc.8b12027"
+doi: "10.1021/acs.jpcc.8b12027"
+pages: "3024--3031"
+number: "5"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Ghosh, K. B. and Zhang, Wenyan and Tassinari, F. and Mastai, Y. and Lidor-Shalev, O. and Naaman, R. and Möllers, P. and Nürenberg, D. and Zacharias, H. and Wei, J. and Wierzbinski, E. and Waldeck, D. H."
+urldate: "2026-06-25"
+date: "2019-02-07"
+langid: "english"
+---

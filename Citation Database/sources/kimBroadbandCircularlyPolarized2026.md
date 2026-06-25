@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kimBroadbandCircularlyPolarized2026"
+title: "Broadband Circularly Polarized Light Detection via Spin‐Selective Charge Transport in Quantum Dot Photodiodes"
+volume: "38"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202519146"
+doi: "10.1002/adma.202519146"
+abstract: "{ABSTRACT} Circularly polarized light ({CPL}) detection provides polarization‐resolved information, enabling advanced applications in quantum technologies, bioimaging, secure communications, and multi‐level optical data processing. However, conventional {CPL} photodetectors typically rely on intrinsically chiral absorbers, restricting operation to the {UV}–vis range and hindering extension into the near‐infrared ({NIR}) and shortwave infrared ({SWIR}), which are critical for deep tissue imaging and low‐visibility sensing. Here, we demonstrate broadband {CPL} detection with quantum dot ({QD}) photodiodes that exploit the chiral‐induced spin selectivity effect in chiral‐{ZnO} charge transport layers. Chiral ligand‐functionalized {ZnO} electron transport layers selectively transmit spin‐polarized charge carriers from {QDs}, enabling {CPL}‐specific photocurrent generation even in spectral regions without intrinsic chiral absorption. Heavy‐metal‐free Cu–In–Se {QD}‐photodiodes exhibit outstanding specific detectivity ( D * ) of 1.28 × 10 12 Jones without external bias and broadband {CPL} detection ( g Iph : ∼0.17 at 260 nm and ∼0.13 at 780 nm), while {PbS} {QD}‐devices extend {CPL} detection across 250–1700 nm ({UV}–Vis–{NIR}–{SWIR}) with superior performance ( D * : 1.45 × 10 12 Jones). The chiral‐transport‐driven strategy offers fundamental insights into {CPL} photodetection and establishes a scalable and optically passive platform for broadband polarization‐resolved optoelectronics."
+pages: "e19146"
+number: "14"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Kim, Minseo and Li, Shi and Lee, Kyunghoon and Ahn, Eonhyoung and Lee, Soyeon and Kim, Kiwook and Kim, Hang and Yu, Wookyung and Choi, Changsoon and Lim, Jung Ah and Hwang, Jeeseong and Kim, Dae‐Hyeong and Yang, Jiwoong"
+urldate: "2026-06-24"
+date: "2026-03"
+langid: "english"
+---

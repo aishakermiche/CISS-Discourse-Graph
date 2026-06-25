@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jimenezChemistryChiralityComplexity2025"
+title: "Chemistry, Chirality, and Complexity as Concepts in Single-Walled Carbon Nanotube Research"
+volume: "8"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "2574-0970, 2574-0970"
+url: "https://pubs.acs.org/doi/10.1021/acsanm.5c02709"
+doi: "10.1021/acsanm.5c02709"
+pages: "19085--19107"
+number: "40"
+journaltitle: "{ACS} Applied Nano Materials"
+shortjournal: "{ACS} Appl. Nano Mater."
+author: "Jiménez, David M. and Isasti, Ion and López-Moreno, Alejandro and Pérez, Emilio M."
+urldate: "2026-06-24"
+date: "2025-10-10"
+langid: "english"
+---

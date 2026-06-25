@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zollnerInsightOriginChiralInduced2020a"
+title: "Insight into the Origin of Chiral-Induced Spin Selectivity from a Symmetry Analysis of Electronic Transmission"
+volume: "16"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1549-9618, 1549-9626"
+url: "https://pubs.acs.org/doi/10.1021/acs.jctc.9b01078"
+doi: "10.1021/acs.jctc.9b01078"
+pages: "2914--2929"
+number: "5"
+journaltitle: "Journal of Chemical Theory and Computation"
+shortjournal: "J. Chem. Theory Comput."
+author: "Zöllner, Martin Sebastian and Varela, Solmar and Medina, Ernesto and Mujica, Vladimiro and Herrmann, Carmen"
+urldate: "2026-06-25"
+date: "2020-05-12"
+langid: "english"
+---

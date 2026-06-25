@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "starikovaEffectRadicalGroups2025"
+title: "Effect of radical groups on the magnetic properties of [7]helicene derivatives: a {DFT} computational study"
+volume: "36"
+issn: "1040-0400, 1572-9001"
+url: "https://link.springer.com/10.1007/s11224-024-02398-y"
+doi: "10.1007/s11224-024-02398-y"
+shorttitle: "Effect of radical groups on the magnetic properties of [7]helicene derivatives"
+pages: "609--619"
+number: "2"
+journaltitle: "Structural Chemistry"
+shortjournal: "Struct Chem"
+author: "Starikova, Alyona A. and Chegerev, Maxim G. and Starikov, Andrey G."
+urldate: "2026-06-24"
+date: "2025-04"
+langid: "english"
+---

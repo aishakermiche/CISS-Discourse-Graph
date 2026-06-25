@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "panMagneticfieldManipulationCircularly2022"
+title: "Magnetic-field manipulation of circularly polarized photoluminescence in chiral perovskites"
+volume: "9"
+issn: "2051-6347, 2051-6355"
+url: "https://xlink.rsc.org/?DOI=D1MH01154E"
+doi: "10.1039/D1MH01154E"
+abstract: "A joint experimental and theoretical study is performed for the magnetic field manipulation of circularly polarized photoluminescence in chiral perovskites, in order to reveal the chirality-induced spin–orbit coupling. , The introduction of chiral organic ligands into hybrid organic–inorganic perovskites ({HOIPs}) results in chiral perovskites, which exhibit natural optical activities ({NOAs}) such as circularly polarized luminescence ({CPL}). {CPL} can be observed in achiral {HOIPs} under a magnetic field as well. Here, we systematically study the temperature- and magnetic field-dependence of both circular polarization and total intensity in chiral {HOIPs}. Pronounced {CPL} polarization is observed in polycrystalline films of chiral {HOIPs}, which can be further tuned by an applied magnetic field. The magnetic field also modifies the total intensity of {CPL}, giving rise to magneto-{PL} in chiral {HOIPs}, which is observable even at room temperature. The observed field and temperature-dependence of polarization can be well accounted for by a recently developed theory of chiral {HOIPs}, where the materials’ helicity gives rise to a novel spin–orbit coupling ({SOC}). The observed {MPL} can be quantitatively accounted for by the interplay of exciton fine structures and the magnetic field. Our study suggests that the magnetic field provides an effective means to manipulate both the polarization and intensity of {CPL} in chiral {HOIPs}, which can be exploited for novel device applications."
+pages: "740--747"
+number: "2"
+journaltitle: "Materials Horizons"
+shortjournal: "Mater. Horiz."
+author: "Pan, Ruiheng and Wang, Kai and Yu, Zhi-Gang"
+urldate: "2026-06-24"
+date: "2022"
+langid: "english"
+---

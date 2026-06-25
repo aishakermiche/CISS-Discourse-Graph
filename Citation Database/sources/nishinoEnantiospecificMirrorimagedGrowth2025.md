@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "nishinoEnantiospecificMirrorimagedGrowth2025"
+title: "Enantiospecific mirror-imaged growth in overlayers of enantiopure thiadiazole-[9]helicene on Au(111) without commensurability"
+volume: "18"
+issn: "1882-0778, 1882-0786"
+url: "https://iopscience.iop.org/article/10.35848/1882-0786/ada688"
+doi: "10.35848/1882-0786/ada688"
+abstract: "Abstract Two-dimensional (2D) crystallization of chiral molecules on achiral crystal surfaces typically exhibits mirror-imaged growth, defined by the substrate’s mirror plane and the lattices of each enantiomer. While various commensurate molecular overlayers have shown such growth, the possibility of achieving substrate-defined enantiospecific structures in non-commensurate chiral molecular overlayers remains elusive. Here, enantiopure thiadiazole-[9]helicene on Au(111) is shown to form overlayers without commensurability, exhibiting substrate-defined mirror-imaged growth. This study experimentally demonstrates that rotational orientation locking without 2D interface potential minima can support mirror-imaged growth, suggesting that it can serve as a benchmark for enantiospecific growth in a broader range of chiral molecular systems."
+pages: "015502"
+number: "1"
+journaltitle: "Applied Physics Express"
+shortjournal: "Appl. Phys. Express"
+author: "Nishino, Fumi and Fukutani, Keisuke and Brandhoff, Jonas and Gruenewald, Marco and Fuerch, Elise and Schaal, Maximilian and Otto, Felix and Stelter, Daniel and Forker, Roman and Zhang, Zheng and Hirose, Takashi and Fritz, Torsten and Kera, Satoshi"
+urldate: "2026-06-24"
+date: "2025-01-01"
+file: "IOP Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\DZBBAF6L\\Nishino et al. - 2025 - Enantiospecific mirror-imaged growth in overlayers of enantiopure thiadiazole-[9]helicene on Au(111).pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bianPhaseSpaceViewVibrational2025"
+title: "A Phase-Space View of Vibrational Energies without the Born–Oppenheimer Framework"
+volume: "21"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1549-9618, 1549-9626"
+url: "https://pubs.acs.org/doi/10.1021/acs.jctc.4c01294"
+doi: "10.1021/acs.jctc.4c01294"
+pages: "2880--2893"
+number: "6"
+journaltitle: "Journal of Chemical Theory and Computation"
+shortjournal: "J. Chem. Theory Comput."
+author: "Bian, Xuezhi and Khan, Cameron and Duston, Titouan and Rawlinson, Jonathan and Littlejohn, Robert G. and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2025-03-25"
+langid: "english"
+---

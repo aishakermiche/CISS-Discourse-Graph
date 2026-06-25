@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "eduardusChiralPtMeBPCHSynthesis2026"
+title: "Chiral Pt(Me-{BPCH}): synthesis and theoretical investigation of parity violation sensitivity"
+issn: "0026-8976, 1362-3028"
+url: "https://www.tandfonline.com/doi/full/10.1080/00268976.2026.2651410"
+doi: "10.1080/00268976.2026.2651410"
+shorttitle: "Chiral Pt(Me-{BPCH})"
+pages: "2651410"
+journaltitle: "Molecular Physics"
+shortjournal: "Molecular Physics"
+author: "{Eduardus} and Van Boven, Wietze J. and Silva, Charles and Karageorghis, Philip J. and Bohle, D. Scott and Darquié, Benoît and Borschevsky, Anastasia and Pašteka, Lukáš F."
+urldate: "2026-06-24"
+date: "2026-04-06"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\9DZNZEZ4\\Eduardus et al. - 2026 - Chiral Pt(Me-BPCH) synthesis and theoretical investigation of parity violation sensitivity.pdf:application/pdf"
+---

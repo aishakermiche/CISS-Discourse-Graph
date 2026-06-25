@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "qinChiralityinducedSpinSelectivity2025"
+title: "Chirality-induced spin selectivity of graphene chiral superstructures and their true/false chirality of electron motion"
+volume: "18"
+issn: "1998-0124, 1998-0000"
+url: "https://www.sciopen.com/article/10.26599/NR.2025.94907961"
+doi: "10.26599/NR.2025.94907961"
+pages: "94907961"
+number: "10"
+journaltitle: "Nano Research"
+author: "Qin, Xueying and Sun, Yi and Guo, Yamei and Li, Xiaopeng and Liu, Ji and Zhang, Zhuwei and Ma, Xiangyun and Li, Qifeng and Shen, Yongtao"
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\AESE3746\\Qin et al. - 2025 - Chirality-induced spin selectivity of graphene chiral superstructures and their truefalse chirality.pdf:application/pdf"
+---

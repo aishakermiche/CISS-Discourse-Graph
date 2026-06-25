@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "abendrothSpinDependentIonizationChiral2019"
+title: "Spin-Dependent Ionization of Chiral Molecular Films"
+volume: "141"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.8b08421"
+doi: "10.1021/jacs.8b08421"
+pages: "3863--3874"
+number: "9"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Abendroth, John M. and Cheung, Kevin M. and Stemer, Dominik M. and El Hadri, Mohammed S. and Zhao, Chuanzhen and Fullerton, Eric E. and Weiss, Paul S."
+urldate: "2026-06-24"
+date: "2019-03-06"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "kattnigElectronParamagneticResonance2009"
+title: "Electron Paramagnetic Resonance Spectroscopy of Bis(triarylamine) Paracyclophanes as Model Compounds for the Intermolecular Charge-Transfer in Solid State Materials for Optoelectronic Applications"
+volume: "113"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/jp8107705"
+doi: "10.1021/jp8107705"
+pages: "2983--2995"
+number: "7"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Kattnig, Daniel R. and Mladenova, Boryana and Grampp, Günter and Kaiser, Conrad and Heckmann, Alexander and Lambert, Christoph"
+urldate: "2026-06-24"
+date: "2009-02-19"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhaoMagnetochiralChargePumping2025a"
+title: "Magnetochiral charge pumping due to charge trapping and skin effect in chirality-induced spin selectivity"
+volume: "16"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-024-55433-1"
+doi: "10.1038/s41467-024-55433-1"
+pages: "37"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Zhao, Yufei and Zhang, Kai and Xiao, Jiewen and Sun, Kai and Yan, Binghai"
+urldate: "2026-06-24"
+date: "2025-01-02"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\C6UKDLZ3\\Zhao et al. - 2025 - Magnetochiral charge pumping due to charge trapping and skin effect in chirality-induced spin select.pdf:application/pdf"
+---

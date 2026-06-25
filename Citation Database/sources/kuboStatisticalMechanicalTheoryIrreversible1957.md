@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "kuboStatisticalMechanicalTheoryIrreversible1957"
+title: "Statistical-Mechanical Theory of Irreversible Processes. I. General Theory and Simple Applications to Magnetic and Conduction Problems"
+volume: "12"
+issn: "0031-9015, 1347-4073"
+url: "https://journals.jps.jp/doi/10.1143/JPSJ.12.570"
+doi: "10.1143/JPSJ.12.570"
+pages: "570--586"
+number: "6"
+journaltitle: "Journal of the Physical Society of Japan"
+shortjournal: "J. Phys. Soc. Jpn."
+author: "Kubo, Ryogo"
+urldate: "2026-06-25"
+date: "1957-06"
+langid: "english"
+---

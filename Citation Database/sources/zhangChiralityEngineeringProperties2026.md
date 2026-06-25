@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "zhangChiralityEngineeringProperties2026"
+title: "Chirality Engineering and Properties in Two‐Dimensional Layered Materials"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.73856"
+doi: "10.1002/smll.73856"
+abstract: "{ABSTRACT} Chirality engineering offers a plethora of fascinating properties and ushers in compelling applications in spintronics, chiroptics, superconductivity, catalysis, etc. Atomically thin two‐dimensional (2D) layered materials have extraordinarily inherent optical, electronic, and quantum properties, accompanied by highly tunable van der Waals heterostructures, making them ideal platforms to engineer chirality. Although the deliberate incorporation of chiral molecules into local coordination environments has imparted remarkably tailored chiroptical and spintronic responses in synthetic systems, such as organic frameworks and hybrid organic‐inorganic perovskites, translating such chiral control into the well‐explored 2D layered materials (e.g., graphene and transition metal dichalcogenides) faces substantial hurdles, including precise nanostructure fabrication, molecular assembly, subtle chiral coupling, and reliable electronic and optical characterization. This review systematically outlines up‐to‐date feasible strategies for chiral engineering in 2D layered materials to leverage their functional landscape and unlock the emergent chiral properties. It begins with intrinsic and extrinsic engineering approaches, highlighting the underlying design principles and the resulting novel physical and chemical behaviors. We further discuss potential extensions of these chirality‐engineering approaches and explore future promising opportunities that harness rationally tailored chiral functionalities in 2D systems for next‐generation optoelectronics, spintronics, and quantum information science."
+pages: "e73856"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Zhang, Junwei and Zhong, Zhengbo and Mi, Yuhao and Xu, Zihe and Ren, Tianhui and Li, Zhipeng"
+urldate: "2026-06-24"
+date: "2026-05-30"
+langid: "english"
+---

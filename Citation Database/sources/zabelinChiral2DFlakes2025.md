@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "zabelinChiral2DFlakes2025"
+title: "Chiral 2D flakes with single atoms inclusion for spin-controlled oxygen evolution"
+volume: "641"
+issn: "03787753"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0378775325006755"
+doi: "10.1016/j.jpowsour.2025.236839"
+pages: "236839"
+journaltitle: "Journal of Power Sources"
+shortjournal: "Journal of Power Sources"
+author: "Zabelin, Denis and Tulupova, Anastasiia and Švec, Peter and Michalcova, Alena and Burtsev, Vasilii and Urbanova, Marie and Hönicke, Philipp and Buravets, Vladislav and Hrbek, Tomas and Skvortsova, Anastasiia and Zabelina, Anna and Svorcik, Vaclav and Michna, Stefan and Vejpravova, Jana and Lyutakov, Oleksiy"
+urldate: "2026-06-24"
+date: "2025-06"
+langid: "english"
+---

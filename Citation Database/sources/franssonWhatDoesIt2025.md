@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "franssonWhatDoesIt2025"
+title: "What Does It Take for an Organic Closed Shell Molecule to Become Magnetic?"
+volume: "16"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c03056"
+doi: "10.1021/acs.jpclett.5c03056"
+pages: "12202--12208"
+number: "47"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Fransson, Jonas"
+urldate: "2026-06-24"
+date: "2025-11-27"
+langid: "english"
+---

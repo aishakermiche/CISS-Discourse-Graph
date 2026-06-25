@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mollersSpinPolarizedPhotoemissionChiral2022"
+title: "Spin-Polarized Photoemission from Chiral {CuO} Catalyst Thin Films"
+volume: "16"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.2c02709"
+doi: "10.1021/acsnano.2c02709"
+pages: "12145--12155"
+number: "8"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Möllers, Paul V. and Wei, Jimeng and Salamon, Soma and Bartsch, Manfred and Wende, Heiko and Waldeck, David H. and Zacharias, Helmut"
+urldate: "2026-06-25"
+date: "2022-08-23"
+langid: "english"
+---

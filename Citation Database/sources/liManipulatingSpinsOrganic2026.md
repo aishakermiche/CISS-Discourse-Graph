@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liManipulatingSpinsOrganic2026"
+title: "Manipulating spins in organic and chiral systems: From injection and transport to photon control"
+volume: "13"
+issn: "1931-9401"
+url: "https://pubs.aip.org/apr/article/13/1/011308/3377206/Manipulating-spins-in-organic-and-chiral-systems"
+doi: "10.1063/5.0303800"
+shorttitle: "Manipulating spins in organic and chiral systems"
+abstract: "Organic opto-spintronics has been receiving increasing attention due to the fascinating and diverse electrical, magnetic, and optical phenomena. The inherently weak spin–orbit coupling ({SOC}) in organic materials makes them ideal candidates for spin transport. However, the strong electron–phonon (e-p) coupling and hyperfine interactions would decrease the carrier mobility. In addition, complex phenomena such as singlet-triplet conversion, carrier recombination, and the existence of impurities and defects contribute to complex spin relaxation mechanisms. This review provides an overview of spin injection and transport processes in organic materials, with an emphasis on their spin-dependent optical responses. Common methods of light-controlled spin manipulation are reviewed, along with the interaction between photons and spins. Ultrafast optical techniques for spin control are also briefly discussed. This work aims to deepen our understanding of photon-spin coupling in organic systems and provide insights that may contribute to the advancement of organic opto-spintronics."
+pages: "011308"
+number: "1"
+journaltitle: "Applied Physics Reviews"
+author: "Li, Shilin and Qin, Wei"
+urldate: "2026-06-24"
+date: "2026-03-01"
+langid: "english"
+---

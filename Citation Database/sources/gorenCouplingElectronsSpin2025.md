@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gorenCouplingElectronsSpin2025"
+title: "Coupling between electrons’ spin and proton transfer in chiral biological crystals"
+volume: "122"
+issn: "0027-8424, 1091-6490"
+url: "https://pnas.org/doi/10.1073/pnas.2500584122"
+doi: "10.1073/pnas.2500584122"
+abstract: "Proton transport plays a fundamental role in many biological and chemical systems. In life, proton transport is crucial for biochemical and physiological functions. It is usually accepted that the main mechanism of proton transfer is a result of hopping between neighboring water molecules and amino acid side chains. It was recently suggested that the proton transfer can be simultaneously coupled with electron transfer. As life is homochiral, proton transfer in biology is occurring in a chiral environment. In this environment, the chiral-induced spin selectivity effect relating to electron transfer and chirality is expected to occur. The present work establishes that the proton transfer is coupled to a specific electron spin polarization in lysozyme crystals, associating proton transfer to electron movement and polarization. To preserve total angular momentum, this motion may be coupled to chiral phonons that propagate in the crystal. Our work shows that the interaction of the electrons’ spin and phonons is very significant in proton transfer through lysosome crystals. Injecting the opposite electron spin into the lysosome crystal results in a significant change in proton transfer impedance. This study presents the support for the proton-coupled electron transfer mechanism and indicates the importance of spin polarization in the process."
+pages: "e2500584122"
+number: "19"
+journaltitle: "Proceedings of the National Academy of Sciences"
+shortjournal: "Proc. Natl. Acad. Sci. U.S.A."
+author: "Goren, Naama and Pandurangan, Perumal and Eisenberg-Domovich, Yael and Yochelis, Shira and Keren, Nir and Ansermet, Jean-Philippe and Naaman, Ron and Livnah, Oded and Ashkenasy, Nurit and Paltiel, Yossi"
+urldate: "2026-06-24"
+date: "2025-05-13"
+langid: "english"
+---

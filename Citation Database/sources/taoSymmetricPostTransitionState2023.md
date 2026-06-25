@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "taoSymmetricPostTransitionState2023"
+title: "Symmetric Post-Transition State Bifurcation Reactions with Berry Pseudomagnetic Fields"
+volume: "14"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.2c02668"
+doi: "10.1021/acs.jpclett.2c02668"
+pages: "770--778"
+number: "3"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Tao, Zhen and Qiu, Tian and Subotnik, Joseph E."
+urldate: "2026-06-25"
+date: "2023-01-26"
+langid: "english"
+---

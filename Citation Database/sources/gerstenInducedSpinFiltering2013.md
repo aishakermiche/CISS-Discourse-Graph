@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gerstenInducedSpinFiltering2013"
+title: "Induced spin filtering in electron transmission through chiral molecular layers adsorbed on metals with strong spin-orbit coupling"
+volume: "139"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/139/11/114111/192730/Induced-spin-filtering-in-electron-transmission"
+doi: "10.1063/1.4820907"
+abstract: "Recent observations of considerable spin polarization in photoemission from metal surfaces through monolayers of chiral molecules were followed by several efforts to rationalize the results as the effect of spin-orbit interaction that accompanies electronic motion on helical, or more generally strongly curved, potential surfaces. In this paper we (a) argue, using simple models, that motion in curved force-fields with the typical energies used and the characteristic geometry of {DNA} cannot account for such observations; (b) introduce the concept of induced spin filtering, whereupon selectivity in the transmission of the electron orbital angular momentum can induce spin selectivity in the transmission process provided there is strong spin-orbit coupling in the substrate; and (c) show that the spin polarization in the tunneling current as well as the photoemission current from gold covered by helical adsorbates can be of the observed order of magnitude. Our results can account for most of the published observations that involved gold and silver substrates; however, recent results obtained with an aluminum substrate can be rationalized within the present model only if strong spin-orbit coupling is caused by the built-in electric field at the molecule-metal interface."
+pages: "114111"
+number: "11"
+journaltitle: "The Journal of Chemical Physics"
+author: "Gersten, Joel and Kaasbjerg, Kristen and Nitzan, Abraham"
+urldate: "2026-06-24"
+date: "2013-09-21"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\84T5ZQQS\\Gersten et al. - 2013 - Induced spin filtering in electron transmission through chiral molecular layers adsorbed on metals w.pdf:application/pdf"
+---

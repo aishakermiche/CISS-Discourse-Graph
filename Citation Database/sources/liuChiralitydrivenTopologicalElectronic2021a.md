@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liuChiralitydrivenTopologicalElectronic2021a"
+title: "Chirality-driven topological electronic structure of {DNA}-like materials"
+volume: "20"
+issn: "1476-1122, 1476-4660"
+url: "https://www.nature.com/articles/s41563-021-00924-5"
+doi: "10.1038/s41563-021-00924-5"
+pages: "638--644"
+number: "5"
+journaltitle: "Nature Materials"
+shortjournal: "Nat. Mater."
+author: "Liu, Yizhou and Xiao, Jiewen and Koo, Jahyun and Yan, Binghai"
+urldate: "2026-06-25"
+date: "2021-05"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\QKXDVKU7\\Liu et al. - 2021 - Chirality-driven topological electronic structure of DNA-like materials.pdf:application/pdf"
+---

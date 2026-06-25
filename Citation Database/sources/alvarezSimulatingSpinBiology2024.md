@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "alvarezSimulatingSpinBiology2024"
+title: "Simulating spin biology using a digital quantum computer: Prospects on a near-term quantum hardware emulator"
+volume: "1"
+issn: "2835-0103"
+url: "https://pubs.aip.org/apq/article/1/3/036114/3308361/Simulating-spin-biology-using-a-digital-quantum"
+doi: "10.1063/5.0213120"
+shorttitle: "Simulating spin biology using a digital quantum computer"
+abstract: "Understanding the intricate quantum spin dynamics of radical pair reactions is crucial for unraveling the underlying nature of chemical processes across diverse scientific domains. In this work, we leverage Trotterization to map coherent radical pair spin dynamics onto a digital gate-based quantum simulation. Our results demonstrated an agreement between the idealized noiseless quantum circuit simulations and established master equation approaches for homogeneous radical pair recombination, identifying ∼15 Trotter steps to be sufficient for faithfully reproducing the coupled spin dynamics of a prototypical system. By utilizing this computational technique to study the dynamics of spin systems of biological relevance, our findings underscore the potential of digital quantum simulation ({DQS}) of complex radical pair reactions and builds the groundwork toward more utilitarian investigations into their intricate reaction dynamics. We further investigate the effect of realistic error models on our {DQS} approach and provide an upper limit for the number of Trotter steps that can currently be applied in the absence of error mitigation techniques before losing simulation accuracy to deleterious noise effects."
+pages: "036114"
+number: "3"
+journaltitle: "{APL} Quantum"
+author: "Alvarez, Pedro H. and Chowdhury, Farhan T. and Smith, Luke D. and Brokowski, Trevor J. and Aiello, Clarice D. and Kattnig, Daniel R. and De Oliveira, Marcos C."
+urldate: "2026-06-24"
+date: "2024-09-01"
+langid: "english"
+---

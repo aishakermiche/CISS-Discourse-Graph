@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "huangProximityinducedChiralityAchiral2025"
+title: "Proximity-induced chirality at the achiral conductive interface by electrical control of enantiopure ion adsorption"
+volume: "11"
+issn: "2375-2548"
+url: "https://www.science.org/doi/10.1126/sciadv.adx2281"
+doi: "10.1126/sciadv.adx2281"
+abstract: "Chirality manipulation of materials has attracted substantial interest in a wide variety of fields in science and technology. Chiral molecular adsorption is a distinct approach for inducing chirality in achiral systems such as organic-inorganic hybrid compounds and nanomaterials. With the proximity effect of adsorbed chiral molecules on inorganic systems in mind, we demonstrate the artificial introduction of chirality to an achiral molybdenum disulfide surface by controlling the adsorption of enantiopure molecular cations via an electric double-layer transistor with chiral ionic liquids. In the electric field–induced conductive interface of molybdenum disulfide, the generation of chirality was confirmed by observing chirality-induced spin selectivity and electrical magnetochiral effect, which are different types of chirality-dependent charge-transport phenomena. The proximity-induced chirality realized in this study via ion-controlled electronics has the potential to advance an emergent academic field called “chiral iontronics” and expand the development of electrically controllable chirality-induced functionalities beyond this work. , Chiral conductive organic-inorganic hybrid interface is electrically achieved by ion-gating method."
+pages: "eadx2281"
+number: "47"
+journaltitle: "Science Advances"
+shortjournal: "Sci. Adv."
+author: "Huang, Po-Jung and Ando, Yoshio and Tanaka, Miuko and Nishio, Yukito and Ideue, Toshiya and Taniguchi, Kouji"
+urldate: "2026-06-24"
+date: "2025-11-21"
+langid: "english"
+---

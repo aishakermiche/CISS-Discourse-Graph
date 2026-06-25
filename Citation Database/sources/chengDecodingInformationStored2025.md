@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "chengDecodingInformationStored2025"
+title: "Decoding information stored in {DNAs} through single-molecule electrical detection platforms"
+volume: "6"
+issn: "26666758"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2666675825002036"
+doi: "10.1016/j.xinn.2025.101000"
+pages: "101000"
+number: "10"
+journaltitle: "The Innovation"
+shortjournal: "The Innovation"
+author: "Cheng, Li and Cai, Heyilang and Zhan, Qian and Jiang, Yu and Li, Mingliang and Jia, Chuancheng and Guo, Xuefeng"
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "guoTimeDependentExtensionGrimmes2024"
+title: "Time‐Dependent Extension of Grimme's Continuous Chirality Measure for Electronic Chirality Flips in Femto‐ and Attosecond Time Domains"
+volume: "25"
+issn: "1439-4235, 1439-7641"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cphc.202400132"
+doi: "10.1002/cphc.202400132"
+abstract: "Abstract Grimme's Continuous Chirality Measure ( ) was developed for comparisons of the chirality of the electronic wave functions of molecules, typically in their ground states. For example, , and for alanine, hydrogen‐peroxide, and for achiral molecules, respectively. Well‐designed laser pulses can excite achiral molecules from the electronic ground state to time‐dependent chiral superposition states, with chirality flips in the femto‐ or even attosecond (fs or as) time domains. Here we provide a time‐dependent extension of Grimme's for trailing the electronic chirality flips. As examples, we consider two laser driven electronic wavefunctions which represent flips between opposite electronic enantiomers of oriented {NaK} within and . The corresponding vary respectively from or from to , and back."
+pages: "e202400132"
+number: "18"
+journaltitle: "{ChemPhysChem}"
+shortjournal: "{ChemPhysChem}"
+author: "Guo, Yanrong and Haase, Dietrich and Manz, Jörn and Wang, Huihui and Yang, Yonggang"
+urldate: "2026-06-24"
+date: "2024-09-16"
+langid: "english"
+---

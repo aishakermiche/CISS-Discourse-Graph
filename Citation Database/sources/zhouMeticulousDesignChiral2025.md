@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhouMeticulousDesignChiral2025"
+title: "Meticulous Design of Chiral Molecules in Efficient and Stable Perovskite Solar Cells"
+volume: "35"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202502139"
+doi: "10.1002/adfm.202502139"
+abstract: "Abstract Perovskite solar cells ({PSCs}) have rapidly become one of the most promising energy conversion technologies in the photovoltaic field due to their high‐power conversion efficiency ({PCE}) and cost‐effective preparation methods. Nevertheless, device stability and further efficiency improvement remain the main obstacles to the commercialization of {PSCs}. Chiral molecules, with their unique optical and electronic properties and asymmetric structures, provide innovative solutions to these challenges. This review systematically explores the applications of chiral molecules in {PSCs}, focusing on their roles in improving optoelectronic properties, facilitating spin‐selective charge transport, optimizing interfacial properties, and serving as functional additives. These applications demonstrate the significant potential of chiral molecules in improving the performance and stability of {PSCs}. However, the practical application of chiral molecules still faces some problems, including the complexity of their synthesis and screening and compatibility with large‐scale production processes. This review deeply analyzes these key challenges and proposes possible solutions. By integrating existing research results and clarifying future research directions, this work aims to deepen the understanding of the role of chiral molecules in promoting the development of perovskite photovoltaic technology and expand its application range."
+pages: "2502139"
+number: "38"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Zhou, Qian and Chen, Jiangzhao"
+urldate: "2026-06-24"
+date: "2025-09"
+langid: "english"
+---

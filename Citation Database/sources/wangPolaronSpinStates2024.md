@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wangPolaronSpinStates2024"
+title: "Polaron spin states in chiral systems"
+volume: "110"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.110.085430"
+doi: "10.1103/PhysRevB.110.085430"
+pages: "085430"
+number: "8"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Wang, Zi-Wu and Yang, Ran-Bo and Cui, Yu and Li, Wei-Ping and Dong, Xiao-Qi and Li, Zhi-Qing"
+urldate: "2026-06-24"
+date: "2024-08-27"
+langid: "english"
+---

@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "ranaChiralityInducedSpinSelectivity2025"
+title: "Chirality-Induced Spin Selectivity in Two-Dimensional Self-Assembled Molecular Networks"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c12143"
+doi: "10.1021/jacs.5c12143"
+pages: "jacs.5c12143"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Rana, Shammi and Remigio, Massimiliano and Aravindan Geetha, Lekshmi and Strutyński, Karol and Volpi, Martina and John, Sanjay and Baczewski, Lech Tomasz and Paltiel, Yossi and Resel, Roland and Melle-Franco, Manuel and Mali, Kunal S. and Geerts, Yves H. and De Feyter, Steven"
+urldate: "2026-06-24"
+date: "2025-11-04"
+langid: "english"
+---

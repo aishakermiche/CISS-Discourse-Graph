@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "qiuIntegratedPhotonEllipticity2026"
+title: "Integrated Photon Ellipticity Recognition with Chiral Nanomaterials"
+volume: "22"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202512675"
+doi: "10.1002/smll.202512675"
+abstract: "{ABSTRACT} Light's spin angular momentum endows photons with rich polarization degrees of freedom, an extra “knob” of control beyond intensity and wavelength that underpins breakthroughs in imaging, sensing, data storage, and quantum information. Yet reliably measuring the photon polarization information remains challenging. Conventional detectors rely on bulky optical assemblies with multiple polarizers, wave plates, and filters. By contrast, photodetectors built around intrinsically chiral active layers can directly transduce linear, elliptical, and circular polarization states into electrical signals, offering compact, monolithic advantages, while in combination with the potential of flexible and wearable electronics. This review analyzes recent advances in photon ellipticity identification, focusing on circularly polarized light ({CPL}) photodetectors using chiral materials, including organic semiconductors, halide perovskites, and symmetry‐breaking metamaterials. We first outline fundamental operating principles and key performance metrics, then compare material‐specific advantages and limitations for {CPL} detection applications. Looking forward, we highlight transformative opportunities where chiral optoelectronics converges with artificial intelligence ({AI}), enabling accelerated material discovery, neuromorphic polarization processing architectures, and self‐adaptive flexible detection systems. This review outlines a roadmap for advancing high‐performance {CPL} photodetectors integrating sensitivity, robustness, and intelligence for next‐generation quantum and secure communications."
+pages: "e12675"
+number: "11"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Qiu, Jian and Li, Zejian and Ma, Jiabin and Lu, Jun and He, Chenlu"
+urldate: "2026-06-24"
+date: "2026-02"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "heisenbergBerQuantentheoretischeUmdeutung1925"
+title: "�ber quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen."
+volume: "33"
+rights: "http://www.springer.com/tdm"
+issn: "1434-6001, 1434-601X"
+url: "http://link.springer.com/10.1007/BF01328377"
+doi: "10.1007/BF01328377"
+pages: "879--893"
+number: "1"
+journaltitle: "Zeitschrift f�r Physik"
+shortjournal: "Z. Physik"
+author: "Heisenberg, W."
+urldate: "2026-06-24"
+date: "1925-12"
+langid: "german"
+---

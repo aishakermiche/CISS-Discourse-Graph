@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "nalakathChiralInducedSpinSelectivity2026"
+title: "Chiral‐Induced Spin Selectivity Effect in a 1 nm Thin 1,1′‐Binaphthyl‐2,2′‐diyl Hydrogenphosphate Self‐Assembled Monolayer on Nickel Oxide"
+issn: "2198-3844, 2198-3844"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76252"
+doi: "10.1002/advs.76252"
+abstract: "{ABSTRACT} The chiral(ity)‐induced spin selectivity ({CISS}) effect describes the observed correlation between the spin of an electron transferred through a molecule and that molecule's chirality. Primary {CISS} systems are based on self‐assembled monolayers ({SAMs}) of multiple nanometer‐long biomolecules exhibiting thiol‐anchored helical chirality. For transforming the concept to real application, more robust molecule‐substrate systems are required. Phosphonic and phosphoric acid {SAMs} coupled to metal oxides can provide the necessary robustness. In this work, we report on studies employing the aromatic, axially chiral organophosphoric acid derivative 1,1′‐binaphthyl‐2,2′diyl hydrogenphosphate ({BNP}). Grown as a roughly 1 nm thin {SAM} on top of {NiO} x /Ni substrates, the system exhibits a high {CISS}‐magnetoresistance ({CISS}‐{MR}) of 50\%–80\% when measured using magnetic‐conductive atomic force microscopy. For biases above 0.5 V, the magnetoresistance curves could be fitted to a minimal Fowler‐Nordheim ({FN}) tunneling model. From this model, we determined that, depending on the molecules’ handedness, electrons of a certain spin direction face an effective tunneling barrier, which is either 80\% higher or 40\% lower compared to the barrier for electrons of opposite spin direction. Due to their small size, compatibility with oxide materials, and commercial availability, these molecules are excellent candidates for the realization of novel organic spintronic devices."
+pages: "e76252"
+journaltitle: "Advanced Science"
+shortjournal: "Advanced Science"
+author: "Nalakath, Abin Nas and Pfeiffer, Christian and Gupta, Anu and Schölzel, Franziska and Zharnikov, Michael and Salvan, Georgeta and Naaman, Ron and Tornow, Marc and Kirsch, Peer"
+urldate: "2026-06-24"
+date: "2026-06-23"
+langid: "english"
+---

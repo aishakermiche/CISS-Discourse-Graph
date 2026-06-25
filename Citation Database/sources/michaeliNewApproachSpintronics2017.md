@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "michaeliNewApproachSpintronics2017"
+title: "A new approach towards spintronics–spintronics with no magnets"
+volume: "29"
+issn: "0953-8984, 1361-648X"
+url: "https://iopscience.iop.org/article/10.1088/1361-648X/aa54a4"
+doi: "10.1088/1361-648X/aa54a4"
+pages: "103002"
+number: "10"
+journaltitle: "Journal of Physics: Condensed Matter"
+shortjournal: "J. Phys.: Condens. Matter"
+author: "Michaeli, Karen and Varade, Vaibhav and Naaman, Ron and Waldeck, David H"
+urldate: "2026-06-24"
+date: "2017-03-15"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\XASWHZQ8\\Michaeli et al. - 2017 - A new approach towards spintronics–spintronics with no magnets.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "diazThermalDecoherenceDisorder2018"
+title: "Thermal Decoherence and Disorder Effects on Chiral-Induced Spin Selectivity"
+volume: "9"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.8b02196"
+doi: "10.1021/acs.jpclett.8b02196"
+pages: "5753--5758"
+number: "19"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Díaz, Elena and Domínguez-Adame, Francisco and Gutierrez, Rafael and Cuniberti, Gianaurelio and Mujica, Vladimiro"
+urldate: "2026-06-25"
+date: "2018-10-04"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\KFEHGEFD\\Díaz et al. - 2018 - Thermal Decoherence and Disorder Effects on Chiral-Induced Spin Selectivity.pdf:application/pdf"
+---

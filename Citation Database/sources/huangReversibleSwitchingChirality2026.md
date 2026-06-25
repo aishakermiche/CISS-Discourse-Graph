@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "huangReversibleSwitchingChirality2026"
+title: "Reversible On–Off Switching of Chirality via Electrochemical Intercalation Control of Enantiopure Molecular Cations in a Layered van der Waals Material"
+volume: "20"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.6c04758"
+doi: "10.1021/acsnano.6c04758"
+pages: "15641--15651"
+number: "21"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Huang, Po-Jung and Kusunoki, Hiroaki and Nishio-Hamane, Daisuke and Taniguchi, Kouji"
+urldate: "2026-06-24"
+date: "2026-06-02"
+langid: "english"
+---

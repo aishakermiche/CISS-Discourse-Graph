@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "chenExtremelyEfficientAlgorithm2025"
+title: "An extremely efficient algorithm for (2,2) dynamically weighted constrained complete active space calculations"
+volume: "163"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/163/14/144124/3367708/An-extremely-efficient-algorithm-for-2-2"
+doi: "10.1063/5.0293355"
+abstract: "Electron transfer at a metal surface lies at the heart of most electrochemical processes, but the process is very challenging to model accurately with modern computational power. Here, we report an efficient algorithm for performing a dynamically weighted, state-averaged, constrained complete active space self-consistent field calculation with two electrons in two orbitals [{DW}-{SA}-{cCASSCF}(2,2)], an inexpensive algorithm that has the power to generate a balanced pair of charge-transfer-related ground and excited state energy surfaces. Relative to previous approaches, the current algorithm reduces the computing effort substantially, such that the end result has a computational cost comparable to a mean-field level of calculation, for example, a Hartree–Fock calculation. Thus, we anticipate that the method should be applicable for nonadiabatic dynamics in the near future, allowing us to gain computational insights into heterogeneous electron transfer processes."
+pages: "144124"
+number: "14"
+journaltitle: "The Journal of Chemical Physics"
+author: "Chen, Junhan and Wu, Xinchun and Shao, Yihan and Subotnik, Joseph and Qiu, Tian"
+urldate: "2026-06-24"
+date: "2025-10-14"
+langid: "english"
+---

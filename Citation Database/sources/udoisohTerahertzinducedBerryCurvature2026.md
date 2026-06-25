@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "udoisohTerahertzinducedBerryCurvature2026"
+title: "Terahertz-induced Berry curvature control of spin-selective transport in chiral {DNA} molecules"
+volume: "32"
+issn: "1610-2940, 0948-5023"
+url: "https://link.springer.com/10.1007/s00894-026-06637-3"
+doi: "10.1007/s00894-026-06637-3"
+pages: "60"
+number: "3"
+journaltitle: "Journal of Molecular Modeling"
+shortjournal: "J Mol Model"
+author: "Udoisoh, Moses and Olajide, Temitope Esther"
+urldate: "2026-06-24"
+date: "2026-03"
+langid: "english"
+---

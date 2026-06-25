@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wangMorphologicalChiralEngineering2026"
+title: "Morphological Chiral Engineering Strategies of Metal Organic Frameworks Driven for Enhanced Enantioselective Recognition"
+volume: "98"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0003-2700, 1520-6882"
+url: "https://pubs.acs.org/doi/10.1021/acs.analchem.5c07723"
+doi: "10.1021/acs.analchem.5c07723"
+pages: "5666--5676"
+number: "7"
+journaltitle: "Analytical Chemistry"
+shortjournal: "Anal. Chem."
+author: "Wang, Yuewei and Zhang, Jianying and Wang, Zhe and Yang, Xing and Zhao, Hongfang and Li, Hongxia and Wang, Kunjie and Niu, Xiaohui"
+urldate: "2026-06-24"
+date: "2026-02-24"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bianMeaningBerryForce2022"
+title: "On the meaning of Berry force for unrestricted systems treated with mean-field electronic structure"
+volume: "156"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/156/23/234107/2841288/On-the-meaning-of-Berry-force-for-unrestricted"
+doi: "10.1063/5.0093092"
+abstract: "We show that the Berry force as computed by an approximate, mean-field electronic structure can be meaningful if properly interpreted. In particular, for a model Hamiltonian representing a molecular system with an even number of electrons interacting via a two-body (Hubbard) interaction and a spin–orbit coupling, we show that a meaningful nonzero Berry force emerges whenever there is spin unrestriction—even though the Hamiltonian is real-valued and formally the on-diagonal single-surface Berry force must be zero. Moreover, if properly applied, this mean-field Berry force yields roughly the correct asymptotic motion for scattering through an avoided crossing. That being said, within the context of a ground-state calculation, several nuances do arise as far interpreting the Berry force correctly, and as a practical matter, the Berry force diverges near the Coulson–Fischer point (which can lead to numerical instabilities). We do not address magnetic fields here."
+pages: "234107"
+number: "23"
+journaltitle: "The Journal of Chemical Physics"
+author: "Bian, Xuezhi and Qiu, Tian and Chen, Junhan and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2022-06-21"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\NWHHLKPA\\Bian et al. - 2022 - On the meaning of Berry force for unrestricted systems treated with mean-field electronic structure.pdf:application/pdf"
+---

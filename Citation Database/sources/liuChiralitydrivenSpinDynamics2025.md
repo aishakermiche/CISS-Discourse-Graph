@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liuChiralitydrivenSpinDynamics2025"
+title: "Chirality-driven spin dynamics and manipulation in all-inorganic chiral heterostructures"
+volume: "16"
+issn: "2041-1723"
+url: "https://www.nature.com/articles/s41467-025-63187-7"
+doi: "10.1038/s41467-025-63187-7"
+pages: "8382"
+number: "1"
+journaltitle: "Nature Communications"
+shortjournal: "Nat Commun"
+author: "Liu, Hanyu and Ouyang, Min"
+urldate: "2026-06-24"
+date: "2025-09-25"
+langid: "english"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\63EFWCFA\\Liu and Ouyang - 2025 - Chirality-driven spin dynamics and manipulation in all-inorganic chiral heterostructures.pdf:application/pdf"
+---

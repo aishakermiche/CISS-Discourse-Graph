@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "aslamQuantumSensorsBiomedical2023"
+title: "Quantum sensors for biomedical applications"
+volume: "5"
+issn: "2522-5820"
+url: "https://www.nature.com/articles/s42254-023-00558-3"
+doi: "10.1038/s42254-023-00558-3"
+pages: "157--169"
+number: "3"
+journaltitle: "Nature Reviews Physics"
+shortjournal: "Nat Rev Phys"
+author: "Aslam, Nabeel and Zhou, Hengyun and Urbach, Elana K. and Turner, Matthew J. and Walsworth, Ronald L. and Lukin, Mikhail D. and Park, Hongkun"
+urldate: "2026-06-24"
+date: "2023-02-03"
+langid: "english"
+---

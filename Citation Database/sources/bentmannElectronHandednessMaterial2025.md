@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "bentmannElectronHandednessMaterial2025"
+title: "Electron Handedness in a Material"
+volume: "18"
+issn: "1943-2879"
+url: "https://link.aps.org/doi/10.1103/Physics.18.113"
+doi: "10.1103/Physics.18.113"
+pages: "113"
+journaltitle: "Physics"
+shortjournal: "Physics"
+author: "Bentmann, Hendrik"
+urldate: "2026-06-24"
+date: "2025-06-04"
+langid: "english"
+---

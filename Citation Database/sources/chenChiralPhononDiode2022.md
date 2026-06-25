@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenChiralPhononDiode2022"
+title: "Chiral Phonon Diode Effect in Chiral Crystals"
+volume: "22"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.1c04705"
+doi: "10.1021/acs.nanolett.1c04705"
+pages: "1688--1693"
+number: "4"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Chen, Hao and Wu, Weikang and Zhu, Jiaojiao and Yang, Zhengning and Gong, Weikang and Gao, Weibo and Yang, Shengyuan A. and Zhang, Lifa"
+urldate: "2026-06-24"
+date: "2022-02-23"
+langid: "english"
+---

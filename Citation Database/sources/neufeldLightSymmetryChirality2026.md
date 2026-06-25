@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "neufeldLightSymmetryChirality2026"
+title: "Light symmetry, chirality, and their role in nonlinear optics and ultrafast phenomena"
+volume: "18"
+issn: "1943-8206"
+url: "https://opg.optica.org/abstract.cfm?URI=aop-18-1-160"
+doi: "10.1364/AOP.560140"
+abstract: "The analysis of symmetries is extremely useful across all fields of science. In physics, symmetries are used to derive conservation laws and to formulate selection rules for transitions in interacting systems. In the early days of nonlinear optics ({NLO}), symmetries were used to formulate a set of rules for nonlinear photonic processes according to the medium’s symmetries that are reflected in the {NLO} coefficient tensor. While this approach was believed to be complete and closed, the field of symmetries and selection rules in {NLO} has recently reignited as multi-color ultrashort laser pulses with tailored polarization and spatiotemporal structures become standard in {NLO} processes. A more complete theory has been recently emerging, which aims to incorporate all possible dynamical degrees of freedom of light: spin and orbital angular momentum, spatial structure, time-dependent polarizations, temporal envelopes, etc., in addition to the symmetries of the medium. This theoretical development is also accompanied by experimental advances that rely on tailored intense light beams. Such beams can now be generated with ever-increasing complexity, including topologies in real and a variety of synthetic dimensions, carrying poly-chromatic carrier waves, time-dependent varying angular momenta, local-chirality, and more. The nonlinear interaction between light fields with unique symmetries (or asymmetries) and matter is especially appealing, since that holds the key for developing new ultrafast spectroscopies with sub-femtosecond resolution, for exerting exact control over matter, as well as improving our fundamental understanding of how light and matter interact. We here review these recent advances in this expanding field, focusing on the theory, its implications, and seminal experiments. As outlined in the outlook, we aim to establish a comprehensive database of symmetries and selection rules governing nonlinear light–matter interactions within the emerging new formalism and invite the scientific community to contribute to this effort."
+pages: "160"
+number: "1"
+journaltitle: "Advances in Optics and Photonics"
+shortjournal: "Adv. Opt. Photon."
+author: "Neufeld, Ofer and Tzur, Matan Even and Lerner, Gavriel and Kfir, Ofer and Fleischer, Avner and Cohen, Oren"
+urldate: "2026-06-24"
+date: "2026-03-31"
+langid: "english"
+---

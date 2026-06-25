@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "diazSpinDynamicsHelical2018"
+title: "Spin dynamics in helical molecules with nonlinear interactions"
+volume: "20"
+issn: "1367-2630"
+url: "https://iopscience.iop.org/article/10.1088/1367-2630/aabb91"
+doi: "10.1088/1367-2630/aabb91"
+pages: "043055"
+number: "4"
+journaltitle: "New Journal of Physics"
+shortjournal: "New J. Phys."
+author: "Díaz, E and Albares, P and Estévez, P G and Cerveró, J M and Gaul, C and Diez, E and Domínguez-Adame, F"
+urldate: "2026-06-25"
+date: "2018-04-27"
+file: "Full Text:C\:\\Users\\19496\\Zotero\\storage\\CNKW42B5\\Díaz et al. - 2018 - Spin dynamics in helical molecules with nonlinear interactions.pdf:application/pdf"
+---

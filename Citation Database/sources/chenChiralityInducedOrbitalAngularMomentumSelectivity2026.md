@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenChiralityInducedOrbitalAngularMomentumSelectivity2026"
+title: "Chirality-Induced Orbital-Angular-Momentum Selectivity in Electron Transmission and Scattering"
+volume: "22"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1549-9618, 1549-9626"
+url: "https://pubs.acs.org/doi/10.1021/acs.jctc.5c01410"
+doi: "10.1021/acs.jctc.5c01410"
+pages: "20--29"
+number: "1"
+journaltitle: "Journal of Chemical Theory and Computation"
+shortjournal: "J. Chem. Theory Comput."
+author: "Chen, Yun and Hod, Oded and Gersten, Joel and Nitzan, Abraham"
+urldate: "2026-06-24"
+date: "2026-01-13"
+langid: "english"
+---

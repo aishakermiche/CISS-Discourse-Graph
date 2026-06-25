@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "okadaChiralityDependentAnisotropicNonlinear2025"
+title: "Chirality‐Dependent Anisotropic Nonlinear Optical Effect in Low‐Dimensional Hybrid Metal Halides"
+volume: "31"
+issn: "0947-6539, 1521-3765"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202404034"
+doi: "10.1002/chem.202404034"
+abstract: "Abstract Low‐dimensional hybrid metal halides ({LDHMHs}) have emerged as a highly promising class of functional materials for a wide range of optoelectronic applications. Their exceptional structural tunability, facilitated by the hybridization of metal halides with organic compounds, enables the formation of three‐, two‐, one‐, or zero‐dimensional structures. This flexibility in structural design also allows the incorporation of chirality into the crystalline lattice, giving rise to novel {LDHMH} materials that are capable of selectively interacting with the spin angular momentum of electrons and photons. Among the unique optoelectronic properties of {LDHMHs}, the focus of this concept article is their chiroptical nonlinear optical ({NLO}) effect. {LDHMHs} demonstrate a highly effective discrimination and generation of circularly polarized ({CP}) light in the {NLO} regime, particularly in the second harmonic generation ({SHG}) process, referred to as {SHG}‐circular dichroism ({SHG}‐{CD}) and {CP}‐{SHG}. These anisotropic responses are several orders of magnitude larger than linear chiroptical responses, such as {CD} and {CP} luminescence; consequently, {LDHMHs} are expected to be promising candidates for future optical‐information devices and encryption systems. This article introduces recently reported chiral {LDHMH} materials that exhibit excellent {CP}‐dependent anisotropic {SHG} responses."
+pages: "e202404034"
+number: "9"
+journaltitle: "Chemistry – A European Journal"
+shortjournal: "Chemistry A European J"
+author: "Okada, Daichi"
+urldate: "2026-06-24"
+date: "2025-02-12"
+langid: "english"
+---

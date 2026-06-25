@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "royPerspectivesMolecularSpinbased2025"
+title: "Perspectives on molecular spin-based memories"
+volume: "13"
+issn: "2166-532X"
+url: "https://pubs.aip.org/apm/article/13/7/070901/3356066/Perspectives-on-molecular-spin-based-memories"
+doi: "10.1063/5.0274112"
+abstract: "Molecular spin-based memory offers a wide range of basic physical phenomena that can be harnessed for information storage. In this perspective, we provide an overview of the current state and future directions of molecular spin-based memories. We discussed various fundamental physical aspects, including the spin-crossover effect, single molecular magnets, metal–organic frameworks, chiral induced spin selectivity, and molecular qubits in relation to their spin phenomena that are useful for memory applications. We also discussed the strategies to build hybrid spintronic devices by integrating organic molecules between two ferromagnetic electrodes in molecular spin valves. Magnetoresistance, resistive switching, and their coexistence can be used to build logic gates, neuromorphic devices, and memory devices. We described challenges and opportunities associated with integrating these materials into functional memory devices, focusing on key aspects such as interface engineering, spin conservation, and scalability. Finally, we highlighted the potential of molecular spintronics to enable ultrahigh-density, low-power, and non-volatile memory applications."
+pages: "070901"
+number: "7"
+journaltitle: "{APL} Materials"
+author: "Roy, Subir and Riminucci, Alberto"
+urldate: "2026-06-24"
+date: "2025-07-01"
+langid: "english"
+---

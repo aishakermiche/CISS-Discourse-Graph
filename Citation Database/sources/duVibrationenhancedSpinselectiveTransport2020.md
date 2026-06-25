@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "duVibrationenhancedSpinselectiveTransport2020"
+title: "Vibration-enhanced spin-selective transport of electrons in the {DNA} double helix"
+volume: "102"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.102.035431"
+doi: "10.1103/PhysRevB.102.035431"
+pages: "035431"
+number: "3"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Du, Gui-Fang and Fu, Hua-Hua and Wu, Ruqian"
+urldate: "2026-06-25"
+date: "2020-07-22"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\8NR4V27V\\Du et al. - 2020 - Vibration-enhanced spin-selective transport of electrons in the DNA double helix.pdf:application/pdf"
+---

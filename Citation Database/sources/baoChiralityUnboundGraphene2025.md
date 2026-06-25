@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "baoChiralityUnboundGraphene2025"
+title: "Chirality Unbound in Graphene Nanoribbons"
+volume: "137"
+issn: "0044-8249, 1521-3757"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/ange.202508426"
+doi: "10.1002/ange.202508426"
+abstract: "Abstract In this manuscript, we report the first demonstration of controlled helicity in extended graphene nanoribbons ({GNRs}). We present a wealth of new graphene nanoribbons that are a direct consequence of the high‐yielding and robust synthetic method revealed in this study. We created a series of defect‐free, ultralong, chiral cove‐edged graphene nanoribbons where helical twisting of the graphene nanoribbon backbone is tuned through functionalization with chiral side chains. S ‐configured point chiral centers in the side chains transfer their chiral information to induce a helically chiral, right‐handed twist in the graphene nanoribbon. As the backbone is extended, these helically twisted graphene nanoribbons exhibit a substantial increase in their circular dichroic response. The longest variant synthesized consists of an average of 268 linearly fused rings, reaching 65 nm in average length with nearly 10 full end‐to‐end helical rotations. The structure exhibits an extraordinary {\textbar}Δ ε {\textbar} value of 6780 M −1 cm −1 at 550 nm—the highest recorded for an organic molecule in the visible wavelength range. This new chiroptic material acts as room‐temperature spin filters in thin films due to its chirality‐induced spin selectivity."
+pages: "e202508426"
+number: "34"
+journaltitle: "Angewandte Chemie"
+shortjournal: "Angewandte Chemie"
+author: "Bao, Si Tong and Hong, Yongseok and Jiang, Haoyu and Lackovic, Luke T. and Louie, Shayan and Xu, Ding and Ng, Fay and Olsen, Nicholas and Zhu, Xiaoyang and Steigerwald, Michael L. and Delor, Milan and Nuckolls, Colin and Jiang, Qifeng"
+urldate: "2026-06-24"
+date: "2025-08-18"
+langid: "english"
+---

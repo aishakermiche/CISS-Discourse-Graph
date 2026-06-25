@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "leeMappingNanomagneticFields2011"
+title: "Mapping Nanomagnetic Fields Using a Radical Pair Reaction"
+volume: "11"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/nl202950h"
+doi: "10.1021/nl202950h"
+pages: "5367--5372"
+number: "12"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Lee, Hohjai and Yang, Nan and Cohen, Adam E."
+urldate: "2026-06-24"
+date: "2011-12-14"
+langid: "english"
+---

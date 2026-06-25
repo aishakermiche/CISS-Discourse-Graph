@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "naamanChiralInducedSpin2020"
+title: "Chiral Induced Spin Selectivity Gives a New Twist on Spin-Control in Chemistry"
+volume: "53"
+rights: "http://pubs.acs.org/page/policy/authorchoice\_ccby\_termsofuse.html"
+issn: "0001-4842, 1520-4898"
+url: "https://pubs.acs.org/doi/10.1021/acs.accounts.0c00485"
+doi: "10.1021/acs.accounts.0c00485"
+pages: "2659--2667"
+number: "11"
+journaltitle: "Accounts of Chemical Research"
+shortjournal: "Acc. Chem. Res."
+author: "Naaman, Ron and Paltiel, Yossi and Waldeck, David H."
+urldate: "2026-06-24"
+date: "2020-11-17"
+langid: "english"
+---

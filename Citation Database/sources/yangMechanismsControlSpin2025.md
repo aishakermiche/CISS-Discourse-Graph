@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "yangMechanismsControlSpin2025"
+title: "Mechanisms and control of spin interactions in molecular-scale spintronics"
+volume: "1"
+issn: "29506360"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2950636025001628"
+doi: "10.1016/j.newton.2025.100170"
+pages: "100170"
+number: "8"
+journaltitle: "Newton"
+shortjournal: "Newton"
+author: "Yang, Caiyao and Wu, Hao and Cao, Jiawen and Guo, Xuefeng"
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "cabralMolecularRecognitionChiral2025"
+title: "Molecular Recognition and Chiral Discrimination from {NMR} and Multi‐Scale Simulations"
+volume: "31"
+issn: "0947-6539, 1521-3765"
+url: "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202404694"
+doi: "10.1002/chem.202404694"
+abstract: "Abstract Chiral molecules are particularly interesting to the pharmaceutical and agrochemical sectors due to their chemical and physical properties. Separation and identification of enantiomers are critical for a broad range of compounds, and discriminating stereoisomers in solution remains a key analytical challenge. Nuclear Magnetic Resonance ({NMR}) with Matrix‐Assisted Diffusion‐Ordered Spectroscopy ({MAD}), in the presence of chiral resolving agents, has emerged as a tool to explore these chiral mixtures. However, insight into the intermolecular interactions that lead to chiral recognition is still limited. Here, we combine experimental {MAD} studies with computational approaches to investigate the enantioselective discrimination of Mandelic Acid ({MA}) enantiomers using ( R )‐{BINOL} and ( S )‐{BINOL}. Molecular dynamics simulations explain the differences in diffusion coefficients for heterochiral complexes. Furthermore, quantum mechanical calculations confirmed enantioselective binding preferences due to differences in Gibbs free energies, highlighting the fundamental interactions and structural criteria that explain the {NMR} shielding and the diffusion trends. This integrated approach bridges experimental and theoretical studies, offering a comprehensive understanding of chiral recognition mechanisms and elucidating the observed heterochiral preference of {BINOL} for {MA} enantiomers. Our findings advance the field of chiral analysis and lay a foundation for future developments for identifying stereoisomers and recognition modes underlying enantioselective binding."
+pages: "e202404694"
+number: "25"
+journaltitle: "Chemistry – A European Journal"
+shortjournal: "Chemistry A European J"
+author: "Cabral, Tadeu Luiz Gomes and Brussolo Da Silva, João Pedro and Tormena, Claudio Francisco and Stein, Matthias"
+urldate: "2026-06-24"
+date: "2025-05"
+langid: "english"
+---

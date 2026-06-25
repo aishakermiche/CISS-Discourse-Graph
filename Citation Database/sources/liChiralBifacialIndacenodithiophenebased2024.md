@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liChiralBifacialIndacenodithiophenebased2024"
+title: "Chiral bifacial indacenodithiophene-based π-conjugated polymers with chirality-induced spin selectivity"
+volume: "60"
+issn: "1359-7345, 1364-548X"
+url: "https://xlink.rsc.org/?DOI=D4CC03292F"
+doi: "10.1039/D4CC03292F"
+abstract: "Chiral bifacial indacenoditiophene-containing π-conjugated polymers were synthesized and exhibited pronounced spin filtering function based on chirality induced spin selectivity. , Novel optically active π-conjugated polymers having a chiral bifacial indacenodithiophene backbone were synthesized by Suzuki–Miyaura cross coupling polymerization with benzothiadiazole comonomer. The obtained C 2 -chiral polymers form amorphous thin films on {HOPG} and exhibit good chirality-induced spin selectivity with spin polarization of nearly 70\%."
+pages: "10870--10873"
+number: "78"
+journaltitle: "Chemical Communications"
+shortjournal: "Chem. Commun."
+author: "Li, Shuang and Ishiwari, Fumitaka and Zorn, Scott and Murotani, Kazuharu and Pylnev, Mikhail and Taniguchi, Kouji and Saeki, Akinori"
+urldate: "2026-06-24"
+date: "2024"
+langid: "english"
+---

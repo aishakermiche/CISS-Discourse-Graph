@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "naamanChiralMoleculesSpin2020"
+title: "Chiral Molecules and the Spin Selectivity Effect"
+volume: "11"
+rights: "http://pubs.acs.org/page/policy/authorchoice\_ccby\_termsofuse.html"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.0c00474"
+doi: "10.1021/acs.jpclett.0c00474"
+pages: "3660--3666"
+number: "9"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Naaman, R. and Paltiel, Y. and Waldeck, D. H."
+urldate: "2026-06-24"
+date: "2020-05-07"
+langid: "english"
+---

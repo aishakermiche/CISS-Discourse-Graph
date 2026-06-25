@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kiranHelicenesNewClass2016"
+title: "Helicenes—A New Class of Organic Spin Filter"
+volume: "28"
+rights: "http://onlinelibrary.wiley.com/{termsAndConditions}\#vor"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201504725"
+doi: "10.1002/adma.201504725"
+pages: "1957--1962"
+number: "10"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Kiran, Vankayala and Mathew, Shinto P. and Cohen, Sidney R. and Hernández Delgado, Irene and Lacour, Jérôme and Naaman, Ron"
+urldate: "2026-06-25"
+date: "2016-03"
+langid: "english"
+---

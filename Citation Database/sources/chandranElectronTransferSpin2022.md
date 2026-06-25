@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chandranElectronTransferSpin2022"
+title: "Electron transfer and spin–orbit coupling: Can nuclear motion lead to spin selective rates?"
+volume: "156"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/156/17/174113/2841171/Electron-transfer-and-spin-orbit-coupling-Can"
+doi: "10.1063/5.0086554"
+shorttitle: "Electron transfer and spin–orbit coupling"
+abstract: "We investigate a spin-boson inspired model of electron transfer, where the diabatic coupling is given by a position-dependent phase, {eiWx}. We consider both equilibrium and nonequilibrium initial conditions. We show that, for this model, all equilibrium results are completely invariant to the sign of W (to infinite order). However, the nonequilibrium results do depend on the sign of W, suggesting that photo-induced electron transfer dynamics with spin–orbit coupling can exhibit electronic spin polarization (at least for some time)."
+pages: "174113"
+number: "17"
+journaltitle: "The Journal of Chemical Physics"
+author: "Chandran, Suraj S. and Wu, Yanze and Teh, Hung-Hsuan and Waldeck, David H. and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2022-05-07"
+langid: "english"
+---

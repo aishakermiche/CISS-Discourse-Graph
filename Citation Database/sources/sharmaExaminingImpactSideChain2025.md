@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sharmaExaminingImpactSideChain2025"
+title: "Examining the Impact of Side-Chain Chirality on Conformation of a Helical Poly(3-( \textit{S} -1-ethylhexyl)esterfuran)"
+volume: "58"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "0024-9297, 1520-5835"
+url: "https://pubs.acs.org/doi/10.1021/acs.macromol.5c01499"
+doi: "10.1021/acs.macromol.5c01499"
+pages: "12336--12345"
+number: "22"
+journaltitle: "Macromolecules"
+shortjournal: "Macromolecules"
+author: "Sharma, Dhruv and Kawakami, Manami and Rice, Megan and Smith, Erin and Westrey, Soren and Shang, Yuyang and Gist, Claire and Madureira, Leticia Maria Pequeno and Schulz, Karl H. G. and Varni, Anthony J. and Stranick, Isabella M. and Gil, Roberto R. and Tristram-Nagle, Stephanie and Peteanu, Linda and Kowalewski, Tomasz and Noonan, Kevin J. T."
+urldate: "2026-06-24"
+date: "2025-11-25"
+langid: "english"
+---

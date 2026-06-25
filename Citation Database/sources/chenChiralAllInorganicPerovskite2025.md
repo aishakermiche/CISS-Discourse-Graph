@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenChiralAllInorganicPerovskite2025"
+title: "Chiral All-Inorganic Perovskite Subnanowires"
+volume: "147"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c04134"
+doi: "10.1021/jacs.5c04134"
+pages: "12347--12359"
+number: "14"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Chen, Gaoyu and Zhou, Kunhong and Liu, Qingda and Liu, Junli and Xu, Xiangxing and Shi, Wenxiong and Jiang, Jinzhou and Zhang, Xinwen and Dong, Lizhu and Xie, Linghai and Zhang, Xiaoyu and Zhang, Niuniu and Xu, Dongdong and Bao, Jianchun and Wang, Xun"
+urldate: "2026-06-24"
+date: "2025-04-09"
+langid: "english"
+---

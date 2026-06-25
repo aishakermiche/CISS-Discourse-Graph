@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "raiElectricallyDrivenSpin2013"
+title: "Electrically Driven Spin Currents in {DNA}"
+volume: "117"
+issn: "1932-7447, 1932-7455"
+url: "https://pubs.acs.org/doi/10.1021/jp404066y"
+doi: "10.1021/jp404066y"
+pages: "13730--13737"
+number: "26"
+journaltitle: "The Journal of Physical Chemistry C"
+shortjournal: "J. Phys. Chem. C"
+author: "Rai, Dhurba and Galperin, Michael"
+urldate: "2026-06-25"
+date: "2013-07-03"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "jangPerspectiveFermisGolden2026"
+title: "Perspective of Fermi’s golden rule and its generalizations in chemical physics"
+volume: "164"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/164/23/230901/3394739/Perspective-of-Fermi-s-golden-rule-and-its"
+doi: "10.1063/5.0336272"
+abstract: "This perspective provides a succinct history of Fermi’s golden rule ({FGR}), an overview of its derivation, assumptions, and representative forms. Major applications of {FGR}, mostly in the field of chemical physics, are reviewed. These illustrate the broad applicability and success of {FGR}. Ambiguities and open issues encountered in practical applications of {FGR} are clarified. Recent advances in generalizations of {FGR} and computational methods for practical applications are addressed."
+pages: "230901"
+number: "23"
+journaltitle: "The Journal of Chemical Physics"
+author: "Jang, Seogjoo J. and Kim, Goun and Rhee, Young Min"
+urldate: "2026-06-24"
+date: "2026-06-21"
+langid: "english"
+---

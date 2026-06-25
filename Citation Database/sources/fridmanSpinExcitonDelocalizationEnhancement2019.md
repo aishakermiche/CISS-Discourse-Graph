@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "fridmanSpinExcitonDelocalizationEnhancement2019"
+title: "Spin-Exciton Delocalization Enhancement in Multilayer Chiral Linker/Quantum Dot Structures"
+volume: "10"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.9b01433"
+doi: "10.1021/acs.jpclett.9b01433"
+pages: "3858--3862"
+number: "14"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Fridman, Hanna T. and Dehnel, Johanna and Yochelis, Shira and Lifshitz, Efrat and Paltiel, Yossi"
+urldate: "2026-06-25"
+date: "2019-07-18"
+langid: "english"
+---

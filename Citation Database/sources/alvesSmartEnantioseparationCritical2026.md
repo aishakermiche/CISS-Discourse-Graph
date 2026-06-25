@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "alvesSmartEnantioseparationCritical2026"
+title: "Smart Enantioseparation: A Critical Review of Instrumentation, Automation, and Data-Driven Strategies in Analytical Chirality"
+issn: "1040-8347, 1547-6510"
+url: "https://www.tandfonline.com/doi/full/10.1080/10408347.2026.2639581"
+doi: "10.1080/10408347.2026.2639581"
+shorttitle: "Smart Enantioseparation"
+pages: "1--42"
+journaltitle: "Critical Reviews in Analytical Chemistry"
+shortjournal: "Critical Reviews in Analytical Chemistry"
+author: "Alves, Erica and Gurupadayya, B. M and Prabhakaran, Prabitha"
+urldate: "2026-06-24"
+date: "2026-03-15"
+langid: "english"
+---

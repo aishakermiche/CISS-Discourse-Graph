@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "aragonesMeasuringSpinPolarizationPower2017a"
+title: "Measuring the Spin‐Polarization Power of a Single Chiral Molecule"
+volume: "13"
+rights: "http://onlinelibrary.wiley.com/{termsAndConditions}\#vor"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.201602519"
+doi: "10.1002/smll.201602519"
+pages: "1602519"
+number: "2"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Aragonès, Albert C. and Medina, Ernesto and Ferrer‐Huerta, Miriam and Gimeno, Nuria and Teixidó, Meritxell and Palma, Julio L. and Tao, Nongjian and Ugalde, Jesus M. and Giralt, Ernest and Díez‐Pérez, Ismael and Mujica, Vladimiro"
+urldate: "2026-06-24"
+date: "2017-01"
+langid: "english"
+---

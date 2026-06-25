@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "pohEnhancingOpticallyDetected2025"
+title: "Enhancing the Optically Detected Magnetic Resonance Signal of Organic Molecular Qubits"
+volume: "11"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "2374-7943, 2374-7951"
+url: "https://pubs.acs.org/doi/10.1021/acscentsci.4c01632"
+doi: "10.1021/acscentsci.4c01632"
+pages: "116--126"
+number: "1"
+journaltitle: "{ACS} Central Science"
+shortjournal: "{ACS} Cent. Sci."
+author: "Poh, Yong Rui and Yuen-Zhou, Joel"
+urldate: "2026-06-24"
+date: "2025-01-22"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "guoSpindependentElectronTransport2014a"
+title: "Spin-dependent electron transport in protein-like single-helical molecules"
+volume: "111"
+issn: "0027-8424, 1091-6490"
+url: "https://pnas.org/doi/full/10.1073/pnas.1407716111"
+doi: "10.1073/pnas.1407716111"
+abstract: "Significance The control of electron spin transport in molecular systems has been receiving lots of attention among different scientific communities because of possible applications in spintronics and understanding of the spin effects in biological systems. Recent experiments have demonstrated that α-helical protein acts as an efficient spin filter and the chiral-induced spin selectivity may be a general phenomenon. However, no spin selectivity was measured in single-stranded {DNA} above the experimental noise. In the present study, we propose a physical model to rationalize the above phenomena, and provide an unambiguous physical mechanism for spin-selective phenomenon observed in α-helical protein and for the contradictory behaviors between protein and single-stranded {DNA}. These results may facilitate engineering of chiral-based spintronic devices. , We report on a theoretical study of spin-dependent electron transport through single-helical molecules connected by two nonmagnetic electrodes, and explain the experiment of significant spin-selective phenomenon observed in α-helical protein and the contradictory results between the protein and single-stranded {DNA}. Our results reveal that the α-helical protein is an efficient spin filter and the spin polarization is robust against the disorder. These results are in excellent agreement with recent experiments [Mishra D, et al. (2013) Proc Natl Acad Sci {USA} 110(37):14872–14876; Göhler B, et al. (2011) Science 331(6019):894–897] and may facilitate engineering of chiral-based spintronic devices."
+pages: "11658--11662"
+number: "32"
+journaltitle: "Proceedings of the National Academy of Sciences"
+shortjournal: "Proc. Natl. Acad. Sci. U.S.A."
+author: "Guo, Ai-Min and Sun, Qing-Feng"
+urldate: "2026-06-25"
+date: "2014-08-12"
+langid: "english"
+---

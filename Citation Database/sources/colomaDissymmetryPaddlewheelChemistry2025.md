@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "colomaDissymmetryPaddlewheelChemistry2025"
+title: "Dissymmetry in paddlewheel chemistry"
+volume: "544"
+issn: "00108545"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0010854525005491"
+doi: "10.1016/j.ccr.2025.216979"
+pages: "216979"
+journaltitle: "Coordination Chemistry Reviews"
+shortjournal: "Coordination Chemistry Reviews"
+author: "Coloma, Isabel and Cortijo, Miguel"
+urldate: "2026-06-24"
+date: "2025-12"
+langid: "english"
+---

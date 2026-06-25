@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "xieSpinSpecificElectron2011"
+title: "Spin Specific Electron Conduction through {DNA} Oligomers"
+volume: "11"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/nl2021637"
+doi: "10.1021/nl2021637"
+pages: "4652--4655"
+number: "11"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Xie, Zouti and Markus, Tal Z. and Cohen, Sidney R. and Vager, Zeev and Gutierrez, Rafael and Naaman, Ron"
+urldate: "2026-06-25"
+date: "2011-11-09"
+langid: "english"
+---

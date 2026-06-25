@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "sacramentoTopologicalStatesChiral2022"
+title: "Topological states in chiral electronic chains"
+volume: "106"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.106.085130"
+doi: "10.1103/PhysRevB.106.085130"
+pages: "085130"
+number: "8"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Sacramento, P. D. and Madeira, M. F."
+urldate: "2026-06-24"
+date: "2022-08-22"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\5D2IFXZG\\Sacramento and Madeira - 2022 - Topological states in chiral electronic chains.pdf:application/pdf"
+---

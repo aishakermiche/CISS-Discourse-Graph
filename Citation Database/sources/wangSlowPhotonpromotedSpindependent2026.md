@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "wangSlowPhotonpromotedSpindependent2026"
+title: "Slow photon-promoted spin-dependent charge transfer for enhanced electrochemical enantioselectivity within 3D inverse opal structures"
+volume: "453"
+issn: "09254005"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S092540052600081X"
+doi: "10.1016/j.snb.2026.139503"
+pages: "139503"
+journaltitle: "Sensors and Actuators B: Chemical"
+shortjournal: "Sensors and Actuators B: Chemical"
+author: "Wang, Yue and Zhang, Fenfen and Zhang, Ziyi and Liu, Tianji and Xu, Zhangrun and Ozaki, Yukihiro"
+urldate: "2026-06-24"
+date: "2026-04"
+langid: "english"
+---

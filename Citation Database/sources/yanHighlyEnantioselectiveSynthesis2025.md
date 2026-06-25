@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yanHighlyEnantioselectiveSynthesis2025"
+title: "Highly enantioselective synthesis controlled by spin-exchange interaction"
+volume: "11"
+issn: "2375-2548"
+url: "https://www.science.org/doi/10.1126/sciadv.adw5850"
+doi: "10.1126/sciadv.adw5850"
+abstract: "We present a strategy to achieve absolute asymmetric catalysis that is effectively controlled by an external magnetic field via a spin-exchange reaction leveraging the chirality-induced spin selectivity effect. Using an external magnetic field to achieve asymmetric synthesis has long been desired. Here, we demonstrate 90\% enantiomeric excess (ee) in [3 + 2] cycloadditions and 89\% ee in aldol reactions, where the handedness of the product is determined by the {\textasciitilde}±150 {mT} external magnetic polarization of a ferromagnet ({FM}). Our approach uses an enantioselective crystallization of racemic catalysts on a {FM} surface, using a small-scale crystallization vial connected to a bulk racemic solution. Racemic catalysts controllably crystallize into their respective enantiopure forms and are directly used in asymmetric reactions. Thus, we demonstrate that an external magnetic field can serve as a versatile symmetry-breaking tool to achieve highly enantioselective organic synthesis eliminating the need of any enantioenriched reagents. , Asymmetric catalysis achieved without enantioenriched reagents, but via spin-exchange interaction controlled by magnetic field."
+pages: "eadw5850"
+number: "25"
+journaltitle: "Science Advances"
+shortjournal: "Sci. Adv."
+author: "Yan, Yong and Shaikh, Melad and Beard, Matthew C. and Gu, Jing and Hendrix, Isaac"
+urldate: "2026-06-24"
+date: "2025-06-20"
+langid: "english"
+---

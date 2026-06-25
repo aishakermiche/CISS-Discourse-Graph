@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhuMagneticMonopoleLikeBehavior2024"
+title: "Magnetic Monopole‐Like Behavior in Superparamagnetic Nanoparticle Coated With Chiral Molecules"
+volume: "20"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202406631"
+doi: "10.1002/smll.202406631"
+abstract: "Abstract Superparamagnetic iron oxide nanoparticles ({SPIONs}) have attracted wide attention due to their promising applications in biomedicine, chemical catalysis, and magnetic memory devices. In this work, the force is measured between a single {SPION} coated with chiral molecules and a ferromagnetic substrate by atomic force microscopy ({AFM}), with the substrate magnetized either toward or away from the approaching {AFM} tip. The force between the coated {SPION} and the magnetic substrate depends on the handedness of the molecules adsorbed on the {SPION} and on the direction of the magnetization of the substrate. By inserting nm‐scale spacing layers between the coated {SPION} and the magnetic substrate it is shown that the {SPION} has a short‐range magnetic monopole‐like magnetic field. A theoretical framework for the nature of this field is provided."
+pages: "2406631"
+number: "48"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Zhu, Qirong and Cohen, Sidney R. and Brontvein, Olga and Fransson, Jonas and Naaman, Ron"
+urldate: "2026-06-25"
+date: "2024-11"
+langid: "english"
+---

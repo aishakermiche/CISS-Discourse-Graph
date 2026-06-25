@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "habibovicEmergingTailoredLight2024"
+title: "Emerging tailored light sources for studying chirality and symmetry"
+volume: "6"
+issn: "2522-5820"
+url: "https://www.nature.com/articles/s42254-024-00763-8"
+doi: "10.1038/s42254-024-00763-8"
+pages: "663--675"
+number: "11"
+journaltitle: "Nature Reviews Physics"
+shortjournal: "Nat Rev Phys"
+author: "Habibović, Dino and Hamilton, Kathryn R. and Neufeld, Ofer and Rego, Laura"
+urldate: "2026-06-24"
+date: "2024-09-23"
+langid: "english"
+---

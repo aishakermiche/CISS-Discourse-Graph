@@ -1,0 +1,9 @@
+[data-sitename="chemicalphysicsreviews"] .hero-row {
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.50)), url('/ImageLibrary/Publications/cpr/cpr-hero.jpg');
+}
+.widget-instance-cpr_home-self-serve-content-submit-button{
+	border:none !important;
+}
+.widget-instance-cpr_home-self-serve-content-socials{
+	border:none !important;
+}

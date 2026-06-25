@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "lopezRadiationModulatedSpin2022"
+title: "Radiation modulated spin coupling in a double-stranded {DNA} model"
+volume: "34"
+issn: "0953-8984, 1361-648X"
+url: "https://iopscience.iop.org/article/10.1088/1361-648X/ac48c1"
+doi: "10.1088/1361-648X/ac48c1"
+abstract: "Abstract The spin activity in macromolecules such as {DNA} and oligopeptides, in the context of the chiral induced spin selectivity has been proposed to be due to the atomic spin–orbit coupling ({SOC}) and the associated chiral symmetry of the structures. This coupling, associated with carbon, nitrogen and oxygen atoms in biological molecules, albeit small ({meV}), can be enhanced by the geometry, and strong local polarization effects such as hydrogen bonding. A novel way to manipulate the spin degree of freedom is by modifying the spectrum using a coupling to the appropriate electromagnetic radiation field. Here we use the Floquet formalism in order to show how the half filled band Hamiltonian for {DNA}, can be modulated by the radiation to produce up to a tenfold increase of the effective {SOC} once the intrinsic coupling is present. On the other hand, the chiral model, once incorporating the orbital angular momentum of electron motion on the helix, opens a gap for different helicity states (helicity splitting) that chooses spin polarization according to transport direction and chirality, without breaking time reversal symmetry. The observed effects are feasible in physically reasonable parameter ranges for the radiation field amplitude and frequency."
+pages: "135301"
+number: "13"
+journaltitle: "Journal of Physics: Condensed Matter"
+shortjournal: "J. Phys.: Condens. Matter"
+author: "López, Alexander and Varela, Solmar and Medina, Ernesto"
+urldate: "2026-06-24"
+date: "2022-03-30"
+---

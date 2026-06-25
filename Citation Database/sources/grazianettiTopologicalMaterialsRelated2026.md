@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "grazianettiTopologicalMaterialsRelated2026"
+title: "Topological Materials and Related Applications"
+issn: "2199-160X, 2199-160X"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aelm.202500832"
+doi: "10.1002/aelm.202500832"
+abstract: "{ABSTRACT} The topological properties of matter have reached nowadays a broad interest in the scientific and technological communities, mostly because those properties, initially exotic and hard to follow, have now demonstrated exploitability in everyday‐life applications. In this light, beyond expanding our knowledge in the condensed matter physics field as well as revisiting some definitions of solid‐state physics, the topological properties of materials might provide substantial benefits for challenges involving human society and environment. Here, we review the topological materials like topological insulators, quantum valley Hall and quantum spin Hall insulators, and topological Weyl and Dirac semimetals aiming at spotlighting the most recent advancements in fields like spintronics, electronics, photonics, thermoelectrics, and catalysis. Finally, we provide with an outlook on the recent class of topological materials like kagome, Lieb and moiré heterostructures which are expected to further expand the wealth of applications based on topological properties of matter."
+pages: "e00832"
+journaltitle: "Advanced Electronic Materials"
+shortjournal: "Adv Elect Materials"
+author: "Grazianetti, Carlo and Mantovan, Roberto and Longo, Emanuele and Zandvliet, Harold J. W. and Bampoulis, Pantelis and Pan, Yu and Li, Fan and Wang, Xia and Downey, Payton and Molle, Alessandro"
+urldate: "2026-06-24"
+date: "2026-02-20"
+langid: "english"
+---

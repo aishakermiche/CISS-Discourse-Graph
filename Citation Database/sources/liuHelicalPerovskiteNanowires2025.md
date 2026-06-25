@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liuHelicalPerovskiteNanowires2025"
+title: "Helical Perovskite Nanowires with Strong Circularly Polarized Luminescence Self-Assembled from Red-Emitting {CsPbI}$_{\textrm{3}}$ Quantum Dots Following Chiral Ligand Exchange"
+volume: "19"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c03149"
+doi: "10.1021/acsnano.5c03149"
+pages: "17774--17784"
+number: "18"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Liu, Haochen and Portniagin, Arsenii S. and Tang, Bing and Vighnesh, Kunnathodi and Li, Yun and Wu, Ye and Rusanov, Daniil A. and Ke, Lingyi and Wang, Yunfan and Zhu, Ding and Chen, Desui and Law, Kwok-Chung and Babak, Maria V. and Ushakova, Elena and Rogach, Andrey L."
+urldate: "2026-06-24"
+date: "2025-05-13"
+langid: "english"
+---

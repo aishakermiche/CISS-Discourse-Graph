@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jiangSpinFilteringSurfaceActive2025"
+title: "Spin Filtering with Surface-Active Helicene- and Twistacene-Based Perylene Diimides"
+volume: "147"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.5c02723"
+doi: "10.1021/jacs.5c02723"
+pages: "12982--12988"
+number: "15"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Jiang, Haoyu and Čavlović, Daniel and Jiang, Qifeng and Ng, Fay and Bao, Si Tong and Telford, Evan J. and Steigerwald, Michael L. and Roy, Xavier and Nuckolls, Colin and {McNeill}, Jeffrey M."
+urldate: "2026-06-24"
+date: "2025-04-16"
+langid: "english"
+---

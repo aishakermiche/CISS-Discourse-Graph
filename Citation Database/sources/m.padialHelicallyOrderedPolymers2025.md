@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "m.padialHelicallyOrderedPolymers2025"
+title: "Helically ordered polymers under metal–organic framework confinement"
+volume: "5"
+issn: "2731-0582"
+url: "https://www.nature.com/articles/s44160-025-00952-y"
+doi: "10.1038/s44160-025-00952-y"
+pages: "6--7"
+number: "1"
+journaltitle: "Nature Synthesis"
+shortjournal: "Nat. Synth"
+author: "M. Padial, Natalia and Martí-Gastaldo, Carlos"
+urldate: "2026-06-24"
+date: "2025-12-01"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wasielewskiLightdrivenSpinChemistry2023"
+title: "Light-driven spin chemistry for quantum information science"
+volume: "76"
+issn: "0031-9228, 1945-0699"
+url: "https://physicstoday.aip.org/features/light-driven-spin-chemistry-for-quantum-information-science"
+doi: "10.1063/PT.3.5196"
+abstract: "Molecular systems can host multiple electron spin qubits that have promising properties for quantum applications."
+pages: "28--34"
+number: "3"
+journaltitle: "Physics Today"
+author: "Wasielewski, Michael R."
+urldate: "2026-06-24"
+date: "2023-03-01"
+langid: "english"
+---

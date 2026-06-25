@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dalumTheoryChiralInduced2019"
+title: "Theory of Chiral Induced Spin Selectivity"
+volume: "19"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.9b01707"
+doi: "10.1021/acs.nanolett.9b01707"
+pages: "5253--5259"
+number: "8"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Dalum, Sakse and Hedegård, Per"
+urldate: "2026-06-25"
+date: "2019-08-14"
+langid: "english"
+---

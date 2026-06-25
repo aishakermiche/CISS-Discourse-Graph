@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yangIntrinsicallyChiralPlasmonic2026"
+title: "Intrinsically Chiral Plasmonic Hybrid Nanomaterials with Tailored Chiroptical Activities"
+volume: "9"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "2574-0970, 2574-0970"
+url: "https://pubs.acs.org/doi/10.1021/acsanm.6c01432"
+doi: "10.1021/acsanm.6c01432"
+pages: "10434--10447"
+number: "23"
+journaltitle: "{ACS} Applied Nano Materials"
+shortjournal: "{ACS} Appl. Nano Mater."
+author: "Yang, Guizeng and Wang, Xinhui and Sun, Lichao and Zhang, Qingfeng"
+urldate: "2026-06-24"
+date: "2026-06-12"
+langid: "english"
+---

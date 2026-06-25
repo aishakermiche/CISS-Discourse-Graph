@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "shitadeGeometricSpinOrbit2020"
+title: "Geometric spin–orbit coupling and chirality-induced spin selectivity"
+volume: "22"
+issn: "1367-2630"
+url: "https://iopscience.iop.org/article/10.1088/1367-2630/abc920"
+doi: "10.1088/1367-2630/abc920"
+abstract: "Abstract We report a new type of spin–orbit coupling ({SOC}) called geometric {SOC}. Starting from the relativistic theory in curved space, we derive an effective nonrelativistic Hamiltonian in a generic curve embedded into flat three dimensions. The geometric {SOC} is O ( m −1 ), in which m is the electron mass, and hence much larger than the conventional {SOC} of O ( m −2 ). The energy scale is estimated to be a hundred {meV} for a nanoscale helix. We calculate the current-induced spin polarization in a coupled-helix model as a representative of the chirality-induced spin selectivity. We find that it depends on the chirality of the helix and is of the order of 0.01 ℏ per nm when a charge current of 1 μ A is applied."
+pages: "113023"
+number: "11"
+journaltitle: "New Journal of Physics"
+shortjournal: "New J. Phys."
+author: "Shitade, Atsuo and Minamitani, Emi"
+urldate: "2026-06-24"
+date: "2020-11-01"
+file: "IOP Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\G8GSVR94\\Shitade and Minamitani - 2020 - Geometric spin–orbit coupling and chirality-induced spin selectivity.pdf:application/pdf"
+---

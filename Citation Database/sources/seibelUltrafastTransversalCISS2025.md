@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "seibelUltrafastTransversalCISS2025"
+title: "Ultrafast Transversal {CISS} Effect Observed in a Chiral Photoswitching Molecule"
+volume: "16"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c02113"
+doi: "10.1021/acs.jpclett.5c02113"
+pages: "8514--8522"
+number: "33"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Seibel, Christopher and Soh, Jia Hao and Zilberg, Shmuel and Krylov, Anna I."
+urldate: "2026-06-24"
+date: "2025-08-21"
+langid: "english"
+---

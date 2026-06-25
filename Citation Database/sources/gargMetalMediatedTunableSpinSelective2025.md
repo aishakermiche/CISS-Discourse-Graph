@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "gargMetalMediatedTunableSpinSelective2025"
+title: "Metal-Mediated Tunable Spin-Selective Transport in Cholesterol-Based Metal–Organic Supramolecular Materials"
+volume: "37"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0897-4756, 1520-5002"
+url: "https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01302"
+doi: "10.1021/acs.chemmater.5c01302"
+pages: "6293--6301"
+number: "16"
+journaltitle: "Chemistry of Materials"
+shortjournal: "Chem. Mater."
+author: "Garg, Rabia and Singh Bisht, Pravesh and Bhatt, Nidhi and Nakka, Nagaraju and Mondal, Amit Kumar"
+urldate: "2026-06-24"
+date: "2025-08-26"
+langid: "english"
+---

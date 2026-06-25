@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dangProbingRoleMolecular2026"
+title: "Probing the Role of Molecular Orientation on Spin-Selective Electron Transport through the Bacterial Multiheme Cytochrome {MtrA}"
+volume: "17"
+rights: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c03604"
+doi: "10.1021/acs.jpclett.5c03604"
+pages: "745--751"
+number: "3"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Dang, Tram Q. and Harris, Cole C. and Yadav, Sukrampal and Zhao, Fengjie and Baczewski, Lech Tomasz and El-Naggar, Mohamed Y. and Sukenik, Nir"
+urldate: "2026-06-24"
+date: "2026-01-22"
+langid: "english"
+---

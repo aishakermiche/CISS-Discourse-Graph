@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "liMolecularDesignSupramolecular2026"
+title: "Molecular design and supramolecular engineering of chiral organic materials for circularly polarized photodetection"
+volume: "69"
+issn: "2095-8226, 2199-4501"
+url: "https://link.springer.com/10.1007/s40843-025-3877-7"
+doi: "10.1007/s40843-025-3877-7"
+pages: "2488--2504"
+number: "5"
+journaltitle: "Science China Materials"
+shortjournal: "Sci. China Mater."
+author: "Li, Wanhui and Zhang, Lijuan and Lv, Hao-Han and Wang, Xiao-Ye"
+urldate: "2026-06-24"
+date: "2026-05"
+langid: "english"
+---

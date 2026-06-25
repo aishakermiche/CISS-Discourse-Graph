@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "alwanSpinterfaceOriginChiralityInduced2021a"
+title: "Spinterface Origin for the Chirality-Induced Spin-Selectivity Effect"
+volume: "143"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.1c05637"
+doi: "10.1021/jacs.1c05637"
+pages: "14235--14241"
+number: "35"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Alwan, Seif and Dubi, Yonatan"
+urldate: "2026-06-24"
+date: "2021-09-08"
+langid: "english"
+---

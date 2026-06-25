@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "ranaEnantiospecificMagnetoconductanceAsymmetry2026"
+title: "Enantiospecific Magnetoconductance Asymmetry in a Racemic Conglomerate Driven by Surface-Assisted Symmetry Breaking"
+volume: "148"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0002-7863, 1520-5126"
+url: "https://pubs.acs.org/doi/10.1021/jacs.6c05771"
+doi: "10.1021/jacs.6c05771"
+pages: "23152--23161"
+number: "22"
+journaltitle: "Journal of the American Chemical Society"
+shortjournal: "J. Am. Chem. Soc."
+author: "Rana, Shammi and Mastropasqua Talamo, Maurizio and Preetha Genesh, Navathej and Cornil, David and Pop, Flavia and Cornil, Jérôme and Baczewski, Lech Tomasz and Paltiel, Yossi and Geerts, Yves H. and Mali, Kunal S. and Avarvari, Narcis and De Feyter, Steven"
+urldate: "2026-06-24"
+date: "2026-06-10"
+langid: "english"
+---

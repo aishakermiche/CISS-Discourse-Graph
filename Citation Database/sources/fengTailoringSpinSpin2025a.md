@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "fengTailoringSpinSpin2025a"
+title: "Tailoring Spin–Spin Dipolar Interactions by Conformational Locking Toward Room‐Temperature Molecular Qubits"
+volume: "64"
+issn: "1433-7851, 1521-3773"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/anie.202520964"
+doi: "10.1002/anie.202520964"
+abstract: "Abstract Chichibabin's hydrocarbons ({CHs}) typically exhibit resonance equilibrium between closed‐shell quinoidal and open‐shell diradical configurations due to the flexible rotation of the molecule structure. We herein report a series of conformationally rigidified {CHs} achieved through lockage of chiral binaphthalene frameworks. Systematic enhancement of open‐shell character was observed with increasing dihedral angles between naphthalene moieties, as evidenced by electronic spectroscopy and pulse electron paramagnetic resonance ({EPR}) technique. This conformational locking strategy enables precise engineering of spin–spin dipolar interactions, unambiguously revealed by zero‐field splitting parameters derived from {EPR} studies. Specifically, {CH}(2) exhibits excellent ambient stability and exceptional spin coherence at room temperature, with attractive spin‐lattice relaxation time ( T 1 ) of 1207 ns and spin dephasing time ( T m ) of 205 ns. Our findings establish a molecular design paradigm for controlling electronic coupling in diradical systems, providing critical insights for developing next‐generation quantum materials with tailored spin functionalities."
+pages: "e20964"
+number: "52"
+journaltitle: "Angewandte Chemie International Edition"
+shortjournal: "Angew Chem Int Ed"
+author: "Feng, Zhibin and Chen, Shengyang and Zhou, Jiadong and Wang, Bohan and Chen, Xiaozhen and Liu, Linlin and Qiao, Xianfeng and Xie, Zengqi"
+urldate: "2026-06-24"
+date: "2025-12-22"
+langid: "english"
+---

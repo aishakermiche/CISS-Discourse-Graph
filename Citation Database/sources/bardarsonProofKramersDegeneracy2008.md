@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "bardarsonProofKramersDegeneracy2008"
+title: "A proof of the Kramers degeneracy of transmission eigenvalues from antisymmetry of the scattering matrix"
+volume: "41"
+issn: "1751-8113, 1751-8121"
+url: "https://iopscience.iop.org/article/10.1088/1751-8113/41/40/405203"
+doi: "10.1088/1751-8113/41/40/405203"
+pages: "405203"
+number: "40"
+journaltitle: "Journal of Physics A: Mathematical and Theoretical"
+shortjournal: "J. Phys. A: Math. Theor."
+author: "Bardarson, J H"
+urldate: "2026-06-24"
+date: "2008-10-10"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\LR6EV5HV\\Bardarson - 2008 - A proof of the Kramers degeneracy of transmission eigenvalues from antisymmetry of the scattering ma.pdf:application/pdf"
+---

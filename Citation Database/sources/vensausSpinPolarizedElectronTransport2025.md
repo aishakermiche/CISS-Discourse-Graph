@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "vensausSpinPolarizedElectronTransport2025"
+title: "Spin-Polarized Electron Transport Promotes the Oxygen Reduction Reaction"
+volume: "19"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c14333"
+doi: "10.1021/acsnano.5c14333"
+pages: "38709--38715"
+number: "44"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Vensaus, Priscila and Liang, Yunchang and Ansermet, Jean-Philippe and Fransson, Jonas and Lingenfelder, Magalí"
+urldate: "2026-06-24"
+date: "2025-11-11"
+langid: "english"
+---

@@ -1,0 +1,72 @@
+
+/* ACHS-9716 + ACHS-9733 */
+.content.homepage .home-top.container .home-top-left a.button_primary_3,
+.content.homepage .home-image .join-ACS a.joinACS
+
+{     background-color: #fdc82f;     color: #333333;     transition: all 0.3s; }
+.content.homepage .home-top.container .home-top-left a.button_primary_3:hover,
+.content.homepage .home-image .join-ACS a.joinACS:hover
+
+{     background-color: #ffb115;     color: #333333;     box-shadow: 0px 2px 4px -2px #fdc82f80, 0px 4px 8px -1px #fdc82f80; }
+
+.content.homepage .container .row .col-md-12 .row.flip.mobile-align .right-custom .row .product-card .card-details.wide-card .card-image-container.full-image #publish .card-overlay-container .buttons.discover a.button_primary_2,
+.content.homepage #services .card-overlay-container .buttons a.learnMore,
+.content.homepage .container .product-card .card-details.wide-card .card-image-container.full-image .card-overlay.custom .card-overlay-container .buttons .button_primary.exploreMore,
+.content.homepage #explore .card-overlay-container .buttons a.learnMore
+
+{     background-color: #0039A6;     color: #FFFFFF; }
+.content.homepage .container .row .col-md-12 .row.flip.mobile-align .right-custom .row .product-card .card-details.wide-card .card-image-container.full-image #publish .card-overlay-container .buttons.discover a.button_primary_2:hover,
+.content.homepage #services .card-overlay-container .buttons a.learnMore:hover,
+.content.homepage .container .product-card .card-details.wide-card .card-image-container.full-image .card-overlay.custom .card-overlay-container .buttons .button_primary.exploreMore:hover,
+.content.homepage #explore .card-overlay-container .buttons a.learnMore:hover
+
+{     color: #FFFFFF;     background-color:#002D72;     box-shadow: 0px 2px 4px -2px rgba(84, 122, 195, 0.5),                 0px 4px 8px -1px rgba(84, 122, 195, 0.5); }
+.content.homepage .home-image .container h2.browse-content_title,
+.content.homepage h2.editors-choice_title,
+.content.homepage .container.html-componenets .row .col-md-12 .row h2
+
+{     font-size: 2rem; }
+.content.homepage #publish .card-overlay-container .title,
+.content.homepage #services .card-overlay-container .title,
+.content.homepage #support .title,
+.content.homepage #explore .card-overlay-container .title
+
+{     font-size: 1.5rem; }
+.content.homepage #publish .card-overlay-container .subtitle,
+.content.homepage #explore .card-overlay-container .subtitle,
+.content.homepage #support + .subtitle
+
+{     font-size: 1.25rem; }
+.content.homepage #publish .card-overlay-container .details,
+.content.homepage #services .card-overlay-container .details,
+.content.homepage #support .card-overlay-container .details,
+.content.homepage #explore .card-overlay-container .details
+
+{     font-size: 1rem; }
+
+
+.sitewide_resources .resources-content .publishingcenter .item .logo a
+
+{     background-image: url(/pb-assets/images/homepage/resources/researcher-resources.png);     max-width: 178px;     height: 64px;     background-size: contain; }
+ 
+.sitewide_resources .resources-content .publishingcenter .item .logo a:hover
+
+{     background-image: url(/pb-assets/images/homepage/resources/researcher-resources-grey.png); }
+
+
+
+/* ACHS-9737 */
+.content.journal-home.partner-journal.jamsef .stay_connected .connect-item .connect-social .connect-social-item .icon img.blue {
+    display: inline;
+}
+
+.stay_connected .connect-item .connect-social .connect-social-item {
+    font-size: 11.2px;
+}
+
+/* ACHS-9736  */
+.content.journal-home.partner-journal .journal-home_navigation #main-nav-list .item {
+    background: #0039a6;
+}
+
+

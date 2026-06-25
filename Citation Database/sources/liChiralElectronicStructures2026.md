@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "liChiralElectronicStructures2026"
+title: "Chiral electronic structures and their visualization in molecules and materials"
+volume: "69"
+issn: "2095-8226, 2199-4501"
+url: "https://link.springer.com/10.1007/s40843-025-3985-4"
+doi: "10.1007/s40843-025-3985-4"
+pages: "2541--2548"
+number: "5"
+journaltitle: "Science China Materials"
+shortjournal: "Sci. China Mater."
+author: "Li, Zhihao and Chen, Ting and Wang, Dong"
+urldate: "2026-06-24"
+date: "2026-05"
+langid: "english"
+---

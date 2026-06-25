@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "bianSemiclassicalNonadiabaticPhasespace2024"
+title: "A semiclassical non-adiabatic phase-space approach to molecular translations and rotations: Surface hopping with electronic inertial effects"
+volume: "161"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/161/23/234114/3327520/A-semiclassical-non-adiabatic-phase-space-approach"
+doi: "10.1063/5.0242673"
+shorttitle: "A semiclassical non-adiabatic phase-space approach to molecular translations and rotations"
+abstract: "We demonstrate that working with a correct phase-space electronic Hamiltonian captures electronic inertial effects. In particular, we show that phase space surface hopping dynamics do not suffer (at least to very high order) from non-physical non-adiabatic transitions between electronic eigenstates during the course of pure nuclear translational and rotational motion. This work opens up many new avenues for quantitatively investigating complex phenomena, including angular momentum transfer between chiral phonons and electrons as well as chiral-induced spin selectivity effects."
+pages: "234114"
+number: "23"
+journaltitle: "The Journal of Chemical Physics"
+author: "Bian, Xuezhi and Wu, Yanze and Qiu, Tian and Tao, Zhen and Subotnik, Joseph E."
+urldate: "2026-06-24"
+date: "2024-12-21"
+langid: "english"
+---

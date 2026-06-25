@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "haqueRemoteChiralityTransfer2025"
+title: "Remote chirality transfer in low-dimensional hybrid metal halide semiconductors"
+volume: "17"
+issn: "1755-4330, 1755-4349"
+url: "https://www.nature.com/articles/s41557-024-01662-2"
+doi: "10.1038/s41557-024-01662-2"
+pages: "29--37"
+number: "1"
+journaltitle: "Nature Chemistry"
+shortjournal: "Nat. Chem."
+author: "Haque, Md Azimul and Grieder, Andrew and Harvey, Steven P. and Brunecky, Roman and Ye, Jiselle Y. and Addison, Bennett and Zhang, Junxiang and Dong, Yifan and Xie, Yi and Hautzinger, Matthew P. and Walpitage, Heshan Hewa and Zhu, Kai and Blackburn, Jeffrey L. and Vardeny, Zeev Valy and Mitzi, David B. and Berry, Joseph J. and Marder, Seth R. and Ping, Yuan and Beard, Matthew C. and Luther, Joseph M."
+urldate: "2026-06-24"
+date: "2025-01"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\PZAWQA9G\\Haque et al. - 2025 - Remote chirality transfer in low-dimensional hybrid metal halide semiconductors.pdf:application/pdf"
+---

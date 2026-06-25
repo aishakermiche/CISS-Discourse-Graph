@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kettnerChiralityDependentElectronSpin2018"
+title: "Chirality-Dependent Electron Spin Filtering by Molecular Monolayers of Helicenes"
+volume: "9"
+rights: "http://pubs.acs.org/page/policy/authorchoice\_termsofuse.html"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.8b00208"
+doi: "10.1021/acs.jpclett.8b00208"
+pages: "2025--2030"
+number: "8"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Kettner, Matthias and Maslyuk, Volodymyr V. and Nürenberg, Daniel and Seibel, Johannes and Gutierrez, Rafael and Cuniberti, Gianaurelio and Ernst, Karl-Heinz and Zacharias, Helmut"
+urldate: "2026-06-24"
+date: "2018-04-19"
+langid: "english"
+---

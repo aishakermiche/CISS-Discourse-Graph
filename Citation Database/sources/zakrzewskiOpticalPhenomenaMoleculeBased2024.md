@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zakrzewskiOpticalPhenomenaMoleculeBased2024"
+title: "Optical Phenomena in Molecule-Based Magnetic Materials"
+volume: "124"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "0009-2665, 1520-6890"
+url: "https://pubs.acs.org/doi/10.1021/acs.chemrev.3c00840"
+doi: "10.1021/acs.chemrev.3c00840"
+pages: "5930--6050"
+number: "9"
+journaltitle: "Chemical Reviews"
+shortjournal: "Chem. Rev."
+author: "Zakrzewski, Jakub J. and Liberka, Michal and Wang, Junhao and Chorazy, Szymon and Ohkoshi, Shin-ichi"
+urldate: "2026-06-24"
+date: "2024-05-08"
+langid: "english"
+---

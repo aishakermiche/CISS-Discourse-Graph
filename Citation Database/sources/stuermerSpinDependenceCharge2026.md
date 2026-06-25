@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "stuermerSpinDependenceCharge2026"
+title: "Spin dependence of charge dynamics and group velocity in chiral molecules"
+volume: "113"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/1g18-y6f1"
+doi: "10.1103/1g18-y6f1"
+pages: "235414"
+number: "23"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Stuermer, Riley and {VanEssen}, Collin and Byers, Jacob and Ferrer, Keith and Gudem, Prasad and Kienle, Diego and Fransson, Jonas and Vaidyanathan, Mani"
+urldate: "2026-06-24"
+date: "2026-06-10"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\K7EQYS5V\\Stuermer et al. - 2026 - Spin dependence of charge dynamics and group velocity in chiral molecules.pdf:application/pdf"
+---

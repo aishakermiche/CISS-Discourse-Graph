@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "dasSpinSelectiveAnisotropicMagnetoresistance2025"
+title: "Spin‐Selective Anisotropic Magnetoresistance Driven by Chirality in {DNA}"
+volume: "35"
+issn: "1616-301X, 1616-3028"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202425377"
+doi: "10.1002/adfm.202425377"
+abstract: "Abstract The magnetoresistance ({MR}) measurements of a ferromagnetic ({FM}) surface functionalized with 30 base‐pairs {DNA} molecules (30bp‐{dsDNA}) is measured both as a function of the angle between the surface normal and magnetization direction and as a function of temperature. In particular, the angular dependence {MR} follows a periodic pattern passing through zero for the in‐plane magnetization of the ferromagnetic surface, i.e., 90° to the minimum/maximum value of {MR} for the out‐of‐plane magnetization, i.e., 0°/180°. This is a clear‐cut demonstration of the spatial dependence (anisotropy) of the chiral‐induced spin ({CISS}) selectivity effect. Remarkably, the anisotropic nature of magnetoresistance in chiral molecular systems demonstrates their significant potential application in the field of organic spintronics, paving the way for innovative developments in spin‐based devices."
+pages: "2425377"
+number: "36"
+journaltitle: "Advanced Functional Materials"
+shortjournal: "Adv Funct Materials"
+author: "Das, Tapan Kumar and Preeyanka, Naupada and Mishra, Suryakant and Sang, Yutao and Fontanesi, Claudio"
+urldate: "2026-06-24"
+date: "2025-09"
+langid: "english"
+---

@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "luSpinLightemittingDiodes2026"
+title: "Spin light-emitting diodes"
+volume: "3"
+issn: "2948-1201"
+url: "https://www.nature.com/articles/s44287-026-00284-9"
+doi: "10.1038/s44287-026-00284-9"
+pages: "316--333"
+number: "5"
+journaltitle: "Nature Reviews Electrical Engineering"
+shortjournal: "Nat Rev Electr Eng"
+author: "Lu, Yuan and Renucci, Pierre and Marie, Xavier and Beard, Matthew C. and Gerhardt, Nils C. and Jaffrès, Henri and Žutić, Igor"
+urldate: "2026-06-24"
+date: "2026-05-08"
+langid: "english"
+---

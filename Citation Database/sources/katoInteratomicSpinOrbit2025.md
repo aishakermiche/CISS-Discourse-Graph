@@ -1,0 +1,15 @@
+---
+type: "article"
+citekey: "katoInteratomicSpinOrbit2025"
+title: "Inter-atomic spin–orbit interaction in a p-orbital helical atomic chain"
+issn: "1951-6355, 1951-6401"
+url: "https://link.springer.com/10.1140/epjs/s11734-025-02065-1"
+doi: "10.1140/epjs/s11734-025-02065-1"
+journaltitle: "The European Physical Journal Special Topics"
+shortjournal: "Eur. Phys. J. Spec. Top."
+author: "Kato, Takemitsu and Utsumi, Yasuhiro and Entin-Wohlman, Ora and Aharony, Amnon"
+urldate: "2026-06-24"
+date: "2025-11-26"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\PEUQXYE6\\Kato et al. - 2025 - Inter-atomic spin–orbit interaction in a p-orbital helical atomic chain.pdf:application/pdf"
+---

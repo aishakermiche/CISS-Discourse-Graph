@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mustaqeemMechanicallyTuneableCircularly2025"
+title: "Mechanically Tuneable Circularly Polarized Flexible Spin Light Emitting Diodes"
+volume: "13"
+issn: "2195-1071, 2195-1071"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202500060"
+doi: "10.1002/adom.202500060"
+abstract: "Abstract Flexible spintronics is a crucial emerging field in next‐generation wearable and innovative electronic technology. Traditionally, spintronics relies on external magnetic fields and ferromagnetic contacts to achieve spin‐polarized carriers. This makes it challenging to realize flexible spin devices due to the inherently bulky and rigid constituent materials. To overcome these drawbacks, a strategy is proposed for fabricating flexible spin light‐emitting diodes by integrating self‐assembled monolayer ({SAM}) of P3HT‐{COOH}, chiral metal–organic framework (Chiral‐{MOF}), quantum dots ({QDs}), and polyethylene terephthalate substrate. The chiral europium‐based {MOFs} employed as a spin‐injection layer via the chiral‐induced spin selectivity mechanism can effectively polarize the emitting light. The {SAM} (P3HT‐{COOH}) layer significantly enhances the device stability and light intensity compared to conventional {PEDOT}: {PSS} layer‐based devices, while the {QDs} layer serves as the bright emitter. This device achieves an estimated external quantum efficiency ({EQE}) with a polarization degree (P {CP}‐{EL} ) of ± 21.86\%. Furthermore, P {CP}‐{EL} changes (21.86, 20.34, 19.34, 17.45, 17.18, 14.99, 13.54) with stable emission under various bending radii. This approach enables circularly polarized luminescence ({CPL}) and a tuneable degree of polarization simultaneously, which is free from external magnetic fields or ferromagnetic contacts. The obtained result offers a promising alternative in the field of flexible spintronics and builds up an additional manner to manipulate the physical properties of spin devices."
+pages: "2500060"
+number: "15"
+journaltitle: "Advanced Optical Materials"
+shortjournal: "Advanced Optical Materials"
+author: "Mustaqeem, Mujahid and Jin, Zhi‐Bin and Tsai, Wei Cheng and Gondal, Mohammed Ashraf and Chou, Pi‐Tai and Wu, Ting‐Hsuan and Lin, Kung‐Hsuan and Zhang, Jian and Gu, Zhi‐Gang and Chen, Yang‐Fang"
+urldate: "2026-06-24"
+date: "2025-05"
+langid: "english"
+---

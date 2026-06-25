@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tehAntisymmetricBerryFrictional2021"
+title: "Antisymmetric Berry frictional force at equilibrium in the presence of spin-orbit coupling"
+volume: "104"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.104.L201409"
+doi: "10.1103/PhysRevB.104.L201409"
+pages: "L201409"
+number: "20"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Teh, Hung-Hsuan and Dou, Wenjie and Subotnik, Joseph E."
+urldate: "2026-06-25"
+date: "2021-11-22"
+langid: "english"
+file: "Preprint PDF:C\:\\Users\\19496\\Zotero\\storage\\VICG4DP3\\Teh et al. - 2021 - Antisymmetric Berry frictional force at equilibrium in the presence of spin-orbit coupling.pdf:application/pdf"
+---

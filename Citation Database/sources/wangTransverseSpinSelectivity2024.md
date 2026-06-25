@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "wangTransverseSpinSelectivity2024"
+title: "Transverse Spin Selectivity in Helical Nanofibers Prepared without Any Chiral Molecule"
+volume: "133"
+issn: "0031-9007, 1079-7114"
+url: "https://link.aps.org/doi/10.1103/PhysRevLett.133.108001"
+doi: "10.1103/PhysRevLett.133.108001"
+pages: "108001"
+number: "10"
+journaltitle: "Physical Review Letters"
+shortjournal: "Phys. Rev. Lett."
+author: "Wang, Chenchen and Liang, Zeng-Ren and Chen, Xiao-Feng and Guo, Ai-Min and Ji, Guanghao and Sun, Qing-Feng and Yan, Yong"
+urldate: "2026-06-24"
+date: "2024-09-04"
+langid: "english"
+---

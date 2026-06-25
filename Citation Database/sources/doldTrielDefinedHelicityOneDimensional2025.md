@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "doldTrielDefinedHelicityOneDimensional2025"
+title: "Triel-Defined Helicity in One-Dimensional {III}–{VI}–{VII} van der Waals Crystals"
+volume: "64"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0020-1669, 1520-510X"
+url: "https://pubs.acs.org/doi/10.1021/acs.inorgchem.5c01731"
+doi: "10.1021/acs.inorgchem.5c01731"
+pages: "15490--15501"
+number: "30"
+journaltitle: "Inorganic Chemistry"
+shortjournal: "Inorg. Chem."
+author: "Dold, Kaitlyn G. and Mesoza Cordova, Dmitri Leo and Huynh, Thanh N. and Milligan, Griffin M. and Teat, Simon J. and Arguilla, Maxx Q."
+urldate: "2026-06-24"
+date: "2025-08-04"
+langid: "english"
+---

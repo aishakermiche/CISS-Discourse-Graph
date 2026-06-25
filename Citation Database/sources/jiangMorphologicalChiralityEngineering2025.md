@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "jiangMorphologicalChiralityEngineering2025"
+title: "Morphological chirality engineering in achiral {CoNi}-{MOFs} enables {CISS}-driven spin-selective oxygen evolution"
+volume: "18"
+issn: "1998-0124, 1998-0000"
+url: "https://www.sciopen.com/article/10.26599/NR.2025.94907634"
+doi: "10.26599/NR.2025.94907634"
+pages: "94907634"
+number: "9"
+journaltitle: "Nano Research"
+author: "Jiang, Li and Zhang, Niuniu and Wang, Shasha and Zhang, Wenyu and Chen, Gaoyu and Liu, Ying and Yang, Huajun and Xu, Dongdong and Xu, Xiangxing"
+urldate: "2026-06-24"
+date: "2025-09"
+langid: "english"
+file: "Full Text PDF:C\:\\Users\\19496\\Zotero\\storage\\YKHE8F3R\\Jiang et al. - 2025 - Morphological chirality engineering in achiral CoNi-MOFs enables CISS-driven spin-selective oxygen e.pdf:application/pdf"
+---

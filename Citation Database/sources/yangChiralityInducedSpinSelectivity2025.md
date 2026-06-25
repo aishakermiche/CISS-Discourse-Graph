@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "yangChiralityInducedSpinSelectivity2025"
+title: "Chirality‐Induced Spin Selectivity of Photo‐Generated Electrons in Hybrid Organic–Inorganic Perovskites for Photocatalytic Hydrogen Evolution"
+volume: "21"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202503317"
+doi: "10.1002/smll.202503317"
+abstract: "Abstract Photocatalytic hydrogen evolution ({PHE}) is attractive for sustainable energy production, yet its efficiency lags photovoltaic conversion mainly due to the step of H‒H bonding for hydrogen generation on photocatalysts. Herein, the spin‐enhanced {PHE} using photocatalysts of chiral perovskites ({MBPI}) are reported, where the spin orientations of photocarriers are aligned antiparallelly for H‒H bonding via the chiral‐induced spin selectivity ({CISS}) effect. It is observed that the rac ‐{MBPI} shows a 3.5‐fold enhancement in {PHE} activity compared with R / S ‐{MBPI} under visible light illumination, which is related to the chiral distortions of octahedral units in perovskite structures. Structural distortions lead to the spin polarization of photogenerated carriers in chiral perovskites due to the {CISS} effect, as revealed by magneto‐photocurrent measurements. Compared with the parallel spins in R / S ‐{MBPI}, the antiparallel spins in rac ‐{MBPI} are more favorable for the coupling of H* radicals, as proven by the electron paramagnetic resonance experiments. The spin‐enhanced mechanism for {PHE} is universal for reduced dimensional (quasi‐2D) chiral perovskites, and the H 2 yield rate is optimized up to 0.61 mmol g −1 h −1 with an excellent stability over 100 hours."
+pages: "2503317"
+number: "35"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Yang, Yantao and Hao, Jinjie and Xie, Yangen and Yang, Zhengwei and Zhang, Yufan and Duan, Ran and Sheng, Hua and Yin, Baipeng and Zhang, Chuang"
+urldate: "2026-06-24"
+date: "2025-09"
+langid: "english"
+---

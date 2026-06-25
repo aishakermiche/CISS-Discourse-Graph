@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "wuMechanisticInsightsHole2025"
+title: "Mechanistic insights into hole spin dynamics in colloidal Ag+-doped {CdSe} nanosheets: Interplay between two counteracting surface effects"
+volume: "162"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/162/10/104702/3339584/Mechanistic-insights-into-hole-spin-dynamics-in"
+doi: "10.1063/5.0259383"
+shorttitle: "Mechanistic insights into hole spin dynamics in colloidal Ag+-doped {CdSe} nanosheets"
+abstract: "We present a mechanistic study of hole spin dynamics in colloidal cadmium selenide ({CdSe}) nanosheets, aiming to gain insights into the elusive interplay between two counteracting surface effects, i.e., hole-trapping interaction [between the valence-band heavy-hole ({HH}) state and its nearby localized surface trap ({LST}) state] vs spin-exchange interaction [between the {HH} spin state and the surface dangling-bond spin ({DBS}) state]. Differently from our previous work adopting a strategy of ligand engineering [see Wu et al., Adv. Opt. Mater. 12, 2400583 (2024)], we here implement an alternative strategy of element doping to regulate the {LST} and {DBS} states in the Ag+-doped {CdSe} nanosystem. It is observed that the hole spin-flip lifetime is shortened when the Ag+-doping level is elevated, demonstrating that the hole–{DBS} exchange interaction can effectively compete against the coexisting hole–{LST} trapping interaction, mainly due to the doping-induced increase in the density of the {DBS} state. Markedly, this observation is contrary to that in the ligand-engineering case, where the hole-trapping interaction plays a predominant role due to the strong ligand/{CdSe} orbital hybridization. This work elucidates the interplay between the two surface effects and enriches the understanding about the subtle {DBS}-related effect, providing valuable mechanistic information for rational design and optimization of spintronic applications based on colloidal nanostructures."
+pages: "104702"
+number: "10"
+journaltitle: "The Journal of Chemical Physics"
+author: "Wu, Qinglong and Jiang, Shenlong and Zhang, Qun"
+urldate: "2026-06-24"
+date: "2025-03-14"
+langid: "english"
+---

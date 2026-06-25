@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "danWhyMixedHalides2024"
+title: "Why Mixed Halides in 2D Chiral Perovskites Weaken Chirality-Induced Spin Selectivity"
+volume: "18"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.4c14328"
+doi: "10.1021/acsnano.4c14328"
+pages: "35644--35653"
+number: "52"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Dan, Soirik and Paramanik, Subham and Pal, Amlan J."
+urldate: "2026-06-24"
+date: "2024-12-31"
+langid: "english"
+---

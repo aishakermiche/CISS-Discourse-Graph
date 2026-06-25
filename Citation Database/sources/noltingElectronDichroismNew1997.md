@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "noltingElectronDichroismNew1997"
+title: "Electron dichroism - new data and an experimental cross-check"
+volume: "30"
+issn: "0953-4075, 1361-6455"
+url: "https://iopscience.iop.org/article/10.1088/0953-4075/30/23/014"
+doi: "10.1088/0953-4075/30/23/014"
+pages: "5491--5499"
+number: "23"
+journaltitle: "Journal of Physics B: Atomic, Molecular and Optical Physics"
+shortjournal: "J. Phys. B: At. Mol. Opt. Phys."
+author: "Nolting, C and Mayer, S and Kessler, J"
+urldate: "2026-06-24"
+date: "1997-12-14"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "hedegardChiralInducedSpinSelectivity2022"
+title: "Chiral-Induced Spin Selectivity in Capacitively Coupled Molecules"
+volume: "126"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1089-5639, 1520-5215"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpca.2c01156"
+doi: "10.1021/acs.jpca.2c01156"
+pages: "3157--3166"
+number: "20"
+journaltitle: "The Journal of Physical Chemistry A"
+shortjournal: "J. Phys. Chem. A"
+author: "Hedegård, Per"
+urldate: "2026-06-24"
+date: "2022-05-26"
+langid: "english"
+---

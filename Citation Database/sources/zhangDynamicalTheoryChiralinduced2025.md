@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "zhangDynamicalTheoryChiralinduced2025"
+title: "Dynamical theory of chiral-induced spin selectivity in electron donor–chiral molecule–acceptor systems"
+volume: "111"
+issn: "2469-9950, 2469-9969"
+url: "https://link.aps.org/doi/10.1103/PhysRevB.111.205417"
+doi: "10.1103/PhysRevB.111.205417"
+pages: "205417"
+number: "20"
+journaltitle: "Physical Review B"
+shortjournal: "Phys. Rev. B"
+author: "Zhang, Tian-Yi and Mao, Yue and Guo, Ai-Min and Sun, Qing-Feng"
+urldate: "2026-06-24"
+date: "2025-05-14"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\4A4LGWC9\\Zhang et al. - 2025 - Dynamical theory of chiral-induced spin selectivity in electron donor–chiral molecule–acceptor syste.pdf:application/pdf"
+---

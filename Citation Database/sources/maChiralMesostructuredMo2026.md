@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "maChiralMesostructuredMo2026"
+title: "Chiral Mesostructured Mo Doped Bi$_{\textrm{2}}$ {WO}$_{\textrm{6}}$ Drives Photocatalytic Urea Synthesis From N$_{\textrm{2}}$ and {CO}$_{\textrm{2}}$"
+volume: "138"
+issn: "0044-8249, 1521-3757"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/ange.202525892"
+doi: "10.1002/ange.202525892"
+abstract: "{ABSTRACT} Direct synthesis of urea through photocatalytic N 2 and {CO} 2 reduction ({PNCR}) offers a sustainable approach to mitigate {CO} 2 emissions and reduce energy consumption from urea production for industry and agriculture. However, achieving high yield of urea is limited by the high energy barrier for co‐reduction of N 2 and {CO} 2 with subsequent C–N coupling. Herein, we propose that the spin polarization of chiral mesostructured Mo doped Bi 2 {WO} 6 ({CMMB}) can facilitate the formation of triplet 3 {NOH} by regulating the parallel electron spin alignment and promote the separation and transfer of photogenerated carriers, leading to enhanced C–N formation. The incorporation of Mo sites into Bi 2 {WO} 6 promotes the adsorption and activation of N 2 . A state‐of‐the‐art urea yield was achieved without additives via {PNCR} on {CMMB}, surpassing the best‐reported inorganic catalyst by a significant margin. This study provides an effective strategy for designing catalyst structures for the green synthesis of organonitrogen compounds."
+pages: "e25892"
+number: "15"
+journaltitle: "Angewandte Chemie"
+shortjournal: "Angewandte Chemie"
+author: "Ma, Jiamin and Gao, Yang and Zhang, Wanning and Han, Lu and Che, Shunai and Fang, Yuxi"
+urldate: "2026-06-24"
+date: "2026-04-06"
+langid: "english"
+---

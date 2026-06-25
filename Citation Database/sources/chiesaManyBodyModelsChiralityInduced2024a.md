@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chiesaManyBodyModelsChiralityInduced2024a"
+title: "Many-Body Models for Chirality-Induced Spin Selectivity in Electron Transfer"
+volume: "24"
+rights: "https://creativecommons.org/licenses/by/4.0/"
+issn: "1530-6984, 1530-6992"
+url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.4c02912"
+doi: "10.1021/acs.nanolett.4c02912"
+pages: "12133--12139"
+number: "39"
+journaltitle: "Nano Letters"
+shortjournal: "Nano Lett."
+author: "Chiesa, Alessandro and Garlatti, Elena and Mezzadri, Matteo and Celada, Leonardo and Sessoli, Roberta and Wasielewski, Michael R. and Bittl, Robert and Santini, Paolo and Carretta, Stefano"
+urldate: "2026-06-25"
+date: "2024-10-02"
+langid: "english"
+---

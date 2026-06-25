@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "juraschekChiralPhonons2025"
+title: "Chiral phonons"
+volume: "21"
+issn: "1745-2473, 1745-2481"
+url: "https://www.nature.com/articles/s41567-025-03001-9"
+doi: "10.1038/s41567-025-03001-9"
+pages: "1532--1540"
+number: "10"
+journaltitle: "Nature Physics"
+shortjournal: "Nat. Phys."
+author: "Juraschek, Dominik M. and Geilhufe, R. Matthias and Zhu, Hanyu and Basini, Martina and Baum, Peter and Baydin, Andrey and Chaudhary, Swati and Fechner, Michael and Flebus, Benedetta and Grissonnanche, Gael and Kirilyuk, Andrei I. and Lemeshko, Mikhail and Maehrlein, Sebastian F. and Mignolet, Maxime and Murakami, Shuichi and Niu, Qian and Nowak, Ulrich and Romao, Carl P. and Rostami, Habib and Satoh, Takuya and Spaldin, Nicola A. and Ueda, Hiroki and Zhang, Lifa"
+urldate: "2026-06-24"
+date: "2025-10"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\9PDEZJRG\\Juraschek et al. - 2025 - Chiral phonons.pdf:application/pdf"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kimSpinPolarizationPorous2026"
+title: "A spin polarization porous transport layer for anion exchange membrane water electrolyzers with a current density of 11.5 A cm$^{\textrm{−2}}$"
+volume: "10"
+issn: "2398-4902"
+url: "https://xlink.rsc.org/?DOI=D5SE01313E"
+doi: "10.1039/D5SE01313E"
+abstract: "Alkaline anion exchange membrane water electrolyzers ({AEMWEs}) are a promising technology for hydrogen production from renewable energy sources. , Alkaline anion exchange membrane water electrolyzers ({AEMWEs}) are a promising technology for hydrogen production from renewable energy sources. However, their performance is far lower than that of proton exchange membrane water electrolyzers and traditional alkaline water electrolyzers. Here, we demonstrate that chiral catalysts embedded in the porous transport layer ({PTL}) can enhance {AEMWE} performance. The chiral {CoO} x -based {PTL} achieves a current density of 8.21 A cm −2 at 2.0 V in {AEMWEs}, which is higher than that of the achiral meso -{CoO} x -{PTL} (5.42 A cm −2 ). The chiral {CoO} x -{PTL} provides additional active sites and facilitates interfacial charge transfer between the catalyst and electrolyte, thereby increasing the current density during electrocatalysis. Electrochemical analysis and measurement of H 2 O 2 byproduct concentration confirmed that the chiral {CoO} x -{PTL} suppresses H 2 O 2 formation even after surface reconstruction, supporting the persistence of the spin polarization. Extending this strategy to bimetallic systems, the chiral {NiFe}-based {PTL} achieves a remarkable current density of 11.5 A cm −2 at 2.0 V and exceptional operational stability, maintaining 1 A cm −2 for over 1000 hours in 1 M {KOH}. These results demonstrate the potential of spin-engineered catalysts for advancing {AEMWEs} toward industrial-scale hydrogen production."
+pages: "304--310"
+number: "1"
+journaltitle: "Sustainable Energy \& Fuels"
+shortjournal: "Sustainable Energy Fuels"
+author: "Kim, Tae Hyung and Hu, Chuan and Cho, Hyeon Keun and Jae, Seung Hyun and Lee, Sujin and Yeom, Bongjun and Lee, Young Moo and Kim, Young-Hoon"
+urldate: "2026-06-24"
+date: "2026"
+langid: "english"
+---

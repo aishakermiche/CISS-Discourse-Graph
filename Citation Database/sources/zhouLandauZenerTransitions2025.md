@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "zhouLandauZenerTransitions2025"
+title: "Landau–Zener transitions with spin flipping in chiral structures"
+volume: "162"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/162/20/204303/3347486/Landau-Zener-transitions-with-spin-flipping-in"
+doi: "10.1063/5.0262656"
+abstract: "We study Landau–Zener transitions with the spin flipping of electron states in donor–chiral bridge–acceptor structures due to electron spin coupling with the strain tensor induced by the anisotropic phonon field of the chiral bridge molecule, where the transition rates near conical intersections between two potential energy surfaces for the right-handed and left-handed bridge structures are calculated. We find that the flipping rates sensitively depend on the handedness of the bridge molecules and could be significantly enhanced with the increasing of phonon wave vectors, displaying the crucial rules of the electron–phonon coupling for the spin selectivity effect in chiral structures. These results not only shed light on the microscopic mechanisms of chirality–induced spin selectivity but also enlighten the role of spin selectivity in electron transfer in chemical and biological systems."
+pages: "204303"
+number: "20"
+journaltitle: "The Journal of Chemical Physics"
+author: "Zhou, Bo-Chen and Yang, Ran-Bo and Cai, Chun-Yu and Wang, Yue-Wen and Li, Zhi-Qing and Wang, Zi-Wu"
+urldate: "2026-06-24"
+date: "2025-05-28"
+langid: "english"
+---

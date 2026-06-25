@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "mikiDiracBilinearsjlPackageComputing2025"
+title: "{DiracBilinears}.jl: A package for computing Dirac bilinears in solids"
+volume: "317"
+issn: "00104655"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S0010465525003595"
+doi: "10.1016/j.cpc.2025.109857"
+shorttitle: "{DiracBilinears}.jl"
+pages: "109857"
+journaltitle: "Computer Physics Communications"
+shortjournal: "Computer Physics Communications"
+author: "Miki, Tatsuya and Chen, Hsiao-Yi and Koretsune, Takashi and Nomura, Yusuke"
+urldate: "2026-06-24"
+date: "2025-12"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\BYZ3N3FK\\Miki et al. - 2025 - DiracBilinears.jl A package for computing Dirac bilinears in solids.pdf:application/pdf"
+---

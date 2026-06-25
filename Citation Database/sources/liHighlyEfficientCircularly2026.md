@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "liHighlyEfficientCircularly2026"
+title: "Highly Efficient Circularly Polarized Electroluminescence Based on a Thermally Activated Delayed Fluorescence Mechanism"
+volume: "59"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "0001-4842, 1520-4898"
+url: "https://pubs.acs.org/doi/10.1021/acs.accounts.5c00703"
+doi: "10.1021/acs.accounts.5c00703"
+pages: "165--178"
+number: "1"
+journaltitle: "Accounts of Chemical Research"
+shortjournal: "Acc. Chem. Res."
+author: "Li, Meng and Chen, Chuan-Feng"
+urldate: "2026-06-24"
+date: "2026-01-06"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "jiFirstSecondOrderTopological2025"
+title: "First- and Second-Order Topological States in Two-Dimensional Noncovalent Molecular Chiral Crystals"
+volume: "16"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c00960"
+doi: "10.1021/acs.jpclett.5c00960"
+pages: "5003--5011"
+number: "20"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Ji, Hongyan and Zhou, Hui and Liu, Meng and Guo, Jingda and Meng, Sheng and Sun, Jia-Tao"
+urldate: "2026-06-24"
+date: "2025-05-22"
+langid: "english"
+---

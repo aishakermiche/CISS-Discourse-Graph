@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "nakkaElectronSpinPolarization2024"
+title: "Electron Spin Polarization and Memory Effect in Supramolecular Gel Exclusively From Achiral Building Blocks"
+volume: "20"
+issn: "1613-6810, 1613-6829"
+url: "https://onlinelibrary.wiley.com/doi/10.1002/smll.202405691"
+doi: "10.1002/smll.202405691"
+abstract: "Abstract Chirality has been identified as a crucial component in achieving high spin selectivity in organic polymers and π‐conjugated molecules. In particular, chiral polymers and supramolecular structures have emerged as promising candidates for spin filtering due to the chirality‐induced spin selectivity ({CISS}) effect. However, the {CISS} effect in supramolecular systems has not been extensively investigated, despite its potential for applications in spintronics. In this work, for the first time, the potential applications of the {CISS} effect in supramolecular gel materials and shed light on its untapped possibilities have been successfully explored. The ability of supramolecular gel exclusively made from achiral building blocks to selectively filter electron's spin through the symmetry breaking has been demonstrated. Furthermore, this study shows that their spin filtering efficacy can be improved by using chiral solvents. More importantly, the {CISS} effect has been employed to explore a novel phenomenon referred to as the “spin memory effect”, where the desired spin information is preserved by retaining the helicity even in the absence of the chiral solvent. These findings underscore the immense potential for spintronics applications that rely solely on achiral components, thereby paving the way for new possibilities in device design and functionality."
+pages: "2405691"
+number: "51"
+journaltitle: "Small"
+shortjournal: "Small"
+author: "Nakka, Nagaraju and Garg, Rabia and Bisht, Pravesh Singh and Mondal, Amit Kumar"
+urldate: "2026-06-24"
+date: "2024-12"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "leskoProbingBrokenTimeReversal2026"
+title: "Probing Broken Time-Reversal Symmetry in 2D Materials with Tailored-Light Photocurrent Generation"
+volume: "20"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.5c17857"
+doi: "10.1021/acsnano.5c17857"
+pages: "11614--11623"
+number: "15"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Lesko, Daniel M. B. and Weitz, Tobias and Wittigschlager, Simon and Nöcker, Selina and Li, Weizhe and Hommelhoff, Peter and Neufeld, Ofer"
+urldate: "2026-06-24"
+date: "2026-04-21"
+langid: "english"
+---

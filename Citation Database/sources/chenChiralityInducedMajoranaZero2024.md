@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "chenChiralityInducedMajoranaZero2024"
+title: "Chirality-Induced Majorana Zero Modes and Majorana Polarization"
+volume: "18"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1936-0851, 1936-086X"
+url: "https://pubs.acs.org/doi/10.1021/acsnano.4c10395"
+doi: "10.1021/acsnano.4c10395"
+pages: "34126--34133"
+number: "50"
+journaltitle: "{ACS} Nano"
+shortjournal: "{ACS} Nano"
+author: "Chen, Song and Fu, Hua-Hua"
+urldate: "2026-06-24"
+date: "2024-12-17"
+langid: "english"
+---

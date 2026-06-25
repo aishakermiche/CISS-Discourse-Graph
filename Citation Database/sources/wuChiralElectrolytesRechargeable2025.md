@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "wuChiralElectrolytesRechargeable2025"
+title: "Chiral electrolytes for rechargeable metal batteries"
+volume: "102"
+issn: "20954956"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S2095495624008155"
+doi: "10.1016/j.jechem.2024.11.041"
+pages: "834--841"
+journaltitle: "Journal of Energy Chemistry"
+shortjournal: "Journal of Energy Chemistry"
+author: "Wu, Lan-Qing and Ning, Yu-Jie and Fan, Zhen-Yu and Li, Zhe and Li, Kun and Li, Jia and Ren, Shuang-Xin and Huang, Dubin and Yang, Yang and Xie, Weiwei and Wang, Huan and Zhao, Qing"
+urldate: "2026-06-24"
+date: "2025-03"
+langid: "english"
+---

@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "kimChiralAcousticPhonon2026"
+title: "Chiral Acoustic Phonon and Conservation of Pseudoangular Momentum in α‐Quartz"
+volume: "38"
+issn: "0935-9648, 1521-4095"
+url: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202511289"
+doi: "10.1002/adma.202511289"
+abstract: "Abstract While the linear motion of phonons is widely understood as arising from the translational symmetry of crystal lattices, recent studies have revealed the intrinsic rotational motion of phonons in condensed matter with discrete rotational symmetry. These phonons, termed chiral phonons, carry angular momentum associated with the rotational motion of atomic masses, as well as pseudoangular momentum arising from the phase winding of their circular motion. Chiral phonons give rise to novel physical phenomena such as Weyl phonons, valleytronics, and current‐induced spin selectivity. Furthermore, since acoustic phonons are the primary carriers of heat, chiral acoustic phonons are expected to play a significant role in spin caloritronics. However, the existence of chiral acoustic phonons has not yet been demonstrated, in contrast to the chiral optical phonons. In this study, the detection of chiral acoustic phonons is reported using Brillouin light scattering. It is found that the conservation of pseudoangular momentum, which governs the helicity‐dependent selection rules in photon–phonon interactions, manifests clearly for chiral acoustic phonons. By probing the previously uncharted low‐wavenumber, low‐frequency regime of chiral phonon dispersion, the findings expand the understanding of phonon chirality and its potential implications."
+pages: "e11289"
+number: "16"
+journaltitle: "Advanced Materials"
+shortjournal: "Advanced Materials"
+author: "Kim, Changsoo and Hwang, In‐Kook and Moon, Kyoung‐Woong and An, Kyongmo and Lee, Kyung‐Jin and Ko, Jae‐Hyeon and Park, Byong‐Guk and Choi, Kwang‐Yong and Hwang, Chanyong"
+urldate: "2026-06-24"
+date: "2026-03"
+langid: "english"
+---

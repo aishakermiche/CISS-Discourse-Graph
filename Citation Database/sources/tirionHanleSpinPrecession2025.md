@@ -1,0 +1,17 @@
+---
+type: "article"
+citekey: "tirionHanleSpinPrecession2025"
+title: "Hanle spin precession induced inverted magnetoresistance in chiral/semiconductor systems"
+volume: "126"
+issn: "0003-6951, 1077-3118"
+url: "https://pubs.aip.org/apl/article/126/3/032402/3332104/Hanle-spin-precession-induced-inverted"
+doi: "10.1063/5.0254772"
+abstract: "In the past decade, chiral materials have drawn significant attention because it is widely claimed that they can act as spin injectors/detectors due to the chirality-induced spin selectivity effect. Nevertheless, the microscopic origin of this effect is not understood, which generates the need for transport experiments that confirm the spin-dependent transport in chiral materials. Hanle spin precession measurements can unambiguously prove the injection and detection of a spin accumulation in a non-magnetic material, as was shown with traditional ferromagnetic injectors/detectors. Here, we model and analyze in detail the Hanle spin precession-induced magnetoresistance for chiral/semiconductor systems and find that the signal is inverted as compared to the ferromagnetic case. We explicitly model the spin injection and detection by both a chiral system and a ferromagnetic system, as well as the spin transport in a semiconductor, for a general set of (spin) transport parameters that cover the relevant experimental regime. For all sets of parameters, we find that the Hanle signals for a chiral system and ferromagnet are each other's opposites. We also discuss the implications for four terminal nonlocal spin transport experiments with separate chiral spin injector and detectors."
+pages: "032402"
+number: "3"
+journaltitle: "Applied Physics Letters"
+author: "Tirion, S. H. and Van Wees, B. J."
+urldate: "2026-06-24"
+date: "2025-01-20"
+langid: "english"
+---

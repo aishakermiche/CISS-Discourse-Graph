@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "piquero-zulaicaAchiralElectronicStructure2025"
+title: "Achiral Electronic Structure Landscapes in Organizationally Chiral Square Nanoporous Networks"
+volume: "16"
+rights: "https://doi.org/10.15223/policy-029"
+issn: "1948-7185, 1948-7185"
+url: "https://pubs.acs.org/doi/10.1021/acs.jpclett.5c01385"
+doi: "10.1021/acs.jpclett.5c01385"
+pages: "6809--6816"
+number: "26"
+journaltitle: "The Journal of Physical Chemistry Letters"
+shortjournal: "J. Phys. Chem. Lett."
+author: "Piquero-Zulaica, Ignacio and Scharfe, Timo and Corral-Rascón, Eduardo and Riss, Alexander and Corso, Martina and Schiller, Frederik and Ortega, Jose E and Klyatskaya, Svetlana and Ruben, Mario and Björk, Jonas and Barth, Johannes V"
+urldate: "2026-06-24"
+date: "2025-07-03"
+langid: "english"
+---

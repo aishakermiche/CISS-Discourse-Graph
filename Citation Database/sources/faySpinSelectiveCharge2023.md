@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "faySpinSelectiveCharge2023"
+title: "Spin selective charge recombination in chiral donor–bridge–acceptor triads"
+volume: "158"
+issn: "0021-9606, 1089-7690"
+url: "https://pubs.aip.org/jcp/article/158/19/194101/2890465/Spin-selective-charge-recombination-in-chiral"
+doi: "10.1063/5.0150269"
+abstract: "In this paper, we outline a physically motivated framework for describing spin-selective recombination processes in chiral systems, from which we derive spin-selective reaction operators for recombination reactions of donor–bridge–acceptor molecules, where the electron transfer is mediated by chirality and spin–orbit coupling. In general, the recombination process is selective only for spin-coherence between singlet and triplet states, and it is not, in general, selective for spin polarization. We find that spin polarization selectivity only arises in hopping-mediated electron transfer. We describe how this effective spin-polarization selectivity is a consequence of spin-polarization generated transiently in the intermediate state. The recombination process also augments the coherent spin dynamics of the charge separated state, which is found to have a significant effect on the recombination dynamics and to destroy any long-lived spin polarization. Although we only consider a simple donor–bridge–acceptor system, the framework we present here can be straightforwardly extended to describe spin-selective recombination processes in more complex systems."
+pages: "194101"
+number: "19"
+journaltitle: "The Journal of Chemical Physics"
+author: "Fay, Thomas P. and Limmer, David T."
+urldate: "2026-06-24"
+date: "2023-05-21"
+langid: "english"
+file: "Submitted Version:C\:\\Users\\19496\\Zotero\\storage\\9LP6KRGM\\Fay and Limmer - 2023 - Spin selective charge recombination in chiral donor–bridge–acceptor triads.pdf:application/pdf"
+---

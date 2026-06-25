@@ -1,0 +1,18 @@
+---
+type: "article"
+citekey: "tianChiralinducedSpinSelectivity2026"
+title: "Chiral-induced spin selectivity effect in chiral nanomaterials: principle, characterization and prospects"
+volume: "69"
+issn: "1674-7291, 1869-1870"
+url: "https://link.springer.com/10.1007/s11426-025-2945-6"
+doi: "10.1007/s11426-025-2945-6"
+shorttitle: "Chiral-induced spin selectivity effect in chiral nanomaterials"
+pages: "45--72"
+number: "1"
+journaltitle: "Science China Chemistry"
+shortjournal: "Sci. China Chem."
+author: "Tian, Rui and Li, Ying and Zhou, Baowen and Yao, Lin"
+urldate: "2026-06-24"
+date: "2026-01"
+langid: "english"
+---

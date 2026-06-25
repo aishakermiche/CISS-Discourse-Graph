@@ -1,0 +1,16 @@
+---
+type: "article"
+citekey: "abbasRoomTemperatureSpin2025"
+title: "Room temperature spin light-emitting diode based on chiral 2D superlattice"
+volume: "90"
+issn: "13697021"
+url: "https://linkinghub.elsevier.com/retrieve/pii/S1369702125004201"
+doi: "10.1016/j.mattod.2025.09.027"
+pages: "285--296"
+journaltitle: "Materials Today"
+shortjournal: "Materials Today"
+author: "Abbas, Aumber and Mustaqeem, Mujahid and Kazmi, Jamal and Hassan, Ali and Zahra, Taskeen and Iqbal, Muhammad Ahsan and Gondal, Mohammed Ashraf and Ou, Junfei and Abdi-Jalebi, Mojtaba"
+urldate: "2026-06-24"
+date: "2025-11"
+langid: "english"
+---
